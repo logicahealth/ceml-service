@@ -1,0 +1,6 @@
+cem AcidPhosphataseProstaticMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AcidPhosphataseProstaticMCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

@@ -1,0 +1,2 @@
+PutOnHold is the child model of Attribution model. It holds information such as who put it on hold, when, where and why.
+

@@ -1,0 +1,6 @@
+cem EpsteinBarrVirusNuclearAbIggAcncPtSerOrdEiaLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EpsteinBarrVirusNuclearAbIggAcncPtSerOrdEia_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	PosNegEquiIndet_VSET

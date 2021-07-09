@@ -1,0 +1,6 @@
+cem AlphaMinus2MinusRetinolBindingProteinMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlphaMinus2MinusRetinolBindingProteinMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

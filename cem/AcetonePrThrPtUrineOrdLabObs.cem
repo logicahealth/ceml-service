@@ -1,0 +1,4 @@
+cem AcetonePrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AcetonePrThrPtUrineOrd_CODE

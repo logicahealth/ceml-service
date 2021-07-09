@@ -1,0 +1,6 @@
+cem AcidcitratedextroseVolPtBPUQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AcidcitratedextroseVolPtBPUQn_CODE
+	constraint		data.quantity.unit_code
+			value		CubicCentimeter_CODE

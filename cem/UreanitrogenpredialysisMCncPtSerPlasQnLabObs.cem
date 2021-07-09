@@ -1,0 +1,6 @@
+cem UreanitrogenpredialysisMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			UreanitrogenpredialysisMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		MilligramsPerDeciliter_CODE

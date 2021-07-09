@@ -1,0 +1,6 @@
+cem CyclosporineMCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CyclosporineMCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

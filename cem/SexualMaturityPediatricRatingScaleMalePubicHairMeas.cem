@@ -1,0 +1,7 @@
+cem SexualMaturityPediatricRatingScaleMalePubicHairMeas
+	kind	statement
+	base	StatementBase
+	key			SexualMaturityPediatricRatingScaleMalePubicHair_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.valueset
+		value	SexualMaturityPediatricRatingScaleMalePubicHair_VSET

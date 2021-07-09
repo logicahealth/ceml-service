@@ -1,0 +1,66 @@
+fhir resource Patient
+	property base.definition = "http://hl7.org/fhir/us/core/StructureDefinition/us-core-patient"
+	map 	key to Observation.name
+	map personName to Patient.name
+//	map	familyName to Patient.name.family
+//	map givenName to Patient.name.given
+//	map personName.middleName to Patient.name.given
+//	map	PersonName.PrefixName to Patient.name.prefix
+//	map	PersonName.SuffixName to Patient.name.suffix
+//	map PersonName.PersonNameUse to Patient.name.use
+	bind PersonNameUse_VALUESET_CODE to "http://fhir.org/guides/hspc/ValueSet/patient-PersonNameUse"
+		description "The set of values that describe the usage of a name."
+//	map PersonName.StartTime to Patient.name.period.start
+//	map PersonName.EndTime to Patient.name.period.end
+	map birthDate to Patient.birthDate
+//	map Verified extension "http://fhir.org/guides/hspc/StructureDefinition/extensions-birthDateVerificationMethod"
+	bind BirthDateVerificationMethod_VALUESET_CODE to "http://fhir.org/guides/hspc/ValueSet/hspc-bdverifiedmethod"
+		description "The set of values that describe the means of verifying a date of birth."
+//	map	AdministrativeGender to Patient.us-core-birthsex
+	map deceasedDate to Patient.deceasedDateTime
+	map address to Patient.address
+//	map	addressUse to Patient.address.use
+//	map	addressText to Patient.address.text
+//	map addressLine to Patient.address.line
+//	map City to Patient.address.city
+//	map State to Patient.address.state
+//	map PostalCode to Patient.address.postalCode
+//	map Country to Patient.address.country
+//	map period to Patient.address.period
+//	map PrimaryInd extension "http://fhir.org/guides/hspc/StructureDefinition/extensions-primaryIndicator"
+	bind YesNo_VALUESET_CODE to "http://fhir.org/guides/hspc/ValueSet/yesNo"
+//	map addressType to Patient.address.type
+	map telecom to Patient.telecom
+//	map Telecom.data.value to Patient.telecom.value
+//	map telecom.System to Patient.telecom.system
+//	map telecom.Use to Patient.telecom.use
+//	map Telecom.Period to Patient.telecom.period
+//	map PreferenceInd extension "http://fhir.org/guides/hspc/StructureDefinition/extensions-preferenceIndicator"
+	slice contact Patient.contact
+	map emergencyContact slice to contact contact.name
+//	map EmergencyContact.PersonName slice Patient.contact.name
+//	map EmergencyContact.Address slice to Patient.contact.address
+//	map EmergencyContact.Telecom slice to Patient.contact.telecom
+//	map EmergencyContact.ContactPartyId extension ""
+	map languageCommunication to Patient.communication
+//	map LanguageCommunication.data to Patient.communication.value
+	bind Language_VALUESET_CODE to "http://fhir.org/guides/hspc/ValueSet/patient-language"
+		description "The set of values that represent human languages."
+//	map LanguageCommunication.CommunicationMode extension "http://fhir.org/guides/hspc/StructureDefinition/hspc-genencounter-CommunicationMode"
+	bind CommunicationMode_VALUESET_CODE to "http://fhir.org/guides/hspc/ValueSet/patient-communicationMode"
+		description "The set of codes that describe how an idividual communicates."
+//	map LanguageCommunication.PreferenceInd to Patient.communication.preferred
+	map patientExternalId to Patient.identifier.value
+	map	birthPlace to Patient.birthPlace
+	map multipleBirthInd to Patient.multipleBirthBoolean
+	map multipleBirthOrderNumber to Patient.multipleBirthInteger
+//	map AdministrativeRace to Patient.us-core-race
+	bind Race_VALUESET_CODE to "http://fhir.org/guides/hspc/ValueSet/race"
+		description "The set of codes that identify and individual's race."
+//	map AdministrativeEthnicGroup to Patient.us-core-ethnicity
+	bind EthnicGroup_VALUESET_CODE to "http://fhir.org/guides/hspc/ValueSet/ethnicity"
+		description "The set of codes that describe an individual's ethnicity."
+	map administrativeMaritalStatus to Patient.maritalStatus
+	bind MaritalStatus_VALUESET_CODE to "http://fhir.org/guides/hspc/ValueSet/patient-maritalStatus"
+		description "The set of values that describe one's current status of marriage."
+	

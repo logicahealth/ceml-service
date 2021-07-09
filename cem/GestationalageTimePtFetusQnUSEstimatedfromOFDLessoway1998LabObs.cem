@@ -1,0 +1,6 @@
+cem GestationalageTimePtFetusQnUSEstimatedfromOFDLessoway1998LabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GestationalageTimePtFetusQnUSEstimatedfromOFDLessoway1998_CODE
+	constraint		data.quantity.unit_code
+			value		Days_CODE

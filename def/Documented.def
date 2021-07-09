@@ -1,0 +1,3 @@
+Documented is the act of recording that an act or procedure was performed.
+Documented is a child model of the Attribution model. It holds the who, when, where, and why information
+of the documentation.

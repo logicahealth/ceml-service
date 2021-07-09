@@ -1,0 +1,6 @@
+cem CellsMyeloperoxidase100CellsWholeBloodQuantitativeLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CellsMyeloperoxidase100CellsWholeBloodQuantitative_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

@@ -1,0 +1,6 @@
+cem NMRLipidProfileInslulinResistanceScoreQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NMRLipidProfileInslulinResistanceScoreQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnityUnitsOfMeasure_CODE

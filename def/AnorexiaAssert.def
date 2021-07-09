@@ -1,0 +1,6 @@
+AnorexiaAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being 
+asserted.  For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the AnorexiaAssert model, data is  Anorexia_ECID which indicates the subject has an abnormal lack of or loss of appetite along with an 
+aversion to food. AnorexiaAssert is used to indicate that a patient has no desire to eat. This is not used for the disease anorexia nervosa, 
+but for anorexia associated with other disease processes such as loss of appetite due to chemotherapy.
+

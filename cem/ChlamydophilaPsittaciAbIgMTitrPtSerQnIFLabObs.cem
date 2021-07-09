@@ -1,0 +1,5 @@
+cem ChlamydophilaPsittaciAbIgMTitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChlamydophilaPsittaciAbIgMTitrPtSerQnIF_CODE
+	

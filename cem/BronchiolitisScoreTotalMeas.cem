@@ -1,0 +1,5 @@
+cem BronchiolitisScoreTotalMeas
+	kind	statement
+	base	StatementBase
+	key			BronchiolitisScoreTotal_CODE
+	data		Quantity

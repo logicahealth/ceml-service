@@ -1,0 +1,4 @@
+cem SpecimenId
+	kind	component
+	key     SpecimenId_CODE
+	data	Identifier

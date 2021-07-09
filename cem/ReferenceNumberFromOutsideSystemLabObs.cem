@@ -1,0 +1,4 @@
+cem ReferenceNumberFromOutsideSystemLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ReferenceNumberFromOutsideSystem_CODE

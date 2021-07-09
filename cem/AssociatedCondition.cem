@@ -1,0 +1,12 @@
+cem AssociatedCondition
+	kind    	component
+	key         AssociatedCondition_CODE
+    data        CodeableConcept
+    qual        AssociatedConditionType
+        id      associatedConditionType
+        card    0-1
+    qual        Aggregate
+        id      aggregate
+        card    0-1
+    constraint  data.codeableConcept.valueset
+        value   AssociatedCondition_VSET

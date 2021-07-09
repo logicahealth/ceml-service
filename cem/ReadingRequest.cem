@@ -1,0 +1,6 @@
+cem ReadingRequest
+	kind		component
+	key			ReadingRequest_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE

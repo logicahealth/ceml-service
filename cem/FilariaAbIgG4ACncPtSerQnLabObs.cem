@@ -1,0 +1,5 @@
+cem FilariaAbIgG4ACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FilariaAbIgG4ACncPtSerQn_CODE
+	

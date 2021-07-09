@@ -1,0 +1,6 @@
+cem FraxinusAmericanaAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FraxinusAmericanaAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	KilounitsPerLiter_CODE

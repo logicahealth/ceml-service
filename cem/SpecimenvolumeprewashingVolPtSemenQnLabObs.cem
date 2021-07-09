@@ -1,0 +1,6 @@
+cem SpecimenvolumeprewashingVolPtSemenQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SpecimenvolumeprewashingVolPtSemenQn_CODE
+	constraint		data.quantity.unit_code
+			value		CubicCentimeter_CODE

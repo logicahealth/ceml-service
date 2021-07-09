@@ -1,0 +1,5 @@
+cem AspergillusSpAbTitrPtSerQnCompFixLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AspergillusSpAbTitrPtSerQnCompFix_CODE
+	

@@ -1,0 +1,7 @@
+cem MedicationStatementLink
+	kind    	link
+	key         MedicationStatementLink_CODE
+    data        Identifier
+    constraint  data.identifier.key
+        value   MedicationStatement_CODE
+

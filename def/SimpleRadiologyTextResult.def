@@ -1,0 +1,3 @@
+SimpleRadiologyText is the a model used to store the entire text of a document when the sections of a radiology text are not needed or discernable.
+Used when the RadiologyReport model is too complicated for current demands.
+

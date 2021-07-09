@@ -1,0 +1,4 @@
+cem HomovanillicAcidInterpretationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HomovanillicAcidInterpretation_CODE

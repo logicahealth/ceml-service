@@ -1,0 +1,15 @@
+cem CardiacEctopyPatternEval
+	kind	statement
+	base	PhysicalObs
+	key     CardiacEctopyPattern_CODE
+	data	CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	CardiacEctopyPattern_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	MonitoredCardiacRhythmDevice_VSET
+    constraint  method.card
+        value   0
+    constraint  bodyLocation.card
+        value   0

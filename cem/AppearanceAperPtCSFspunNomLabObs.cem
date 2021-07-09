@@ -1,0 +1,4 @@
+cem AppearanceAperPtCSFspunNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			AppearanceAperPtCSFspunNom_CODE

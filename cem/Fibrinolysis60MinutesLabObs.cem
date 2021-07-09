@@ -1,0 +1,6 @@
+cem Fibrinolysis60MinutesLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Fibrinolysis60Minutes_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

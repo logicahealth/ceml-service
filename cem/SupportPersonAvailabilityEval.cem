@@ -1,0 +1,10 @@
+
+cem SupportPersonAvailabilityEval
+    kind        statement
+    base       	StatementBase
+    key         SupportPersonAvailablity_CODE
+    data        CodeableConcept
+    constraint	data.codeableConcept.valueset
+        value	SupportPersonAvailability_VSET
+    constraint	data.codeableConcept.strength
+		value	CWE

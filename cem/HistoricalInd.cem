@@ -1,0 +1,7 @@
+cem HistoricalInd
+	kind		component
+	key			HistoricalInd_CODE
+	data		CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   HistoricalIndicator_VSET
+	

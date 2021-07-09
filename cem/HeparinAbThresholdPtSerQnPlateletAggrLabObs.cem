@@ -1,0 +1,5 @@
+cem HeparinAbThresholdPtSerQnPlateletAggrLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HeparinAbThresholdPtSerQnPlateletAggr_CODE
+	

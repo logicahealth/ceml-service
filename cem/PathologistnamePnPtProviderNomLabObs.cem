@@ -1,0 +1,4 @@
+cem PathologistnamePnPtProviderNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PathologistnamePnPtProviderNom_CODE

@@ -1,0 +1,7 @@
+cem CardiacMonitoringLead
+	kind	component
+	key     CardiacMonitoringLead_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	CardiacMonitoringLead_VSET
+

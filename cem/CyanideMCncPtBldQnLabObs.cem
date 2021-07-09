@@ -1,0 +1,6 @@
+cem CyanideMCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CyanideMCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerDeciliter_CODE

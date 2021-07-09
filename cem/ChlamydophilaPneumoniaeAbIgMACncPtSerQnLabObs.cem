@@ -1,0 +1,5 @@
+cem ChlamydophilaPneumoniaeAbIgMACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChlamydophilaPneumoniaeAbIgMACncPtSerQn_CODE
+	

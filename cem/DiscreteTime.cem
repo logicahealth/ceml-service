@@ -1,0 +1,6 @@
+cem DiscreteTime
+	kind		component
+	key			DiscreteTime_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	TimeUnits_VSET

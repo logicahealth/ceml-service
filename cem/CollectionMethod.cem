@@ -1,0 +1,8 @@
+cem CollectionMethod
+	kind		component
+	key			CollectionMethod_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	CollectionMethod_VSET

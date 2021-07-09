@@ -1,0 +1,7 @@
+VentilatorAndRespiratoryAdverseEventsEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value
+(CD or CO) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer"
+in data can be "White".
+In the VentilatorAndRespiratoryAdverseEventsEval model, the question is, "What caused the subject's ventilator or respiratory adverse event?"
+and the coded answers can be "ventilator disconnect," "mucous plug," etc.
+"VentilatorAndRespiratoryAdverseEventsEval" by definition means complications related to respiratory procedures and mechanical ventilation.
+

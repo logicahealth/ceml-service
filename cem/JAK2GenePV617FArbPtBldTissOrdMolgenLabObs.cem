@@ -1,0 +1,4 @@
+cem JAK2GenePV617FArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			JAK2GenePV617FArbPtBldTissOrdMolgen_CODE

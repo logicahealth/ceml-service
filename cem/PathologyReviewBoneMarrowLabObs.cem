@@ -1,0 +1,4 @@
+cem PathologyReviewBoneMarrowLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PathologyReviewBoneMarrow_CODE

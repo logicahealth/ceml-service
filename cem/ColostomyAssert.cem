@@ -1,0 +1,6 @@
+
+cem ColostomyAssert
+    kind        statement
+    base       	ObservationAssert
+    constraint	data.codeableConcept.code
+        value	Colostomy_CODE

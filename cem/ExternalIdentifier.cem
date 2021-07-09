@@ -1,0 +1,5 @@
+cem ExternalIdentifier
+	kind	component
+	key     ExternalIdentifier_CODE
+    data    Identifier
+	

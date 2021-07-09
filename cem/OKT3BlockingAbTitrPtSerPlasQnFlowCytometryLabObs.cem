@@ -1,0 +1,5 @@
+cem OKT3BlockingAbTitrPtSerPlasQnFlowCytometryLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OKT3BlockingAbTitrPtSerPlasQnFlowCytometry_CODE
+	

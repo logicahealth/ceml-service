@@ -1,0 +1,4 @@
+SkinAbrasionAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the SkinAbrasionAssert model, data is SkinAbrasion_ECID which means the patient has a skin integrity compromise due to friction on a rough surface.
+

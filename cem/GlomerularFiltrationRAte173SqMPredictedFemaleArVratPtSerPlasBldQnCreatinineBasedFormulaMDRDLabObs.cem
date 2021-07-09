@@ -1,0 +1,7 @@
+cem GlomerularFiltrationRAte173SqMPredictedFemaleArVratPtSerPlasBldQnCreatinineBasedFormulaMDRDLabObs
+	kind    	statement
+    base        StatementBase
+	key         GlomerularFiltrationRAte173SqMPredictedFemaleArVratPtSerPlasBldQnCreatinineBasedFormulaMDRDLabObs_CODE
+    data        Quantity
+    constraint  data.quantity.unit_code
+        value   MillilitersPerMinute_CODE

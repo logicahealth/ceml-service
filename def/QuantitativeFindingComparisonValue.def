@@ -1,0 +1,3 @@
+QuantitativeFindingComparisonValue is a model used to store what value the patient data is compared to when determining the score or weight. 
+For example if the  scores says a patient gets 20 points for a HR over 110, 110 is the value in this field.
+This model was made specifically for the Homer Warner center for use in the pulomonary embolism (PE) clinical decision support application.

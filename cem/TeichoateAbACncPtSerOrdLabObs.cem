@@ -1,0 +1,4 @@
+cem TeichoateAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TeichoateAbACncPtSerOrd_CODE

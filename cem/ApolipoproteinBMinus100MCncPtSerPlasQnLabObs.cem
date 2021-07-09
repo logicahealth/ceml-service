@@ -1,0 +1,6 @@
+cem ApolipoproteinBMinus100MCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ApolipoproteinBMinus100MCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

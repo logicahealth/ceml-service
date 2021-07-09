@@ -1,0 +1,2 @@
+CollectionStatus records the state of the collection, i.e. Awaiting collection, Collected, or In Progress.
+

@@ -1,0 +1,11 @@
+cem Covid19UncategorizedUnderlyingConditionAssert
+    kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.valueset
+        value	Covid19UncategorizedUnderlyingCondition_VSET
+    constraint  bodyLocation.card 
+        value   0 
+    constraint  associatedSituation.card 
+        value   0 
+    constraint  verified.card 
+        value   0 

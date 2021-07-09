@@ -1,0 +1,4 @@
+cem CoagulationFactorXIIICoagulumDissolutionAt24HACncPtPPPOrdCoagLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CoagulationFactorXIIICoagulumDissolutionAt24HACncPtPPPOrdCoag_CODE

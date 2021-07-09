@@ -1,0 +1,11 @@
+Employee is a statement model.
+By definition Employee captures employee information. An employee is a relationship of the focal person with an organization to receive wages or salary. The purpose of this class is to identify the type of relationship the employee has to the employer rather than the nature of the work actually performed.
+
+
+Change log
+	date Aug. 2, 2016
+	modeler B Heale
+	change - added Base PatientBase
+	date Aug. 3, 2016
+	modeler B Heale
+	change - returned the model to the state prior to Aug 2, 2016

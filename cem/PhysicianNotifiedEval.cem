@@ -1,0 +1,5 @@
+cem PhysicianNotifiedEval
+	kind	statement
+	base	StatementBase
+	key			PhysicianNotified_CODE
+	data		String

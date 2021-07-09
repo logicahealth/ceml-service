@@ -1,0 +1,6 @@
+cem NeisseriaGonorrhoeaeDNAPrThrPtGenitalOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeisseriaGonorrhoeaeDNAPrThrPtGenitalOrdProbeAmpTar_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

@@ -1,0 +1,7 @@
+cem SARScoronavirus2AbneutTitrPtSerQnpVNT
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         SARScoronavirus2AbneutTitrPtSerQnpVNT_CODE
+    constraint  data.quantity.unit_code
+        value   Titer_CODE
+

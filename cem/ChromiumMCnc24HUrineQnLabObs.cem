@@ -1,0 +1,6 @@
+cem ChromiumMCnc24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChromiumMCnc24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

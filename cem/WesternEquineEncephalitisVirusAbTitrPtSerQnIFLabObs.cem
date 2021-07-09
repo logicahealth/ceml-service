@@ -1,0 +1,5 @@
+cem WesternEquineEncephalitisVirusAbTitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			WesternEquineEncephalitisVirusAbTitrPtSerQnIF_CODE
+	

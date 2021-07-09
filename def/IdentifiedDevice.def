@@ -1,0 +1,5 @@
+IdentifiedDevice is intended to represent the computer
+associated with a location.  This is in contrast to the 'Device' model,
+which actually represents a 'kind' of device (e.g., a PEC tube is the
+device by which a medication is to be administered). 
+ 

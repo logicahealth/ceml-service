@@ -1,0 +1,9 @@
+cem WoundVolume
+	kind    	component
+	key         WoundVolume_CODE
+    data        Quantity
+	qual		Device
+		id		device
+		card	0-1
+    constraint  data.quantity.unit_code   
+        value   Milliliters_CODE

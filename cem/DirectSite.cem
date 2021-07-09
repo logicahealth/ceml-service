@@ -1,0 +1,8 @@
+cem DirectSite
+	kind		component
+	key			DirectSite_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	DirectSite_VSET

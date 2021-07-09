@@ -1,0 +1,6 @@
+cem CoagulationSurfaceInduced1HPostIncubationTimePtPPPPoolQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationSurfaceInduced1HPostIncubationTimePtPPPPoolQnCoag_CODE
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

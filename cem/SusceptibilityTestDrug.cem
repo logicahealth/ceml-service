@@ -1,0 +1,8 @@
+cem SusceptibilityTestDrug
+	kind		component
+	key			SusceptibilityTestDrug_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	SusceptibilityTestDrug_VSET

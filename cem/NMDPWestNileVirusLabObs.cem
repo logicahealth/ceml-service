@@ -1,0 +1,4 @@
+cem NMDPWestNileVirusLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			NMDPWestNileVirus_CODE

@@ -1,0 +1,4 @@
+cem HerpesSimplexVirusDNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HerpesSimplexVirusDNAACncPtXXXOrdProbeAmpTar_CODE

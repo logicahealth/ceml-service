@@ -1,0 +1,4 @@
+cem NelfinavirSuscPtIsolateOrdQnGenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NelfinavirSuscPtIsolateOrdQnGenotyping_CODE

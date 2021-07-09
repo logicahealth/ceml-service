@@ -1,0 +1,6 @@
+cem SmudgeCellsACncPtBldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SmudgeCellsACncPtBldOrdMicroscopyLight_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrdinalScaleNegToFour_VSET

@@ -1,0 +1,4 @@
+GenericEventAssert refers to any assertion of a happening which is not clinical.  
+This model is used to store an event assertion if the specific event assertion model 
+for it hasn't been created yet.
+

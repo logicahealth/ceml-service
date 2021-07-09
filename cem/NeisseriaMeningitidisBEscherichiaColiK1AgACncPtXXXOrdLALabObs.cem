@@ -1,0 +1,4 @@
+cem NeisseriaMeningitidisBEscherichiaColiK1AgACncPtXXXOrdLALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeisseriaMeningitidisBEscherichiaColiK1AgACncPtXXXOrdLA_CODE

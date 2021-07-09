@@ -1,0 +1,7 @@
+Expression model is a component model. This model holds a "question" in the key code (Expression_KEY_ECID)and a Text String (ST) as the "answer" in data.
+In the Expression model the question is "What is the expression?" and the answer in data is a text string.
+By definition the Expression model relates the various parts of the conditional through reference to the ExpressionTermId's of each part (e.g., "[A or B] and C").  
+If there are multiple items, this expresses the relationship between them.  For now, this will default to the "AND" expression if more than one item.
+A conditional is what is required to meet a condition (i.e., a temperature of 38.5 C is considered a fever). In this example the expression would be 
+ "Temperature > 38.5 and patient is shivering," and the statement "Give Tylenol if temperature >38.5 and patient is shivering."
+

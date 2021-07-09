@@ -1,0 +1,4 @@
+cem ClostridiumDifficileToxinABACncPtStoolOrdCytotoxinTissueCultureAssayLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ClostridiumDifficileToxinABACncPtStoolOrdCytotoxinTissueCultureAssay_CODE

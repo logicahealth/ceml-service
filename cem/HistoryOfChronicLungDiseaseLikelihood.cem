@@ -1,0 +1,27 @@
+cem HistoryOfChronicLungDiseaseLikelihood
+	kind	statement
+	base	StatementBase
+	key			HistoryOfChronicLungDisease_CODE
+	data		CodeableConcept
+	qual		ActiveCriterion
+		id		activeCriterion
+		card	0-1
+	qual		SupportingInformationPointerLink
+		id		supportingInformationPointerLink
+		card	0-1
+	qual		SupportingInformationStringLink
+		id		supportingInformationStringLink
+		card	0-1
+	qual		DateOfOnset
+		id		dateOfOnset
+		card	0-1
+	qual		StandardizedScoreWeight
+		id		standardizedScoreWeight
+		card	0-1
+	qual		StandardizedScoreName
+		id		standardizedScoreName
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Likelihood_VSET

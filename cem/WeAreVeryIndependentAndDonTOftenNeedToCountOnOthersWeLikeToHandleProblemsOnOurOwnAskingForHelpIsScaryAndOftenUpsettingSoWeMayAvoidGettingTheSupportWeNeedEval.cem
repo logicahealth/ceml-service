@@ -1,0 +1,7 @@
+cem WeAreVeryIndependentAndDonTOftenNeedToCountOnOthersWeLikeToHandleProblemsOnOurOwnAskingForHelpIsScaryAndOftenUpsettingSoWeMayAvoidGettingTheSupportWeNeedEval
+
+	kind	statement
+	base	StatementBase
+    key     WeAreVeryIndependentAndDonTOftenNeedToCountOnOthersWeLikeToHandleProblemsOnOurOwnAskingForHelpIsScaryAndOftenUpsettingSoWeMayAvoidGettingTheSupportWeNeed_CODE
+	data	Integer
+

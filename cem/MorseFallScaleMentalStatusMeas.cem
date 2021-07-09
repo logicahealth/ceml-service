@@ -1,0 +1,12 @@
+cem MorseFallScaleMentalStatusMeas
+
+	kind	statement
+	base	StatementBase
+    key     MorseFallScaleMentalStatus_CODE
+	data	CodeableOrdinal
+
+	constraint	data.codeableOrdinal.strength
+	    value	CNE
+	constraint	data.codeableOrdinal.valueset
+	    value	MorseFallScaleMentalStatus_VSET
+

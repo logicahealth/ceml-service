@@ -1,0 +1,6 @@
+WoundVolume is a clinical element model for the measuement of the volume of a wound given in milliliters or cubic centimeters.  No LOINC code for this yet.
+
+@Author nrdavis1
+@Date 29 Oct 2019 09:01
+@Status draft
+@RequestedBy Wound Assert project

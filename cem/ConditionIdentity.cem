@@ -1,0 +1,8 @@
+cem ConditionIdentity
+	kind    	component
+	key         ConditionIdentity_CODE
+    data        CodeableConcept
+
+    constraint  data.codeableConcept.valueset
+        value   Condition_VSET
+

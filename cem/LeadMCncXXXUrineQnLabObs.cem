@@ -1,0 +1,6 @@
+cem LeadMCncXXXUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LeadMCncXXXUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

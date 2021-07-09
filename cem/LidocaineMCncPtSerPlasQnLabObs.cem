@@ -1,0 +1,6 @@
+cem LidocaineMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LidocaineMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

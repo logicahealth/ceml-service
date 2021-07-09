@@ -1,0 +1,4 @@
+cem HPMS2IHCLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HPMS2IHC_CODE

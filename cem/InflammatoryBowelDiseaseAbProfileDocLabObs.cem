@@ -1,0 +1,4 @@
+cem InflammatoryBowelDiseaseAbProfileDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			InflammatoryBowelDiseaseAbProfileDocLabObs_CODE

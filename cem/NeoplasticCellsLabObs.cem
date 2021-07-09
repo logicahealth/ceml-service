@@ -1,0 +1,6 @@
+cem NeoplasticCellsLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NeoplasticCells_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

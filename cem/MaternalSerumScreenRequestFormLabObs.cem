@@ -1,0 +1,4 @@
+cem MaternalSerumScreenRequestFormLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MaternalSerumScreenRequestForm_CODE

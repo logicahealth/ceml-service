@@ -1,0 +1,4 @@
+cem ParainfluenzaVirus1RNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ParainfluenzaVirus1RNAACncPtXXXOrdProbeAmpTar_CODE

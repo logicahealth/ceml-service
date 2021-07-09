@@ -1,0 +1,6 @@
+cem OrnithineCreatinineRatioPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OrnithineCreatinineRatioPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicromolesPerGram_CODE

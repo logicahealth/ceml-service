@@ -1,0 +1,6 @@
+cem AspartateSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AspartateSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

@@ -1,0 +1,8 @@
+cem Publicity
+	kind		component
+	key			Publicity_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Publicity_VSET

@@ -1,0 +1,6 @@
+BoneLesionMargin is used to identify the type of lesion margin/zone of transition. The values include: well-diefined, ill-defined, and very ill-defined
+
+@Author ljbuhl
+@Date 06 Dec 2017 11:16
+@Status draft
+@RequestedBy iActivity

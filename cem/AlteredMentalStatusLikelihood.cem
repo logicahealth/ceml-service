@@ -1,0 +1,18 @@
+cem AlteredMentalStatusLikelihood
+	kind	statement
+	base	StatementBase
+	key			AlteredMentalStatusLikelihood_CODE
+	data		CodeableConcept
+	qual		SupportingInformationPointerLink
+		id		supportingInformationPointerLink
+		card	0-1
+	qual		SupportingInformationStringLink
+		id		supportingInformationStringLink
+		card	0-1
+	qual		DateOfOnset
+		id		dateOfOnset
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Likelihood_VSET

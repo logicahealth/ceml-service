@@ -1,0 +1,4 @@
+cem MedicationDosageUnits
+	kind		component
+	key			MedicationDosageUnits_CODE
+	data		String

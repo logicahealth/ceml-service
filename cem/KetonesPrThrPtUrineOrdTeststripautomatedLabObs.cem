@@ -1,0 +1,4 @@
+cem KetonesPrThrPtUrineOrdTeststripautomatedLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			KetonesPrThrPtUrineOrdTeststripautomated_CODE

@@ -1,0 +1,4 @@
+cem BileCharacterLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BileCharacter_CODE

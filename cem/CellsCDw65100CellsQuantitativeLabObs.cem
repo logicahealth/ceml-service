@@ -1,0 +1,6 @@
+cem CellsCDw65100CellsQuantitativeLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CellsCDw65100CellsQuantitative_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

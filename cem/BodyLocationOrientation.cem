@@ -1,0 +1,8 @@
+cem BodyLocationOrientation
+	kind		component
+	key			BodyLocationOrientation_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	BodyLocationOrientation_VSET

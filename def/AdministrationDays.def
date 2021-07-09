@@ -1,0 +1,4 @@
+AdministrationDays includes a choice between various ways of stating a list of days for administration. 
+This model contains component models whose data values can identify the days of the week, or the days of the month, 
+or particular dates. 
+

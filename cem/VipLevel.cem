@@ -1,0 +1,8 @@
+cem VipLevel
+	kind		component
+	key			VipLevel_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	VipLevel_VSET

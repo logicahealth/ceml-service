@@ -1,0 +1,6 @@
+cem AmphetaminesACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AmphetaminesACncPtUrineOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

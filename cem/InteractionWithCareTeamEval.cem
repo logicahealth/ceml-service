@@ -1,0 +1,15 @@
+cem InteractionWithCareTeamEval
+
+	kind	statement
+	base	StatementBase
+    key     InteractionWithCareTeam_CODE
+	data	CodeableConcept
+    mod     FocalSubject
+       id   focalSubject
+       card 0-M
+
+	constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	InteractionWithCareTeam_VSET
+

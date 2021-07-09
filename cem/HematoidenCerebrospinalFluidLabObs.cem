@@ -1,0 +1,4 @@
+cem HematoidenCerebrospinalFluidLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HematoidenCerebrospinalFluid_CODE

@@ -1,0 +1,8 @@
+ObservationAge is a component model.
+The age of the subject when certain observation is performed.
+
+Chages:
+modeler: N Davis
+date: 8/26/2016
+change: changed the name of the model to better reflect the use case as well as to dis-ambiguate it from the AgeMeas statement model.  AgeAtObservation qualifies the observation while AgeMeas is a statment of a person's age.
+

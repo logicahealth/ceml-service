@@ -1,0 +1,9 @@
+cem ComputedTomographySignsOfAcuteSubAcuteIschemiaEval
+	kind    	statement
+    base        StatementBase
+	key         ComputedTomographySignsOfAcuteSubAcuteIschemiaEval_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   PosNegEquiIndet_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE

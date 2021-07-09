@@ -1,0 +1,4 @@
+cem PersonIdentifier
+	kind		component
+	key			PersonIdentifier_CODE
+	data		Identifier

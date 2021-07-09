@@ -1,0 +1,4 @@
+LifetimeRadiationAmountMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the RadiationDoseMeas model, the question is "How much radiation has the subject been exposed to over his/her lifetime?" 
+The caveat being that we have to be aware of the exposure in order to count it in the total.
+

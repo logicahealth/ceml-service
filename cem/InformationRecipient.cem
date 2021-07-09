@@ -1,0 +1,4 @@
+cem InformationRecipient
+	kind		component
+	key			InformationRecipient_CODE
+	data		String

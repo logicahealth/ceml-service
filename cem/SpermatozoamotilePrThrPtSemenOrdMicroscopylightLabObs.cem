@@ -1,0 +1,7 @@
+cem SpermatozoamotilePrThrPtSemenOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SpermatozoamotilePrThrPtSemenOrdMicroscopylight_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	ObservNeg_VSET

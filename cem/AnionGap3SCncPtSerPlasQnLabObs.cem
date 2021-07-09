@@ -1,0 +1,6 @@
+cem AnionGap3SCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AnionGap3SCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimolesPerLiter_CODE

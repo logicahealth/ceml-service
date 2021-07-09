@@ -1,0 +1,4 @@
+cem CoccidioidesSpAbACncPtXXXOrdImmuneDiffusionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CoccidioidesSpAbACncPtXXXOrdImmuneDiffusion_CODE

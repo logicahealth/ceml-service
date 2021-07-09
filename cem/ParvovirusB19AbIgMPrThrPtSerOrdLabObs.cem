@@ -1,0 +1,4 @@
+cem ParvovirusB19AbIgMPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ParvovirusB19AbIgMPrThrPtSerOrd_CODE

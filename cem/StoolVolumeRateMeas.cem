@@ -1,0 +1,8 @@
+cem StoolVolumeRateMeas
+	kind		statement
+	base		OutputVolumeRateMeas
+	key			StoolVolumeRate_CODE
+	constraint	bodyLocationPrecoord.card
+		value	0
+	constraint	device.data.codeableConcept.valueset
+		value	StoolOutputDevice_VSET

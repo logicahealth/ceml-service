@@ -1,0 +1,4 @@
+FetalActivityEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD or CO) "answer" in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?" and the "answer" in data can be "White."
+In the FetalActivityEval model, the question is "What is the subject's fetal activity?" and the coded answers can be 'active,' 'inactive,' etc.         
+"Fetal activity" by definition means "The fetal activity level (fetal movement) reported by the patient." 
+

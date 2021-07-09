@@ -1,0 +1,4 @@
+cem ClassDisplay
+kind    component
+key     ClassDisplay_CODE
+data    String

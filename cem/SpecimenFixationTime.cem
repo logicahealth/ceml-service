@@ -1,0 +1,4 @@
+cem SpecimenFixationTime
+	kind		component
+	key			SpecimenFixationTime_CODE
+	data		DateTime

@@ -1,0 +1,13 @@
+cem EarWickPlacementProc
+	kind		statement
+	base		Procedure
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	qual		BodySide
+		id		bodySide
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.code
+		value	EarWickPlacement_CODE

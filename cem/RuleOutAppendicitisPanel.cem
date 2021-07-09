@@ -1,0 +1,27 @@
+cem RuleOutAppendicitisPanel
+	kind    	panel
+    base        PanelBase
+	key         RuleOutAppendicitisPanel_CODE
+    item        PediatricAppendicitisScoreMeas
+        id      pediatricAppendicitisScoreMeas
+        card    0-1
+    item        ImagingVisualizationEval
+        id      imagingVisualizationEval
+        card    0-1
+    item        EchogenicFatEval
+        id      echogenicFatEval
+        card    0-1
+    item        ProbabilityOfDiagnosis
+        id      probabilityOfDiagnosis
+        card    0-1
+    item        AppendixDiameterMeas
+        id      appendixDiameterMeas
+        card    0-1
+	qual        PediatricPatientIndicator
+        id      pediatricPatientIndicator
+        card    0-1
+	qual        Impression
+        id      impression
+        card    0-1
+	constraint	probabilityOfDiagnosis.data.codeableConcept.code
+		value	Appendicitis_CODE

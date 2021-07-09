@@ -1,0 +1,16 @@
+cem AssistedRespiratoryRateMeas
+	kind	statement
+	base	StatementBase
+	key			BreathsMechanicalOnVentilatorNRatPtPatientQn_CODE
+	data		Quantity
+	qual		MethodDevice
+		id		methodDevice
+		card	0-1
+	qual		ReferenceRangeNar
+		id		referenceRangeNar
+		card	0-1
+	constraint	data.quantity.unit_code
+		value	PerMinute_CODE
+
+	constraint	methodDevice.data.codeableConcept.valueset
+		value	VentilatorMethodDevice_VSET

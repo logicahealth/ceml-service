@@ -1,0 +1,7 @@
+cem ForeignBody
+	kind		component
+	key			ForeignBody_CODE
+	data		String
+	qual		Aggregate
+		id		aggregate
+		card	0-1

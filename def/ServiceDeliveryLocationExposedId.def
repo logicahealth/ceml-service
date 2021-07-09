@@ -1,0 +1,4 @@
+ServiceDeliveryLocationExposedId captures a unique identifier for a service delivery location that will be
+		exposed to applications and external systems.  The id must be unique within an ECIS installation.
+
+

@@ -1,0 +1,22 @@
+cem SkinBreakdownAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		StageOfBreakdown
+		id		stageOfBreakdown
+		card	0-1
+	qual		WoundSize
+		id		woundSize
+		card	0-1
+	qual		Image
+		id		image
+		card	0-M
+	qual		Drainage
+		id		drainage
+		card	0-M
+	qual		Hemostatic
+		id		hemostatic
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	SkinBreakdown_CODE
+	constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	SkinBodyLocationPrecoord_VSET

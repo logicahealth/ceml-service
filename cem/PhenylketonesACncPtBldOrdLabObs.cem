@@ -1,0 +1,6 @@
+cem PhenylketonesACncPtBldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PhenylketonesACncPtBldOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NormAbnormIncDec_VSET

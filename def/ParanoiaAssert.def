@@ -1,0 +1,4 @@
+ParanoiaAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the ParanoiaAssert model, data is Paranoia_ECID which means that the patient has irrational anxiety or fear, often to the point of delusion.
+

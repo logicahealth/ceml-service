@@ -1,0 +1,23 @@
+cem SpontaneousMinuteVolumeMeas
+	kind	statement
+	base	StatementBase
+	key			SpontaneousMinuteVolume_CODE
+	data		Quantity
+	qual		MethodDevice
+		id		methodDevice
+		card	0-1
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	qual		DeltaFlag
+		id		deltaFlag
+		card	0-1
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	methodDevice.data.codeableConcept.valueset
+		value	VentilatorMethodDevice_VSET
+	constraint	deltaFlag.data.codeableConcept.valueset
+		value	DeltaFlagNumericNom_VSET
+	constraint		data.quantity.unit_code
+		value	Liters_CODE

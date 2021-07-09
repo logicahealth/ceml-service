@@ -1,0 +1,7 @@
+cem ConstantFlowVentilatorSettingMeas
+	kind	statement
+	base	StatementBase
+	key			ConstantFlowVentilatorSetting_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	LitersPerMinute_CODE

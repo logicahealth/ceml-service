@@ -1,0 +1,6 @@
+cem CarbonDioxidePPresPtBldCQnTranscutaneousMonitorLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CarbonDioxidePPresPtBldCQnTranscutaneousMonitor_CODE
+	constraint		data.quantity.unit_code
+		value	MillimetersOfMercury_CODE

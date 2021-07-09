@@ -1,0 +1,4 @@
+cem SaccharopolysporarectivirgulaAbPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SaccharopolysporarectivirgulaAbPrThrPtSerOrd_CODE

@@ -1,0 +1,8 @@
+WeeksToReturnOfficeVisitMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value
+(PQ) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the
+"answer" in data can be "100 bpm".
+In the WeeksToReturnOfficeVisitMeas model, the question is "how many weeks after the initial visit should the patient come back?" and the numeric
+answer will have a unit of measure. 
+"WeeksToReturnOfficeVisitMeas" by definition means the number of weeks after an initial or subsequent office visit at which a patient is requested
+to return for another visit. 
+

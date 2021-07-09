@@ -1,0 +1,4 @@
+cem HTLV12AbIgGACncPtSerOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HTLV12AbIgGACncPtSerOrdEIA_CODE

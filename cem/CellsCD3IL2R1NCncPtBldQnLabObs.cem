@@ -1,0 +1,6 @@
+cem CellsCD3IL2R1NCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CellsCD3IL2R1NCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	PermilliLiterNumberConcentrationUnits_CODE

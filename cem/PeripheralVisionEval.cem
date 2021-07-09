@@ -1,0 +1,18 @@
+cem PeripheralVisionEval
+	kind	statement
+	base	PhysicalObs
+	key         PeripheralVision_CODE
+	data        CodeableConcept
+    qual		VisualQuadrant
+		id		visualQuadrant
+		card	0-M  
+    constraint	data.codeableConcept.strength
+		value	CWE
+    constraint	data.codeableConcept.valueset
+		value	NormalAbnormal_VSET
+    constraint	method.data.codeableConcept.valueset
+		value	PeripheralVisionMethod_VSET
+    constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	EyeBodyLocationPrecoord_VSET
+    constraint  device.card
+        value   0    

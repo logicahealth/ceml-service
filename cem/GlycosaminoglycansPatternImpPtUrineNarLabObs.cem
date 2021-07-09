@@ -1,0 +1,4 @@
+cem GlycosaminoglycansPatternImpPtUrineNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			GlycosaminoglycansPatternImpPtUrineNar_CODE

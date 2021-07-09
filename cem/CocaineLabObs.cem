@@ -1,0 +1,4 @@
+cem CocaineLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			Cocaine_CODE

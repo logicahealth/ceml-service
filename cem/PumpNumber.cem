@@ -1,0 +1,4 @@
+cem PumpNumber
+	kind		component
+	key			PumpNumber_CODE
+	data		String

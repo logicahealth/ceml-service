@@ -1,0 +1,6 @@
+cem HomocysteineSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HomocysteineSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

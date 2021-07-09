@@ -1,0 +1,4 @@
+Address captures the street address of a location 
+		(e.g., a hospital or a patient's home). The common fields are listed specifically as items, but the AddressPart is still kept for including other address parts suggested in HL7.
+
+

@@ -1,0 +1,6 @@
+cem StreptococcusPneumoniae23AbIgGMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			StreptococcusPneumoniae23AbIgGMCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

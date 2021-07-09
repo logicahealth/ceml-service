@@ -1,0 +1,6 @@
+cem VanillylmandelateMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			VanillylmandelateMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerLiter_CODE

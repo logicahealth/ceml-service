@@ -1,0 +1,9 @@
+cem INRTargetMidpointMeas
+	kind	statement
+	base	StatementBase
+	key			INRTargetMidpoint_CODE
+	data		Quantity
+	qual		ReferenceRangeNar
+		id		referenceRangeNar
+		card	0-1
+	

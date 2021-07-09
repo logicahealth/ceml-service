@@ -1,0 +1,6 @@
+cem MagnesiumKg24HLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MagnesiumKg24H_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerKilogramPerDay_CODE

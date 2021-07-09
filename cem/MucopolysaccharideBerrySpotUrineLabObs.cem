@@ -1,0 +1,4 @@
+cem MucopolysaccharideBerrySpotUrineLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MucopolysaccharideBerrySpotUrine_CODE

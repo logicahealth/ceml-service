@@ -1,0 +1,6 @@
+cem EstriolMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EstriolMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

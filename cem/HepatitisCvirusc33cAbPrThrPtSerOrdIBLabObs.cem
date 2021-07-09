@@ -1,0 +1,4 @@
+cem HepatitisCvirusc33cAbPrThrPtSerOrdIBLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HepatitisCvirusc33cAbPrThrPtSerOrdIB_CODE

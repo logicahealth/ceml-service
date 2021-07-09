@@ -1,0 +1,27 @@
+cem Procedure
+	kind		statement
+    base        StatementBase
+	form		abstract
+	key			Procedure_CODE
+	data		CodeableConcept
+
+	qual        DirectSite
+        id      directSite
+        card    0-M 
+    qual        ApproachSite
+        id      indirectSite
+        card    0-M
+    qual        PatientResponse
+        id      patientResponse
+        card    0-1
+    qual        Reason
+        id      reason
+        card    0-M
+    mod         Likelihood
+        id      likelihood
+        card    0-1
+
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Procedure_VSET

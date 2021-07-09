@@ -1,0 +1,4 @@
+cem PropionylglycineACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PropionylglycineACncPtUrineOrd_CODE

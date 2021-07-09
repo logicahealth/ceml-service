@@ -1,0 +1,4 @@
+cem TetrahydrocannabinolPrThrPtUrineOrdSAMHSAconfirmLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TetrahydrocannabinolPrThrPtUrineOrdSAMHSAconfirm_CODE

@@ -1,0 +1,6 @@
+cem HemoglobinA1cHemoglobintotalMFrPtBldQnJDSJSCCLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HemoglobinA1cHemoglobintotalMFrPtBldQnJDSJSCC_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

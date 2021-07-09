@@ -1,0 +1,6 @@
+cem AdenosineDeaminaseCCncPtBodyFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AdenosineDeaminaseCCncPtBodyFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerLiter_CODE

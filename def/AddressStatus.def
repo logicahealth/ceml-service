@@ -1,0 +1,3 @@
+AddressStatus captures the state of a given address for a subject. Examples of values 
+for data include: Active, Inactive, Nullified, etc.
+

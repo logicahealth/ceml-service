@@ -1,0 +1,7 @@
+.byebug_history
+.dockerignore
+.git
+.gitignore
+
+*.zip
+Dockerfile

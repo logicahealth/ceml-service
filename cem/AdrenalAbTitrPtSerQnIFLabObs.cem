@@ -1,0 +1,5 @@
+cem AdrenalAbTitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AdrenalAbTitrPtSerQnIF_CODE
+	

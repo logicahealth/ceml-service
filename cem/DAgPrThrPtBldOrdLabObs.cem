@@ -1,0 +1,7 @@
+cem DAgPrThrPtBldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			DAgPrThrPtBldOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	PosNegEquiIndet_VSET

@@ -1,0 +1,2 @@
+DestinationStatus indicates the status of sent information, such as an alert. Sample values are 'new' or 'acknowledged.'
+

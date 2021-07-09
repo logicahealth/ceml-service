@@ -1,0 +1,10 @@
+cem HealthIssueComments
+	kind		comment
+	key			HealthIssueComments_CODE
+	data		String
+	qual		CommentsType
+		id		commentsType
+		card	0-1
+	att			Documented
+		id		documented
+		card	0-1

@@ -1,0 +1,6 @@
+cem HER2MCncPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HER2MCncPtSerQnEIA_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

@@ -1,0 +1,2 @@
+Strength indicates the strength of the ingredient from the First DataBank tables as the service decomposes the medication orderable concept. Concentrations will be normalized to a single unit for concentrations (e.g., if FDB has 10mgm/5ml, this would be represented as quantity 2 and units "mgm/ml"). 
+

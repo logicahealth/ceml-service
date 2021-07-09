@@ -1,0 +1,4 @@
+cem SmoothMuscleAntibodyIgGTiterLabObs
+	kind		statement
+	base		StandardLabObsTiter
+	key			SmoothMuscleAntibodyIgGTiter_CODE

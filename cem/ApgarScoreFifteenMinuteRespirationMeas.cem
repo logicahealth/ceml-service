@@ -1,0 +1,10 @@
+cem ApgarScoreFifteenMinuteRespirationMeas
+	kind	statement
+	base	StatementBase
+	key			ApgarScoreFifteenMinuteRespiration_CODE
+	data		CodeableOrdinal
+	mod 	    FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableOrdinal.valueset
+		value	ApgarScoreRespiration_VSET

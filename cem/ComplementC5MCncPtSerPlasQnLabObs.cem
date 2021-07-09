@@ -1,0 +1,6 @@
+cem ComplementC5MCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ComplementC5MCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

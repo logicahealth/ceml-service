@@ -1,0 +1,6 @@
+cem TriacylglycerolLipaseCCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TriacylglycerolLipaseCCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerLiter_CODE

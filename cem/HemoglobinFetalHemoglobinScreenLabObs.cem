@@ -1,0 +1,4 @@
+cem HemoglobinFetalHemoglobinScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HemoglobinFetalHemoglobinScreen_CODE

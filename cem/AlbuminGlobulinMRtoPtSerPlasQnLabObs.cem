@@ -1,0 +1,5 @@
+cem AlbuminGlobulinMRtoPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlbuminGlobulinMRtoPtSerPlasQn_CODE
+	

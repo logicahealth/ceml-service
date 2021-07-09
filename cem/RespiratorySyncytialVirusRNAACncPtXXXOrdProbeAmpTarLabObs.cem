@@ -1,0 +1,4 @@
+cem RespiratorySyncytialVirusRNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			RespiratorySyncytialVirusRNAACncPtXXXOrdProbeAmpTar_CODE

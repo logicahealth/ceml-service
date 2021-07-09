@@ -1,0 +1,4 @@
+cem AppearanceOfBileLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			AppearanceOfBile_CODE

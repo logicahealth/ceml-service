@@ -1,0 +1,6 @@
+cem NorketamineMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NorketamineMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

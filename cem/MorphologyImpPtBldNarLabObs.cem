@@ -1,0 +1,4 @@
+cem MorphologyImpPtBldNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MorphologyImpPtBldNar_CODE

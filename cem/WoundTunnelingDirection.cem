@@ -1,0 +1,9 @@
+cem WoundTunnelingDirection
+	kind    	component
+	key         WoundTunnelingDirection_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   ClockFacePosition_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

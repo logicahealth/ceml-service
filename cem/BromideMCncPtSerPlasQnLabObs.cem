@@ -1,0 +1,6 @@
+cem BromideMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BromideMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

@@ -1,0 +1,6 @@
+cem CreatinineMCncPtUrineQnTeststripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CreatinineMCncPtUrineQnTeststrip_CODE
+	constraint		data.quantity.unit_code
+			value		MilligramsPerDeciliter_CODE

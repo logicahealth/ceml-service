@@ -1,0 +1,8 @@
+
+cem UncertainInd
+	kind	component
+	key     UncertainInd_CODE
+	data	CodeableConcept
+
+    constraint      data.codeableConcept.valueset
+        value       TrueFalse_VSET

@@ -1,0 +1,9 @@
+cem BaselineIndicator
+	kind    	component
+	key         BaselineIndicator_CODE
+    data        CodeableConcept
+    constraint	data.codeableConcept.valueset
+		value	YesNo_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

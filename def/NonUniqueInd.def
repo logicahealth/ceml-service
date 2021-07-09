@@ -1,0 +1,2 @@
+NonUniqueInd is set when it is known that this id comes from a system whose ids are not globally unique.  The HL7 II data type would not allow a non-unique II.  The ECIS II allows it, but this indicator is a means of explicitly capturing when we know the II comes from a system that does not enforce uniqueness in its IIs.  This is a denormalization -- the root of the II, if centrally managed, would have associated metadata indicating whether its identifiers are unique or not.  The default is if this indicator is not present the II is assumed unique.
+

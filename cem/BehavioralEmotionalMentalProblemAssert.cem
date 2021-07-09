@@ -1,0 +1,19 @@
+cem BehavioralEmotionalMentalProblemAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual		EffectivenessOfTreatment
+		id		effectivenessOfTreatment
+		card	0-1
+	qual		CurrentlyBeingTreated
+		id		currentlyBeingTreated
+		card	0-1
+	qual		TreatmentEncounterType
+		id		treatmentEncounterType
+		card	0-1	
+    mod         FocalSubject
+        id      focalSubject
+        card    0-1
+    constraint  focalSubject.data.codeableConcept.valueset 
+        value   BiologicalFamilyFocalSubject_VSET 
+    constraint	data.codeableConcept.valueset
+        value	BehavioralEmotionalMentalProblem_VSET

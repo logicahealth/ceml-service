@@ -1,0 +1,27 @@
+cem RibFractureAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        Severity
+        id      severity
+        card    0-1
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    qual        Modality
+        id      modality
+        card    0-1
+    qual        HealingIndicator
+        id      healingIndicator
+        card    0-1
+    qual        BodySide
+        id      bodySide
+        card    0-1
+    link        ImageLink
+        id      imageLink
+        card    0-M
+    constraint	data.codeableConcept.code
+        value	RibFracture_CODE
+    constraint  bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+        value   RibBodyLocationPrecoord_VSET
+    constraint	certaintyOfPresence.data.codeableConcept.valueset
+		value	ProbabilityOfDiagnosisLikelihood_VSET

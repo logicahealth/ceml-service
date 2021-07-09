@@ -1,0 +1,7 @@
+cem RevisedGenevaRecentSurgeryOrFractureScore
+	kind	statement
+	base	StatementBase
+	key     RevisedGenevaRecentSurgeryOrFractureScore_CODE
+	data	CodeableOrdinal
+    constraint  data.codeableOrdinal.valueset
+        value   RevisedGenevaScoreRecentSF_VSET

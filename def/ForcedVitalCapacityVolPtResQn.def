@@ -1,0 +1,6 @@
+ForcedVitalCapacityVolPtResQn is a clinical element model to record the volume of air that can be forcibly expired after a full inspiration.  LOINC code 19870-5
+
+@Author nrdavis1
+@Date 27 Mar 2019 13:02
+@Status draft
+@RequestedBy Dr. Morris

@@ -1,0 +1,4 @@
+cem BloodSmearFindingPridPtBldNomMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BloodSmearFindingPridPtBldNomMicroscopyLight_CODE

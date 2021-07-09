@@ -1,0 +1,7 @@
+cem WeHaveManyFriendsButNotCloseFriendsWeAreOftenAloneWithOurProblemsEval
+
+	kind	statement
+	base	StatementBase
+    key     WeHaveManyFriendsButNotCloseFriendsWeAreOftenAloneWithOurProblems_CODE
+	data	Integer
+

@@ -1,0 +1,4 @@
+cem ChlamydiaTrachomatisAgACncPtXXXOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChlamydiaTrachomatisAgACncPtXXXOrdIF_CODE

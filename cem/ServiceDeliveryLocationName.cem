@@ -1,0 +1,16 @@
+cem ServiceDeliveryLocationName
+	kind		component
+	key			ServiceDeliveryLocationName_CODE
+	data		String
+	qual		ServiceDeliveryLocationNameUse
+		id		serviceDeliveryLocationNameUse
+		card	0-1
+	qual		StartTime
+		id		usablePeriodStartTime
+		card	0-1
+	qual		EndTime
+		id		usablePeriodEndTime
+		card	0-1
+	qual		Aggregate
+		id		aggregate
+		card	0-1

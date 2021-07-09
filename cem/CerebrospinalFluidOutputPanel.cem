@@ -1,0 +1,16 @@
+cem CerebrospinalFluidOutputPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			CerebrospinalFluidOutputPanel_CODE
+	item		CerebrospinalFluidOutputVolumeMeas
+		id		cerebrospinalFluidOutputVolumeMeas
+		card	1
+	item		CerebrospinalFluidDescriptionEval
+		id		cerebrospinalFluidDescriptionEval
+		card	0-M
+	constraint	method.data.codeableConcept.valueset
+		value	CerebrospinalFluidOutputMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	CerebrospinalFluidOutputDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	CerebrospinalFluidOutputBodyLocationPrecoord_VSET

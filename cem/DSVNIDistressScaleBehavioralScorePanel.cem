@@ -1,0 +1,19 @@
+cem DSVNIDistressScaleBehavioralScorePanel
+	kind	panel
+	base	PanelBase
+	key			DSVNIDistressScaleBehavioralScorePanel_CODE
+	item		DSVNIDistressScaleBehavioralBodyMovementScoreMeas
+		id		dSVNIDistressScaleBehavioralBodyMovementScoreMeas
+		card	0-1
+	item		DSVNIDistressScaleBehavioralColorScoreMeas
+		id		dSVNIDistressScaleBehavioralColorScoreMeas
+		card	0-1
+	item		DSVNIDistressScaleBehavioralFacialExpressionScoreMeas
+		id		dSVNIDistressScaleBehavioralFacialExpressionScoreMeas
+		card	0-1
+	item		DSVNIDistressScaleBehavioralScoreTotalMeas
+		id		dSVNIDistressScaleBehavioralScoreTotalMeas
+		card	1
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M

@@ -1,0 +1,4 @@
+cem SchistosomaSpAbACncPtSerOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SchistosomaSpAbACncPtSerOrdEIA_CODE

@@ -1,0 +1,9 @@
+
+cem PulmonaryAspirationRiskEval
+    kind        statement
+    base        StatementBase
+	key         PulmonaryAspirationRisk_CODE
+    data        CodeableConcept
+    constraint	data.codeableConcept.valueset
+		value	PulmonaryAspirationRisk_VSET
+    

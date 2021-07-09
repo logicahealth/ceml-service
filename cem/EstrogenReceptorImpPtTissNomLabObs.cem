@@ -1,0 +1,4 @@
+cem EstrogenReceptorImpPtTissNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			EstrogenReceptorImpPtTissNom_CODE

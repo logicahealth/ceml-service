@@ -1,0 +1,4 @@
+cem AmoxicillinClavulanateSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmoxicillinClavulanateSuscPtIsolateOrdQnAgardiffusion_CODE

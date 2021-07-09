@@ -1,0 +1,4 @@
+cem LeukocytemorphologyfindingPridPtBldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			LeukocytemorphologyfindingPridPtBldNom_CODE

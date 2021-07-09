@@ -1,0 +1,14 @@
+cem UmbilicalCordDrainageAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual		DrainageFluidDescription
+		id		drainageFluidDescription
+		card	0-1
+    qual		DrainageFluidColor
+		id		drainageFluidColor
+		card	0-1
+    qual		SpecimenSentToLab
+		id		specimenSentToLab
+		card	0-1
+    constraint	data.codeableConcept.code
+        value	UmbilicalCordDrainage_CODE

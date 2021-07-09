@@ -1,0 +1,4 @@
+AirwayInterfaceType is a component model which identifies the type of airway interface that is 
+used to provide supplemental respiratory gas to a subject. Examples of values include
+nasal cannula, tracheal mask, natural airway, etc.
+

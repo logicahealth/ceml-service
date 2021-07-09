@@ -1,0 +1,6 @@
+cem ErythrocytesNCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocytesNCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillionsPerMicroliter_CODE

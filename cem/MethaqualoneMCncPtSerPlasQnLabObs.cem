@@ -1,0 +1,6 @@
+cem MethaqualoneMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethaqualoneMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

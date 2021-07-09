@@ -1,0 +1,20 @@
+cem VitaminDIntake24HourTotalMeas
+	kind	statement
+	base	StatementBase
+	key			VitaminDIntake24HourTotal_CODE
+	data		Quantity
+	qual		AbnormalInterpretation
+		id		abnormalInterpretation
+		card	0-1
+	qual		DeltaFlag
+		id		deltaFlag
+		card	0-1
+	qual		ReferenceRangeNar
+		id		referenceRangeNar
+		card	0-1
+	constraint	abnormalInterpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationNumericNom_VSET
+	constraint	deltaFlag.data.codeableConcept.valueset
+		value	DeltaFlagNumericNom_VSET
+	constraint		data.quantity.unit_code
+		value	InternationalUnitsPerDay_CODE

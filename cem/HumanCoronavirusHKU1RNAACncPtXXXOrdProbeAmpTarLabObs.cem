@@ -1,0 +1,4 @@
+cem HumanCoronavirusHKU1RNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HumanCoronavirusHKU1RNAACncPtXXXOrdProbeAmpTar_CODE

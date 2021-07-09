@@ -1,0 +1,15 @@
+cem OxygenSaturationPulseOximetryPanel
+	kind    	panel
+    base        PanelBase
+	key         OxygenSaturationPulseOximetryPanel_CODE
+    item        OxygenSaturationArterialBloodPulseOximeterMeas
+        id      oxygenSaturationArterialBloodPulseOximeterMeas
+        card    1
+    item        OxygenFlowRateMeas
+        id      oxygenFlowRateMeas
+        card    0-1
+    item        FractionOfInspiredOxygenMeas
+        id      fractionOfInspiredOxygenMeas
+        card    0-1
+    constraint  oxygenFlowRateMeas.routeMethodDevice.card
+        value   0

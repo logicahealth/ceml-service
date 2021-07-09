@@ -1,0 +1,8 @@
+cem UnknownObservationNar
+	kind	statement
+	base	StatementBase
+	key			UnknownObservationNar_CODE
+	data		String
+	att			Updated
+		id		updated
+		card	0-1

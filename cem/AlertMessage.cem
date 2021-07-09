@@ -1,0 +1,9 @@
+cem AlertMessage
+	kind		component
+	key			AlertMessage_CODE
+	data		CodeableConcept
+	qual		MessageAssociatedInfoProperty
+		id		messageAssociatedInfoProperty
+		card	0-M
+	constraint	data.codeableConcept.valueset
+		value	AlertMessageCode_VSET

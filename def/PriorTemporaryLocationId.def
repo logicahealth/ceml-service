@@ -1,0 +1,5 @@
+PriorTemporaryLocationId is the CEM used to reflect the patient's temporary location (such as the Operating Room or X-ray) prior to a transfer from a temporary location to an actual location, or from a temporary location to another temporary location. The first component may be the nursing station for inpatient locations, or the
+clinic, department, or home for locations other than inpatient.
+        
+
+

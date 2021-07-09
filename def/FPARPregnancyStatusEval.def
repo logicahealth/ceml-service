@@ -1,0 +1,11 @@
+FPARPregnancyStatusEval "PregnancyStatusEval" by definition means whether a subject is pregnant or not. 
+Pregnancy status at time of encounter.
+
+PregnancyStatusReportingMethod is method used to determine pregnancy status. Value set has values such as "Patient self-report," "Point of Care Test," and "Lab test."
+
+@Author bsheale
+@Date 10 May 2017 10:32
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword ACOG, implementation
+

@@ -1,0 +1,6 @@
+cem SeleniumMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SeleniumMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

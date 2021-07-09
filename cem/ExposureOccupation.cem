@@ -1,0 +1,9 @@
+cem ExposureOccupation
+	kind		component
+	base		Occupation
+	key			ExposureOccupation_CODE
+	qual		LocationOfOccupation
+		id		locationOfOccupation
+		card	0-M
+    constraint  data.codeableConcept.valueset 
+        value   ExposureOccupation_VSET

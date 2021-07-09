@@ -1,0 +1,4 @@
+cem MicroscopicobservationPridPtTissNomTrichromestainLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MicroscopicobservationPridPtTissNomTrichromestain_CODE

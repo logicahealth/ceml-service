@@ -1,0 +1,4 @@
+cem Congregation
+	kind		component
+	key			Congregation_CODE
+	data		String

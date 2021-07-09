@@ -1,0 +1,6 @@
+cem OxygenContentSCncPtBldAQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxygenContentSCncPtBldAQn_CODE
+	constraint		data.quantity.unit_code
+		value	MolesPerLiter_CODE

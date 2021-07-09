@@ -1,0 +1,6 @@
+cem DeoxypyridinolineCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DeoxypyridinolineCreatinineScRtoPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	NanomolesPerGram_CODE

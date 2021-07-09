@@ -1,0 +1,4 @@
+cem EBVQuantitativeWholeBloodSourceLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			EBVQuantitativeWholeBloodSource_CODE

@@ -1,0 +1,6 @@
+cem CarboxyhemoglobinHemoglobinTotalInVenousCordBloodQuantitativeLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CarboxyhemoglobinHemoglobinTotalInVenousCordBloodQuantitative_CODE
+	constraint	data.quantity.unit_valueset
+		value	GeneralFractionUnits_VSET

@@ -1,0 +1,6 @@
+ReferenceRangeNom is a component clinical element model used to capture reference ranges that use coded values.  E.g. Urine color has the set of "normal" colors of yellow, straw, and amber.  Colors not in this set are considered abnormal and outside the reference range.
+
+@Author nrdavis1
+@Date 30 Mar 2021 07:57
+@Status draft
+@RequestedBy Graphite

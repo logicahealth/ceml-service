@@ -1,0 +1,6 @@
+cem BloodGroupAntibodiesPresentPridPtSerPlasNomColdIncubationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BloodGroupAntibodiesPresentPridPtSerPlasNomColdIncubation_CODE
+	constraint	data.codeableConcept.valueset
+		value	AntibodyID_VSET

@@ -1,0 +1,4 @@
+cem SubClass
+kind    component
+key     SubClass_CODE
+data    String	

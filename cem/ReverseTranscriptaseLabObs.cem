@@ -1,0 +1,4 @@
+cem ReverseTranscriptaseLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ReverseTranscriptase_CODE

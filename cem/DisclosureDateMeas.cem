@@ -1,0 +1,5 @@
+cem DisclosureDateMeas
+	kind	statement
+	base	StatementBase
+	key			DisclosureDate_CODE
+	data		DateTime

@@ -1,0 +1,6 @@
+cem DeltaAminolevulinateSCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DeltaAminolevulinateSCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

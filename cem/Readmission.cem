@@ -1,0 +1,4 @@
+cem Readmission
+	kind	component
+	key     Readmission_CODE
+	data	CodeableConcept

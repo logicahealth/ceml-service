@@ -1,0 +1,5 @@
+BradenScoreFrictionShearMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the  BradenScoreFrictionShearMeas model, the question is "what is the subject's  Braden friction shear score?" and the answer will be an ordinal value.
+BradenScoreFrictionShearMeas is an element of the braden score skin assessment tool. This section evaluates the patient's potential exposure to skin friction and shear.
+Values range from 1-3 and correspond as follows: '1'corresponds to 'Problem' with friction and shear, '2' corresponds to 'Potential problem', '3' to 'No apparent problem'.
+

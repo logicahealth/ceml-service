@@ -1,0 +1,15 @@
+cem MicroSlideEval
+	kind	statement
+	base	StatementBase
+	key			MicroSlideEval_CODE
+	data		CodeableConcept
+	qual		MicroSlideQuantitative
+		id		microSlideQuantitative
+		card	0-1
+	qual		MicroSlideQualitative
+		id		microSlideQualitative
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	MicroSlideEval_VSET

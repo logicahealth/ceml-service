@@ -1,0 +1,9 @@
+cem MorseFallScaleSecondaryDiagnosisMeas
+	kind    	statement 
+    base        StatementBase
+	key         MorseFallScaleSecondaryDiagnosis_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.strength
+		value	CNE
+	constraint	data.codeableOrdinal.valueset
+		value	MorseFallScaleSecondaryDiagnosisYesNo_VSET

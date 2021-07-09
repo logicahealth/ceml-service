@@ -1,0 +1,24 @@
+cem LogicalAssert
+	kind	statement
+	base	StatementBase
+	key			Assertion_CODE
+	data		CodeableConcept
+    qual		SupportingInformationIdentifier
+		id		supportingInformationIdentifier
+		card	0-M
+	qual		SupportingInformationText
+		id		supportingInformationText
+		card	0-1
+	qual		KnowledgeDocumentExternalId
+		id		knowledgeDocumentExternalId
+		card	0-1
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1
+	mod			Likelihood
+		id		likelihood
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	LogicalAssert_VSET

@@ -1,0 +1,6 @@
+cem CoagulationsurfaceinducedlupussensitivepercentcorrectionPctDiffPtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationsurfaceinducedlupussensitivepercentcorrectionPctDiffPtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

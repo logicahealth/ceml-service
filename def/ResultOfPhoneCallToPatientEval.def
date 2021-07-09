@@ -1,0 +1,4 @@
+ResultOfPhoneCallToPatientEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the ResultOfPhoneCallToPatientEval model, the question is "what was the Result Of Phone Call To Patient?" and the coded answers can be 'spoke with patient', 'left message', etc.
+"ResultOfPhoneCallToPatientEval" by definition means to capture the result of a phone call to patient.
+

@@ -1,0 +1,6 @@
+cem Num7MinusAminonitrazepamMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num7MinusAminonitrazepamMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

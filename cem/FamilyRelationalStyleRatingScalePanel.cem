@@ -1,0 +1,35 @@
+cem FamilyRelationalStyleRatingScalePanel
+	kind    	panel
+    base        PanelBase
+	key         FamilyRelationalStyleRatingScalePanel_CODE
+    item        WhoDoYouMostCommonlyTalkToOrGoToForHelpWhenYouDoNotFeelWellOrYouAreDistressedEval
+        id      whoDoYouMostCommonlyTalkToOrGoToForHelpWhenYouDoNotFeelWellOrYouAreDistressedEval
+        card    0-1
+    item        WeAreOftenInCrisisWeHaveManyProblemsAndUnsolvedConcernsTheResultOfOurFamilyContactIsConfusionAndChaosItIsHardForUsToKeepGeneralAppointmentsEval
+        id      weAreOftenInCrisisWeHaveManyProblemsAndUnsolvedConcernsTheResultOfOurFamilyContactIsConfusionAndChaosItIsHardForUsToKeepGeneralAppointmentsEval
+        card    0-1
+    item        WeHavePeopleWhoCanHelpUsInTimesOfStressWeValueAndAskForExpertsDoctorsNursesHelpWithOurProblemsEval
+        id      weHavePeopleWhoCanHelpUsInTimesOfStressWeValueAndAskForExpertsDoctorsNursesHelpWithOurProblemsEval
+        card    0-1
+    item        WeAreVeryIndependentAndDonTOftenNeedToCountOnOthersWeLikeToHandleProblemsOnOurOwnAskingForHelpIsScaryAndOftenUpsettingSoWeMayAvoidGettingTheSupportWeNeedEval
+        id      weAreVeryIndependentAndDonTOftenNeedToCountOnOthersWeLikeToHandleProblemsOnOurOwnAskingForHelpIsScaryAndOftenUpsettingSoWeMayAvoidGettingTheSupportWeNeedEval
+        card    0-1
+    item        OurFamilyAndFriendsAreWornOutBecauseItIsDifficultToDealWithAllOurNeedsWeAreGratefulForHelpButNotSureItWillWorkEval
+        id      ourFamilyAndFriendsAreWornOutBecauseItIsDifficultToDealWithAllOurNeedsWeAreGratefulForHelpButNotSureItWillWorkEval
+        card    0-1
+    item        WeThinkFamilyRelationshipsAreImportantRelationshipsAreSafeAndHelpfulToUsEval
+        id      weThinkFamilyRelationshipsAreImportantRelationshipsAreSafeAndHelpfulToUsEval
+        card    0-1
+    item        WeHaveManyFriendsButNotCloseFriendsWeAreOftenAloneWithOurProblemsEval
+        id      weHaveManyFriendsButNotCloseFriendsWeAreOftenAloneWithOurProblemsEval
+        card    0-1
+    item        WeAreHelpfulAndOpenWhenDealingWithProblemsOurFamilyContactsAreDirectAndCaringEvenWhenWeFightOrDisagreeWithEachOtherEval
+        id      weAreHelpfulAndOpenWhenDealingWithProblemsOurFamilyContactsAreDirectAndCaringEvenWhenWeFightOrDisagreeWithEachOtherEval
+        card    0-1
+    item        OurFamilyContactsCanBeRejectingDistantAndColdTheImportanceOfEarlyFamilyRelationshipsIsIgnoredOrForgottenEval
+        id      ourFamilyContactsCanBeRejectingDistantAndColdTheImportanceOfEarlyFamilyRelationshipsIsIgnoredOrForgottenEval
+        card    0-1
+    item        WeHavePainfulMemoriesOfEarlyFamilyRelationshipsWeAreStillAngryWithOurParentsEval
+        id      weHavePainfulMemoriesOfEarlyFamilyRelationshipsWeAreStillAngryWithOurParentsEval
+        card    0-1
+

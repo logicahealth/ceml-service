@@ -1,0 +1,23 @@
+cem UrinaryCatheterAssert
+	kind		statement
+	base		TubeDrainStomaAssert
+    qual        UrinaryDrainageBagLocation
+        id      urinaryDrainageBagLocation
+        card    0-1
+    qual        UrinaryDrainageSystem
+        id      urinaryDrainageSystem
+        card    0-M
+    qual        Method
+       id       method
+       card     0-1  
+    constraint  data.codeableConcept.valueset
+        value   UrinaryEliminationDevice_VSET
+ 	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	UrinaryCatheterBodyLocationPrecoord_VSET
+    constraint  tubeDrainStomaStabilizationMethod.data.codeableConcept.valueset
+        value   UrinaryCatheterSecuredMethod_VSET
+    constraint  method.data.codeableConcept.valueset
+        value   UrinaryEliminationMethod_VSET
+    constraint  tubeDrainStomaStatus.data.codeableConcept.valueset
+        value   UrinaryCatheterTubeDrainStomaStatus_VSET
+ 

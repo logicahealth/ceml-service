@@ -1,0 +1,4 @@
+cem FungusidentifiedPridPtSkinNomCultureLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			FungusidentifiedPridPtSkinNomCulture_CODE

@@ -1,0 +1,6 @@
+cem PHAdjustedToPatientsActualTemperatureLsCncPtBldVQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PHAdjustedToPatientsActualTemperatureLsCncPtBldVQn_CODE
+	constraint		data.quantity.unit_code
+		value	PH_CODE

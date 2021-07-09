@@ -1,0 +1,4 @@
+cem DRVVTwith11PooledNormalPlasmaTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DRVVTwith11PooledNormalPlasmaTimePtPPPQnCoag_CODE

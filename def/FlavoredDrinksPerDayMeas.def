@@ -1,0 +1,4 @@
+FlavoredDrinksPerDayMeas created on 05/Jul/2016 13:17  by Jael Lindblom for ABD.
+
+It is used to measure the amount of flavored drinks consumption per day prior to admission. If there is a need in the future for more associated preconditions to be added, the code constraint to Preadmission_CODE should be changed to a valueset constraint.
+

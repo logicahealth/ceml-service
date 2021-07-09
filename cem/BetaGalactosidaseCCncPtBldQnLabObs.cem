@@ -1,0 +1,6 @@
+cem BetaGalactosidaseCCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BetaGalactosidaseCCncPtBldQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

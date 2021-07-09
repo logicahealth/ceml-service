@@ -1,0 +1,13 @@
+cem EstimatedDueDateMeas
+	kind	statement
+	base	StatementBase
+	key			EstimatedDueDate_CODE
+	data		DateTime
+	qual		Method
+		id		method
+		card	0-1
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	method.data.codeableConcept.valueset
+		value	FetalEstimationMethod_VSET

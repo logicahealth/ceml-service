@@ -1,0 +1,6 @@
+cem Num8MinusHydroxyamoxapineMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num8MinusHydroxyamoxapineMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

@@ -1,0 +1,4 @@
+cem StreptococcusPyogenesEnzymeAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StreptococcusPyogenesEnzymeAbACncPtSerOrd_CODE

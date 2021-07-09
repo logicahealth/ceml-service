@@ -1,0 +1,7 @@
+cem CannabinoidsPrThrPtMeconiumOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CannabinoidsPrThrPtMeconiumOrdScreen_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	PosNegEquiIndet_VSET

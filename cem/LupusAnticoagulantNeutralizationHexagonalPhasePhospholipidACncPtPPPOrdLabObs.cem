@@ -1,0 +1,4 @@
+cem LupusAnticoagulantNeutralizationHexagonalPhasePhospholipidACncPtPPPOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LupusAnticoagulantNeutralizationHexagonalPhasePhospholipidACncPtPPPOrd_CODE

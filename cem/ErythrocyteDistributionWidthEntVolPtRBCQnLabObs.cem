@@ -1,0 +1,6 @@
+cem ErythrocyteDistributionWidthEntVolPtRBCQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocyteDistributionWidthEntVolPtRBCQn_CODE
+	constraint	data.quantity.unit_code
+		value	Femtoliters_CODE

@@ -1,0 +1,4 @@
+cem AcidAlbuminLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			AcidAlbumin_CODE

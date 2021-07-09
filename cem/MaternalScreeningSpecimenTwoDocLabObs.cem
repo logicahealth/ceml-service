@@ -1,0 +1,4 @@
+cem MaternalScreeningSpecimenTwoDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MaternalScreeningSpecimenTwoDoc_CODE

@@ -1,0 +1,6 @@
+cem ClostridiumTetaniAbIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ClostridiumTetaniAbIgGACncPtSerQn_CODE
+	constraint	data.quantity.unit_code
+		value	InternationalUnitsPerMilliliter_CODE

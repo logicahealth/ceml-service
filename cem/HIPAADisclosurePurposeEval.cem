@@ -1,0 +1,9 @@
+cem HIPAADisclosurePurposeEval
+	kind	statement
+	base	StatementBase
+	key			HIPAADisclosurePurpose_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	HIPAADisclosurePurpose_VSET

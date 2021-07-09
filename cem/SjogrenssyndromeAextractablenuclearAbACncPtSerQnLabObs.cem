@@ -1,0 +1,6 @@
+cem SjogrenssyndromeAextractablenuclearAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SjogrenssyndromeAextractablenuclearAbACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		ArbitraryUnitsPerMilliliter_CODE

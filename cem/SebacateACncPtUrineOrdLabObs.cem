@@ -1,0 +1,4 @@
+cem SebacateACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SebacateACncPtUrineOrd_CODE

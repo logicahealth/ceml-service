@@ -1,0 +1,5 @@
+cem APCResistanceProfileLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			APCResistanceProfile_CODE
+	

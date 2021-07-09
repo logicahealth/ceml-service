@@ -1,0 +1,25 @@
+cem HeadacheAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		PainSensationQuality
+		id		painSensationQuality
+		card	0-M
+	qual		Duration
+		id		duration
+		card	0-1
+	qual		AlleviatingFactor
+		id		alleviatingFactor
+		card	0-M
+	qual		ExacerbatingFactor
+		id		exacerbatingFactor
+		card	0-M
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-M
+	qual		Course
+		id		course
+		card	0-1
+	constraint	data.codeableConcept.valueset
+		value	Headache_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	HeadBodyLocationPrecoord_VSET

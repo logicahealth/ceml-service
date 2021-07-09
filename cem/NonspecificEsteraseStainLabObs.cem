@@ -1,0 +1,4 @@
+cem NonspecificEsteraseStainLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			NonspecificEsteraseStain_CODE

@@ -1,0 +1,7 @@
+cem TotalMinuteVolumeSettingMeas
+	kind	statement
+	base	StatementBase
+	key			MinuteVolumeSettingVRatPtVentilatorQn_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	LitersPerMinute_CODE

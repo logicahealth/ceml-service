@@ -1,0 +1,6 @@
+cem CaryatomentosaAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CaryatomentosaAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		KilounitsPerLiter_CODE

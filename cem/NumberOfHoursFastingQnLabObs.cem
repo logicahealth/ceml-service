@@ -1,0 +1,6 @@
+cem NumberOfHoursFastingQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NumberOfHoursFastingQn_CODE
+	constraint		data.quantity.unit_code
+		value	Hours_CODE

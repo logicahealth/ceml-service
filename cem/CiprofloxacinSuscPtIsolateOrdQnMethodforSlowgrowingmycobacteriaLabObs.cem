@@ -1,0 +1,4 @@
+cem CiprofloxacinSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteriaLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CiprofloxacinSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteria_CODE

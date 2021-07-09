@@ -1,0 +1,6 @@
+cem HydroxyprolineCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HydroxyprolineCreatinineScRtoPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicromolesPerGram_CODE

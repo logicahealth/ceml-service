@@ -1,0 +1,7 @@
+cem SARScoronavirus2AbIgAACncPtSerPlasQnIALabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         SARScoronavirus2AbIgAACncPtSerPlasQnIA_CODE
+    constraint  data.quantity.unit_code
+        value   Count_CODE
+

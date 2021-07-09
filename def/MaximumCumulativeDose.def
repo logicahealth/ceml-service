@@ -1,0 +1,7 @@
+MaximumCumulativeDose captures a maximum dose to represent medication order instructions such as, "Take Maximum of 10 mg/day," or "Maximum of 
+10 mg," (day implied).  This is different from ordered dose upper limit because ordered dose upper limit describes the maximum that can be 
+given in a single dose, whereas this describes a total maximum either within the duration of the order or in a specified time period, and is 
+a total of multiple doses. Maximum lifetime doses must be handled through decision support or other means where the information is available.
+
+         
+

@@ -1,0 +1,6 @@
+cem ImmuneComplexACncPtSerPlasQnRajiCellAssayLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ImmuneComplexACncPtSerPlasQnRajiCellAssay_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramEquivalentsPerMilliliter_CODE

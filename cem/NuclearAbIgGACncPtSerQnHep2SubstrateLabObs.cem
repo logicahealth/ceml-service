@@ -1,0 +1,6 @@
+cem NuclearAbIgGACncPtSerQnHep2SubstrateLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NuclearAbIgGACncPtSerQnHep2Substrate_CODE
+	constraint		data.quantity.unit_code
+		value	ArbitraryUnitsPerMilliliter_CODE

@@ -1,0 +1,6 @@
+
+cem NationalProviderId
+	kind    	component
+	key         NationalProviderId_CODE
+    data        Identifier
+

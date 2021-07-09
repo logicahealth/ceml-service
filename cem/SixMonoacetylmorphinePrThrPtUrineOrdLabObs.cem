@@ -1,0 +1,4 @@
+cem SixMonoacetylmorphinePrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SixMonoacetylmorphinePrThrPtUrineOrd_CODE

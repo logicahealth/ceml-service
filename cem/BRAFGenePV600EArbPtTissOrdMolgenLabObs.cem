@@ -1,0 +1,4 @@
+cem BRAFGenePV600EArbPtTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BRAFGenePV600EArbPtTissOrdMolgen_CODE

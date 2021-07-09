@@ -1,0 +1,9 @@
+cem BoneLesionLongitudinalLocation
+	kind    	component
+	key         BoneLesionLongitudinalLocation_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   BoneLesionLongitudinalLocation_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

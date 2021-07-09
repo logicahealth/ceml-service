@@ -1,0 +1,6 @@
+cem PenicillinSuscPtIsolateOrdQnMICLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PenicillinSuscPtIsolateOrdQnMIC_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerMilliliter_CODE

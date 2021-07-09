@@ -1,0 +1,9 @@
+cem VentilatorInspirationSettingMeas
+	kind	statement
+	base	StatementBase
+	key			VentilatorInspirationSetting_CODE
+	data		Quantity
+	constraint	data.quantity.unit_code
+		value	Seconds_CODE
+	constraint	data.quantity.unit_valueset
+		value	TimeUnits_VSET

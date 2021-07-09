@@ -1,0 +1,6 @@
+cem Length
+	kind    	component
+	key         Length_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	CentimetersMillimeters_VSET

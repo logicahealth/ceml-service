@@ -1,0 +1,9 @@
+cem BladderAccidentCountMeas
+	kind	statement
+	base	StatementBase
+	key     BladderAccidentCount_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	VoidingNumberRateUnits_VSET
+	constraint	data.quantity.unit_code
+		value	PerDay_CODE

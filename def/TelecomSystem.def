@@ -1,0 +1,3 @@
+TelecomSystem captures the form of telecommunications.  Value set derived from HL7 FHIR Contact data type.
+	Values are Phone, Fax, email, url. 
+

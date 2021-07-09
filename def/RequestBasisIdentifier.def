@@ -1,0 +1,10 @@
+RequestBasisIdentifier 
+
+This is a component model used to capture the identifying code or number for a plan, proposal or order that this request is intended to satisfy - in whole or in part. 
+
+@Author bsheale
+@Date 23 May 2017 15:34
+@Status draft
+@RequestedBy ACOG
+@Keyword referral
+

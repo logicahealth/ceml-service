@@ -1,0 +1,5 @@
+cem DeviceManufacturer
+	kind    	component
+	key         DeviceManufacturer_CODE
+    data        String
+

@@ -1,0 +1,4 @@
+cem CFAmplifiedLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CFAmplified_CODE

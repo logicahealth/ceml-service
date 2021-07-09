@@ -1,0 +1,6 @@
+cem BilirubinNonMinusGlucuronidatedMCncPtSerPlasQnDifferentialLightAbsorptionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BilirubinNonMinusGlucuronidatedMCncPtSerPlasQnDifferentialLightAbsorption_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

@@ -1,0 +1,6 @@
+cem TobramycinRandomMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TobramycinRandomMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

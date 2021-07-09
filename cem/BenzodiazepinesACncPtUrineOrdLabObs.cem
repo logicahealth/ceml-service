@@ -1,0 +1,6 @@
+cem BenzodiazepinesACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BenzodiazepinesACncPtUrineOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

@@ -1,0 +1,6 @@
+cem ReferenceRangeMeaning
+	kind	component
+	key     ReferenceRangeMeaning_CODE
+	data	CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   ReferenceRangeMeaning_VSET

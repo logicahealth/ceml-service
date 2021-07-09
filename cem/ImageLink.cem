@@ -1,0 +1,6 @@
+cem ImageLink
+	kind    	link
+	key         ImageLink_CODE
+	data        Identifier
+    constraint  data.identifier.key
+        value   Image_CODE

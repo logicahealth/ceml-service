@@ -1,0 +1,8 @@
+cem OdorType
+	kind		component
+	key			OdorType_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	OdorType_VSET

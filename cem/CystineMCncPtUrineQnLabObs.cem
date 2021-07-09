@@ -1,0 +1,6 @@
+cem CystineMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CystineMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerLiter_CODE

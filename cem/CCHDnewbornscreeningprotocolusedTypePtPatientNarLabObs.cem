@@ -1,0 +1,4 @@
+cem CCHDnewbornscreeningprotocolusedTypePtPatientNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			CCHDnewbornscreeningprotocolusedTypePtPatientNar_CODE

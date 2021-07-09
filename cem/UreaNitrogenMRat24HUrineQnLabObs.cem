@@ -1,0 +1,6 @@
+cem UreaNitrogenMRat24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			UreaNitrogenMRat24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	GramsPerDay_CODE

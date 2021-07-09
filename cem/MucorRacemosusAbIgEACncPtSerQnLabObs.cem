@@ -1,0 +1,6 @@
+cem MucorRacemosusAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MucorRacemosusAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	KilounitsPerLiter_CODE

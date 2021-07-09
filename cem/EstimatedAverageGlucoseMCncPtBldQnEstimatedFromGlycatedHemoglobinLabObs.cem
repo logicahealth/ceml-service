@@ -1,0 +1,6 @@
+cem EstimatedAverageGlucoseMCncPtBldQnEstimatedFromGlycatedHemoglobinLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EstimatedAverageGlucoseMCncPtBldQnEstimatedFromGlycatedHemoglobin_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

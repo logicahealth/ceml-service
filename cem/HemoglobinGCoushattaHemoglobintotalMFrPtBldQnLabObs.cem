@@ -1,0 +1,6 @@
+cem HemoglobinGCoushattaHemoglobintotalMFrPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HemoglobinGCoushattaHemoglobintotalMFrPtBldQn_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

@@ -1,0 +1,14 @@
+cem MiscellaneousOutputFluidPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			MiscellaneousOutputFluidPanel_CODE
+	item		MiscellaneousOutputFluidVolumeMeas
+		id		miscellaneousOutputFluidVolumeMeas
+		card	1
+	item		MiscellaneousOutputFluidDescriptionEval
+		id		miscellaneousOutputFluidDescriptionEval
+		card	0-M
+	constraint	method.data.codeableConcept.valueset
+		value	MiscellaneousOutputFluidMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	MiscellaneousOutputFluidDevice_VSET

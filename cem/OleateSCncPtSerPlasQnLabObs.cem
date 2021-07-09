@@ -1,0 +1,6 @@
+cem OleateSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OleateSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

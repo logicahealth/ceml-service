@@ -1,0 +1,10 @@
+cem DSVNIDistressScaleBehavioralColorScoreMeas
+	kind	statement
+	base	StatementBase
+	key			DSVNIDistressScaleBehavioralColorScore_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	DSVNIDistressScaleBehavioralColorScore_VSET

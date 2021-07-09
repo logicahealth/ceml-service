@@ -1,0 +1,4 @@
+cem ProviderInternalId
+	kind		component
+	key			ProviderInternalId_CODE
+	data		Identifier

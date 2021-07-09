@@ -1,0 +1,5 @@
+cem PropionylcarnitineC3PalmitoylcarnitineC16SRtoPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PropionylcarnitineC3PalmitoylcarnitineC16SRtoPtBlddotQn_CODE
+	

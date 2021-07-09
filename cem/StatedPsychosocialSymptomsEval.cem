@@ -1,0 +1,13 @@
+cem StatedPsychosocialSymptomsEval
+    kind        statement
+	base        StatementBase
+    key         StatedPsychosocialSymptoms_CODE
+    data	    CodeableConcept
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+    constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	StatedPsychosocialSymptoms_VSET
+

@@ -1,0 +1,4 @@
+cem CatecholaminesImpPtPlasNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CatecholaminesImpPtPlasNom_CODE

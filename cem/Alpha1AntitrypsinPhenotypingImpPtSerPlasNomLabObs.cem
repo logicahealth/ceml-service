@@ -1,0 +1,4 @@
+cem Alpha1AntitrypsinPhenotypingImpPtSerPlasNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			Alpha1AntitrypsinPhenotypingImpPtSerPlasNom_CODE

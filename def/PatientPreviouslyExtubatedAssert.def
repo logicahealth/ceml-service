@@ -1,0 +1,4 @@
+PatientPreviouslyExtubatedAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the PatientPreviouslyExtubatedAssert model, data is PatientPreviouslyExtubated_ECID which means the removal of a tube from an organ, structure, or orifice; specifically, removal of the tube after intubation..
+

@@ -1,0 +1,4 @@
+cem SessionId
+	kind		component
+	key			SessionId_CODE
+	data		String

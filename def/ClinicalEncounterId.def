@@ -1,0 +1,3 @@
+ClinicalEncounterId captures a clinical encounter identifier coming from an external system, and the encounter number is stored in the 
+		receiving system.
+

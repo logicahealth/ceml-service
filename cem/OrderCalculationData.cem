@@ -1,0 +1,4 @@
+cem OrderCalculationData
+	kind		component
+	key			OrderCalculationData_VSET
+	data		Quantity

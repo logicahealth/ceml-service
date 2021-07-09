@@ -1,0 +1,4 @@
+EyeExamEval model is an impression model. An impression model holds a "question" in the key and holds a coded value (CD) of  normal,   abnormal,  or  unremarkable  in data. For example, in the ExtremityExaminationImp model, the "question" is "What is the impression of the extremity examination?" and the "answer" in data can be "normal," "abnormal," or "unremarkable."
+In the EyeExamEval model the question is "What is the impression of the eye exam?" and the coded answer can be "abnormal" or "very abnormal."
+EyeExamEval by definition means an evaluation examination of the eye.
+

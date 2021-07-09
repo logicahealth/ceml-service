@@ -1,0 +1,6 @@
+cem MagnesiumMCncPtTPNQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MagnesiumMCncPtTPNQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

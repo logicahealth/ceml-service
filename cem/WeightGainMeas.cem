@@ -1,0 +1,13 @@
+cem WeightGainMeas
+	kind	statement
+	base	StatementBase
+    key     WeightGainAmount_CODE
+	data	Quantity
+    qual        TimeFrame
+        id      timeFrame
+        card    0-1
+	constraint	timeFrame.data.codeableConcept.code
+		value	Recent_CODE
+	constraint	data.quantity.unit_code
+	    value	Kilograms_CODE
+

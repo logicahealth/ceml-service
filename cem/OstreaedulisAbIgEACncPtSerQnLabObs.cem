@@ -1,0 +1,6 @@
+cem OstreaedulisAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OstreaedulisAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		KilounitsPerLiter_CODE

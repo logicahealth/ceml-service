@@ -1,0 +1,4 @@
+cem NeuraltubedefectHxPtPatientNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			NeuraltubedefectHxPtPatientNar_CODE

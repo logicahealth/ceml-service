@@ -1,0 +1,4 @@
+cem AmphiphysinAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AmphiphysinAbACncPtSerOrd_CODE

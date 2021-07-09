@@ -1,0 +1,6 @@
+cem FructosamineSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FructosamineSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

@@ -1,0 +1,26 @@
+
+cem CognitionPanel
+	kind	panel
+    base    PanelBase
+	key     CognitionPanel_CODE
+	item        CognitionEval
+        id      cognitionEval
+        card    1
+    item        MemoryAssessmentEval
+        id      memoryAssessmentEval
+        card    0-1
+    item        AbilityToFollowCommandsEval
+        id      abilityToFollowCommandsEval
+        card    0-1
+    item        YesNoReliabilityEval
+        id      yesNoReliabilityEval
+        card    0-1
+    item        SafetyJudgementEval
+        id      safetyJudgementEval
+        card    0-1
+    item        ProblemSolvingAbilityEval
+        id      problemSolvingAbilityEval
+        card    0-1
+    qual       DataAbsentReason
+        id     dataAbsentReason
+        card   0-M

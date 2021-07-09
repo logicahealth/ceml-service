@@ -1,0 +1,7 @@
+cem CytomegalovirusCNANCncPtXXXQnProbAmpTarLabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         CytomegalovirusCNANCncPtXXXQnProbAmpTar_CODE
+    constraint  data.quantity.unit_code
+        value   CopiesPerMilliliterNumberConcentrationUnits_CODE
+

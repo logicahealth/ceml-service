@@ -1,0 +1,6 @@
+cem NeutrophilsSegmented100LeukocytesNFrPtBldQnManualCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NeutrophilsSegmented100LeukocytesNFrPtBldQnManualCount_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

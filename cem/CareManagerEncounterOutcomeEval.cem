@@ -1,0 +1,9 @@
+cem CareManagerEncounterOutcomeEval
+	kind	statement
+	base	StatementBase
+	key			CareManagerEncounterOutcome_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	CareManagerEncounterOutcome_VSET

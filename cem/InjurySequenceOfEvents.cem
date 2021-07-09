@@ -1,0 +1,4 @@
+cem InjurySequenceOfEvents
+	kind		component
+	key			InjurySequenceOfEvents_CODE
+	data		String

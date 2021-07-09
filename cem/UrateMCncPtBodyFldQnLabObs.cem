@@ -1,0 +1,6 @@
+cem UrateMCncPtBodyFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			UrateMCncPtBodyFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

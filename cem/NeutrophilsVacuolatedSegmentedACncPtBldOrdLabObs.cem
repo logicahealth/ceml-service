@@ -1,0 +1,4 @@
+cem NeutrophilsVacuolatedSegmentedACncPtBldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeutrophilsVacuolatedSegmentedACncPtBldOrd_CODE

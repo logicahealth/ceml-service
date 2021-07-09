@@ -1,0 +1,4 @@
+Corrected is the act of altering something to make it correct, i.e. correcting a previously reported lab result after
+more information is available.
+Corrected is a child model of the Attribution model. It holds the who, when, where, and why information regarding the corrected action.
+

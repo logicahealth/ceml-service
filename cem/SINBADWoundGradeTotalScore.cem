@@ -1,0 +1,6 @@
+cem SINBADWoundGradeTotalScore
+	kind    	statement
+    base        StatementBase
+	key         SINBADWoundGradeTotalScore_CODE
+    data        Integer
+

@@ -1,0 +1,6 @@
+cem CoagulationReptilaseInducedFactorSubstitutionImmediatelyAfterAdditionOfNormalPlasmaTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationReptilaseInducedFactorSubstitutionImmediatelyAfterAdditionOfNormalPlasmaTimePtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

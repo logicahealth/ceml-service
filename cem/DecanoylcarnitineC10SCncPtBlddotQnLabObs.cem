@@ -1,0 +1,6 @@
+cem DecanoylcarnitineC10SCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DecanoylcarnitineC10SCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

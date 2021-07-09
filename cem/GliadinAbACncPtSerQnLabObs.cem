@@ -1,0 +1,4 @@
+cem GliadinAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GliadinAbACncPtSerQn_CODE

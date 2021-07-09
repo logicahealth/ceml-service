@@ -1,0 +1,4 @@
+cem TrichomonasvaginalisrRNAPrThrPtGenitalOrdProbeLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TrichomonasvaginalisrRNAPrThrPtGenitalOrdProbe_CODE

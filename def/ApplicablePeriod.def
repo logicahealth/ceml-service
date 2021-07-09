@@ -1,0 +1,2 @@
+ApplicablePeriod describes the date and/or time range which the data is valid.  If there is no start or beginning time then the start time is not known.
+If there is no end time then the period is ongoing.

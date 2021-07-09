@@ -1,0 +1,6 @@
+StageValue is a coded value that represents the wound or burn gradation stage.  Each wound will have a grade and each grade will have a stage according to the University of Texas Diabetic Foot Ulcer grading system.  Currently no LOINC code to associate this to.
+
+@Author nrdavis1
+@Date 28 Jan 2020 09:48
+@Status draft
+@RequestedBy Logica Wound project.

@@ -1,0 +1,4 @@
+cem VentilationModePridPtVentilatorNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			VentilationModePridPtVentilatorNom_CODE

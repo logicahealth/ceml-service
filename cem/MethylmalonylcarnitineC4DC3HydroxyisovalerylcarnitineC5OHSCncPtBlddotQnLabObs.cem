@@ -1,0 +1,6 @@
+cem MethylmalonylcarnitineC4DC3HydroxyisovalerylcarnitineC5OHSCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethylmalonylcarnitineC4DC3HydroxyisovalerylcarnitineC5OHSCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

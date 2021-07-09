@@ -1,0 +1,6 @@
+cem PenicillinVAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PenicillinVAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	KilounitsPerLiter_CODE

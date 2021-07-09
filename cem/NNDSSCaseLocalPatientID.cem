@@ -1,0 +1,6 @@
+cem NNDSSCaseLocalPatientID
+	kind    	component
+	key         NNDSSCaseLocalPatientID_CODE
+    data        Identifier
+
+

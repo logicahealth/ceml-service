@@ -1,0 +1,6 @@
+cem GlutarylcarnitineC5DC3HydroxyhexanoylcarnitineC6OHSCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GlutarylcarnitineC5DC3HydroxyhexanoylcarnitineC6OHSCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

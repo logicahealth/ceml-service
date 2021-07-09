@@ -1,0 +1,5 @@
+cem CoccidioidesImmitisAbIgGACncPtXXXQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoccidioidesImmitisAbIgGACncPtXXXQn_CODE
+	

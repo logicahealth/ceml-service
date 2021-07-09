@@ -1,0 +1,6 @@
+cem Num3MethoxyODesmethylencainideMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num3MethoxyODesmethylencainideMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

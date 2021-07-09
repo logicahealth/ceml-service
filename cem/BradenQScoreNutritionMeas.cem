@@ -1,0 +1,9 @@
+cem BradenQScoreNutritionMeas
+	kind		statement
+    base        StatementBase
+	key			BradenQScoreNutrition_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.valueset
+		value	BradenQScoreNutrition_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

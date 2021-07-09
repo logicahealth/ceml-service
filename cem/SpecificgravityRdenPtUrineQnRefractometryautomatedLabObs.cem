@@ -1,0 +1,4 @@
+cem SpecificgravityRdenPtUrineQnRefractometryautomatedLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SpecificgravityRdenPtUrineQnRefractometryautomated_CODE

@@ -1,0 +1,6 @@
+cem TestosteronefreeSCncPtSerPlasQnRIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TestosteronefreeSCncPtSerPlasQnRIA_CODE
+	constraint		data.quantity.unit_code
+			value		MillimolesPerLiter_CODE

@@ -1,0 +1,4 @@
+cem ErythrocytesPrThrPtVagOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ErythrocytesPrThrPtVagOrd_CODE

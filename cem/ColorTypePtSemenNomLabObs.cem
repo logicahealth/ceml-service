@@ -1,0 +1,6 @@
+cem ColorTypePtSemenNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ColorTypePtSemenNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	SemenColor_VSET

@@ -1,0 +1,6 @@
+cem RibonucleoproteinExtractableNuclearAbIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RibonucleoproteinExtractableNuclearAbIgGACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	AbsorbanceUnitsPerMilliliter_CODE

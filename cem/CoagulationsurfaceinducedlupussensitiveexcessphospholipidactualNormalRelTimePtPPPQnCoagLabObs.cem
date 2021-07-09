@@ -1,0 +1,6 @@
+cem CoagulationsurfaceinducedlupussensitiveexcessphospholipidactualNormalRelTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationsurfaceinducedlupussensitiveexcessphospholipidactualNormalRelTimePtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

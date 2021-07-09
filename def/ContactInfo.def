@@ -1,0 +1,3 @@
+ContactInfo captures the contact information. For example, if the contact mode is fax, 
+then contactInfo will capture the fax number; if the contact mode is email, then it will capture the email address.
+

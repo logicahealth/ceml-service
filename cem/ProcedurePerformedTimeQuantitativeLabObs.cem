@@ -1,0 +1,4 @@
+cem ProcedurePerformedTimeQuantitativeLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ProcedurePerformedTimeQuantitative_CODE

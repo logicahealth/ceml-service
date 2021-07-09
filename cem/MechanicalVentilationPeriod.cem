@@ -1,0 +1,16 @@
+cem MechanicalVentilationPeriod
+	kind	statement
+	base	StatementBase
+	key			MechanicalVentilationPeriod_CODE
+	item		StartTime
+		id		startTime
+		card	0-1
+	item		EndTime
+		id		endTime
+		card	0-1
+	att			Inferred
+		id		inferred
+		card	0-M
+	att			Updated
+		id		updated
+		card	0-1

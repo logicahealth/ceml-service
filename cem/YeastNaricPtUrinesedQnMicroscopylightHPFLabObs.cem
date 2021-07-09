@@ -1,0 +1,6 @@
+cem YeastNaricPtUrinesedQnMicroscopylightHPFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			YeastNaricPtUrinesedQnMicroscopylightHPF_CODE
+	constraint		data.quantity.unit_code
+			value		PerHighPowerField_CODE

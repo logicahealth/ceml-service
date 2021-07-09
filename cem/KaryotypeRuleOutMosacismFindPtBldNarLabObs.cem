@@ -1,0 +1,4 @@
+cem KaryotypeRuleOutMosacismFindPtBldNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			KaryotypeRuleOutMosacismFindPtBldNar_CODE

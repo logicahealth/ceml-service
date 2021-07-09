@@ -1,0 +1,6 @@
+cem SyagrusromanzoffianumAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SyagrusromanzoffianumAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		KilounitsPerLiter_CODE

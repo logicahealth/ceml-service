@@ -1,0 +1,4 @@
+cem AmphetaminesACncPtUrineOrdConfirmLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AmphetaminesACncPtUrineOrdConfirm_CODE

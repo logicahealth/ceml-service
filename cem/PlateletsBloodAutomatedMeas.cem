@@ -1,0 +1,26 @@
+cem PlateletsBloodAutomatedMeas
+	kind	statement
+	base	StatementBase
+	key			PlateletsBloodAutomated_CODE
+	data		Quantity
+	qual		Method
+		id		method
+		card	0-1
+	qual		Device
+		id		device
+		card	0-1
+	qual		AbnormalInterpretation
+		id		abnormalInterpretation
+		card	0-1
+	qual		DeltaFlag
+		id		deltaFlag
+		card	0-1
+	qual		ReferenceRangeNar
+		id		referenceRangeNar
+		card	0-1
+	constraint	abnormalInterpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationNumericNom_VSET
+	constraint	deltaFlag.data.codeableConcept.valueset
+		value	DeltaFlagNumericNom_VSET
+	constraint		data.quantity.unit_code
+		value	ThousandsPerMicroLiter_CODE

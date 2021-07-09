@@ -1,0 +1,4 @@
+cem MitochondriaAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MitochondriaAbACncPtSerOrd_CODE

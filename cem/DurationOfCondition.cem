@@ -1,0 +1,8 @@
+cem DurationOfCondition
+	kind		component
+	key			DurationOfCondition_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	TimeUnits_VSET
+	constraint	data.quantity.unit_code
+		value	Days_CODE

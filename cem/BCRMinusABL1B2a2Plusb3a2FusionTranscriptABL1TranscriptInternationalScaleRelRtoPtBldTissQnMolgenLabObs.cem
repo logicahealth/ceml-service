@@ -1,0 +1,6 @@
+cem BCRMinusABL1B2a2Plusb3a2FusionTranscriptABL1TranscriptInternationalScaleRelRtoPtBldTissQnMolgenLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BCRMinusABL1B2a2Plusb3a2FusionTranscriptABL1TranscriptInternationalScaleRelRtoPtBldTissQnMolgen_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

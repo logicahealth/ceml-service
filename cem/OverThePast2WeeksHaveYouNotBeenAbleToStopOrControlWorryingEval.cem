@@ -1,0 +1,10 @@
+cem OverThePast2WeeksHaveYouNotBeenAbleToStopOrControlWorryingEval
+
+	kind	statement
+	base	StatementBase
+    key     OverThePast2WeeksHaveYouNotBeenAbleToStopOrControlWorrying_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET
+

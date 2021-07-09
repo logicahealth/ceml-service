@@ -1,0 +1,5 @@
+cem HerpesVirus6AbIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HerpesVirus6AbIgGACncPtSerQn_CODE
+	

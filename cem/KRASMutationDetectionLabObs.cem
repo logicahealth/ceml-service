@@ -1,0 +1,4 @@
+cem KRASMutationDetectionLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			KRASMutationDetection_CODE

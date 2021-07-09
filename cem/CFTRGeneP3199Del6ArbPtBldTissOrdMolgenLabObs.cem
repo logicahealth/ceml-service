@@ -1,0 +1,4 @@
+cem CFTRGeneP3199Del6ArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CFTRGeneP3199Del6ArbPtBldTissOrdMolgen_CODE

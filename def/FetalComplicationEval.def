@@ -1,0 +1,4 @@
+FetalComplicationEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD or CO) "answer" in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?" and the "answer" in data can be "White."
+In the FetalActivityEval model, the question is "What is the complication of the fetus?" and the coded answers can be 'Fetal Demise,' 'Polyhydramnios,' and 'Prolapsed Umbilical Cord,' etc.         
+"Fetal complication" by definition means "The problem arising during mother's pregnancy that puts the fetus at risk."        
+

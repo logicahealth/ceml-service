@@ -1,0 +1,5 @@
+CardiacMonitoringLeadPlacementAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the CardiacMonitoringLeadPlacementAssert model, data is code CardiacMonitoringLeadPlacement_CODE. 
+This model describes the assertion that cardiac monitoring lead(s) are placed on the patient.
+

@@ -1,0 +1,6 @@
+cem PrednisoloneMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PrednisoloneMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerDeciliter_CODE

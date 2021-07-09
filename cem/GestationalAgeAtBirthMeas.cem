@@ -1,0 +1,15 @@
+cem GestationalAgeAtBirthMeas
+	kind	statement
+	base	StatementBase
+	key			GestationalAgeAtBirth_CODE
+	data		Quantity
+	qual		Method
+		id		method
+		card	0-1
+	qual		Device
+		id		device
+		card	0-1
+	constraint	method.data.codeableConcept.valueset
+		value	GestationalAgeMethod_VSET
+	constraint		data.quantity.unit_code
+		value	Days_CODE

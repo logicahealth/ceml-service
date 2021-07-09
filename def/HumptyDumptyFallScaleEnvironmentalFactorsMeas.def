@@ -1,0 +1,3 @@
+HumptyDumptyFallScaleEnvironmentalFactorsMeas created on 12/Sep/2016 16:20 by Jael Lindblom for ABD.
+
+This model is part of the HumptyDumptyFallScalePanel. It evaluates environmental factors that can contribute to fall risk. The values are "History of falls", "Infant-Toddler placed in bed", "Assistive devices", "Infant-Toddler in Crib", "Furniture/Lighting", Older than infant-toddler placed in bed" and "Outpatient area" and are each associated with an ordinal value for the score.

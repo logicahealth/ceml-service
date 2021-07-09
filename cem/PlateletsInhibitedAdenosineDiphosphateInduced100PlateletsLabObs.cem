@@ -1,0 +1,6 @@
+cem PlateletsInhibitedAdenosineDiphosphateInduced100PlateletsLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PlateletsInhibitedAdenosineDiphosphateInduced100Platelets_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

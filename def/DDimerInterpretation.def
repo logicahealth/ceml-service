@@ -1,0 +1,3 @@
+DDimerInterpretation is a model used to store a qualitative description of a D-Dimer result. For example, a clinican or decision support system analyzes the result 
+report by the lab and puts that result in the bucket of positive or negative. 
+This model was made specifically for the Homer Warner center for use in the pulomonary embolism (PE) clinical decision support application.

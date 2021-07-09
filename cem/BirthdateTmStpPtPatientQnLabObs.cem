@@ -1,0 +1,4 @@
+cem BirthdateTmStpPtPatientQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BirthdateTmStpPtPatientQn_CODE

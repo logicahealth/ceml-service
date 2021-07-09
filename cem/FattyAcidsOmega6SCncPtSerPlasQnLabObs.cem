@@ -1,0 +1,6 @@
+cem FattyAcidsOmega6SCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FattyAcidsOmega6SCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

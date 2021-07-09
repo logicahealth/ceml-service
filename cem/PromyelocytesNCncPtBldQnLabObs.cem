@@ -1,0 +1,6 @@
+cem PromyelocytesNCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PromyelocytesNCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	ThousandsPerMicroliter_CODE

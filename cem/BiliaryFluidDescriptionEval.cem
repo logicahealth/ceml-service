@@ -1,0 +1,10 @@
+cem BiliaryFluidDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			BiliaryFluidDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	BiliaryFluidDescription_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	BiliaryDrainDevice_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	BiliaryDrainBodyLocationPrecoord_VSET

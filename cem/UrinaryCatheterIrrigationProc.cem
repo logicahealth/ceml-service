@@ -1,0 +1,5 @@
+cem UrinaryCatheterIrrigationProc
+	kind		statement
+	base		Procedure
+	constraint	data.codeableConcept.code
+		value	UrinaryCatheterIrrigation_CODE

@@ -1,0 +1,4 @@
+cem KnowledgeDocumentExternalId
+	kind	component
+	key		KnowledgeDocumentExternalId_CODE
+    data    Identifier

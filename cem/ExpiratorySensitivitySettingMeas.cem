@@ -1,0 +1,7 @@
+cem ExpiratorySensitivitySettingMeas
+	kind	statement
+	base	StatementBase
+	key			ExpiratorySensitivitySetting_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

@@ -1,0 +1,8 @@
+cem TeachingDoneBy
+	kind		component
+	key			TeachingDoneBy_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ProviderPractitionerType_VSET

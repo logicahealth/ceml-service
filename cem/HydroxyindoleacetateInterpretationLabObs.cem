@@ -1,0 +1,4 @@
+cem HydroxyindoleacetateInterpretationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HydroxyindoleacetateInterpretation_CODE

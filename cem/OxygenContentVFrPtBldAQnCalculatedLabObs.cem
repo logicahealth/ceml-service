@@ -1,0 +1,6 @@
+cem OxygenContentVFrPtBldAQnCalculatedLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxygenContentVFrPtBldAQnCalculated_CODE
+	constraint		data.quantity.unit_code
+		value	MillilitersPerDeciliter_CODE

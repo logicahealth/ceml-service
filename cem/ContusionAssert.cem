@@ -1,0 +1,8 @@
+cem ContusionAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		MechanismOfInjury
+		id		mechanismOfInjury
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	Contusion_CODE

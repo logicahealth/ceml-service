@@ -1,0 +1,6 @@
+cem GiardiaLambliaAgACncPtStoolOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			GiardiaLambliaAgACncPtStoolOrdEIA_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	DetectedNotDetIndeterminate_VSET

@@ -1,0 +1,6 @@
+cem Num17MinusHydroxycorticosteroidsCreatinineMCrto24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num17MinusHydroxycorticosteroidsCreatinineMCrto24HUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MilligramsPerGram_CODE

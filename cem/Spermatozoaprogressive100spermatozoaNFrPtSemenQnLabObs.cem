@@ -1,0 +1,6 @@
+cem Spermatozoaprogressive100spermatozoaNFrPtSemenQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Spermatozoaprogressive100spermatozoaNFrPtSemenQn_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

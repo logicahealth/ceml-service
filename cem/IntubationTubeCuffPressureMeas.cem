@@ -1,0 +1,7 @@
+cem IntubationTubeCuffPressureMeas
+	kind	statement
+	base	StatementBase
+	key			IntubationTubeCuffPressure_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	CentimetersOfWater_CODE

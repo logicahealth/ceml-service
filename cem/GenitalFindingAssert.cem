@@ -1,0 +1,10 @@
+cem GenitalFindingAssert
+	kind    	statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	GenitalFinding_VSET
+    constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	GenitaliaBodyLocationPrecoord_VSET
+    

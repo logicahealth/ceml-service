@@ -1,0 +1,6 @@
+cem OralIntakeFluidVolumeMeas
+	kind		statement
+	base		IntakeFluidVolumeMeas
+	key			OralIntakeFluidVolume_CODE
+	constraint	bodyLocationPrecoord.data.codeableConcept.code
+		value	Oral_CODE

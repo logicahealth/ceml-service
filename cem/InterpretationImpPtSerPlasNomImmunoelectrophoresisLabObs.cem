@@ -1,0 +1,4 @@
+cem InterpretationImpPtSerPlasNomImmunoelectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationImpPtSerPlasNomImmunoelectrophoresis_CODE

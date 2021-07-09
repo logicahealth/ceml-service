@@ -1,0 +1,6 @@
+cem AlkalinephosphataseliverCCncPtSerPlasQnHeatstabilityLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlkalinephosphataseliverCCncPtSerPlasQnHeatstability_CODE
+	constraint		data.quantity.unit_code
+			value		UnitsPerLiter_CODE

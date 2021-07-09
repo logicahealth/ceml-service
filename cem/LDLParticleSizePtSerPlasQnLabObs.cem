@@ -1,0 +1,6 @@
+cem LDLParticleSizePtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LDLParticleSizePtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	Nanometer_CODE

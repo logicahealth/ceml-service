@@ -1,0 +1,2 @@
+StandardizedScoreName is a model used to store the name of a standardized score used in decision support. For example PESI, for Glasgow Coma Score.
+This model was made specifically for the Homer Warner center for use in the pulomonary embolism (PE) clinical decision support application.

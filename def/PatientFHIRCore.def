@@ -1,0 +1,6 @@
+PatientFHIRCore captures information for a patient as modeled in the FHIR core resource.
+
+@Author lpnzhuo
+@Date 26 Feb 2021 10:37
+@Status draft
+@RequestedBy Graphite

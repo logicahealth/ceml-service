@@ -1,0 +1,4 @@
+cem MultipleBirthOrderNumber
+	kind		component
+	key			MultipleBirthOrderNumber_CODE
+	data		Integer

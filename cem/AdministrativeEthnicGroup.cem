@@ -1,0 +1,8 @@
+cem AdministrativeEthnicGroup
+	kind		component
+	key			AdministrativeEthnicGroup_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	EthnicGroup_VSET

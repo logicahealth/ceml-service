@@ -1,0 +1,6 @@
+cem AlbuminMCnc24HUrineQnDetectionlimit20mgLLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlbuminMCnc24HUrineQnDetectionlimit20mgL_CODE
+	constraint		data.quantity.unit_code
+			value		MilligramsPerDeciliter_CODE

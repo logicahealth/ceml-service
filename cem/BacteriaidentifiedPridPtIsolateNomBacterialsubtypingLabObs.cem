@@ -1,0 +1,4 @@
+cem BacteriaidentifiedPridPtIsolateNomBacterialsubtypingLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BacteriaidentifiedPridPtIsolateNomBacterialsubtyping_CODE

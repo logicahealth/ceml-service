@@ -1,0 +1,6 @@
+cem ArtemisiaAbsinthiumAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ArtemisiaAbsinthiumAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	KilounitsPerLiter_CODE

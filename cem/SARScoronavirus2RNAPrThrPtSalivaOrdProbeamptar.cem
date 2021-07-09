@@ -1,0 +1,7 @@
+cem SARScoronavirus2RNAPrThrPtSalivaOrdProbeamptar
+	kind    	statement
+    base        StandardLabObsOrdinal
+	key         SARScoronavirus2RNAPrThrPtSalivaOrdProbeamptar_CODE
+    constraint  data.codeableOrdinal.valueset
+        value   DetectedNotDectedEqIn_VSET
+

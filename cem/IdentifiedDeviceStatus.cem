@@ -1,0 +1,8 @@
+cem IdentifiedDeviceStatus
+	kind		component
+	key			IdentifiedDeviceStatus_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	IdentifiedDeviceStatus_VSET

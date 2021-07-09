@@ -1,0 +1,6 @@
+cem SaccharomycescerevisiaeAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SaccharomycescerevisiaeAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		KilounitsPerLiter_CODE

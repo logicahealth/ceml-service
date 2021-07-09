@@ -1,0 +1,7 @@
+cem RevisedGenevaUnilateralLowerLimbPainScore
+	kind	statement
+	base	StatementBase
+	key     RevisedGenevaUnilateralLowerLimbPainScore_CODE
+	data	CodeableOrdinal
+    constraint  data.codeableOrdinal.valueset
+        value   RevisedGenevaScoreUnilateralLegPain_VSET

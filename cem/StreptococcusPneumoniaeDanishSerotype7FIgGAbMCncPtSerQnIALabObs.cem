@@ -1,0 +1,7 @@
+cem StreptococcusPneumoniaeDanishSerotype7FIgGAbMCncPtSerQnIALabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         SStreptococcusPneumoniaeDanishSerotype7FIgGAbMCncPtSerQnIA_CODE
+    constraint  data.quantity.unit_code
+        value   MicrogramsPerMilliliter_CODE
+

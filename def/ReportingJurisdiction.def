@@ -1,0 +1,6 @@
+ReportingJurisdiction is the model to record the reporting jurisdiction where the PUI or case was identified. The reporting jurisdiction must be a state/city/territory authorized to submit data through NNDSS.
+
+@Author lpnzhuo
+@Date 01 Apr 2020 13:35
+@Status draft
+@RequestedBy Logica

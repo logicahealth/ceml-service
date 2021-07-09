@@ -1,0 +1,17 @@
+cem SuicidalIdeationCSSRSEval
+
+	kind	statement
+	base	StatementBase
+    key     SuicidalIdeationCSSRS_CODE
+	data	CodeableConcept
+    qual    TimeFrameCSSRS
+        id  timeFrameCSSRS
+        card 1
+
+	constraint	data.codeableConcept.strength
+	    value	CNE
+	constraint	data.codeableConcept.valueset
+	    value	SuicidalIdeationCSSRS_VSET
+    constraint	timeFrameCSSRS.data.codeableConcept.code
+		value	PastMonth_CODE
+

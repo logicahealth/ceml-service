@@ -1,0 +1,6 @@
+cem CholesterolInLDLMCncPtSerPlasQnCalculatedLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CholesterolInLDLMCncPtSerPlasQnCalculated_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

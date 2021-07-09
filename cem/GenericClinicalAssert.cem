@@ -1,0 +1,6 @@
+cem GenericClinicalAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		Course
+		id		course
+		card	0-1

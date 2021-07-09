@@ -1,0 +1,3 @@
+OrganizationNameUse is a component model.
+This is the OrganizationNameUse CEM.  The only values presently in HL7 (2.23) within EntityNameUse - OrganizationNameUse are alphabetic, ideographic, syllabic, and EntityNameSearchUse.  In EntityNameUseR2, there is no separate value set for OrganizationNameUse.
+

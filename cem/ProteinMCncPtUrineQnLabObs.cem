@@ -1,0 +1,6 @@
+cem ProteinMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ProteinMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

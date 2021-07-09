@@ -1,0 +1,4 @@
+cem HoldSpecimenFor30DaysLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HoldSpecimenFor30Days_CODE

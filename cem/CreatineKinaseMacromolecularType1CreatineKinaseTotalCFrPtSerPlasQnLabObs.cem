@@ -1,0 +1,6 @@
+cem CreatineKinaseMacromolecularType1CreatineKinaseTotalCFrPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CreatineKinaseMacromolecularType1CreatineKinaseTotalCFrPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

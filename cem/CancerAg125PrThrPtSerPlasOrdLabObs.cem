@@ -1,0 +1,4 @@
+cem CancerAg125PrThrPtSerPlasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CancerAg125PrThrPtSerPlasOrd_CODE

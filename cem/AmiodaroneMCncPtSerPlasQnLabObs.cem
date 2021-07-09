@@ -1,0 +1,6 @@
+cem AmiodaroneMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmiodaroneMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

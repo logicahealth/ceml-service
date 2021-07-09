@@ -1,0 +1,4 @@
+cem StreptomycinhighpotencySuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			StreptomycinhighpotencySuscPtIsolateOrdQn_CODE

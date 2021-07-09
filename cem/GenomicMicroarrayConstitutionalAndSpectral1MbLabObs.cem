@@ -1,0 +1,4 @@
+cem GenomicMicroarrayConstitutionalAndSpectral1MbLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			GenomicMicroarrayConstitutionalAndSpectral1Mb_CODE

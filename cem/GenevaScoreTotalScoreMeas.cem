@@ -1,0 +1,5 @@
+cem GenevaScoreTotalScoreMeas
+	kind	statement
+	base	StatementBase
+	key     GenevaScoreTotalScoreMeas_CODE
+	data	Integer

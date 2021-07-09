@@ -1,0 +1,12 @@
+cem HygieneProvidedEval
+	kind    	statement
+    base        StatementBase
+	key         HygieneProvided_CODE
+    data		CodeableConcept
+	qual		HygieneProvidedIndicator
+		id		hygieneProvidedIndicator
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	HygieneTypes_VSET

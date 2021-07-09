@@ -1,0 +1,4 @@
+cem NitrofurantoinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NitrofurantoinSuscPtIsolateOrdQnGradientstrip_CODE

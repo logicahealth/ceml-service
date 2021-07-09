@@ -1,0 +1,8 @@
+cem DrainageFluidAmountDescription
+	kind		component
+	key			DrainageFluidAmountDescription_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	DrainageFluidAmountDescription_VSET

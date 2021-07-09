@@ -1,0 +1,6 @@
+cem HIV1RNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HIV1RNAACncPtXXXOrdProbeAmpTar_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	FPARHIV1RNADetectedNotDetected_VSET

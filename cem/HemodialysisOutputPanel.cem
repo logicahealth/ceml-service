@@ -1,0 +1,16 @@
+cem HemodialysisOutputPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			HemodialysisOutputPanel_CODE
+	item		HemodialysisOutputVolumeMeas
+		id		hemodialysisOutputVolumeMeas
+		card	1
+	item		HemodialysisOutputDescriptionEval
+		id		hemodialysisOutputDescriptionEval
+		card	0-M
+	constraint	method.data.codeableConcept.valueset
+		value	HemodialysisMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	HemodialysisDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	HemodialysisBodyLocationPrecoord_VSET

@@ -1,0 +1,6 @@
+cem Route
+	kind	component
+	key     Route_CODE
+	data	CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Route_VSET

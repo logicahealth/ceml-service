@@ -1,0 +1,2 @@
+The RevisedGenevaHeartRateScore CEM
+This is the score given for an observation of a heart rate of 75 to 94 beats per minute or a heart rate of 95 or higher beats per minute as part of the composite Revised Geneva Score.  The lower heart rate will be scored with a value of 3 and the higher will be scored with a value of 5.  If the heart rate is lower than 75 bpm the score value will be 0.

@@ -1,0 +1,15 @@
+cem AdministrativeAffiliation
+	kind		component
+	key			AdministrativeAffiliation_CODE
+	item		ActStatus
+		id		actStatus
+		card	0-1
+	item		StartTime
+		id		startTime
+		card	0-1
+	item		EndTime
+		id		endTime
+		card	0-1
+	item		OrganizationId
+		id		organizationId
+		card	0-1

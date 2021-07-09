@@ -1,0 +1,5 @@
+VisitDataLevel specifies the level on which data are being sent. It is the indicator used to send data at two levels, visit and account.
+HL7 recommends sending an or no value when the data in the messageare at the account level, or to indicate that the data sent in the message are at the visit level.
+        
+
+

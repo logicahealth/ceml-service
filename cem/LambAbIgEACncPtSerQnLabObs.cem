@@ -1,0 +1,6 @@
+cem LambAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LambAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	KilounitsPerLiter_CODE

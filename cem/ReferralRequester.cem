@@ -1,0 +1,11 @@
+cem ReferralRequester
+	kind    	component
+	key         ReferralRequester_CODE
+
+    item        ReferringAgentIdentifier
+        id      referringAgentIdentifier
+        card    1
+
+    item        OrganizationActingForIdentifier
+        id      organizationActingForIdentifier
+        card    0-1

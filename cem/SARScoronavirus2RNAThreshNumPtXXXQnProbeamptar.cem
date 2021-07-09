@@ -1,0 +1,7 @@
+cem SARScoronavirus2RNAThreshNumPtXXXQnProbeamptar
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         SARScoronavirus2RNAThreshNumPtXXXQnProbeamptar_CODE
+    constraint  data.quantity.unit_code
+        value   Count_CODE
+

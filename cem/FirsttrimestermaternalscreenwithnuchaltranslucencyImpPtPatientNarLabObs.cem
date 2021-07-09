@@ -1,0 +1,4 @@
+cem FirsttrimestermaternalscreenwithnuchaltranslucencyImpPtPatientNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			FirsttrimestermaternalscreenwithnuchaltranslucencyImpPtPatientNar_CODE

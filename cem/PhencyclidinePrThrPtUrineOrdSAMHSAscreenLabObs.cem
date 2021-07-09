@@ -1,0 +1,4 @@
+cem PhencyclidinePrThrPtUrineOrdSAMHSAscreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PhencyclidinePrThrPtUrineOrdSAMHSAscreen_CODE

@@ -1,0 +1,4 @@
+cem MedicalExaminerCaseNumber
+	kind		component
+	key			MedicalExaminerCaseNumber_CODE
+	data		String

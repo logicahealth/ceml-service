@@ -1,0 +1,1 @@
+SpecimenId is a component base model and a child of the ExternalId model. It is used to record the specific external identifier used to identify a specimen.

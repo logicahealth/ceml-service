@@ -1,0 +1,6 @@
+cem SpecimenvolumeVolPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SpecimenvolumeVolPtCSFQn_CODE
+	constraint		data.quantity.unit_code
+			value		CubicCentimeter_CODE

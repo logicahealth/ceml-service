@@ -1,0 +1,4 @@
+cem SpecimenProcurementLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			SpecimenProcurement_CODE

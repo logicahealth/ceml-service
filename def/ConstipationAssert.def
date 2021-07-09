@@ -1,0 +1,4 @@
+ConstipationAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the ConstipationAssert model, data is Constipation_ECID which means difficulty in passing stools due to hard stool consistency.
+

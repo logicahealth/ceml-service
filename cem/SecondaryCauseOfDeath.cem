@@ -1,0 +1,7 @@
+cem SecondaryCauseOfDeath
+	kind		component
+	key			SecondaryCauseOfDeath_CODE
+	data		String
+	qual		DurationOfCondition
+		id		durationOfCondition
+		card	0-1

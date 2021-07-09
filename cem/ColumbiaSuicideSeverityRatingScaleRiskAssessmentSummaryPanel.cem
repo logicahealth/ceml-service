@@ -1,0 +1,30 @@
+cem ColumbiaSuicideSeverityRatingScaleRiskAssessmentSummaryPanel
+	kind    	panel
+    base        PanelBase
+	key         ColumbiaSuicideSeverityRatingScaleRiskAssessmentSummaryPanel_CODE
+    item        SuicidalSelfInjuriousBehaviorCSSRSEval
+        id      suicidalSelfInjuriousBehaviorCSSRSEval
+        card    0-M
+    item        SuicidalIdeationCSSRSEval
+        id      suicidalIdeationCSSRSEval
+        card    0-M
+    item        ActivatingEventsCSSRSEval
+        id      activatingEventsCSSRSEval
+        card    0-M
+    item        TreatmentHistoryCSSRSEval
+        id      treatmentHistoryCSSRSEval
+        card    0-M
+    item        ProtectiveFactorsCSSRSEval
+        id      protectiveFactorsCSSRSEval
+        card    0-M
+    item        ClinicalStatusCSSRSEval
+        id      clinicalStatusCSSRSEval
+        card    0-M
+    item        NonModifiableRiskFactorsCSSRSEval
+        id      nonModifiableRiskFactorsCSSRSEval
+        card    0-M
+    item        RiskToHarmOthersAssert
+        id      riskToHarmOthersAssert
+        card    0-1
+
+

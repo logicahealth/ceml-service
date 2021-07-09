@@ -1,0 +1,6 @@
+cem RibonucleoproteinextractablenuclearAbACncPtSerQnIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RibonucleoproteinextractablenuclearAbACncPtSerQnIA_CODE
+	constraint		data.quantity.unit_code
+			value		ArbitaryUnitArbitrary_CODE

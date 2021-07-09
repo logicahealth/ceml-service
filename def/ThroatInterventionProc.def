@@ -1,0 +1,5 @@
+ThroatInterventionProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes
+the procedure being performed.
+In the ThroatInterventionProc model data is ThroatIntervention_KEY_ECID which captures information surrounding a
+Throat Intervention which means the act of performing generic throat intervention.
+

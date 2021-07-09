@@ -1,0 +1,17 @@
+cem MicroIsolatePanel
+	kind	panel
+	base	PanelBase
+	form		abstract
+	key			MicroResultPanel_VSET
+	item		MicroOrganismEval
+		id		microOrganismEval
+		card	1
+	qual		ObservationStatus
+		id		observationStatus
+		card	0-1
+	att			Resulted
+		id		resulted
+		card	0-1
+	att			IncubationStarted
+		id		incubationStarted
+		card	0-1

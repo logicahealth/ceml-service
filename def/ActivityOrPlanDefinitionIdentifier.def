@@ -1,0 +1,8 @@
+ActivityOrPlanDefinition 
+This is a component model used to capture the identifying code or number that represents a protocol, guideline, orderset or other definition that is adhered to in whole or in part by this request.
+
+@Author bsheale
+@Date 24 May 2017 10:09
+@Status draft
+@RequestedBy ACOG
+@Keyword referral, FHIR

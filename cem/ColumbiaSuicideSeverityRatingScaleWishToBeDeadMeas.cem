@@ -1,0 +1,13 @@
+
+cem ColumbiaSuicideSeverityRatingScaleWishToBeDeadMeas
+	kind    	statement
+    base        StatementBase
+	key         ColumbiaSuicideSeverityRatingScaleWishToBeDead_CODE
+    data        CodeableOrdinal
+    qual        TimeFrameCSSRS
+        id      timeFrameCSSRS
+        card    0-1
+    constraint	data.codeableOrdinal.strength
+		value	CNE
+	constraint	data.codeableOrdinal.valueset
+		value	CSSRSSuicidalIdeationWishToBeDeadYesNo_VSET

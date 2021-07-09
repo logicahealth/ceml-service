@@ -1,0 +1,4 @@
+cem BuprenorphineGlucuronideMCncPtUrineConfirmOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BuprenorphineGlucuronideMCncPtUrineConfirmOrd_CODE

@@ -1,0 +1,4 @@
+cem AntibioticXXXSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AntibioticXXXSuscPtIsolateOrdQnAgardiffusion_CODE

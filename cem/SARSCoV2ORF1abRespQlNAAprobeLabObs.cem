@@ -1,0 +1,6 @@
+cem SARSCoV2ORF1abRespQlNAAprobeLabObs
+	kind    	statement
+    base        StandardLabObsOrdinal
+	key         SARSCoV2ORF1abRespQlNAAprobe_CODE
+    constraint  data.codeableOrdinal.valueset
+        value   DetectedNotDectedEqIn_VSET

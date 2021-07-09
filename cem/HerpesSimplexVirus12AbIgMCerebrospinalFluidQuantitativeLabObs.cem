@@ -1,0 +1,5 @@
+cem HerpesSimplexVirus12AbIgMCerebrospinalFluidQuantitativeLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HerpesSimplexVirus12AbIgMCerebrospinalFluidQuantitative_CODE
+	

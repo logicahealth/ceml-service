@@ -1,0 +1,5 @@
+cem FoozleA
+	kind    	statement
+	base		ClinicalObs
+	key         FOOZLEA_CODE
+    data        DateTime

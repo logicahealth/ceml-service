@@ -1,0 +1,5 @@
+cem RecipientIdentifier
+	kind    	component
+	key         RecipientIdentifier_CODE
+    data        Identifier
+

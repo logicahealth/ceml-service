@@ -1,0 +1,4 @@
+cem Aggregate
+	kind		component
+	key			Aggregate_CODE
+	data		String	

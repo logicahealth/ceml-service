@@ -1,0 +1,4 @@
+cem AdministrativeEncounterId
+	kind	component
+	key		AdministrativeEncounterId_CODE
+    data    Identifier

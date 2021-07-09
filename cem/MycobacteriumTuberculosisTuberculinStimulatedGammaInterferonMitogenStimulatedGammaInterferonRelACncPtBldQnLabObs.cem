@@ -1,0 +1,4 @@
+cem MycobacteriumTuberculosisTuberculinStimulatedGammaInterferonMitogenStimulatedGammaInterferonRelACncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MycobacteriumTuberculosisTuberculinStimulatedGammaInterferonMitogenStimulatedGammaInterferonRelACncPtBldQn_CODE

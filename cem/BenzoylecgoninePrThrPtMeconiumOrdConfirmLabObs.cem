@@ -1,0 +1,4 @@
+cem BenzoylecgoninePrThrPtMeconiumOrdConfirmLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BenzoylecgoninePrThrPtMeconiumOrdConfirm_CODE

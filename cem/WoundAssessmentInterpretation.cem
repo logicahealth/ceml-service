@@ -1,0 +1,9 @@
+cem WoundAssessmentInterpretation
+	kind    	component
+	key         WoundAssessmentInterpretation_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   WoundAssessmentInterpretation_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

@@ -1,0 +1,4 @@
+ExpressionTermId model is a component model. This model holds a "question" in the key code (ExpressionTermId_KEY_ECID) and a Text String (ST) as the "answer" in data.
+In the ExpressionTermID model the question is "what is the expression term ID" and the answer in data is a text string.
+By definition the ExpressionTermId is the unique identifier assigned by the service to each Orderable. Its purpose is to be used in conjunction with the OrderableExp.Expression field.
+

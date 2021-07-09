@@ -1,0 +1,4 @@
+cem InfluenzaVirusAAgACncPtXXXOrdIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			InfluenzaVirusAAgACncPtXXXOrdIA_CODE

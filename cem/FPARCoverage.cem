@@ -1,0 +1,7 @@
+cem FPARCoverage
+	kind	statement
+    base    Coverage
+	key		FPARCoverage_CODE
+    item        PrimaryInsuranceClassification
+        id      primaryInsuranceClassification
+        card    0-1

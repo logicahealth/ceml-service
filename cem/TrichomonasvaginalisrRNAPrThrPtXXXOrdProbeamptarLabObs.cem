@@ -1,0 +1,7 @@
+cem TrichomonasvaginalisrRNAPrThrPtXXXOrdProbeamptarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TrichomonasvaginalisrRNAPrThrPtXXXOrdProbeamptar_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	DetectedNotDetIndeterminate_VSET

@@ -1,0 +1,5 @@
+HLAClassIILocusDQBAllele1PtXXXNarLabObs is a Clinical Element model to record a text result of the testing to determine what genes are
+present at teh DQB location, allele 1 of the HLA Class to chromosome.  The results are text to ensure integrity of the results.  They
+are given as number pairs to denote the genes that were substituted at the location, i.e. 02:01 or a single result of 0202 meaning a
+homozygous replacement at the location.
+LOINC number: Not able to map to a LOINC code at this time.

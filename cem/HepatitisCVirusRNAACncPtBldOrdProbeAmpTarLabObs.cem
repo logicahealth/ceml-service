@@ -1,0 +1,4 @@
+cem HepatitisCVirusRNAACncPtBldOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HepatitisCVirusRNAACncPtBldOrdProbeAmpTar_CODE

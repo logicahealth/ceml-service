@@ -1,0 +1,7 @@
+FPARPatientInformationPanel panel for FPAR that contains the Patient information data elements. These are distinct from the patient visit info as they are elements that are not necessarly measured at the time of the encounter.
+
+@Author bsheale
+@Date 05 Apr 2017 16:08
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog, lab, implementation

@@ -1,0 +1,27 @@
+
+cem MorseFallScalePanel
+	kind    	panel
+    base        PanelBase
+	key         MorseFallScalePanel_CODE
+    item        MorseFallScaleHistoryOfFallMeas
+        id      morseFallScaleHistoryOfFallMeas
+        card    1
+    item        MorseFallScaleSecondaryDiagnosisMeas
+        id      morseFallScaleSecondaryDiagnosisMeas
+        card    1
+    item        MorseFallScaleUseOfAmbulatoryAidMeas
+        id      morseFallScaleUseOfAmbulatoryAidMeas
+        card    1
+    item        MorseFallScaleIVOrIVLockMeas
+        id      morseFallScaleIVOrIVLockMeas
+        card    1
+    item        MorseFallScaleGaitMeas
+        id      morseFallScaleGaitMeas
+        card    1
+    item        MorseFallScaleMentalStatusMeas
+        id      morseFallScaleMentalStatusMeas
+        card    1  
+    item        MorseFallScaleTotalScoreMeas
+        id      morseFallScaleTotalScoreMeas
+        card    1
+ 

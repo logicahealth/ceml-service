@@ -1,0 +1,17 @@
+cem VisualAcuityMeas
+	kind	statement
+	base	StatementBase
+	key			VisualAcuity_CODE
+	data		Quantity
+	qual		BodySide
+		id		bodySide
+		card	0-1
+	qual		CorrectiveLensesUsed
+		id		correctiveLensesUsed
+		card	0-1
+	qual		LightPerception
+		id		lightPerception
+		card	0-1
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M

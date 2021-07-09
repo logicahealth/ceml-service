@@ -1,0 +1,4 @@
+cem TreponemapallidumAbPrThrPtSerOrdIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TreponemapallidumAbPrThrPtSerOrdIA_CODE

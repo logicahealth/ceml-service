@@ -1,0 +1,8 @@
+cem ReferralType
+	kind    	component
+	key         ReferralType_CODE
+    data        CodeableConcept
+
+    constraint  data.codeableConcept.strength
+        value   CWE
+

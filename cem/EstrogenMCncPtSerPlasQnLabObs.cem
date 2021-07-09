@@ -1,0 +1,6 @@
+cem EstrogenMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EstrogenMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	PicogramsPerMilliliter_CODE

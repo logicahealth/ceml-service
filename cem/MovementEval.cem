@@ -1,0 +1,20 @@
+cem MovementEval
+	kind		statement
+    base        StatementBase
+	key			Movement_CODE
+	data		CodeableConcept
+	qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-1
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+    constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Movement_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	MovementBodyLocationPrecoord_VSET

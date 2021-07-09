@@ -1,0 +1,5 @@
+cem MethylmalonylcarnitineC4DC3HydroxyisovalerylcarnitineC5OHSRtoPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethylmalonylcarnitineC4DC3HydroxyisovalerylcarnitineC5OHSRtoPtBlddotQn_CODE
+	

@@ -1,0 +1,5 @@
+StoolFrequencyPatternEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the StoolFrequencyPatternEval model, the question is, "What is the subject's Stool Frequency Pattern?" and the coded answers can be "twice daily," "after meals," etc.
+"StoolFrequencyPatternEval" by definition means the number of times a patient usually has a bowel movement in a certain time frame.
+
+5/5/16 renamed to BowelMovementFrequencyEval to align with nursing standards.

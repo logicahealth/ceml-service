@@ -1,0 +1,23 @@
+
+cem FPARLabPanel
+	kind    	panel
+    base        PanelBase
+	key         FPARLabPanel_CODE
+	item		FPARPapSmearTestsPanel
+		id		fPARPapSmearTestsPanel
+		card	0-1
+	item		FPARHPVTestsPanel
+		id		fPARHPVTestsPanel
+		card	0-1
+	item		FPARHIVTestPanel
+		id		fPARHIVTestPanel
+		card	0-1
+	item		FPARGonorrheaTestsPanel
+		id		fPARGonorrheaTestsPanel
+		card	0-1
+	item		FPARChlamydiaGonorrheaComboTestsPanel
+		id		fPARChlamydiaGonorrheaComboTestsPanel
+		card	0-1
+	item		FPARChlamydiaTestsPanel
+		id		fPARChlamydiaTestsPanel
+		card	0-1

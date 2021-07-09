@@ -1,0 +1,4 @@
+cem AbacavirSuscPtIsolateOrdQnPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AbacavirSuscPtIsolateOrdQnPhenotyping_CODE

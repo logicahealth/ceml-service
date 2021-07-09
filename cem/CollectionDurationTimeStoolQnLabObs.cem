@@ -1,0 +1,6 @@
+cem CollectionDurationTimeStoolQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CollectionDurationTimeStoolQn_CODE
+	constraint		data.quantity.unit_code
+		value	Hours_CODE

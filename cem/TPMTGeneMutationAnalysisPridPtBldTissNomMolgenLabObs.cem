@@ -1,0 +1,4 @@
+cem TPMTGeneMutationAnalysisPridPtBldTissNomMolgenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			TPMTGeneMutationAnalysisPridPtBldTissNomMolgen_CODE

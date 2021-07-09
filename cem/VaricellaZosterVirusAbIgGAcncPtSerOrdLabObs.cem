@@ -1,0 +1,6 @@
+cem VaricellaZosterVirusAbIgGAcncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			VaricellaZosterVirusAbIgGAcncPtSerOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	ImmuneNotImmune_VSET

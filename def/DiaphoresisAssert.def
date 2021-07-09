@@ -1,0 +1,6 @@
+DiaphoresisAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the DiaphoresisAssert model, data is Diaphoresis_ECID which means the subject is displaying excessing sweating.
+ 
+DiaphoresisAssert is used to indicate that a patient increased sweating.
+

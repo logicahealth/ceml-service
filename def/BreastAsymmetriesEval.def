@@ -1,0 +1,6 @@
+BreastAsymmetriesEval created by L.Buhl on 08/Jun/2016 13:01 for iActivity project.
+
+
+BreastAsymmetriesEval is a model used to evaluate a breast asymmetry.  Values include Asymmetry, Gloabal Asymmetry, focal asymmetry, and developing asymmetry.
+
+A Breast Asymmetry by definition is a spectrum of mammographic findings that represent unilateral deposits of fibroglandular tissue not conforming to the definition of a radiodense mass (ACR BI-RADS).

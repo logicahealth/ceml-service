@@ -1,0 +1,5 @@
+cem NumberNumPtCalculusQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NumberNumPtCalculusQn_CODE
+	

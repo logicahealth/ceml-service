@@ -1,0 +1,6 @@
+cem AlertTriggerLink
+	kind		link
+	key			AlertTriggerLink_CODE
+    data        Identifier
+	constraint	data.identifier.type
+        value   TriggerData

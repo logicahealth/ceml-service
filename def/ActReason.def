@@ -1,0 +1,6 @@
+ActReason reflects a set of values specifying the administrative reasons for a 
+patient encounter. Examples are "Medical Necessity,","Patient's Request" and "Dependency." Note, 
+medical reason(s) for the encounter are specified as associated diagnoses.  
+        
+
+

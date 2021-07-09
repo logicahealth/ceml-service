@@ -1,0 +1,20 @@
+cem MuscleShapeAndContourImpressionEval
+	kind	statement
+	base	StatementBase
+	key			MuscleShapeAndContourImpression_CODE
+	data		CodeableConcept
+	qual		BodyLocation
+		id		bodyLocation
+		card	0-1
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	NormalAbnormal_VSET
+	constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	MusculoskeletalBodyLocation_VSET

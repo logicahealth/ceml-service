@@ -1,0 +1,6 @@
+cem ChlamydiaTrachomatisrRNAPrThrPtCvxOrdProbeLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChlamydiaTrachomatisrRNAPrThrPtCvxOrdProbe_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

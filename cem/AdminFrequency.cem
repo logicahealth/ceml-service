@@ -1,0 +1,12 @@
+cem AdminFrequency
+	kind		component
+	key			AdminFrequency_CODE
+	item		AdminFrequencyItem
+		id		adminFrequencyItem
+		card	0-M
+	qual		Expression
+		id		expression
+		card	0-1
+	qual		PRNInd
+		id		prnInd
+		card	0-1

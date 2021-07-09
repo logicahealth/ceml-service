@@ -1,0 +1,4 @@
+cem FosamprenavirSuscPtIsolateOrdQnGenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FosamprenavirSuscPtIsolateOrdQnGenotyping_CODE

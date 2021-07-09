@@ -1,0 +1,7 @@
+cem BirthDate
+	kind		component
+	key			BirthDate_CODE
+	data		DateTime
+	qual    	BirthDateVerifiedMethod
+		id		birthDateVerifiedMethod
+		card	0-1

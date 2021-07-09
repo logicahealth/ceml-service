@@ -1,0 +1,6 @@
+cem GammaGlutamylTransferaseCCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GammaGlutamylTransferaseCCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerLiter_CODE

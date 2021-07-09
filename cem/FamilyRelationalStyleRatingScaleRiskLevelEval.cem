@@ -1,0 +1,10 @@
+cem FamilyRelationalStyleRatingScaleRiskLevelEval
+
+	kind	statement
+	base	StatementBase
+    key     FamilyRelationalStyleRatingScaleRiskLevel_CODE
+	data	CodeableOrdinal
+
+	constraint	data.codeableOrdinal.valueset
+	    value	MentalHealthQuestionnaireRiskLevel_VSET
+

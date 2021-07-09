@@ -1,0 +1,4 @@
+ChestSymmetryAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the ChestSymmetryAssert model, data is ChestSymmetry_ECID records the shape and evenness of movement of a subject's chest area in a respiratory assessment.
+

@@ -1,0 +1,5 @@
+cem NuclearAbpatternhomogeneousTitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NuclearAbpatternhomogeneousTitrPtSerQnIF_CODE
+	

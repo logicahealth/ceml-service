@@ -1,0 +1,6 @@
+cem PregnenoloneMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PregnenoloneMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerDeciliter_CODE

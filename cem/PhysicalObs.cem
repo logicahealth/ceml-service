@@ -1,0 +1,15 @@
+cem PhysicalObs
+	kind    	statement
+    base        ClinicalObs
+    form		abstract
+	key         PhysicalObs_KEY_CODE
+    qual		BodyLocation
+		id		bodyLocation
+		card	0-M
+	qual		AssociatedSituation
+		id		associatedSituation
+		card	0-M
+	qual        DataAbsentReason
+        id      dataAbsentReason
+        card    0-M
+	

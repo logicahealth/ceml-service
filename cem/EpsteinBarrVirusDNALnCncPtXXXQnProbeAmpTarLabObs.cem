@@ -1,0 +1,6 @@
+cem EpsteinBarrVirusDNALnCncPtXXXQnProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EpsteinBarrVirusDNALnCncPtXXXQnProbeAmpTar_CODE
+	constraint	data.quantity.unit_code
+		value	PermilliLiterNumberConcentrationUnits_CODE

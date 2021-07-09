@@ -1,0 +1,9 @@
+cem DaysOnDaysOff
+	kind		component
+	key			DaysOnDaysOff_CODE
+	item		DaysOn
+		id		daysOn
+		card	1
+	item		DaysOff
+		id		daysOff
+		card	1

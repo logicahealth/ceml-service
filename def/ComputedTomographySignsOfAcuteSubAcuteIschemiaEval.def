@@ -1,0 +1,7 @@
+ComputedTomographySignsOfAcuteSubAcuteIschemiaEval 
+The evaluation for the presence of the signs of acute or sub-acute ischemia as detected via computed tomography.  The responses are "Positive", "Negative", and "Indeterminate".  There currently is no LOINC code for this.
+
+@Author nrdavis1
+@Date 31 Jan 2018 13:53
+@Status draft
+@RequestedBy iActivity

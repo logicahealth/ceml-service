@@ -1,0 +1,5 @@
+cem CaliforniaEncephalitisVirusAbTitrPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CaliforniaEncephalitisVirusAbTitrPtSerQn_CODE
+	

@@ -1,0 +1,6 @@
+cem ChimerismSortedCellInformativeMarkersQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChimerismSortedCellInformativeMarkersQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnityUnitsOfMeasure_CODE

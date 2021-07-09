@@ -1,0 +1,6 @@
+cem Alpha1globulinProteintotalMFrXXXUrineQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Alpha1globulinProteintotalMFrXXXUrineQnElectrophoresis_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

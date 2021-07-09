@@ -1,0 +1,8 @@
+cem TermPretermObstetricDelivery
+	kind		component
+	key			TermPretermObstetricDelivery_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	TermPretermObstetricDelivery_VSET

@@ -1,0 +1,6 @@
+cem HomovanillateCreatinineMCrtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HomovanillateCreatinineMCrtoPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MilligramsPerGram_CODE

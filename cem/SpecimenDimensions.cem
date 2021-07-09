@@ -1,0 +1,6 @@
+cem SpecimenDimensions
+	kind		component
+	key			SpecimenDimensions_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	LengthUnits_VSET

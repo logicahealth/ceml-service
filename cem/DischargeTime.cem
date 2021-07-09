@@ -1,0 +1,4 @@
+cem DischargeTime
+	kind		component
+	key			DischargeTime_CODE
+	data		DateTime

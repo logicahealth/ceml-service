@@ -1,0 +1,4 @@
+cem RetinolInterpretationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			RetinolInterpretation_CODE

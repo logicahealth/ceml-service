@@ -1,0 +1,6 @@
+cem HerpesVirus6DNANCncPtXXXQnProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HerpesVirus6DNANCncPtXXXQnProbeAmpTar_CODE
+	constraint	data.quantity.unit_code
+		value	PermilliLiterNumberConcentrationUnits_CODE

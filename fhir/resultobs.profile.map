@@ -1,0 +1,19 @@
+fhir profile resultobs
+	resource	http://ghir.org/us/daf/StructureDefinition/daf-resultobs
+	map			comment to Observation.comment
+	map			externalIdentifier to Observation.identifier
+	map			patientIdentifier to Observation.subject.identifier
+	map			status to Observation.status
+	map			aggregate to Observation.text
+	map			reportedReceived to Observation.performer  
+	map			observed to Observation.performer 
+	map			performed to Observation.performer 
+	map			verified to Observation.performer 
+	set			Observation.performer to Reference "http://fhir.org/guides/hspc/StructureDefinition/hspc-practitioner"
+	set 		Observation.effective to "Period"
+	map			observed.startTime to Observation.effective.start
+	map			observed.endTime to Observation.effective.end
+	map			performed.startTime to Observation.effective.start
+	map 		performed.endTime to Observation.effective.end
+	map			verified.startTime to Observation.effective.start
+	map			verified.endTime to Observation.effective.end

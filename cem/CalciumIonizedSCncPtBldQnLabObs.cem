@@ -1,0 +1,6 @@
+cem CalciumIonizedSCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CalciumIonizedSCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimolesPerLiter_CODE

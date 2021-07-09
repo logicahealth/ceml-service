@@ -1,0 +1,4 @@
+cem ErythrocytesPrThrPtAmniofldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ErythrocytesPrThrPtAmniofldOrd_CODE

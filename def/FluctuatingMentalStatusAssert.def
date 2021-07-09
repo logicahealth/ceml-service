@@ -1,0 +1,8 @@
+Author: Bret Heale           
+initial date: 02/29/2016
+
+FluctuatingMentalStatusAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+In the FluctuatingMentalStatusAssert model, data is a code for Fluctuating Mental Status which means the patient has had an actue change in his/her mental status, not necessarily from a baseline.
+
+Is is the answer to the question "Did the patient’s mental status fluctuate during the past 24hrs as evidenced by fluctuation on a sedation scale (e.g. RASS), GCS, or previous delirium assessment?"
+

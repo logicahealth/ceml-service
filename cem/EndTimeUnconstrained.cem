@@ -1,0 +1,9 @@
+
+cem EndTimeUnconstrained
+	kind	component
+	key     EndTimeUnconstrained_CODE
+	data	Period
+
+    qual        EstimatedInd
+        id      estimatedInd
+        card    0-1

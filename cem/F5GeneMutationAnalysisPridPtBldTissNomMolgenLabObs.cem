@@ -1,0 +1,6 @@
+cem F5GeneMutationAnalysisPridPtBldTissNomMolgenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			F5GeneMutationAnalysisPridPtBldTissNomMolgen_CODE
+	constraint	data.codeableConcept.valueset
+		value	AllelicState_VSET

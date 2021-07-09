@@ -1,0 +1,6 @@
+cem OrderSpecimenLink
+	kind    	link
+	key         OrderSpecimenLink_CODE
+	data        Identifier
+    constraint  data.identifier.type
+        value   Specimen

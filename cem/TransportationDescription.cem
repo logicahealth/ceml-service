@@ -1,0 +1,4 @@
+cem TransportationDescription
+	kind		component
+	key			TransportationDescription_CODE
+	data		String

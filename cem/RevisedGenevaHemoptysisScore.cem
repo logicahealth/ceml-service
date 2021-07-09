@@ -1,0 +1,7 @@
+cem RevisedGenevaHemoptysisScore
+	kind	statement
+	base	StatementBase
+	key     RevisedGenevaHemoptysisScore_CODE
+	data	CodeableOrdinal
+    constraint  data.codeableOrdinal.valueset
+        value   RevisedGenevaScoreHemoptysis_VSET

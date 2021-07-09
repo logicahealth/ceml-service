@@ -1,0 +1,4 @@
+cem DateLastSubstanceUsed
+	kind		component
+	key			DateLastSubstanceUsed_CODE
+	data		DateTime

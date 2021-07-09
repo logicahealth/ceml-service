@@ -1,0 +1,4 @@
+cem ErythromycinSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythromycinSuscPtIsolateOrdQn_CODE

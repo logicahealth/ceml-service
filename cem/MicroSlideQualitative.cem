@@ -1,0 +1,8 @@
+cem MicroSlideQualitative
+	kind		component
+	key			MicroSlideQualitative_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	MicroSlideQualitative_VSET

@@ -1,0 +1,6 @@
+cem NeisseriaGonorrhoeaerRNAPrThrPtCvxOrdProbeLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeisseriaGonorrhoeaerRNAPrThrPtCvxOrdProbe_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

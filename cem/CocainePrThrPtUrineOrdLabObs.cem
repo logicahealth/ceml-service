@@ -1,0 +1,7 @@
+cem CocainePrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CocainePrThrPtUrineOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

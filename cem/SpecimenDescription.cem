@@ -1,0 +1,6 @@
+cem SpecimenDescription
+	kind		component
+	key			SpecimenDescription_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	SpecimenDescription_VSET

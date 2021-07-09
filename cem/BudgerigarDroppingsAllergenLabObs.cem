@@ -1,0 +1,6 @@
+cem BudgerigarDroppingsAllergenLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BudgerigarDroppingsAllergen_CODE
+	constraint		data.quantity.unit_code
+		value	KilounitsPerLiter_CODE

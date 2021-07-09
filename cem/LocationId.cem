@@ -1,0 +1,4 @@
+cem LocationId
+	kind		component
+	key			LocationId_CODE
+	data		Identifier

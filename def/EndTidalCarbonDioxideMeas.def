@@ -1,0 +1,4 @@
+EndTidalCarbonDioxideMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) "answer"" in data. 
+For example, in the EndTidalCarbonDioxideMeas model the "question" or the "test" is "What is the End Tidal Carbon Dioxide Measurement?" and the "answer" in data can be "X mmHg.""
+By definition EndTidalCarbonDioxideMeasurement is the measurement of the level of carbon dioxide at the end of exhalation from the body for a patient on a ventilator.
+

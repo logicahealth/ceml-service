@@ -1,0 +1,4 @@
+cem IdentifiedDeviceExternalId
+	kind	component
+	key		IdentifiedDeviceExternalId_CODE
+    data    Identifier

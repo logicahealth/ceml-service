@@ -1,0 +1,4 @@
+cem ApplicableDateTime
+	kind	component
+	key     ApplicableDateTime_CODE
+	data	DateTime

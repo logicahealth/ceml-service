@@ -1,0 +1,4 @@
+cem IronFindPtTissDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			IronFindPtTissDoc_CODE

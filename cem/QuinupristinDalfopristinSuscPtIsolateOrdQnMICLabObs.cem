@@ -1,0 +1,4 @@
+cem QuinupristinDalfopristinSuscPtIsolateOrdQnMICLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			QuinupristinDalfopristinSuscPtIsolateOrdQnMIC_CODE

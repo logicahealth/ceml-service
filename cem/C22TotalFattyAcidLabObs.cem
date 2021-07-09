@@ -1,0 +1,4 @@
+cem C22TotalFattyAcidLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			C22TotalFattyAcid_CODE

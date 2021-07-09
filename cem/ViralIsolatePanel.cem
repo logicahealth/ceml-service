@@ -1,0 +1,10 @@
+cem ViralIsolatePanel
+	kind		panel
+	base		MicroIsolatePanel
+	key			ViralIsolatePanel_CODE
+	constraint	microOrganismEval.data.codeableConcept.valueset
+		value	ViralMicroOrganism_VSET
+	constraint	microOrganismEval.microOrganismQuantitative.data.codeableConcept.valueset
+		value	ViralMicroGrowthQuantitative_VSET
+	constraint	microOrganismEval.microOrganismQualitative.data.codeableConcept.valueset
+		value	ViralMicroObsQualitative_VSET

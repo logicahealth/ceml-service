@@ -1,0 +1,8 @@
+cem ActiveCriterion
+	kind		component
+	key			ActiveCriterion_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ActiveCriterion_VSET

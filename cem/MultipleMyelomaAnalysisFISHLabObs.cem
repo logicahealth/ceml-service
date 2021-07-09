@@ -1,0 +1,4 @@
+cem MultipleMyelomaAnalysisFISHLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MultipleMyelomaAnalysisFISH_CODE

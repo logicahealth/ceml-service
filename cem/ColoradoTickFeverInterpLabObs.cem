@@ -1,0 +1,4 @@
+cem ColoradoTickFeverInterpLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ColoradoTickFeverInterp_CODE

@@ -1,0 +1,4 @@
+cem ProteinfeedtimeTmStpPtPatientQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ProteinfeedtimeTmStpPtPatientQn_CODE

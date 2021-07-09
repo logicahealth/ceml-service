@@ -1,0 +1,7 @@
+cem SecondaryFlowRateMeas
+	kind	statement
+	base	StatementBase
+	key			SecondaryFlowRate_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	LitersPerMinute_CODE

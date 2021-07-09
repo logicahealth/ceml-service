@@ -1,0 +1,7 @@
+VentilatorCommentEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD)
+answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer"
+in data can be "White".
+In the VentilatorCommentEval model, the question is "what is the subject's Ventilator Comment?" and the coded answers can be
+'MD notified', 'new airleak', etc.
+"VentilatorCommentEval" by definition means any notes or comments entered by the ventilator operator.
+

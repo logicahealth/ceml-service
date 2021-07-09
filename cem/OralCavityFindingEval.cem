@@ -1,0 +1,17 @@
+cem OralCavityFindingEval
+
+	kind	statement
+	base	StatementBase
+    key     OralCavityFinding_CODE
+	data	CodeableConcept
+    qual		BodyLocation
+		id		bodyLocation
+		card	0-M		
+	constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	OralCavityFinding_VSET
+    constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	OralCavityFindingBodyLocation_VSET
+
+

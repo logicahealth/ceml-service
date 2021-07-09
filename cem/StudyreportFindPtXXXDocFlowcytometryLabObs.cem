@@ -1,0 +1,4 @@
+cem StudyreportFindPtXXXDocFlowcytometryLabObs
+	kind		statement
+	base		StandardLabObsDocument
+	key			StudyreportFindPtXXXDocFlowcytometry_CODE

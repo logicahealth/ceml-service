@@ -1,0 +1,6 @@
+cem OrotateCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OrotateCreatinineScRtoPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MillimolesPerMole_CODE

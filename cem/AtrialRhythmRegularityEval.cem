@@ -1,0 +1,15 @@
+cem AtrialRhythmRegularityEval
+	kind	statement
+	base	PhysicalObs
+	key     AtrialRhythmRegularity_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	CardiacRhythmRegularity_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	MonitoredCardiacRhythmDevice_VSET
+	constraint  method.card
+        value   0
+    constraint  bodyLocation.card
+        value   0

@@ -1,0 +1,5 @@
+cem FrancisellaTularensisAbTitrPtSerQnLALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FrancisellaTularensisAbTitrPtSerQnLA_CODE
+	

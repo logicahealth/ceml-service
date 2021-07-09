@@ -1,0 +1,36 @@
+cem OutputFluidPanel
+	kind		panel
+    base        PanelBase
+	form		abstract
+	key			OutputFluidPanel_VSET
+	item		OutputVolumeMeas
+		id		outputVolumeMeas
+		card	1
+	item		FluidDescriptionEval
+		id		fluidDescriptionEval
+		card	0-M
+    qual        Method
+        id      method
+        card    0-1
+    qual        Device
+        id      device
+        card    0-1
+	qual		SourceIdentifier
+		id		sourceIdentifier
+		card	0-1
+	qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-1
+	qual		EstimatedMeasuredStated
+		id		estimatedMeasuredStated
+		card	0-1
+
+	constraint	method.data.codeableConcept.valueset
+		value	OutputMethod_VSET
+
+    constraint	device.data.codeableConcept.valueset
+		value	OutputDevice_VSET
+
+
+  
+    

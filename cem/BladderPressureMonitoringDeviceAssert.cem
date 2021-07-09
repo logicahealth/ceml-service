@@ -1,0 +1,10 @@
+cem BladderPressureMonitoringDeviceAssert
+    kind        statement
+    base       	ObservationAssert
+    qual        DepartmentPlaced
+        id      departmentPlaced
+        card    0-1
+    constraint	data.codeableConcept.code
+        value	BladderPressureMonitoringDevice_CODE
+    constraint  status.data.codeableConcept.valueset
+        value   BladderPressureMonitoringDeviceStatus_VSET

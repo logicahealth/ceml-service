@@ -1,0 +1,21 @@
+cem PainRadiation
+	kind		component
+	key			PainRadiation_CODE
+	data		CodeableConcept
+	qual		Aggregate
+		id		aggregate
+		card	0-1
+	qual		BodyLocationOrientation
+		id		bodyLocationOrientation
+		card	0-1
+	qual		BodySide
+		id		bodySide
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	BodyLocation_VSET
+    constraint  bodyLocationOrientation.data.codeableConcept.valueset
+        value   AnatomicDirectionalTerms_VSET
+    constraint  bodySide.data.codeableConcept.valueset
+        value   BodySide_VSET

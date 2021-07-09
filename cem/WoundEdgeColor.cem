@@ -1,0 +1,9 @@
+cem WoundEdgeColor
+	kind    	component
+	key         WoundEdgeColor_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   WoundEdgeColor_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

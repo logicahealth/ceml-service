@@ -1,0 +1,4 @@
+cem RheumatoidfactorPrThrPtSerOrdSheepcellagglLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			RheumatoidfactorPrThrPtSerOrdSheepcellaggl_CODE

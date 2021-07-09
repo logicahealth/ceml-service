@@ -1,0 +1,7 @@
+cem SexualMaturityPediatricRatingScaleMaleTestesAndScrotumMeas
+	kind	statement
+	base	StatementBase
+	key			SexualMaturityPediatricRatingScaleMaleTestesAndScrotum_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.valueset
+		value	SexualMaturityPediatricRatingScaleMaleTestesAndScrotum_VSET

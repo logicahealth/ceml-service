@@ -1,0 +1,34 @@
+
+cem GeneralizedAnxietyDisorderGAD7ItemPanel
+	kind    	panel
+    base        PanelBase
+	key         GeneralizedAnxietyDisorderGAD7ItemPanel_CODE
+    item        FeelingNervousAnxiousOrOnEdgeInLastTwoWeeksEval
+        id      feelingNervousAnxiousOrOnEdgeInLastTwoWeeksEval
+        card    0-1
+    item        OverThePast2WeeksHaveYouNotBeenAbleToStopOrControlWorryingEval
+        id      overThePast2WeeksHaveYouNotBeenAbleToStopOrControlWorryingEval
+        card    0-1
+    item        WorryingTooMuchAboutDifferentThingsInLastTwoWeeksEval
+        id      worryingTooMuchAboutDifferentThingsInLastTwoWeeksEval
+        card    0-1
+    item        TroubleRelaxingInLastTwoWeeksEval
+        id      troubleRelaxingInLastTwoWeeksEval
+        card    0-1
+    item        BeingSoRestlessThatItIsHardToSitStillInLastTwoWeeksEval
+        id      beingSoRestlessThatItIsHardToSitStillInLastTwoWeeksEval
+        card    0-1
+    item        BecomingEasilyAnnoyedOrIrritableInLastTwoWeeksEval
+        id      becomingEasilyAnnoyedOrIrritableInLastTwoWeeksEval
+        card    0-1
+    item        FeelingAfraidAsIfSomethingAwfulMightHappenInLastTwoWeeksEval
+        id      feelingAfraidAsIfSomethingAwfulMightHappenInLastTwoWeeksEval
+        card    0-1
+    item        GeneralizedAnxietyDisorder7ItemGAD7TotalScoreMeas
+        id      generalizedAnxietyDisorder7ItemGAD7TotalScoreMeas
+        card    1
+    item        HowDifficultHaveTheseProblemsMadeItForYouToDoYourWorkTakeCareOfThingsAtHomeOrGetAlongWithOtherPeopleEval
+        id      howDifficultHaveTheseProblemsMadeItForYouToDoYourWorkTakeCareOfThingsAtHomeOrGetAlongWithOtherPeopleEval
+        card    0-1
+    
+

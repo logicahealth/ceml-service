@@ -1,0 +1,12 @@
+cem RefusalOfTreatmentFormStatusEval
+	kind	statement
+	base	StatementBase
+	key			RefusalOfTreatmentFormStatus_CODE
+	data		CodeableConcept
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	RefusalOfTreatmentFormStatus_VSET

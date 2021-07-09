@@ -1,0 +1,6 @@
+cem Rate
+	kind		component
+	key			Rate_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	MillilitersPerHour_CODE

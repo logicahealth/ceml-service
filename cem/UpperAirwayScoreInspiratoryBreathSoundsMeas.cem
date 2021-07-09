@@ -1,0 +1,10 @@
+cem UpperAirwayScoreInspiratoryBreathSoundsMeas
+	kind	statement
+	base	StatementBase
+	key			UpperAirwayScoreInspiratoryBreathSounds_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	UpperAirwayScoreInspiratoryBreathSounds_VSET

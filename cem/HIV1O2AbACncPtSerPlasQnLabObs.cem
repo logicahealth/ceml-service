@@ -1,0 +1,4 @@
+cem HIV1O2AbACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HIV1O2AbACncPtSerPlasQn_CODE

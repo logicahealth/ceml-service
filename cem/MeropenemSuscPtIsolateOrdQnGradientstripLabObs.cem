@@ -1,0 +1,4 @@
+cem MeropenemSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MeropenemSuscPtIsolateOrdQnGradientstrip_CODE

@@ -1,0 +1,6 @@
+cem IdentifiedDeviceType
+	kind		component
+	key			IdentifiedDeviceType_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	IdentifiedDeviceType_VSET

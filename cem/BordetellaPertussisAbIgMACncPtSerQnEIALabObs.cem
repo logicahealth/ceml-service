@@ -1,0 +1,6 @@
+cem BordetellaPertussisAbIgMACncPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BordetellaPertussisAbIgMACncPtSerQnEIA_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerMilliliter_CODE

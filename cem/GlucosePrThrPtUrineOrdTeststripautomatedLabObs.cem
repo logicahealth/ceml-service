@@ -1,0 +1,4 @@
+cem GlucosePrThrPtUrineOrdTeststripautomatedLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			GlucosePrThrPtUrineOrdTeststripautomated_CODE

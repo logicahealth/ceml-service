@@ -1,0 +1,10 @@
+cem AppetiteEval
+	kind	statement
+    base	StatementBase
+	key     Appetite_CODE
+	data	CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Appetite_VSET
+
+
+

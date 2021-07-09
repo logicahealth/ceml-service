@@ -1,0 +1,6 @@
+cem CDC2019nCoVID
+	kind    	component
+	key         CDC2019nCoVID_CODE
+    data        Identifier
+
+

@@ -1,0 +1,6 @@
+cem Macrophages100LeukocytesNFrPtCSFQnManualCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Macrophages100LeukocytesNFrPtCSFQnManualCount_CODE
+	constraint	data.quantity.unit_code
+		value	PerHundred_CODE

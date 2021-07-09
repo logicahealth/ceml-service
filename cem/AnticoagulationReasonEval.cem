@@ -1,0 +1,9 @@
+cem AnticoagulationReasonEval
+	kind	statement
+	base	StatementBase
+	key			AnticoagulationReason_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	AnticoagulationReason_VSET

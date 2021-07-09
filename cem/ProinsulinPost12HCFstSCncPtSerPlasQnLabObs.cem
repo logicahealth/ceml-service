@@ -1,0 +1,6 @@
+cem ProinsulinPost12HCFstSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ProinsulinPost12HCFstSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	PicomolesPerLiter_CODE

@@ -1,0 +1,12 @@
+cem BradenScoreActivityMeas
+	kind	statement
+	base	StatementBase
+	key			BradenScoreActivity_CODE
+	data		CodeableOrdinal
+	qual		AbnormalInterpretation
+		id		abnormalInterpretation
+		card	0-1
+	constraint	data.codeableOrdinal.valueset
+		value	BradenScoreActivity_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

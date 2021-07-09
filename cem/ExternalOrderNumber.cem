@@ -1,0 +1,12 @@
+cem ExternalOrderNumber
+	kind		component
+	key			ExternalOrderNumber_CODE
+	item		OrderNumber
+		id		orderNumber
+		card	1
+	item		AssigningAuthority
+		id		assigningAuthority
+		card	1
+	item		AssociatedOrderTermId
+		id		associatedOrderTermId
+		card	0-1

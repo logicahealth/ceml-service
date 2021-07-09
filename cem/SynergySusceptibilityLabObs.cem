@@ -1,0 +1,9 @@
+cem SynergySusceptibilityLabObs
+	kind		statement
+	base		AntibioticSusceptibilityLabObs
+	key			SynergySusceptibility_CODE
+	qual		DrugSynergyExam
+		id		drugSynergyExam
+		card	0-1
+	constraint	susceptibilityTestDrug.card
+		value	0

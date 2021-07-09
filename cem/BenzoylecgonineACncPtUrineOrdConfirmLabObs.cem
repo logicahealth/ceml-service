@@ -1,0 +1,4 @@
+cem BenzoylecgonineACncPtUrineOrdConfirmLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BenzoylecgonineACncPtUrineOrdConfirm_CODE

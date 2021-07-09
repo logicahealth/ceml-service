@@ -1,0 +1,6 @@
+cem LiquefactionTimePtSemenQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LiquefactionTimePtSemenQn_CODE
+	constraint		data.quantity.unit_code
+			value		Minutes_CODE

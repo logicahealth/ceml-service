@@ -1,0 +1,6 @@
+cem TelecomSystem
+	kind		component
+	key			TelecomSystem_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	TelecomSystem_VSET

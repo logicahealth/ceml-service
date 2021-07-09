@@ -1,0 +1,6 @@
+cem GlycineMaxAbIgGMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GlycineMaxAbIgGMCncPtSerQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	MassConcentrationUnits_VSET

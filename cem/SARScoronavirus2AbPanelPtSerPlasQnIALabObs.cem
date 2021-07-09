@@ -1,0 +1,11 @@
+cem SARScoronavirus2AbPanelPtSerPlasQnIALabObs
+	kind    	panel
+    base        PanelBase
+	key         SARScoronavirus2AbIgGandIgMpanelPtSerPlasQnIA_CODE
+
+    item        SARScoronavirus2AbIgGAcncPtSerPlasQnIALabObs
+        id      sARScoronavirus2AbIgGAcncPtSerPlasQnIALabObs
+        card    0-1
+    item        SARScoronavirus2AbIgGPrThrPtSerPlasOrdIALabObs
+        id      sARScoronavirus2AbIgGPrThrPtSerPlasOrdIALabObs
+        card    0-1

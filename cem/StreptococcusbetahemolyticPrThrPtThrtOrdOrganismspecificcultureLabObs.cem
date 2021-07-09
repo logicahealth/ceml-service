@@ -1,0 +1,4 @@
+cem StreptococcusbetahemolyticPrThrPtThrtOrdOrganismspecificcultureLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StreptococcusbetahemolyticPrThrPtThrtOrdOrganismspecificculture_CODE

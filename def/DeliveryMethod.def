@@ -1,0 +1,5 @@
+DeliveryMethod captures information surrounding the delivery of a communication. 
+The qualifier DeliveryMethodType has such values as pager, inbox (IHC internal mail system), email, fax. 
+The qualifier DeliveryMethodData is the actual pager number. 
+The reason it is separated into a model is because it can be blank. For example, when type is inbox,data is nothing.
+

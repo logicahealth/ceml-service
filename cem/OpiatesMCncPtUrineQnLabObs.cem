@@ -1,0 +1,6 @@
+cem OpiatesMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OpiatesMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

@@ -1,0 +1,6 @@
+cem SpecimenAdditive
+	kind		component
+	key			SpecimenAdditive_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	Additive_VSET

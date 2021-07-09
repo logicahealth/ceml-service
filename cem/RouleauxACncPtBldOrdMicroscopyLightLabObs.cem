@@ -1,0 +1,6 @@
+cem RouleauxACncPtBldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			RouleauxACncPtBldOrdMicroscopyLight_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrdinalScaleNegToFour_VSET

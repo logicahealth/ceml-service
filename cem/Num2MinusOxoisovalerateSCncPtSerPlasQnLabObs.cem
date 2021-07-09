@@ -1,0 +1,6 @@
+cem Num2MinusOxoisovalerateSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num2MinusOxoisovalerateSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

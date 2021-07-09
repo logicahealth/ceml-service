@@ -1,0 +1,4 @@
+cem CeftriaxoneSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteriaLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CeftriaxoneSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteria_CODE

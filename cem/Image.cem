@@ -1,0 +1,10 @@
+cem Image
+	kind		component
+	key			Image_CODE
+	data		Attachment
+    qual        ImageIdentifier
+        id      imageIdentifier
+        card    0-1
+	qual		Aggregate
+		id		aggregate
+		card	0-1

@@ -1,0 +1,4 @@
+cem HLADROligotypingInterpretationLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HLADROligotypingInterpretation_CODE

@@ -1,0 +1,22 @@
+cem HearingAssessmentPanel
+	kind	panel
+	base	PanelBase
+	key         HearingAssessmentPanel_CODE
+    item        RinneTestEval
+        id      rinneTestEval
+        card    0-1
+    item        WeberTestEval
+        id      weberTestEval
+        card    0-1
+    item        HearingConversationalVoiceAbilityEval
+        id      hearingConversationalVoiceAbilityEval
+        card    0-1
+    item        HearingLossAssert
+        id      hearingLossAssert
+        card    0-1
+    item        TinnitusAssert
+        id      tinnitusAssert
+        card    0-1
+    qual		DataAbsentReason
+		id		dataAbsentReason
+		card	0-1

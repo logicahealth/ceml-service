@@ -1,0 +1,6 @@
+cem DopamineMCnc24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DopamineMCnc24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

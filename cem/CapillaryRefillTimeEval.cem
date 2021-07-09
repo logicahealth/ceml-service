@@ -1,0 +1,21 @@
+cem CapillaryRefillTimeEval
+	kind		statement
+    base        PhysicalObs
+	key			CapillaryRefillTime_CODE
+	data		CodeableConcept
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	qual        DistalToInjuryIndicator
+        id      distalToInjuryIndicator
+        card    0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	CapillaryRefillTime_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	CapillaryRefillTimeBodyLocationPrecoord_VSET
+    constraint  method.card
+        value   0
+    constraint  device.card
+        value   0

@@ -1,0 +1,4 @@
+cem InterpretationCDINTWLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			InterpretationCDINTW_CODE

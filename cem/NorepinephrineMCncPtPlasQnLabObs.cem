@@ -1,0 +1,6 @@
+cem NorepinephrineMCncPtPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NorepinephrineMCncPtPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	PicogramsPerMilliliter_CODE

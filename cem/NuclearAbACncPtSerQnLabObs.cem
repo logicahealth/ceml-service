@@ -1,0 +1,6 @@
+cem NuclearAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NuclearAbACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		ArbitaryUnitArbitrary_CODE

@@ -1,0 +1,6 @@
+cem Eosinophils100leukocytesNFrPtBodyfldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Eosinophils100leukocytesNFrPtBodyfldQn_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

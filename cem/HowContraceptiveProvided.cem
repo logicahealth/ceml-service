@@ -1,0 +1,9 @@
+cem HowContraceptiveProvided
+	kind    	component
+	key         HowContraceptiveProvided_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   ContraceptionProvisionMethods_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

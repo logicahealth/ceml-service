@@ -1,0 +1,36 @@
+fhir resource ClinicalAssert
+	map type to Condition
+	map key to Condition.text  //this will be the default display of the key code = Assertion of Presence
+	map data to Condition.code bind ClinicalAssertion_VSET
+	map externalIdentifier to Condition.identifier
+	map patientIdentifier to Condition.subject (Patient.identifier)
+	map dateOfOnset to Condition.onset dateTime
+	map dateOfResolution to Condition.abatement dateTime
+	map clinicalStatus to clinicalStatus
+	map verificationStatus to Condition.verificationStatus
+	map conditionSeverity to severity
+	map diseaseStage to stage
+	map bodyLocation.bodyLocationPrecoord to Condition.bodySite
+	map clinicalStatus to Condition.clinicalStatus bind ClinicalAssertStatus_VSET to "http://hl7.org/fhir/hspc/ValueSet/clinicalAssertStatusVS"
+	map historicalInd to Condition.extension
+	map associtaedCondition to Condition.extension
+	map accociatedSituation to Condition.extension
+	map associatedSignAndSymptom to Condition.extension
+	map etiology to Condition.extension
+	map trend to Condition.extension bind to DiseaseTrend_VSET
+	map speedOfOnset to Condition.extension
+	map diagnosisType to Condition.extension
+	map historicalInd to Condition.extension 
+	map associatedPrecondition to Condition.extension 
+	map associatedSignAndSymptom to Condition.extension 
+	map dataAbsentReason to Condition.extension 
+	map certaintyOfPresence to modifierExtension
+	
+	parent USCoreCondition
+	
+	property base.definition ="http://hl7.org/fhir/us/core/StructureDefinition/us-core-condition" 
+	property metadata.publisher = "Logica"
+	property element.idbase = "Logica"
+	
+
+

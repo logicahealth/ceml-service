@@ -1,0 +1,7 @@
+cem VirtualEncounter
+	kind	statement
+    base    Encounter
+    key     VirtualEncounter_CODE
+    item		CommunicationMode
+        id		communicationMode   
+        card	0-1

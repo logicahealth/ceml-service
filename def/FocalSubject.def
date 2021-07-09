@@ -1,0 +1,3 @@
+FocalSubject is a component CEM and used as modifier.  This model indicates the subject of an observation, measurement, or evaluation that is different from the
+patient of record.  Used to modify the subject in instances like "Fetal heart rate", or "LFT's performed on possible donor".  This model replaces the Subject model.
+

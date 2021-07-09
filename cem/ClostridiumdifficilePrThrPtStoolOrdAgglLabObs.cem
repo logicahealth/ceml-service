@@ -1,0 +1,4 @@
+cem ClostridiumdifficilePrThrPtStoolOrdAgglLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ClostridiumdifficilePrThrPtStoolOrdAggl_CODE

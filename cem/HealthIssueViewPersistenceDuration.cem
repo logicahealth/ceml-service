@@ -1,0 +1,6 @@
+cem HealthIssueViewPersistenceDuration
+	kind		component
+	key			HealthIssueViewPersistenceDuration_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	Days_CODE

@@ -1,0 +1,6 @@
+cem DermatophagoidesFarinaeAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DermatophagoidesFarinaeAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	KilounitsPerLiter_CODE

@@ -1,0 +1,4 @@
+cem AmpicillinSulbactamSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmpicillinSulbactamSuscPtIsolateOrdQnGradientstrip_CODE

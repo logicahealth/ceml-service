@@ -1,0 +1,6 @@
+cem AlphaGlucosidaseCCntPtTSMIQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlphaGlucosidaseCCntPtTSMIQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerMinutePerGramProtein_CODE

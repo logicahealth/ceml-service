@@ -1,0 +1,4 @@
+cem LaboratoryName
+	kind		component
+	key			LaboratoryName_CODE
+	data		String

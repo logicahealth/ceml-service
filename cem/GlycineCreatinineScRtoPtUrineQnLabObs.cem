@@ -1,0 +1,6 @@
+cem GlycineCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GlycineCreatinineScRtoPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicromolesPerGram_CODE

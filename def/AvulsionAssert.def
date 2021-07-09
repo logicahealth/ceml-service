@@ -1,0 +1,5 @@
+AvulsionAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the AvulsionAssert model, data is Avulsion_ECID which means an injury where all of a body structure is stripped away, most commonly referring to the 
+stripping away of all of the skin layers in an injury.
+

@@ -1,0 +1,4 @@
+cem BarbituratesACncPtSerPlasOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BarbituratesACncPtSerPlasOrdScreen_CODE

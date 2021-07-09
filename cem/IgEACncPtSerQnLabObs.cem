@@ -1,0 +1,6 @@
+cem IgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			IgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	InternationalUnitsPerMilliliter_CODE

@@ -1,0 +1,5 @@
+RadiologyText is the text part of the RadiologyResultTextPanel. It is expected that it will contain either a ResultText, consisting of a
+single text blob, or multiple ResultTextSections (each of which is a text blob with a coded section type) but not both,
+although the model does not preclude both.  Note: This is a compound statement, each text item being a component.
+
+

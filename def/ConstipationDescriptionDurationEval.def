@@ -1,0 +1,8 @@
+author: BretH         
+initial Date: 03/30/2016
+Satus: proposed
+
+ConstipationDescriptionDurationEval models an evaluation of the patient's constapation duration. In the ConstipationDescriptionDurationEval model, the question is "How is the duration of Constipation described?" and the coded answers can be 'acute', 'chronic'.
+
+"ConstipationDescriptionDurationEval" by definition means the description of duration of the most recent course of Constipation
+

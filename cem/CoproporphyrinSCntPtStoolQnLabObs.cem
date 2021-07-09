@@ -1,0 +1,6 @@
+cem CoproporphyrinSCntPtStoolQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoproporphyrinSCntPtStoolQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanomolesPerGram_CODE

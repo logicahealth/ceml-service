@@ -1,0 +1,6 @@
+cem AppearanceAperPtUrineNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			AppearanceAperPtUrineNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	UrineAppearance_VSET

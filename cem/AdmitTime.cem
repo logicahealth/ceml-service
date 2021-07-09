@@ -1,0 +1,4 @@
+cem AdmitTime
+	kind		component
+	key			AdmitTime_CODE
+	data		DateTime

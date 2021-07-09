@@ -1,0 +1,6 @@
+    cem PediatricAppendicitisScoreComponents
+	kind    	component
+	key         PediatricAppendicitisScoreComponents_CODE
+	data        CodeableConcept
+    constraint	data.codeableConcept.valueset
+		value	PediatricAppendicitisScoreComponents_VSET

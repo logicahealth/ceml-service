@@ -1,0 +1,6 @@
+cem TuberculosisReactionWheal2DPostDoseMammalianTuberculinIDDiamPtSkinQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TuberculosisReactionWheal2DPostDoseMammalianTuberculinIDDiamPtSkinQn_CODE
+	constraint		data.quantity.unit_code
+		value	Millimeters_CODE

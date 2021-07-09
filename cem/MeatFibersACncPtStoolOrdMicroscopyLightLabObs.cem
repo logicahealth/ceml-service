@@ -1,0 +1,6 @@
+cem MeatFibersACncPtStoolOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MeatFibersACncPtStoolOrdMicroscopyLight_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	PosNegEquiIndet_VSET

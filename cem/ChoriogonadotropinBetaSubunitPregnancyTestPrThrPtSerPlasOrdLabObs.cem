@@ -1,0 +1,7 @@
+cem ChoriogonadotropinBetaSubunitPregnancyTestPrThrPtSerPlasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChoriogonadotropinBetaSubunitPregnancyTestPrThrPtSerPlasOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET
+

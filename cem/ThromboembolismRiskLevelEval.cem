@@ -1,0 +1,9 @@
+cem ThromboembolismRiskLevelEval
+	kind	statement
+	base	StatementBase
+	key			ThromboembolismRiskLevel_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ThromboembolismRiskLevel_VSET

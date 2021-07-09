@@ -1,0 +1,9 @@
+cem AdultADHDSelfReportScaleASRSRiskLevelEval
+
+	kind	statement
+	base	StatementBase
+    key     AdultADHDSelfReportScaleASRSRiskLevel_CODE
+	data	CodeableOrdinal
+
+	constraint	data.codeableOrdinal.valueset
+	    value	MentalHealthQuestionnaireRiskLevel_VSET

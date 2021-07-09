@@ -1,0 +1,20 @@
+cem FormulaFeedingPanel
+	kind    	panel
+    base        PanelBase
+	key         FormulaFeedingPanel_CODE
+    item        FormulaFeedingFrequencyEval
+        id      formulaFeedingFrequencyEval
+        card    0-1
+    item        FormulaVolumePerFeedingMeas
+        id      formulaVoluemPerFeedingMeas
+        card    0-1
+    item        FormulaType
+        id      formulaType
+        card    0-1
+    item        FormulaName
+        id      formulaName
+        card    0-1
+    item        NippleBottleTypeEval
+        id      nippleBottleTypeEval
+        card    0-1
+

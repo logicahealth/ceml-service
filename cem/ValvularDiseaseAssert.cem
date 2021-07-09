@@ -1,0 +1,10 @@
+cem ValvularDiseaseAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        Severity
+        id      severity
+        card    0-1
+    constraint	data.codeableConcept.code
+        value	ValvularDisease_CODE
+    constraint  bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+        value   HeartValvesBodyLocationPrecoord_VSET

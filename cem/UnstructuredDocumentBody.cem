@@ -1,0 +1,5 @@
+cem UnstructuredDocumentBody
+	kind	statement
+	base	StatementBase
+	key			UnstructuredDocumentBody_CODE
+	data		Attachment

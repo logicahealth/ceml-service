@@ -1,0 +1,6 @@
+cem PeriplanetaamericanaAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PeriplanetaamericanaAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		KilounitsPerLiter_CODE

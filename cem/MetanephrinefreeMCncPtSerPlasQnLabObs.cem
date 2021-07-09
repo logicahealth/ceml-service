@@ -1,0 +1,6 @@
+cem MetanephrinefreeMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MetanephrinefreeMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		PicogramsPerMilliliter_CODE

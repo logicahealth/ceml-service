@@ -1,0 +1,4 @@
+cem SimpleName
+	kind	component
+	key     SimpleName_CODE
+	data	String

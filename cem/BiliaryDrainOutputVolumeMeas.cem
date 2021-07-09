@@ -1,0 +1,8 @@
+cem BiliaryDrainOutputVolumeMeas
+	kind		statement
+	base		OutputVolumeMeas
+	key			BiliaryDrainOutputVolume_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	BiliaryDrainDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	BiliaryDrainBodyLocationPrecoord_VSET

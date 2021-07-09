@@ -1,0 +1,4 @@
+cem NorovirusGroup2RNAACncPtStoolOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NorovirusGroup2RNAACncPtStoolOrdProbeAmpTar_CODE

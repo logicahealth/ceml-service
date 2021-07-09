@@ -1,0 +1,9 @@
+cem PatientContactStatusChangeReason
+	kind	statement
+	base	StatementBase
+	key			PatientContactStatusChangeReason_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PatientContactStatusChangeReason_VSET

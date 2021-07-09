@@ -1,0 +1,6 @@
+cem Beta2Glycoprotein1AbIgGACncPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Beta2Glycoprotein1AbIgGACncPtSerQnEIA_CODE
+	constraint		data.quantity.unit_code
+		value	StandardIgGUnits_CODE

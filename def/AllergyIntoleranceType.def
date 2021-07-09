@@ -1,0 +1,4 @@
+AllergyIntoleranceType is for documenting the type of AllergyIntolerance. It is used to state whether the instance is an allergy
+or an intolerance. Allergies require the presence of IgE as a reaction to a substance, while intolerance indicates
+a reaction to that substance, but not IgE presence.
+

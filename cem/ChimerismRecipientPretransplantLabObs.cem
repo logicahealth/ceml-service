@@ -1,0 +1,4 @@
+cem ChimerismRecipientPretransplantLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ChimerismRecipientPretransplant_CODE

@@ -1,0 +1,4 @@
+cem EducationDegree
+	kind		component
+	key			EducationDegree_CODE
+	data		String

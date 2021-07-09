@@ -1,0 +1,10 @@
+
+cem CommunicationCharacteristicsEval
+	kind	statement
+    base    StatementBase
+	key			CommunicationCharacteristics_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	CommunicationCharacteristics_VSET

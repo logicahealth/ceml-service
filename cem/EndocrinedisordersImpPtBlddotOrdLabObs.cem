@@ -1,0 +1,4 @@
+cem EndocrinedisordersImpPtBlddotOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EndocrinedisordersImpPtBlddotOrd_CODE

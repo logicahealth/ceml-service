@@ -1,0 +1,4 @@
+cem WoundIdentifier
+	kind    	component
+	key         WoundIdentifier_CODE
+	data        String

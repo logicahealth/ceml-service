@@ -1,0 +1,6 @@
+cem LactateDehydrogenaseCCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LactateDehydrogenaseCCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerLiter_CODE

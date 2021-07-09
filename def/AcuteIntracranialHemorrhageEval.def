@@ -1,0 +1,7 @@
+AcuteIntracranialHemorrhageEval 
+An evaluation as to whether or not an individual has an acute intracranial hemorrhage.  There currently is no LOINC code for this.  The possible responses are "Positive", "Negative", and "Inderterminate".
+
+@Author nrdavis1
+@Date 29 Jan 2018 15:21
+@Status draft
+@RequestedBy iActivity

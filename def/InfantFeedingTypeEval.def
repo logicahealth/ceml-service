@@ -1,0 +1,4 @@
+InfantFeedingTypeEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the InfantFeedingTypeEval model, the question is "what is the subject's infant feeding type?" and the coded answers can be "Bottle feed: no formula preference/undecided", "Breast Feed", "Breast feeding offered and declined", and "Enfamil" etc.
+"Infant feeding type" by definition means "The kind of feeding an infant is getting".
+

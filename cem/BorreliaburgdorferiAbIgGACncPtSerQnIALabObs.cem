@@ -1,0 +1,6 @@
+cem BorreliaburgdorferiAbIgGACncPtSerQnIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BorreliaburgdorferiAbIgGACncPtSerQnIA_CODE
+	constraint		data.quantity.unit_code
+			value		ArbitraryUnitsPerMilliliter_CODE

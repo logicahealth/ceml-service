@@ -1,0 +1,4 @@
+cem VerificationDocumentId
+	kind		component
+	key			VerificationDocumentId_CODE
+	data		String

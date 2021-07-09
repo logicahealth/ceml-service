@@ -1,0 +1,6 @@
+cem EpinephrineMCncPtPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EpinephrineMCncPtPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	PicogramsPerMilliliter_CODE

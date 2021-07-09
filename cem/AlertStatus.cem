@@ -1,0 +1,8 @@
+cem AlertStatus
+	kind		component
+	key			AlertStatus_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	AlertStatus_VSET

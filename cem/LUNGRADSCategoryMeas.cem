@@ -1,0 +1,18 @@
+cem LUNGRADSCategoryMeas
+    kind        statement
+	base        StatementBase
+    key         LUNGRADSCategory_CODE
+	data        CodeableOrdinal
+    qual        ReasonForRecall
+        id      reasonForRecall
+        card    0-1
+    qual        ClinicallySignificantFindings
+        id      clinicallySignificantFindings
+        card    0-1
+    qual        PriorHistoryOfLungCancer
+        id      priorHistoryOfLungCancer
+        card    0-1
+    constraint  data.codeableOrdinal.valueset
+        value   LUNGRADSCategory_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

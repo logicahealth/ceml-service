@@ -1,0 +1,6 @@
+cem DailyDoseCount
+	kind		component
+	key			DailyDoseCount_CODE
+	data		Decimal
+	constraint	data.decimal.min
+		value	0

@@ -1,0 +1,6 @@
+cem PorphobilinogenDeaminaseCCncPtRBCQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PorphobilinogenDeaminaseCCncPtRBCQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilliunitsPerGram_CODE

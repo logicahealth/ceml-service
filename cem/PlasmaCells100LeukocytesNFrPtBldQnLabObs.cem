@@ -1,0 +1,6 @@
+cem PlasmaCells100LeukocytesNFrPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PlasmaCells100LeukocytesNFrPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

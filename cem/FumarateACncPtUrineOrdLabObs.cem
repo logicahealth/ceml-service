@@ -1,0 +1,4 @@
+cem FumarateACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			FumarateACncPtUrineOrd_CODE

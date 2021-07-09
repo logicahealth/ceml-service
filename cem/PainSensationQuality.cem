@@ -1,0 +1,6 @@
+cem PainSensationQuality
+	kind    	component
+	key         PainSensationQuality_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   PainCharacter_VSET

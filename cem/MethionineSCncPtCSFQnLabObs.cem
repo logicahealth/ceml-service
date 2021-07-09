@@ -1,0 +1,6 @@
+cem MethionineSCncPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethionineSCncPtCSFQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

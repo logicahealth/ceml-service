@@ -1,0 +1,3 @@
+BirthDate captures the exact day and time a subject was born. The verified qualifier is used to 
+indicate the source of the birth date verification, i.e. the patient, the mother, etc.
+

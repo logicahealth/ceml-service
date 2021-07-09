@@ -1,0 +1,6 @@
+cem GlycosaminoglycansCreatinineRatioPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GlycosaminoglycansCreatinineRatioPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerMillimoleCreatinine_CODE

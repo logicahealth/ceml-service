@@ -1,0 +1,4 @@
+cem GranulocytesimmaturePrThrPtBldOrdAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			GranulocytesimmaturePrThrPtBldOrdAutomatedcount_CODE

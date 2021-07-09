@@ -1,0 +1,10 @@
+cem ApgarScoreFiveMinutePulseMeas
+	kind	statement
+	base	StatementBase
+	key			ApgarScoreFiveMinutePulse_CODE
+	data		CodeableOrdinal
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableOrdinal.valueset
+		value	ApgarScorePulse_VSET

@@ -1,0 +1,2 @@
+TotalVolume is the total volume of the Orderable (i.e., it is the sum of all the contributing volumes of the OrderableItems). This applies only to continuous infusions and intermittent infusions.
+

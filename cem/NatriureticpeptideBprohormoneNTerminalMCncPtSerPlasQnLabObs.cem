@@ -1,0 +1,6 @@
+cem NatriureticpeptideBprohormoneNTerminalMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NatriureticpeptideBprohormoneNTerminalMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		PicogramsPerMilliliter_CODE

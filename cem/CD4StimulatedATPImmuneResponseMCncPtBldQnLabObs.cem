@@ -1,0 +1,6 @@
+cem CD4StimulatedATPImmuneResponseMCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CD4StimulatedATPImmuneResponseMCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

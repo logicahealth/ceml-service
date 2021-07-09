@@ -1,0 +1,6 @@
+cem DantroleneMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DantroleneMCncPtSerPlasQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

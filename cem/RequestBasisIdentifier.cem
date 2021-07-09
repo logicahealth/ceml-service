@@ -1,0 +1,5 @@
+cem RequestBasisIdentifier
+	kind    	component
+	key         RequestBasisIdentifier_CODE
+    data        Identifier
+

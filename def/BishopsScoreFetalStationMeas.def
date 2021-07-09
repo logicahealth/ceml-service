@@ -1,0 +1,5 @@
+BishopsScoreFetalStationMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the BishopsScoreFetalStationMeas model, the question is "what is the subject's Bishop's Fetal Station score?" and the ordinal value Bishops score describes the postion of a fetus' head in relation to the mother's ischial spines. 
+Negative numbers indicate the head is further inside. Values range from 0-3 and correspond as follows: 0 (-3), 1 (-2), 2 (-1,0), 3 (+1,+
+	
+

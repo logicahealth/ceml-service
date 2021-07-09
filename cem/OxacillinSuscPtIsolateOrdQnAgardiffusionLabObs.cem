@@ -1,0 +1,4 @@
+cem OxacillinSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxacillinSuscPtIsolateOrdQnAgardiffusion_CODE

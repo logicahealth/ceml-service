@@ -1,0 +1,6 @@
+cem PotassiumSCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PotassiumSCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimolesPerLiter_CODE

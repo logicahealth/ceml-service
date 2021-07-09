@@ -1,0 +1,5 @@
+cem OrganizationActingForIdentifier
+	kind    	component
+	key         OrganizationActingForIdentifier_CODE
+    data        Identifier
+

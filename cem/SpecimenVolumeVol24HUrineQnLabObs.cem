@@ -1,0 +1,6 @@
+cem SpecimenVolumeVol24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SpecimenVolumeVol24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	Milliliters_CODE

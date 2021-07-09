@@ -1,0 +1,5 @@
+cem NumberofspecimensreceivedNumStdyStoolQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NumberofspecimensreceivedNumStdyStoolQn_CODE
+	

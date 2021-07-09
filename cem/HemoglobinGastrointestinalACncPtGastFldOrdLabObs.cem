@@ -1,0 +1,6 @@
+cem HemoglobinGastrointestinalACncPtGastFldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HemoglobinGastrointestinalACncPtGastFldOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

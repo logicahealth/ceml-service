@@ -1,0 +1,5 @@
+cem MyelinAssociatedGlycoproteinAbIgMTitrPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MyelinAssociatedGlycoproteinAbIgMTitrPtSerQn_CODE
+	

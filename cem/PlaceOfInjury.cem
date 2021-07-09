@@ -1,0 +1,4 @@
+cem PlaceOfInjury
+	kind		component
+	key			PlaceOfInjury_CODE
+	data		String

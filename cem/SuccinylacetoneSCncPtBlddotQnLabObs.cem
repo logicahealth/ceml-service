@@ -1,0 +1,6 @@
+cem SuccinylacetoneSCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SuccinylacetoneSCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

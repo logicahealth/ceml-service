@@ -1,0 +1,5 @@
+cem NeuronalNuclearType1AbTitrPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NeuronalNuclearType1AbTitrPtSerQn_CODE
+	

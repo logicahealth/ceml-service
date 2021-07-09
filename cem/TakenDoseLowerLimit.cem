@@ -1,0 +1,5 @@
+
+cem TakenDoseLowerLimit
+	kind	component
+	key     TakenDoseLowerLimit_CODE
+	data	Range

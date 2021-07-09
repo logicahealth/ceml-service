@@ -1,0 +1,4 @@
+cem ReferenceLabTestResultsFindXXXReferenceLabTestNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ReferenceLabTestResultsFindXXXReferenceLabTestNar_CODE

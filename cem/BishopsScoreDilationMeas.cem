@@ -1,0 +1,10 @@
+cem BishopsScoreDilationMeas
+	kind	statement
+	base	StatementBase
+	key			BishopsScoreDilation_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	BishopsScoreDilation_VSET

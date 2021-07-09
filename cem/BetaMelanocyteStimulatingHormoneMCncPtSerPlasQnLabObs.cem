@@ -1,0 +1,6 @@
+cem BetaMelanocyteStimulatingHormoneMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BetaMelanocyteStimulatingHormoneMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	PicogramsPerMilliliter_CODE

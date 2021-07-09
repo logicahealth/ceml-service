@@ -1,0 +1,22 @@
+cem BacterialIsolatePanel
+	kind		panel
+	base		MicroIsolatePanel
+	key			BacterialIsolatePanel_CODE
+	item		KirbyBauerSusceptibilityLabObs
+		id		kirbyBauerSusceptibilityLabObs
+		card	0-M
+	item		MinBacterialcidalSusceptibilityLabObs
+		id		minBacterialcidalSusceptibilityLabObs
+		card	0-M
+	item		MinInhibitorySusceptibilityLabObs
+		id		minInhibitorySusceptibilityLabObs
+		card	0-M
+	item		SynergySusceptibilityLabObs
+		id		synergySusceptibilityLabObs
+		card	0-M
+	constraint	microOrganismEval.data.codeableConcept.valueset
+		value	BacterialMicroOrganism_VSET
+	constraint	microOrganismEval.microOrganismQuantitative.data.codeableConcept.valueset
+		value	BacterialMicroGrowthQuantitative_VSET
+	constraint	microOrganismEval.microOrganismQualitative.data.codeableConcept.valueset
+		value	BacterialMicroObsQualitative_VSET

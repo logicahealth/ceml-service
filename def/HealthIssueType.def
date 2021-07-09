@@ -1,0 +1,4 @@
+HealthIssueType is the categorization of HealthIssues. For Intermountain Healthcare, they are 
+Symptoms, Diagnosis, Differential Diagnosis, Procedure, History, 
+Family History, Social History, Risk, Event, Health Maintenance.
+

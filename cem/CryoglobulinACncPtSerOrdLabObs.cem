@@ -1,0 +1,6 @@
+cem CryoglobulinACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CryoglobulinACncPtSerOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	PosNegEquiIndet_VSET

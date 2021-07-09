@@ -1,0 +1,4 @@
+cem MotorVehicleOccupantInjuryRoleComment
+	kind		component
+	key			MotorVehicleOccupantInjuryRoleComment_CODE
+	data		String

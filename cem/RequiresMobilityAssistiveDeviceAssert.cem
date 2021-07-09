@@ -1,0 +1,22 @@
+cem RequiresMobilityAssistiveDeviceAssert
+	kind		statement
+	base		ObservationAssert
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-M
+    qual        Device
+        id      device
+        card    0-M
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+    qual        AssociatedPrecondition
+        id      neuromuscularAssociatedPrecondition
+        card    0-M
+    constraint	data.codeableConcept.code
+		value	RequiresMobilityAssistiveDevice_CODE
+    constraint	device.data.codeableConcept.valueset
+		value	MobilityAssistiveDevice_VSET
+    constraint  neuromuscularAssociatedPrecondition.data.codeableConcept.valueset
+        value   NeuromuscularAssociatedPrecondition_VSET
+

@@ -1,0 +1,6 @@
+cem HeparinUnfractionatedACncPtPPPQnChromoLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HeparinUnfractionatedACncPtPPPQnChromo_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerMilliliter_CODE

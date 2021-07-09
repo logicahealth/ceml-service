@@ -1,0 +1,6 @@
+cem HowellMinusJollyBodiesACncPtBldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HowellMinusJollyBodiesACncPtBldOrdMicroscopyLight_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	ObservNeg_VSET

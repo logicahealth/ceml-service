@@ -1,0 +1,8 @@
+RadiologyResultPanel is the base type of all Radiology result models. Presently, there is just one subtype of the RadiologyResultTextPanel
+but it is done as a child-base pattern and is parallel to the MicroResultPanel model.
+Modeler:  KSpencer
+Date:       02/05/2016
+Change:  Added Attribution, Patient identifier, External identifier, changed Relative Temporal Context to Associated Precondition. 
+
+
+

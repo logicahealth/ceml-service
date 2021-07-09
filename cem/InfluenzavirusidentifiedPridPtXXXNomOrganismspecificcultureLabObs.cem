@@ -1,0 +1,4 @@
+cem InfluenzavirusidentifiedPridPtXXXNomOrganismspecificcultureLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InfluenzavirusidentifiedPridPtXXXNomOrganismspecificculture_CODE

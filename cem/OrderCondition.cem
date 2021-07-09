@@ -1,0 +1,8 @@
+cem OrderCondition
+	kind		component
+	key			OrderCondition_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	OrderCondition_VSET

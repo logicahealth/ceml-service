@@ -1,0 +1,4 @@
+cem BacteriaidentifiedPridPtTissNomBiopsycultureLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BacteriaidentifiedPridPtTissNomBiopsyculture_CODE

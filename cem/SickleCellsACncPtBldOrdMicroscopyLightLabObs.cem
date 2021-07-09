@@ -1,0 +1,6 @@
+cem SickleCellsACncPtBldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SickleCellsACncPtBldOrdMicroscopyLight_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrdinalScaleNegToFour_VSET

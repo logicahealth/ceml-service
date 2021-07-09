@@ -1,0 +1,6 @@
+cem MononuclearCells100LeukocytesNFrPtCSFQnManualCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MononuclearCells100LeukocytesNFrPtCSFQnManualCount_CODE
+	constraint	data.quantity.unit_code
+		value	PerHundred_CODE

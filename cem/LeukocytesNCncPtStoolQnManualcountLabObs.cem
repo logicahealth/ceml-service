@@ -1,0 +1,6 @@
+cem LeukocytesNCncPtStoolQnManualcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LeukocytesNCncPtStoolQnManualcount_CODE
+	constraint		data.quantity.unit_code
+			value		PermilliLiterNumberConcentrationUnits_CODE

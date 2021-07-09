@@ -1,0 +1,4 @@
+cem SymptomsOfGalactosemiaLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			SymptomsOfGalactosemia_CODE

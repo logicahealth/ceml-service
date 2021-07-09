@@ -1,0 +1,4 @@
+cem DiabetesstatusPridPtPatientNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			DiabetesstatusPridPtPatientNom_CODE

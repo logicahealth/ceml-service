@@ -1,0 +1,4 @@
+cem CalciumBilirubinateCrystalsACncPtBilFldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CalciumBilirubinateCrystalsACncPtBilFldOrdMicroscopyLight_CODE

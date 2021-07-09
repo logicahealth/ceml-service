@@ -1,0 +1,6 @@
+cem ThyroxineFreeIndexACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThyroxineFreeIndexACncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	Units_CODE

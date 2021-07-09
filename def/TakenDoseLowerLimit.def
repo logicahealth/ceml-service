@@ -1,0 +1,2 @@
+TakenDoseLowerLimit is a component base model used to record the low end of a taken dose range.
+For example, if the dosage is "Take 1 to 2 tablets as needed for pain" and an individual took 1 tablet in one instance and two in another instance then the TakenDoseLowerLimit is "1".

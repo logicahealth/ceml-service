@@ -1,0 +1,4 @@
+SexualMaturityPediatricRatingScaleMaleMilestoneEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the SexualMaturityPediatricRatingScaleMaleMilestoneEval model, the question is, "What is the subject's Sexual Maturity Pediatric Rating Scale Male Milestone?" and the coded answers can be "presence of facial hair," etc.
+"SexualMaturityPediatricRatingScaleMaleMilestoneEval" is an evaluation model, for indicating milestone development level in pediatric male patients.
+

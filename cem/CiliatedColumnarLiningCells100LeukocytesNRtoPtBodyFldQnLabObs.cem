@@ -1,0 +1,6 @@
+cem CiliatedColumnarLiningCells100LeukocytesNRtoPtBodyFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CiliatedColumnarLiningCells100LeukocytesNRtoPtBodyFldQn_CODE
+	constraint	data.quantity.unit_code
+		value	PerHundred_CODE

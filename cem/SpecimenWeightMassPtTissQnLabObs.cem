@@ -1,0 +1,6 @@
+cem SpecimenWeightMassPtTissQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SpecimenWeightMassPtTissQn_CODE
+	constraint		data.quantity.unit_code
+		value	Milligrams_CODE

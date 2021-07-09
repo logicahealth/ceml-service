@@ -1,0 +1,4 @@
+cem InterpretationOfCoagulationCorrectionStudies2LabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationOfCoagulationCorrectionStudies2_CODE

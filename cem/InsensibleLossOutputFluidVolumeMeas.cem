@@ -1,0 +1,12 @@
+cem InsensibleLossOutputFluidVolumeMeas
+	kind		statement
+	base		OutputVolumeMeas
+	key			InsensibleLossOutputFluidVolume_CODE
+	constraint	method.card
+		value	0
+	constraint	device.card
+		value	0
+	constraint	bodyLocationPrecoord.card
+		value	0
+	constraint	sourceIdentifier.card
+		value	0

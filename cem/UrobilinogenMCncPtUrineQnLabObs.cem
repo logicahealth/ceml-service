@@ -1,0 +1,6 @@
+cem UrobilinogenMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			UrobilinogenMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	EhrlichUnitsPerDeciliter_CODE

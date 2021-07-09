@@ -1,0 +1,6 @@
+cem MethionineCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethionineCreatinineScRtoPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicromolesPerGram_CODE

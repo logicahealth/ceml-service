@@ -1,0 +1,11 @@
+cem PhysicalAbuseAssert
+    kind        statement
+    base       	EventAssert
+    qual        SituationStillAffectingPatient 
+        id      situationStillAffectingPatient 
+        card    0-1 
+    qual        PatientSoughtProfessionalHelp 
+        id      patientSoughtProfessionalHelp 
+        card    0-1     
+    constraint  data.codeableConcept.code 
+        value   PhysicalAbuse_CODE

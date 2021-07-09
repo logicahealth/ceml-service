@@ -1,0 +1,4 @@
+ProviderExternalId captures an external identifier for the provider. (Normally the ID is identified in an incoming message and thereafter stored in the receiver system.)  The
+types of IDs this is intended to capture (i.e., the values of ProviderExternalIdType_DOMAIN_ECID) are UPIN, NPI etc.
+
+

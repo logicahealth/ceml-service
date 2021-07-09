@@ -1,0 +1,7 @@
+cem HyalinecastsPrThrPtUrinesedOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HyalinecastsPrThrPtUrinesedOrdMicroscopylight_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	NoneRareFewModMany_VSET

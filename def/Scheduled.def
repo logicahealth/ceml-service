@@ -1,0 +1,3 @@
+Scheduled is a child model of the Attribution model. It holds the who, when, where, and why information of the scheduling.
+Scheduled is information about the action of designating a service with a specific date time.
+

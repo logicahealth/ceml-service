@@ -1,0 +1,6 @@
+cem HemoglobinEntMassPtReticQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HemoglobinEntMassPtReticQn_CODE
+	constraint		data.quantity.unit_code
+		value	Picograms_CODE

@@ -1,0 +1,5 @@
+cem PlateletFactorFourPolyanionPVSComplexAbIgGODPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PlateletFactorFourPolyanionPVSComplexAbIgGODPtSerQnEIA_CODE
+	

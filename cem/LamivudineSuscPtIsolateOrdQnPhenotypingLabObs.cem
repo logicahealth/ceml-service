@@ -1,0 +1,4 @@
+cem LamivudineSuscPtIsolateOrdQnPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LamivudineSuscPtIsolateOrdQnPhenotyping_CODE

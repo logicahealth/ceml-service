@@ -1,0 +1,6 @@
+cem Galactose1PhosphateUridylTransferaseCCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Galactose1PhosphateUridylTransferaseCCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerHourPerGram_CODE

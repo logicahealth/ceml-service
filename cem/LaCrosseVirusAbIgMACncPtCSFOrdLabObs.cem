@@ -1,0 +1,4 @@
+cem LaCrosseVirusAbIgMACncPtCSFOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LaCrosseVirusAbIgMACncPtCSFOrd_CODE

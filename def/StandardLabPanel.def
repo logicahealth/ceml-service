@@ -1,0 +1,2 @@
+StandardLabPanel is the Clinical Element Model for storing a panel of standard laboratory test results or observations such as hematology, chemistry, coagulation, and serology.  The panel will not contain results or observations for microbiology, anatomic pathology, and blood bank data. 
+

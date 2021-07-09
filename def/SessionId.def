@@ -1,0 +1,2 @@
+SessionId is a numeric identifier identifying the order session. This is used while the provider is making the order. It allows the provider to leave an ordering session either intentionally or through time-out, and then return to the session later to complete the ordering process. This number has no use after the ordering process is completed and, therefore, can be deleted at that point.
+

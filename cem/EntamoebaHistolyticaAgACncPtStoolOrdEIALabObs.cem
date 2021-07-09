@@ -1,0 +1,4 @@
+cem EntamoebaHistolyticaAgACncPtStoolOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EntamoebaHistolyticaAgACncPtStoolOrdEIA_CODE

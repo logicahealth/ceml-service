@@ -1,0 +1,6 @@
+cem HepatitisBVirusDNALaCncPtSerPlasQnProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HepatitisBVirusDNALaCncPtSerPlasQnProbeAmpTar_CODE
+	constraint		data.quantity.unit_code
+		value	LogInternationalUnit_CODE

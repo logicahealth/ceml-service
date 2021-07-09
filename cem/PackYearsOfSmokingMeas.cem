@@ -1,0 +1,6 @@
+cem PackYearsOfSmokingMeas
+    kind	statement
+	base	StatementBase
+    key     PackYearsOfSmoking_CODE
+	data	Quantity
+    

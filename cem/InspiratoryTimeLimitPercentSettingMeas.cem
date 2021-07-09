@@ -1,0 +1,7 @@
+cem InspiratoryTimeLimitPercentSettingMeas
+	kind	statement
+	base	StatementBase
+	key			InspiratoryTimeLimitPercentSetting_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

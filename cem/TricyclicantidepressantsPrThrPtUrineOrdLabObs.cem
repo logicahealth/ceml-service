@@ -1,0 +1,4 @@
+cem TricyclicantidepressantsPrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TricyclicantidepressantsPrThrPtUrineOrd_CODE

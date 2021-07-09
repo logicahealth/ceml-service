@@ -1,0 +1,7 @@
+cem AssociatedConditionType
+	kind    	component
+	key         AssociatedConditionType_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   AssociatedConditionType_VSET
+

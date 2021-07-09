@@ -1,0 +1,6 @@
+cem CholesterolinHDLMCncPtSerPlasQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CholesterolinHDLMCncPtSerPlasQnElectrophoresis_CODE
+	constraint		data.quantity.unit_code
+			value		MilligramsPerDeciliter_CODE

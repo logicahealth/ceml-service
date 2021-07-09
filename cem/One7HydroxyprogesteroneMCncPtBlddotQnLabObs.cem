@@ -1,0 +1,6 @@
+cem One7HydroxyprogesteroneMCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			One7HydroxyprogesteroneMCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		NanogramsPerMilliliter_CODE

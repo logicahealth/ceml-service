@@ -1,0 +1,5 @@
+HealthIssueSubsumptionLink is the semantic link between the subsuming Health Issue and the subsumed Health Issues.
+date: 03/02/2016
+modeler: N Davis
+change: updated model to CEML v2 syntax for links.
+

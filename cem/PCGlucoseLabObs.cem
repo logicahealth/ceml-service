@@ -1,0 +1,18 @@
+cem PCGlucoseLabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         PCGlucoseLabObs_CODE
+    qual        SpecimenTiming
+        id      specimenTiming
+        card    0-1
+    link        SpecimenLink
+        id      specimenLink
+        card    0-1
+    link        MedicationStatementLink
+        id      medicationStatementLink
+        card    0-1
+    constraint  data.quantity.unit_valueset
+        value   GlucoseUOM_VSET
+
+        
+

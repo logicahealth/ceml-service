@@ -1,0 +1,6 @@
+cem Coproporphyrin3CreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Coproporphyrin3CreatinineScRtoPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicromolesPerMole_CODE

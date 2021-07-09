@@ -1,0 +1,6 @@
+cem DirectAntiglobulinTestIgGSpecificReagentImpPtRBCNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			DirectAntiglobulinTestIgGSpecificReagentImpPtRBCNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	NegativePositive_VSET

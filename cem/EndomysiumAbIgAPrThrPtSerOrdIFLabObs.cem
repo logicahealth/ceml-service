@@ -1,0 +1,4 @@
+cem EndomysiumAbIgAPrThrPtSerOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EndomysiumAbIgAPrThrPtSerOrdIF_CODE

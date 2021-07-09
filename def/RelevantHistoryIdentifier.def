@@ -1,0 +1,9 @@
+RelevantHistoryIdentifier 
+
+This is a component model used to capture the identifying code or number for links to Provenance records for past versions of this resource or fulfilling request or event records that identify key state transitions or updates that are likely to be relevant to a user looking at the current version.
+
+@Author bsheale
+@Date 23 May 2017 15:34
+@Status draft
+@RequestedBy ACOG
+@Keyword referral, FHIR

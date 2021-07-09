@@ -1,0 +1,2 @@
+ProviderId is used to capture a provider's identification information. ProviderId is captured as string for IR3. Ideally, it should an instance of ExternalId. 
+

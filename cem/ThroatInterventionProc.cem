@@ -1,0 +1,11 @@
+cem ThroatInterventionProc
+	kind		statement
+	base		Procedure
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	mod			NegationInd
+		id		negationInd
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	ThroatIntervention_CODE

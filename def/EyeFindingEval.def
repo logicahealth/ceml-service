@@ -1,0 +1,4 @@
+EyeFindingEval created on 22/Jul/2016 11:33
+
+In the EyeFindingEval model, the question is "what is the finding of subject's eye?" and the coded answers can be 'Conjunctivitis', 'Cataract', etc.
+"EyeFindingEval" by definition means an evaluation of the findings of the patient's eye.

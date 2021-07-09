@@ -1,0 +1,8 @@
+cem ApgarScoreFiveMinuteTotalMeas
+	kind	statement
+	base	StatementBase
+	key			ApgarScoreFiveMinuteTotal_CODE
+	data		Quantity
+    mod 	    FocalSubject
+		id		focalSubject
+		card	0-1

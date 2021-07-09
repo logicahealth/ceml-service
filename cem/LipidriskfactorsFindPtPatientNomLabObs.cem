@@ -1,0 +1,4 @@
+cem LipidriskfactorsFindPtPatientNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			LipidriskfactorsFindPtPatientNom_CODE

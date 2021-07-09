@@ -1,0 +1,5 @@
+HealthIssueEvolutionLink is the semantic link between the antecedent Health Issue(s) and the subsequent Health Issue(s) in the progression of Health Issues.
+date: 03/02/2016
+modeler: N Davis
+change: updated model to reflect CEML v2 syntax for links.
+

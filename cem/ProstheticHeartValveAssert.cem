@@ -1,0 +1,10 @@
+cem ProstheticHeartValveAssert
+    kind        statement
+    base        AssertionOfPresence
+    link        ImageLink
+        id      imageLink
+        card    0-M
+    constraint	data.codeableConcept.code
+        value	ProstheticHeartValve_CODE
+    constraint  bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+        value   HeartValvesBodyLocationPrecoord_VSET

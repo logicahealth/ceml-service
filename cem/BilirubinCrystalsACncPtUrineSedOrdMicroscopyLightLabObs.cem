@@ -1,0 +1,6 @@
+cem BilirubinCrystalsACncPtUrineSedOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BilirubinCrystalsACncPtUrineSedOrdMicroscopyLight_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrdinalScaleNegToFour_VSET

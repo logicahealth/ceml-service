@@ -1,0 +1,6 @@
+cem CardiolipinAbIgGACncPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CardiolipinAbIgGACncPtSerQnEIA_CODE
+	constraint		data.quantity.unit_code
+		value	GPortionPhospholipids_CODE

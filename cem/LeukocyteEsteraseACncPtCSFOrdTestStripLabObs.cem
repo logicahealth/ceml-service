@@ -1,0 +1,4 @@
+cem LeukocyteEsteraseACncPtCSFOrdTestStripLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LeukocyteEsteraseACncPtCSFOrdTestStripLabObs_CODE

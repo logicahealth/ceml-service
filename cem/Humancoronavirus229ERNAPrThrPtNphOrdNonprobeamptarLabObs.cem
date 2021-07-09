@@ -1,0 +1,6 @@
+cem Humancoronavirus229ERNAPrThrPtNphOrdNonprobeamptarLabObs
+	kind    	statement
+    base        StandardLabObsOrdinal
+	key         Humancoronavirus229ERNAPrThrPtNphOrdNonprobeamptar_CODE
+    constraint  data.codeableOrdinal.valueset
+        value   DetectedNotDectedEqIn_VSET

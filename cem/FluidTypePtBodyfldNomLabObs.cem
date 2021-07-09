@@ -1,0 +1,4 @@
+cem FluidTypePtBodyfldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			FluidTypePtBodyfldNom_CODE

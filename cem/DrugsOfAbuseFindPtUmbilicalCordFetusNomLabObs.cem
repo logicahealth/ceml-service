@@ -1,0 +1,4 @@
+cem DrugsOfAbuseFindPtUmbilicalCordFetusNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			DrugsOfAbuseFindPtUmbilicalCordFetusNom_CODE

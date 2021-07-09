@@ -1,0 +1,4 @@
+cem PristanatePhytanateSCrtoPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PristanatePhytanateSCrtoPtSerPlasQn_CODE

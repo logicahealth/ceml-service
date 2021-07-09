@@ -1,0 +1,6 @@
+cem GestationalageTimePtFetusQnUSestimatedfromclaviclelengthYarkoni1985LabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GestationalageTimePtFetusQnUSestimatedfromclaviclelengthYarkoni1985_CODE
+	constraint		data.quantity.unit_code
+			value		Days_CODE

@@ -1,0 +1,6 @@
+cem PlateletSatellitismACncPtBldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PlateletSatellitismACncPtBldOrdMicroscopyLight_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	ObservNeg_VSET

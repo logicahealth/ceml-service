@@ -1,0 +1,7 @@
+cem ArachishypogaeaAbIgERASTclassPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ArachishypogaeaAbIgERASTclassPrThrPtSerOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	RAST0to6_VSET

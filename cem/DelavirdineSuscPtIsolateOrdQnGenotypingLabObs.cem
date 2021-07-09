@@ -1,0 +1,4 @@
+cem DelavirdineSuscPtIsolateOrdQnGenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DelavirdineSuscPtIsolateOrdQnGenotyping_CODE

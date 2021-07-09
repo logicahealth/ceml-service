@@ -1,0 +1,4 @@
+cem HealthIssueDisplayPriority
+	kind		component
+	key			HealthIssueDisplayPriority_CODE
+	data		Integer

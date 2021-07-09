@@ -1,0 +1,11 @@
+cem FeelingTiredOrHavingLittleEnergyInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     FeelingTiredOrHavingLittleEnergyInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET
+
+

@@ -1,0 +1,8 @@
+cem IntravascularIntakeVolumeMeas
+	kind		statement
+	base		IntakeFluidVolumeMeas
+	key			IntravascularIntakeVolume_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	IntravascularDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	IntravascularBodyLocationPrecoord_VSET

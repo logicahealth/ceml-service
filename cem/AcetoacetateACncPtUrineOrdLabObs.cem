@@ -1,0 +1,4 @@
+cem AcetoacetateACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AcetoacetateACncPtUrineOrd_CODE

@@ -1,0 +1,6 @@
+cem BreathsSpontaneousOnVentilatorNRatPtRespiratorySystemQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BreathsSpontaneousOnVentilatorNRatPtRespiratorySystemQn_CODE
+	constraint		data.quantity.unit_code
+		value	PerMinute_CODE

@@ -1,0 +1,6 @@
+cem MethemoglobinMCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethemoglobinMCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

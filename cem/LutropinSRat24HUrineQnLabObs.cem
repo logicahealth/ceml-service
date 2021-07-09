@@ -1,0 +1,6 @@
+cem LutropinSRat24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LutropinSRat24HUrineQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

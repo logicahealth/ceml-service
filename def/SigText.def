@@ -1,0 +1,2 @@
+SigText represents the complete and original text of an order.  This model is intended for ambulatory meds so the original information about the order goes all the way through into the receiving system.
+

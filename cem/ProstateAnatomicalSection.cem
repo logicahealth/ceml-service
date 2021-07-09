@@ -1,0 +1,9 @@
+cem ProstateAnatomicalSection
+	kind    	component
+	key         ProstateAnatomicalSection_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   ProstateAnatomicalSection_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

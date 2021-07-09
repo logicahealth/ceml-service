@@ -1,0 +1,4 @@
+cem ThyroidstimulatingimmunoglobulinsactualNormalRelMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThyroidstimulatingimmunoglobulinsactualNormalRelMCncPtSerQn_CODE

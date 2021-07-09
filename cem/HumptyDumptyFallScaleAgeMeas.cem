@@ -1,0 +1,9 @@
+cem HumptyDumptyFallScaleAgeMeas
+    kind	statement
+	base	StatementBase
+    key     HumptyDumptyFallScaleAge_CODE
+	data	CodeableOrdinal
+    constraint	data.codeableOrdinal.strength
+		value	CNE
+	constraint	data.codeableOrdinal.valueset
+	    value	HumptyDumptyFallScaleAge_VSET

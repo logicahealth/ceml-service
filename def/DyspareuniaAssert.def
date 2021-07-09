@@ -1,0 +1,4 @@
+DyspareuniaAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the DyspareuniaAssert model, data is Dyspareunia_ECID which means painful sexual intercourse due to medical causes. 
+

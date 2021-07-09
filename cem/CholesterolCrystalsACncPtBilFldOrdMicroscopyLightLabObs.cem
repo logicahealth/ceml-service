@@ -1,0 +1,4 @@
+cem CholesterolCrystalsACncPtBilFldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CholesterolCrystalsACncPtBilFldOrdMicroscopyLight_CODE

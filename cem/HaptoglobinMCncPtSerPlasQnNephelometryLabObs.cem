@@ -1,0 +1,6 @@
+cem HaptoglobinMCncPtSerPlasQnNephelometryLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HaptoglobinMCncPtSerPlasQnNephelometry_CODE
+	constraint		data.quantity.unit_code
+			value		GramsPerDeciliter_CODE

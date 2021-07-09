@@ -1,0 +1,8 @@
+PatientEncounterProvider captures the name and how the provider participated in a patient encounter.
+
+date: January 6, 2016
+modeler: N Davis
+note:
+As per talks with T. Conway (original model author) the data for this model will be the role of the provider: admitter, attender, consultant, referrer, discharger, and responsibleParty.
+This is also contained in the PatientEncounter PDD (PatientEncounter has been changed to GeneralEncounter due to the creation of other, specific encounter models; inpatient, outpatient, virtual, emergency).
+

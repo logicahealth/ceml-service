@@ -1,0 +1,4 @@
+cem Dependent
+kind    component
+key     Dependent_CODE
+data    String

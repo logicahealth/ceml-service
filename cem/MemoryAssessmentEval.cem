@@ -1,0 +1,12 @@
+cem MemoryAssessmentEval
+	kind	statement
+    base    StatementBase
+	key     MemoryAssessment_CODE
+    data    CodeableConcept
+	qual       DataAbsentReason
+        id     dataAbsentReason
+        card   0-M
+    constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	MemoryAssessment_VSET

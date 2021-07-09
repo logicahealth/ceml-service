@@ -1,0 +1,6 @@
+cem AlbuminMCncPtUrineQnDetectionLimit20MgLLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlbuminMCncPtUrineQnDetectionLimit20MgL_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerLiter_CODE

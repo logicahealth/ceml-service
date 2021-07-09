@@ -1,0 +1,6 @@
+cem PatientHealthQuestionnaire2ItemPHQ2TotalScoreMeas
+
+	kind	statement
+	base	StatementBase
+    key     PatientHealthQuestionnaire2ItemPHQ2TotalScore_CODE
+	data	Quantity

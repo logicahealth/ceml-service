@@ -1,0 +1,4 @@
+cem DateandtimeofpheresisprocedureTmStpPtPatientQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DateandtimeofpheresisprocedureTmStpPtPatientQn_CODE

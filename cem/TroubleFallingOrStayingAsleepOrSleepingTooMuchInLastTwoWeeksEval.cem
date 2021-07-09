@@ -1,0 +1,10 @@
+cem TroubleFallingOrStayingAsleepOrSleepingTooMuchInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     TroubleFallingOrStayingAsleepOrSleepingTooMuchInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET
+

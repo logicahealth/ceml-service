@@ -1,0 +1,6 @@
+cem Alpha1antitrypsinMCncPtSerPlasQnNephelometryLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Alpha1antitrypsinMCncPtSerPlasQnNephelometry_CODE
+	constraint		data.quantity.unit_code
+			value		GramsPerLiter_CODE

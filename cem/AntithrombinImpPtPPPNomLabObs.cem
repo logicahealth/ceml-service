@@ -1,0 +1,4 @@
+cem AntithrombinImpPtPPPNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			AntithrombinImpPtPPPNom_CODE

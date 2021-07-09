@@ -1,0 +1,4 @@
+cem MethadoneACncPtUrineOrdConfirmLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MethadoneACncPtUrineOrdConfirm_CODE

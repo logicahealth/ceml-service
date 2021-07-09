@@ -1,0 +1,4 @@
+cem MaternalSerumScreeningINT2FindPtXXXDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MaternalSerumScreeningINT2FindPtXXXDoc_CODE

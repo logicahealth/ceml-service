@@ -1,0 +1,4 @@
+PositiveEndExpiratoryPressureIntrinsicMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the PositiveEndExpiratoryPressureIntrinsicMeas model, the question is "what is the subject's Positive End Expiratory Pressure Intrinsic?" and the numeric answer will have a unit of measure. 
+"PositiveEndExpiratoryPressureIntrinsicMeas" by definition means the pressure present at the end of expiration attributable to the subject's physiology.
+

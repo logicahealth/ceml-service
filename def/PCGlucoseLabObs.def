@@ -1,0 +1,6 @@
+PCGlucoseLabObs is the detailed clinical model that describes a post-coordianted structure for all LOINC glucose tests.  Because of this the key code will not be linked to a LOINC code.  However the post-coordinated components will be.
+
+@Author nrdavis1
+@Date 24 Aug 2018 10:05
+@Status draft
+@RequestedBy HSPC

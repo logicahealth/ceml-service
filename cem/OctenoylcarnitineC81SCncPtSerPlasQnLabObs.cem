@@ -1,0 +1,6 @@
+cem OctenoylcarnitineC81SCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OctenoylcarnitineC81SCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

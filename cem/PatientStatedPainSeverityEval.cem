@@ -1,0 +1,8 @@
+cem PatientStatedPainSeverityEval
+	kind	statement
+	base	StatementBase
+	key			PatientStatedPainSeverity_CODE
+	data		Decimal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M

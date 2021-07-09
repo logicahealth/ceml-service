@@ -1,0 +1,4 @@
+cem CidalLevelTypePridPtSerNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CidalLevelTypePridPtSerNom_CODE

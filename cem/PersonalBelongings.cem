@@ -1,0 +1,4 @@
+cem PersonalBelongings
+	kind		component
+	key			PersonalBelongings_CODE
+	data		String

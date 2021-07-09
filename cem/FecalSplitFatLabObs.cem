@@ -1,0 +1,4 @@
+cem FecalSplitFatLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			FecalSplitFat_CODE

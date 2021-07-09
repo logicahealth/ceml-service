@@ -1,0 +1,6 @@
+AssertionOfPresence is an abstarct clinical element model to act as the base type for all models that assert the existance of a "thing" (condition, problem, diagnosis, device, etc) in, on, or around an individual.
+
+@Author nrdavis1
+@Date 17 Jun 2021 08:05
+@Status draft
+@RequestedBy Graphite

@@ -1,0 +1,7 @@
+cem ThyroxineT4FreeMCncPtSerPlasQnDialysisLabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         ThyroxineT4FreeMCncPtSerPlasQnDialysis_CODE
+    constraint  data.quantity.unit_code
+        value   NanogramsPerDeciliter_CODE
+

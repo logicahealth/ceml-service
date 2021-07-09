@@ -1,0 +1,6 @@
+cem AcidPhosphataseCCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AcidPhosphataseCCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerLiter_CODE

@@ -1,0 +1,5 @@
+EmploymentAssignmentGroup is a component model.
+The EmploymentAssignmentGroup model captures the data from the key domain of EmploymentAssignmentGroup_KEY_VALUESET_ECID in the form of a coded value (CD) answer from the value set referred to in data.
+For example, in the EmploymentAssignmentGroup model the question is "what is the Employment Assignment Group?" and the coded answers from the EmploymentAssignmentSubGroup value set can be "physician employee," "regular employee," or "executive employee."
+EmploymentAssignmentGroup by definition means an employer-defined categorization of employee based on assignment level. For example, benefits eligibility is related to assignment level, and long-term disability benefits eligibility group is one example.
+

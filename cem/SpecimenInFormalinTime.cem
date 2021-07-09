@@ -1,0 +1,4 @@
+cem SpecimenInFormalinTime
+	kind		component
+	key			SpecimenInFormalinTime_CODE
+	data		DateTime

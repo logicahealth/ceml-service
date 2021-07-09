@@ -1,0 +1,4 @@
+cem StreptococcusPneumoniaeSerotypeAbIgGImpPtSerNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			StreptococcusPneumoniaeSerotypeAbIgGImpPtSerNar_CODE

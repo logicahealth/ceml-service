@@ -1,0 +1,6 @@
+cem ChlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtXXXOrdProbeAmpSigLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtXXXOrdProbeAmpSig_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

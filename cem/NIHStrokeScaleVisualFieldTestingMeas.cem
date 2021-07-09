@@ -1,0 +1,14 @@
+cem NIHStrokeScaleVisualFieldTestingMeas
+	kind	statement
+	base	StatementBase
+	key         NIHStrokeScaleVisualFieldTesting_CODE
+	data        CodeableOrdinal
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+    constraint  data.codeableOrdinal.valueset
+        value   NIHStrokeScaleVisualFieldTesting_VSET
+    constraint  associatedPrecondition.data.codeableConcept.valueset
+        value   NIHStrokeScaleAssociatedPrecondition_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

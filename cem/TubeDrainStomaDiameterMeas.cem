@@ -1,0 +1,7 @@
+cem TubeDrainStomaDiameterMeas
+	kind    	component
+	key         TubeDrainStomaDiameter_CODE
+    data        Quantity
+    constraint  data.quantity.unit_valueset
+        value   TubeDrainStomaDiameterUnits_VSET
+

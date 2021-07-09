@@ -1,0 +1,5 @@
+cem ActivatedproteinCresistanceTRtoPtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ActivatedproteinCresistanceTRtoPtPPPQnCoag_CODE
+	

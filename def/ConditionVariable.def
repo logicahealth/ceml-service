@@ -1,0 +1,3 @@
+ConditionVariable is a variable to be used in a Condition.  Real is first because the use case is most often for a real value to compare.
+ConditionVariable value set can contain such things as true or false.
+

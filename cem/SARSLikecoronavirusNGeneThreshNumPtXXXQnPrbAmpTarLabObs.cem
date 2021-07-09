@@ -1,0 +1,8 @@
+cem SARSLikecoronavirusNGeneThreshNumPtXXXQnPrbAmpTarLabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         SARSLikecoronavirusNGeneThreshNumPtXXXQnPrbAmpTar_CODE
+    constraint  data.quantity.unit_code
+        value   Count_CODE
+
+

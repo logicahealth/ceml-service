@@ -1,0 +1,4 @@
+cem CalciumsulfatecrystalsPrThrPtUrinesedOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CalciumsulfatecrystalsPrThrPtUrinesedOrdMicroscopylight_CODE

@@ -1,0 +1,6 @@
+cem HepatitisCVirusRNAACncPtSerPlasOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HepatitisCVirusRNAACncPtSerPlasOrdProbeAmpTar_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	DetectedNotDetIndeterminate_VSET

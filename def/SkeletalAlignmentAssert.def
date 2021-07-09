@@ -1,0 +1,4 @@
+SkeletalAlignmentAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the SkeletalAlignmentAssert model, data is SkeletalAlignment_VALUESET_ECID. This is a set of different skeletal alignment abnormalities that can be asserted in this model.
+

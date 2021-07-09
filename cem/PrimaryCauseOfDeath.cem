@@ -1,0 +1,7 @@
+cem PrimaryCauseOfDeath
+	kind		component
+	key			PrimaryCauseOfDeath_CODE
+	data		String
+	qual		DurationOfCondition
+		id		durationOfCondition
+		card	0-1

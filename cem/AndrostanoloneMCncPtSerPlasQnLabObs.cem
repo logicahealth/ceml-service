@@ -1,0 +1,6 @@
+cem AndrostanoloneMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AndrostanoloneMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerDeciliter_CODE

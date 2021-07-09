@@ -1,0 +1,25 @@
+cem ApgarScoreTwoMinutePostBirthPanel
+	kind	panel
+	base	PanelBase
+	key			ApgarScoreTwoMinutePostBirthPanel_CODE
+	item		ApgarScoreTwoMinuteActivityMeas
+		id		apgarScoreTwoMinuteActivityMeas
+		card	0-1
+	item		ApgarScoreTwoMinuteAppearanceMeas
+		id		apgarScoreTwoMinuteAppearanceMeas
+		card	0-1
+	item		ApgarScoreTwoMinuteGrimaceMeas
+		id		apgarScoreTwoMinuteGrimaceMeas
+		card	0-1
+	item		ApgarScoreTwoMinutePulseMeas
+		id		apgarScoreTwoMinutePulseMeas
+		card	0-1
+	item		ApgarScoreTwoMinuteRespirationMeas
+		id		apgarScoreTwoMinuteRespirationMeas
+		card	0-1
+	item		ApgarScoreTwoMinuteTotalMeas
+		id		apgarScoreTwoMinuteTotalMeas
+		card	1
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1

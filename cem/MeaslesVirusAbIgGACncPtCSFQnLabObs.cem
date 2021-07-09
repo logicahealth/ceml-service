@@ -1,0 +1,5 @@
+cem MeaslesVirusAbIgGACncPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MeaslesVirusAbIgGACncPtCSFQn_CODE
+	

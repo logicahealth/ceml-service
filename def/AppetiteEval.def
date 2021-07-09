@@ -1,0 +1,12 @@
+AppetiteEval
+The AppetiteEval clinical element model is intended to capture the strength of an indiviudal's desire for food.  Possible values are: Good, Fair, and Poor.
+author: NDavis
+date: 2016/29/01
+status: draft
+notes: created in response to a request to support GI application for iCentra
+
+
+change notes
+date:  
+modeler:
+change:

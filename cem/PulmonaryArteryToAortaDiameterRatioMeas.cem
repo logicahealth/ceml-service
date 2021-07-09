@@ -1,0 +1,13 @@
+cem PulmonaryArteryToAortaDiameterRatioMeas
+    kind	statement
+	base	StatementBase
+    key     PulmonaryArteryToAortaDiameterRatio_CODE
+	data	Quantity
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    qual        Modality
+        id      modality
+        card    0-1
+    
+

@@ -1,0 +1,4 @@
+cem MinInhibitorySusceptibilityLabObs
+	kind		statement
+	base		AntibioticSusceptibilityLabObs
+	key			MinInhibitorySusceptibility_CODE

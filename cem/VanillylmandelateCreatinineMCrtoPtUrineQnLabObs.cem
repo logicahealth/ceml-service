@@ -1,0 +1,6 @@
+cem VanillylmandelateCreatinineMCrtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			VanillylmandelateCreatinineMCrtoPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MilligramsPerGram_CODE

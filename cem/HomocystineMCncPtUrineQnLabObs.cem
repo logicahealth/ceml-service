@@ -1,0 +1,6 @@
+cem HomocystineMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HomocystineMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerLiter_CODE

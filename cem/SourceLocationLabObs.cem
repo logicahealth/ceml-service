@@ -1,0 +1,4 @@
+cem SourceLocationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			SourceLocation_CODE

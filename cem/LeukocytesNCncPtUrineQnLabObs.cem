@@ -1,0 +1,6 @@
+cem LeukocytesNCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LeukocytesNCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+			value		PerMicroliter_CODE

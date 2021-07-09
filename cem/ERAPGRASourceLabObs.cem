@@ -1,0 +1,4 @@
+cem ERAPGRASourceLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ERAPGRASource_CODE

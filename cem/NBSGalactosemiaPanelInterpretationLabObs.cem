@@ -1,0 +1,4 @@
+cem NBSGalactosemiaPanelInterpretationLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			NBSGalactosemiaPanelInterpretationLabObs_CODE

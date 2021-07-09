@@ -1,0 +1,11 @@
+cem BishopsScoreTotalMeas
+	kind	statement
+	base	StatementBase
+	key			BishopsScoreTotal_CODE
+	data		Quantity
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1

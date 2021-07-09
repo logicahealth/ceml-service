@@ -1,0 +1,6 @@
+cem InsulinMinusLikeGrowthFactorBindingProtein3MCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			InsulinMinusLikeGrowthFactorBindingProtein3MCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

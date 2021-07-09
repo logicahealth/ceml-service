@@ -1,0 +1,35 @@
+cem RespiratoryRateMeas
+	kind		statement
+    base		ClinicalObs
+	key			RespiratoryRate_CODE
+	data		Quantity
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	qual		ReferenceRange
+		id		referenceRange
+		card	0-1
+	qual		ExerciseAssociation
+		id		exerciseAssociation
+		card	0-M
+	constraint	method.data.codeableConcept.valueset
+		value	RespiratoryRateMeasMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	RespiratoryRateMeasDevice_VSET
+	constraint	interpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationNumericNom_VSET
+	constraint	data.quantity.unit_code
+		value	PerMinute_CODE
+    constraint  observed.participant.data.codeableConcept.code
+        value   Performer_CODE    
+    constraint  observed.patientLocation.card
+        value   0
+    constraint  observed.providerLocation.card
+        value   0
+    constraint  observed.reason.card
+        value   0
+    constraint  observed.actionMethod.card
+        value   0
+    constraint  updated.card
+        value   0
+    

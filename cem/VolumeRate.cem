@@ -1,0 +1,8 @@
+cem VolumeRate
+	kind		component
+	key			VolumeRate_CODE
+	data		Quantity
+	constraint	data.quantity.unit_code
+		value	MillilitersPerHour_CODE
+	constraint	data.quantity.unit_valueset
+		value	VolumeRateUnits_VSET

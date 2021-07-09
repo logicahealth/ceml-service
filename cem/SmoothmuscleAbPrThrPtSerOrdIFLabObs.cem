@@ -1,0 +1,4 @@
+cem SmoothmuscleAbPrThrPtSerOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SmoothmuscleAbPrThrPtSerOrdIF_CODE

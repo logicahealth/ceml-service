@@ -1,0 +1,9 @@
+cem WoundShape
+	kind    	component
+	key         WoundShape_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   WoundShape_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

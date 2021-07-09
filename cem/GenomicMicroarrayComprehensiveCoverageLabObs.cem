@@ -1,0 +1,4 @@
+cem GenomicMicroarrayComprehensiveCoverageLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			GenomicMicroarrayComprehensiveCoverage_CODE

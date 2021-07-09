@@ -1,0 +1,4 @@
+cem ChlamydiatrachomatisNeisseriagonorrhoeaerRNAPrThrPtVagOrdProbeamptarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChlamydiatrachomatisNeisseriagonorrhoeaerRNAPrThrPtVagOrdProbeamptar_CODE

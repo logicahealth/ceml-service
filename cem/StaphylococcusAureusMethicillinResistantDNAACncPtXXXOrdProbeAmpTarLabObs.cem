@@ -1,0 +1,6 @@
+cem StaphylococcusAureusMethicillinResistantDNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StaphylococcusAureusMethicillinResistantDNAACncPtXXXOrdProbeAmpTar_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

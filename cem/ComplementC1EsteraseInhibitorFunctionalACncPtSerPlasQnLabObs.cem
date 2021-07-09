@@ -1,0 +1,4 @@
+cem ComplementC1EsteraseInhibitorFunctionalACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ComplementC1EsteraseInhibitorFunctionalACncPtSerPlasQn_CODE

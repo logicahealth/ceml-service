@@ -1,0 +1,8 @@
+cem StateOfTravel
+	kind		component
+	key			StateOfTravel_CODE
+	data		CodeableConcept
+	constraint  data.codeableConcept.strength 
+        value   CWE 
+    constraint  data.codeableConcept.valueset 
+        value   State_VSET

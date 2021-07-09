@@ -1,0 +1,8 @@
+cem OtherCells100leukocytesNFrPtBldQnutomatedCountLabObs
+	kind    	statement
+    base        StatementBase
+	key         OtherCells100leukocytesNFrPtBldQnutomatedCountLabObs_CODE
+    data        Quantity
+    constraint  data.quantity.unit_code       
+        value   Percent_CODE    
+

@@ -1,0 +1,2 @@
+ServiceDeliveryLocationCondition is the condition of a ServiceDeliveryLocation (e.g., for a bed: dirty, clean, occupied).
+

@@ -1,0 +1,6 @@
+cem ThreonineCreatinineRatioPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThreonineCreatinineRatioPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicromolesPerGram_CODE

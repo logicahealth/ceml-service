@@ -1,0 +1,12 @@
+cem StandardLabObsNarrative
+	kind		statement
+	base		StandardLabObs
+	key			StandardLabObsNarrative_VSET
+	data		String
+	qual		ReferenceRangeNom
+		id		referenceRangeNom
+		card	0-1
+	constraint	data.nullFlavor.valueset
+		value	LabNullFlavor_VSET
+	constraint	interpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationCodedNom_VSET

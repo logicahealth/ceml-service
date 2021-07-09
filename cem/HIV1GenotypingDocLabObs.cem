@@ -1,0 +1,4 @@
+cem HIV1GenotypingDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HIV1GenotypingDoc_CODE

@@ -1,0 +1,6 @@
+cem HepatitisBVirusSurfaceAgACncPtSerOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HepatitisBVirusSurfaceAgACncPtSerOrdEIA_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	ReactNonReactIndet_VSET

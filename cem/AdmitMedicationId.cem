@@ -1,0 +1,4 @@
+cem AdmitMedicationId
+	kind	component
+	key     AdmitMedicationId_CODE
+    data    Identifier

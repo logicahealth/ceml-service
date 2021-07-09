@@ -1,0 +1,4 @@
+cem ProteinfractionsoligoclonalbandsImpPtCSFNomElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ProteinfractionsoligoclonalbandsImpPtCSFNomElectrophoresis_CODE

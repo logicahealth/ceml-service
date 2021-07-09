@@ -1,0 +1,8 @@
+cem SpecimenType
+	kind		component
+	key			SpecimenType_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	SpecimenType_VSET

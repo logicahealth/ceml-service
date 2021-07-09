@@ -1,0 +1,8 @@
+cem ApproximateAmount
+	kind		component
+	key			ApproximateAmount_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ApproximateAmount_VSET

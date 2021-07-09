@@ -1,0 +1,6 @@
+cem BurrCellsACncPtBldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BurrCellsACncPtBldOrdMicroscopyLight_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrdinalScaleNegToFour_VSET

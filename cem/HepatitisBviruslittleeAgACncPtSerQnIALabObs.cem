@@ -1,0 +1,6 @@
+cem HepatitisBviruslittleeAgACncPtSerQnIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HepatitisBviruslittleeAgACncPtSerQnIA_CODE
+	constraint		data.quantity.unit_code
+			value		InternationalUnitsPerMilliliterArbitraryConcentrationUnits_CODE

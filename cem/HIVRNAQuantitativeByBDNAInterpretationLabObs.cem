@@ -1,0 +1,4 @@
+cem HIVRNAQuantitativeByBDNAInterpretationLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HIVRNAQuantitativeByBDNAInterpretation_CODE

@@ -1,0 +1,6 @@
+cem CentromereproteinBAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CentromereproteinBAbACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		ArbitraryUnitsPerMilliliter_CODE

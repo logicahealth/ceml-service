@@ -1,0 +1,9 @@
+cem ReportingFacilityEval
+	kind	statement
+	base	StatementBase
+	key			ServiceDeliveryLocation_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Facility_VSET

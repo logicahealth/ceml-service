@@ -1,0 +1,8 @@
+cem QuantitativeFindingComparisonUnits
+	kind		component
+	key			QuantitativeFindingComparisonUnits_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	UnitsOfMeasure_VSET

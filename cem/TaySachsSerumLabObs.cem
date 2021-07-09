@@ -1,0 +1,4 @@
+cem TaySachsSerumLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			TaySachsSerum_CODE

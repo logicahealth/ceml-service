@@ -1,0 +1,6 @@
+cem AngleTEGLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AngleTEG_CODE
+	constraint		data.quantity.unit_code
+		value	DegreesOfArc_CODE

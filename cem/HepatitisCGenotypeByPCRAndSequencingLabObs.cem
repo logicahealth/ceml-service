@@ -1,0 +1,4 @@
+cem HepatitisCGenotypeByPCRAndSequencingLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HepatitisCGenotypeByPCRAndSequencing_CODE

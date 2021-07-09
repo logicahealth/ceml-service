@@ -1,0 +1,8 @@
+BreastTissueCompositionEval created on 12/Apr/2016 13:38 by L.Buhl for iActivity project. 
+
+BreastTissueCompositionEval is a model that is used to describe the findings related to the tissue composition of the breasts.  Values include: 'almost entirely fat', 'Scattered fibroglandular density', 'heterogeneously dense', and 'extremely dense'.
+
+BreastTissueCompositionAssociatedPrecondition_VALUESET_CODE contains values of breast implants and Mastectomy.
+
+
+

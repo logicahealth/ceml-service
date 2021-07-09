@@ -1,0 +1,6 @@
+cem LimulusLysate1LabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LimulusLysate1_CODE
+	constraint		data.quantity.unit_code
+		value	ElisaUnitsPerMilliliter_CODE

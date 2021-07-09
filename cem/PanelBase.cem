@@ -1,0 +1,27 @@
+cem PanelBase
+	kind	panel
+	form        abstract
+    qual		Comment
+		id		comment
+		card	0-1
+    qual        ExternalIdentifier
+        id      externalIdentifier
+        card    0-M
+	qual		PatientIdentifier
+		id		patientIdentifier
+		card	0-1
+	qual		Status
+		id		status
+		card	0-1
+    att			ReportedReceived
+		id		reportedReceived
+		card	0-M
+    att         Observed
+        id      observed
+        card    0-M
+    att         Performed
+        id      performed
+        card    0-M
+    att			Verified
+		id		verified
+		card	0-M

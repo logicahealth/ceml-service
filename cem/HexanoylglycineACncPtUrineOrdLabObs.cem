@@ -1,0 +1,4 @@
+cem HexanoylglycineACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HexanoylglycineACncPtUrineOrd_CODE

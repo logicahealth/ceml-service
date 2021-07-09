@@ -1,0 +1,6 @@
+cem GoldMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GoldMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

@@ -1,0 +1,13 @@
+cem DeliveredOxygenMeas
+	kind	statement
+	base	StatementBase
+	key     DeliveredOxygenMeas_CODE
+	data	Quantity
+    qual        AirwayInterfaceType
+        id      airwayInterfaceType
+        card    0-1
+	qual		Method
+		id		method
+		card	0-1
+    constraint  data.quantity.unit_valueset
+        value   DeliveredOxygenUOM_VSET

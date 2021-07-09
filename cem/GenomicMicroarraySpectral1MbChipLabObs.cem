@@ -1,0 +1,4 @@
+cem GenomicMicroarraySpectral1MbChipLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			GenomicMicroarraySpectral1MbChip_CODE

@@ -1,0 +1,4 @@
+OrganizationGroup is a component model.
+This model represents the grouping of organizations based on specific needs of the organization.  It can be geographic, administrative, etc. Sample values include regions for Intermountain Healthcare, e.g. Urban Central Region, Urban South Region, etc.
+
+

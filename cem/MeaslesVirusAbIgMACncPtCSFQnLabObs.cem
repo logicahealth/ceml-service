@@ -1,0 +1,6 @@
+cem MeaslesVirusAbIgMACncPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MeaslesVirusAbIgMACncPtCSFQn_CODE
+	constraint		data.quantity.unit_code
+		value	AbsorbanceUnit_CODE

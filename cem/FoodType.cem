@@ -1,0 +1,8 @@
+cem FoodType
+	kind    	component
+	key         FoodType_CODE
+    data        CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value   FoodType_VSET

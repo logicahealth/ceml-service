@@ -1,0 +1,4 @@
+cem AcetophenazineMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AcetophenazineMCncPtSerPlasQn_CODE

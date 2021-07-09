@@ -1,0 +1,7 @@
+cem HumanpapillomaVirus26313335394551525356585966687382DNAPrThrPtGenitalOrdProbeAmpTarLabObs
+	kind		statement 
+	base		StandardLabObsOrdinal
+	key			HumanpapillomaVirus26313335394551525356585966687382DNAPrThrPtGenitalOrdProbeAmpTar_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	FPARDetectedNotDetected_VSET

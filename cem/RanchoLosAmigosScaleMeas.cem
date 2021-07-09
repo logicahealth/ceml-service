@@ -1,0 +1,17 @@
+
+cem RanchoLosAmigosScaleMeas
+	kind    	statement
+    base        StatementBase
+	key         RanchoLosAmigosScale_CODE
+	data		CodeableOrdinal
+    qual        DataAbsentReason
+        id      dataAbsentReason
+        card    0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.strength
+		value	CNE
+	constraint	data.codeableOrdinal.valueset
+		value	RanchoLosAmigosScale_VSET
+    

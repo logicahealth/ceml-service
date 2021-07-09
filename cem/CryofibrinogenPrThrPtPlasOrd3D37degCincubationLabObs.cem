@@ -1,0 +1,4 @@
+cem CryofibrinogenPrThrPtPlasOrd3D37degCincubationLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CryofibrinogenPrThrPtPlasOrd3D37degCincubation_CODE

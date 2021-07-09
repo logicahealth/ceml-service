@@ -1,0 +1,7 @@
+
+cem TypeOfAirway
+	kind	component
+	key     TypeOfAirway_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	TypeOfAirway_VSET

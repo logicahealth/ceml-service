@@ -1,0 +1,6 @@
+Observation: teh base type for all other observations; e.g. lab observations, physical observations (heart rate, blodo pressure, etc.).
+
+@Author nrdavis1
+@Date 18 Nov 2020 16:04
+@Status draft
+@RequestedBy CEM optimization

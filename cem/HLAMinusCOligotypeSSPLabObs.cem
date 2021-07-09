@@ -1,0 +1,4 @@
+cem HLAMinusCOligotypeSSPLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HLAMinusCOligotypeSSP_CODE

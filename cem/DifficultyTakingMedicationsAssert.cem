@@ -1,0 +1,11 @@
+cem DifficultyTakingMedicationsAssert
+    kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.code
+        value	DifficultyTakingMedications_CODE
+    constraint  bodyLocation.card
+        value   0
+    constraint  associatedSituation.card
+        value   1
+    constraint  associatedSituation.data.codeableConcept.code
+        value   Preadmission_CODE

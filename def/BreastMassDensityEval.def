@@ -1,0 +1,4 @@
+BreastMassDensityEval created on 19/Apr/2016 11:40 by L.Buhl for iActivity project. 
+
+BreastMassDensityEval is a model used to describe the density of masses identified in a breast imaging procedure.  Values include: High density, Equal density, Low density, and Fat-containing.
+

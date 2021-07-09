@@ -1,0 +1,14 @@
+cem PRNInd
+	kind		component
+	key			PRNInd_CODE
+	data		CodeableConcept
+	qual		Condition
+		id		condition
+		card	1-M
+	qual		Expression
+		id		expression
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	YesNo_VSET

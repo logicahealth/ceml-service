@@ -1,0 +1,10 @@
+cem WhoDoYouMostCommonlyTalkToOrGoToForHelpWhenYouDoNotFeelWellOrYouAreDistressedEval
+
+	kind	statement
+	base	StatementBase
+    key     WhoDoYouMostCommonlyTalkToOrGoToForHelpWhenYouDoNotFeelWellOrYouAreDistressed_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PersonToGoToInDistress_VSET
+

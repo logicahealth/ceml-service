@@ -1,0 +1,4 @@
+cem StreptococcusPyogenesAgACncPtThrtOrdRapidTestLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StreptococcusPyogenesAgACncPtThrtOrdRapidTest_CODE

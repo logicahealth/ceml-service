@@ -1,0 +1,3 @@
+PositionAlterationProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes the procedure being performed.
+In the PositionAlterationProc model data is PositionAlteration_ECID which captures information surrounding a Position Alteration which means the act of altering a patient's position.
+

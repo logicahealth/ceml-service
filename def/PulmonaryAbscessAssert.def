@@ -1,0 +1,4 @@
+PulmonaryAbscessAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the PulmonaryAbscessAssert model, data is PulmonaryAbscess_ECID which means there are areas of the lung(s) which have accumulation of purulent material.
+

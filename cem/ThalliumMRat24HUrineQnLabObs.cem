@@ -1,0 +1,6 @@
+cem ThalliumMRat24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThalliumMRat24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerDay_CODE

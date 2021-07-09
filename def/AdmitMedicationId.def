@@ -1,0 +1,2 @@
+AdmitMedicationId
+AdmitMedicationId is a model that is used to contain an identifying number that refers to an instance of data that describes any or all medication that a patient is currently taking upon admission.

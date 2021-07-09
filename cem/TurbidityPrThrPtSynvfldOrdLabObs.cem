@@ -1,0 +1,4 @@
+cem TurbidityPrThrPtSynvfldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TurbidityPrThrPtSynvfldOrd_CODE

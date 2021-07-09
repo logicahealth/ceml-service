@@ -1,0 +1,6 @@
+cem Glucose6PhosphatedehydrogenaseCCncPtRBCQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Glucose6PhosphatedehydrogenaseCCncPtRBCQn_CODE
+	constraint	data.quantity.unit_code
+		value	UnitsPerMilliliter_CODE

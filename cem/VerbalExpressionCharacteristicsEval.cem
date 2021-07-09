@@ -1,0 +1,16 @@
+
+cem VerbalExpressionCharacteristicsEval
+	kind	statement
+    base    StatementBase
+	key			VerbalExpressionCharacteristics_CODE
+	data		CodeableConcept
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+    qual		DataAbsentReason
+		id		dataAbsentReason
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	VerbalExpressionCharacteristics_VSET

@@ -1,0 +1,2 @@
+MicroResultTextPanel is a subtype (the only one that presently exists) of MicroResultPanel that just contains a MicroText item.
+

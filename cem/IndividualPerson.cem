@@ -1,0 +1,9 @@
+cem IndividualPerson
+	kind		component
+	key			IndividualPerson_CODE
+	item		PersonIdentifier
+		id		personIdentifier
+		card	0-M
+	item		PersonName
+		id		personName
+		card	0-M

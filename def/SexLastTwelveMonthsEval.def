@@ -1,0 +1,10 @@
+SexLastTwelveMonthsEval is a model of a question found on instruments such as the Family Planning Annual Report (FPAR).
+e.g. Client self-report of sexual activity in the last 12 months  ("Have you had sexual intercourse in the last 12 months?")
+ 
+The value set has values "Yes" and "No."
+@Author bsheale 
+@Date 06 Apr 2017 17:20
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog, reporting-instrument
+

@@ -1,0 +1,10 @@
+cem HowOftenDoYouHaveDifficultyGettingThingsInOrderWhenYouHaveToDoATaskThatRequiresOrganizationEval
+
+	kind	statement
+	base	StatementBase
+    key     HowOftenDoYouHaveDifficultyGettingThingsInOrderWhenYouHaveToDoATaskThatRequiresOrganization_CODE
+	data	CodeableOrdinal
+
+	constraint	data.codeableOrdinal.valueset
+	    value	AdultAdhdSelfReportScaleASRSClinicalFrequency_VSET
+

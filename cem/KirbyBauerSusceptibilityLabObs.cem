@@ -1,0 +1,7 @@
+cem KirbyBauerSusceptibilityLabObs
+	kind		statement
+	base		AntibioticSusceptibilityLabObs
+	key			KirbyBauerSusceptibility_CODE
+	qual		DiameterSuppressedGrowth
+		id		diameterSuppressedGrowth
+		card	0-1

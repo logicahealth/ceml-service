@@ -1,0 +1,4 @@
+cem ThyrotropinPrThrPtBlddotOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ThyrotropinPrThrPtBlddotOrd_CODE

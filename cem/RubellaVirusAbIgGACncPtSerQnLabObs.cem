@@ -1,0 +1,6 @@
+cem RubellaVirusAbIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RubellaVirusAbIgGACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	InternationalUnitsPerMilliliter_CODE

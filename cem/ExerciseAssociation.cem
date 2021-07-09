@@ -1,0 +1,9 @@
+cem ExerciseAssociation
+	kind    	component
+	key         ExerciseAssociation_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   ExerciseAssociation_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

@@ -1,0 +1,9 @@
+cem AdvancedDirectiveEval
+	kind	statement
+	base	StatementBase
+	key			AdvancedDirective_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	AdvancedDirective_VSET

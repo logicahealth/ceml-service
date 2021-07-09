@@ -1,0 +1,5 @@
+
+cem MinDosePerAdministration
+	kind	component
+	key     MinDosePerAdministration_CODE
+	data	Quantity

@@ -1,0 +1,4 @@
+cem PreviousDownSHistoryLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PreviousDownSHistory_CODE

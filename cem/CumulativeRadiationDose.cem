@@ -1,0 +1,32 @@
+cem CumulativeRadiationDose
+    kind        statement
+    base        ClinicalObs
+	key         CumulativeRadiationDose_CODE
+	data        Quantity
+    constraint  data.quantity.unit_code
+        value   Millisieverts_CODE
+    constraint	observationStatus.data.codeableConcept.valueset
+		value	ObservationStatusBasic_VSET
+	constraint  observed.participant.data.codeableConcept.code
+        value   Performer_CODE        
+    constraint  observed.endTime.card
+        value   0
+    constraint  observed.patientLocation.card
+        value   0
+    constraint  observed.providerLocation.card
+        value   0
+    constraint  observed.reason.card
+        value   0
+    constraint  observed.actionMethod.card
+        value   0  
+    constraint  updated.endTime.card
+        value   0
+    constraint  updated.patientLocation.card
+        value   0
+    constraint  updated.providerLocation.card
+        value   0
+    constraint  updated.reason.card
+        value   0
+    constraint  updated.actionMethod.card
+        value   0     
+        

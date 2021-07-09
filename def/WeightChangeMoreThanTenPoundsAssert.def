@@ -1,0 +1,5 @@
+WeightChangeMoreThanTenPoundsAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the WeightChangeMoreThanTenPoundsAssert model, data is WeightChangeMoreThanTenPoundsAssert_ECID which means the subject has gained or lost weight greater than 10 pounds. 
+
+Adapted by Jael Lindblom on 7/14/2016 for iCentra: There are the options to state that the weight change has happened unintentionally and within the last 3 months. If in the future there is a need to state a different time frame than the last three months, the code constraint to WithinLastThreeMonths_CODE should be deleted and TimeFrame instead be constrained to a valueset with the value of Within Last Three Months and the new value/s in it.

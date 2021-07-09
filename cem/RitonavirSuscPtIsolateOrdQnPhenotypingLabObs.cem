@@ -1,0 +1,4 @@
+cem RitonavirSuscPtIsolateOrdQnPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RitonavirSuscPtIsolateOrdQnPhenotyping_CODE

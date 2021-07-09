@@ -1,0 +1,5 @@
+cem PurkinjeCellsAbTitrPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PurkinjeCellsAbTitrPtSerQn_CODE
+	

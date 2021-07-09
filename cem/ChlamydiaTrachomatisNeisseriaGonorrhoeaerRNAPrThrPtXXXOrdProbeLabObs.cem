@@ -1,0 +1,6 @@
+cem ChlamydiaTrachomatisNeisseriaGonorrhoeaerRNAPrThrPtXXXOrdProbeLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChlamydiaTrachomatisNeisseriaGonorrhoeaerRNAPrThrPtXXXOrdProbe_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

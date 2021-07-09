@@ -1,0 +1,4 @@
+cem BodyweightMassPtPatientQnEstimatedLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BodyweightMassPtPatientQnEstimated_CODE

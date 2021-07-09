@@ -1,0 +1,6 @@
+cem SpecimenWeightMassXXXStoolQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SpecimenWeightMassXXXStoolQn_CODE
+	constraint		data.quantity.unit_code
+		value	Grams_CODE

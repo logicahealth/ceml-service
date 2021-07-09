@@ -1,0 +1,4 @@
+cem LymphocytesCytoplasmicKappa100LymphocytesWholeBloodQuantitativeLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			LymphocytesCytoplasmicKappa100LymphocytesWholeBloodQuantitative_CODE

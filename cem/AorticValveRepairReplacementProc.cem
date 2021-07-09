@@ -1,0 +1,5 @@
+cem AorticValveRepairReplacementProc
+	kind		statement
+	base		Procedure
+	constraint	data.codeableConcept.code
+		value	AorticValveRepairReplacement_CODE

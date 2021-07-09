@@ -1,0 +1,9 @@
+cem TransferLocationEval
+	kind	statement
+	base	StatementBase
+	key			TransferLocation_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	TransferLocation_VSET

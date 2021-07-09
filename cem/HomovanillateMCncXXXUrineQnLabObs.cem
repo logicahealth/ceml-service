@@ -1,0 +1,6 @@
+cem HomovanillateMCncXXXUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HomovanillateMCncXXXUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerLiter_CODE

@@ -1,0 +1,6 @@
+GradeValue is a value used to determine the severity of a wound, burn, or other condition. Typically this is a coded value with numeric and textual contexts.  Currently there is no LOINC code to associate this to.
+
+@Author nrdavis1
+@Date 28 Jan 2020 09:44
+@Status draft
+@RequestedBy Logica Wound project.

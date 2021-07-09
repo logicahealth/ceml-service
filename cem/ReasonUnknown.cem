@@ -1,0 +1,9 @@
+cem ReasonUnknown
+	kind    	component
+	key         ReasonUnknown_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Valuesetname_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

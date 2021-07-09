@@ -1,0 +1,11 @@
+cem PupilDilatedAssert
+    kind        statement
+    base        AssertionOfPresence
+   	qual		RelativeSymmetry
+		id		relativeSymmetry
+		card	0-1
+    constraint	data.codeableConcept.code
+        value	PupilDilated_CODE
+    constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	PupilBodyLocationPrecoord_VSET
+

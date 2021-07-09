@@ -1,0 +1,5 @@
+cem ReasonReferenceId
+	kind    	component
+	key         ReasonReferenceId_CODE
+    data        Identifier
+

@@ -1,0 +1,6 @@
+cem ProfessionalLicense
+	kind		component
+	base		Credential
+	key			ProfessionalLicense_VSET
+	constraint	credentialSubType.data.codeableConcept.valueset
+		value	ProfessionalLicenseSubtype_VSET

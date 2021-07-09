@@ -1,0 +1,6 @@
+cem EstrogensTotalCalculationLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EstrogensTotalCalculation_CODE
+	constraint		data.quantity.unit_code
+		value	PicogramsPerMilliliter_CODE

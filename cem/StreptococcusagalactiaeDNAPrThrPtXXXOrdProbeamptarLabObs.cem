@@ -1,0 +1,7 @@
+cem StreptococcusagalactiaeDNAPrThrPtXXXOrdProbeamptarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StreptococcusagalactiaeDNAPrThrPtXXXOrdProbeamptar_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

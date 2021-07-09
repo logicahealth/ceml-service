@@ -1,0 +1,4 @@
+cem HLAAntibodyScreenInterpretationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HLAAntibodyScreenInterpretation_CODE

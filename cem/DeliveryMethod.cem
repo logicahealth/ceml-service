@@ -1,0 +1,12 @@
+cem DeliveryMethod
+	kind		component
+	key			DeliveryMethod_CODE
+	item		DeliveryMethodData
+		id		deliveryMethodData
+		card	0-1
+	item		DeliveryMethodType
+		id		deliveryMethodType
+		card	1
+	item		DeliveryTime
+		id		deliveryTime
+		card	0-1

@@ -1,0 +1,15 @@
+cem IdentifiedDevice
+	kind		component
+	key			IdentifiedDevice_CODE
+	item		IdentifiedDeviceExternalId
+		id		identifiedDeviceExternalId
+		card	0-M
+	item		LocationId
+		id		locationId
+		card	0-1
+	item		IdentifiedDeviceType
+		id		identifiedDeviceType
+		card	1-M
+	qual		DeviceName
+		id		deviceName
+		card	0-1

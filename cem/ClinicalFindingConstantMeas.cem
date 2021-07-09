@@ -1,0 +1,6 @@
+cem ClinicalFindingConstantMeas
+	kind	statement
+	base	StatementBase
+	key			ClinicalFindingConstant_CODE
+	data		Quantity
+	

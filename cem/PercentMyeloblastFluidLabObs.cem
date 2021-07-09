@@ -1,0 +1,6 @@
+cem PercentMyeloblastFluidLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PercentMyeloblastFluid_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

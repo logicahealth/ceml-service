@@ -1,0 +1,4 @@
+cem HLAPreliminaryCrossmatchLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HLAPreliminaryCrossmatch_CODE

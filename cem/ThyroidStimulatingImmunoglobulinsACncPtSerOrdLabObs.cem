@@ -1,0 +1,4 @@
+cem ThyroidStimulatingImmunoglobulinsACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ThyroidStimulatingImmunoglobulinsACncPtSerOrd_CODE

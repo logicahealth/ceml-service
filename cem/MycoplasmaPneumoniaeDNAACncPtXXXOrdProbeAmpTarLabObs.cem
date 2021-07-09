@@ -1,0 +1,4 @@
+cem MycoplasmaPneumoniaeDNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MycoplasmaPneumoniaeDNAACncPtXXXOrdProbeAmpTar_CODE

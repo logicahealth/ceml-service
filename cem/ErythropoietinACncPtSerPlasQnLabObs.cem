@@ -1,0 +1,6 @@
+cem ErythropoietinACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythropoietinACncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilliunitsPerMilliliter_CODE

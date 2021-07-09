@@ -1,0 +1,4 @@
+cem HFEGenePS65CArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HFEGenePS65CArbPtBldTissOrdMolgen_CODE

@@ -1,0 +1,4 @@
+cem VancomycinSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteriaLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			VancomycinSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteria_CODE

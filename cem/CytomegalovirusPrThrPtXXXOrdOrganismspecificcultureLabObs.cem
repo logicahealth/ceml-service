@@ -1,0 +1,4 @@
+cem CytomegalovirusPrThrPtXXXOrdOrganismspecificcultureLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CytomegalovirusPrThrPtXXXOrdOrganismspecificculture_CODE

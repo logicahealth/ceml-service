@@ -1,0 +1,4 @@
+ClosedSuctionCatheterChangeProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes the procedure being performed.
+In the ClosedSuctionCatheterChangeProc model data is ClosedSuctionCatheterChange_ECID which captures information surrounding a closed suction catheter change which captures informaiton pertaining to the changing of a closed suction catheter attached to a respiratory device or airway.
+
+

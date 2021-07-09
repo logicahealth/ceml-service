@@ -1,0 +1,9 @@
+cem TransferReasonEval
+	kind	statement
+	base	StatementBase
+	key			TransferReason_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	TransferReason_VSET

@@ -1,0 +1,8 @@
+cem StoolCountMeas
+	kind	statement
+    base    StatementBase 
+	key     StoolCountMeas_CODE
+	data	Quantity
+    constraint	data.quantity.unit_valueset
+		value	StoolCountMeasTimeFrame_VSET
+

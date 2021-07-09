@@ -1,0 +1,16 @@
+Patient which captures information on a patient.
+
+Change log
+	date Oct. 27, 2015
+	modeler N Davis
+	change - removed EmergencyTelecom and added EmergencyContact.
+
+	date Aug. 2, 2016
+	modeler B Heale
+	change - decision to not use Person as a Base due to the prominance of Person as an atomic entity in most systems (and HL7 FHIR)
+
+Change log
+	date February, 15, 2017
+	modeler N Davis
+	change- removed Disabilty, Citizenship, Nationality, CadavericDonorInd, VeteranMilitaryStatus, AdoptionInfo, AdministrativeOccupation, PatientImportance
+	These are now considered observations about the patient and not part of the identifying information.  They are now children of the AdministrativeObservation model.

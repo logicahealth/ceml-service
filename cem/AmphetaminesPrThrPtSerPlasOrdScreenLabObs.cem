@@ -1,0 +1,4 @@
+cem AmphetaminesPrThrPtSerPlasOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AmphetaminesPrThrPtSerPlasOrdScreen_CODE

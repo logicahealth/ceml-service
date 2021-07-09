@@ -1,0 +1,4 @@
+cem EthylmalonateACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EthylmalonateACncPtUrineOrd_CODE

@@ -1,0 +1,6 @@
+cem Covid19UnderlyingMedicalConditionAbsence
+	kind    	statement
+    base		AssertionOfAbsence
+	constraint	data.codeableConcept.valueset
+		value	Covid19UnderlyingMedicalCondition_VSET
+

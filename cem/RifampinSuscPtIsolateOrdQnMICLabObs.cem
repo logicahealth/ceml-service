@@ -1,0 +1,4 @@
+cem RifampinSuscPtIsolateOrdQnMICLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RifampinSuscPtIsolateOrdQnMIC_CODE

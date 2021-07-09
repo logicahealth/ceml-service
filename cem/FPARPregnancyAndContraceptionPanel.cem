@@ -1,0 +1,42 @@
+cem FPARPregnancyAndContraceptionPanel
+	kind    	panel
+    base        PanelBase
+	key         FPARPregnancyAndContraceptionPanel_CODE
+
+    item        ParityMeas
+        id      parityMeas
+        card    0-1
+    item        GravidityMeas
+        id      gravidityMeas
+        card    0-1
+    item        FPARPregnancyStatusEval
+        id      fparPregnancyStatusEval
+        card    0-1
+     item       FPARPregnancyLabPanel
+        id      fPARPregnancyLabPanel
+        card    0-1   
+     item       PregnancyIntentionEval
+        id      pregnancyIntentionEval
+        card    0-1  
+     item       VirginalStatusEval
+        id      virginalStatusEval
+        card    0-1   
+     item       SexLastThreeMonthsEval
+        id      sexLastThreeMonthsEval
+        card    0-1  
+     item       SexLastTwelveMonthsEval
+        id      sexLastTwelveMonthsEval
+        card    0-1 
+     item       FPARContraceptiveChoiceInitialEval
+        id      fPARContraceptiveChoiceInitialEval
+        card    0-M 
+     item       FPARContraceptiveChoiceAtExitEval
+        id      fPARContraceptiveChoiceAtExitEval
+        card    0-M
+     item       ContraceptiveCounselingProc
+        id      contraceptiveCounselingProc
+        card    0-1  
+     item       CounselingtoAchievePregnancyProc
+        id      counselingtoAchievePregnancyProc
+        card    0-1  
+

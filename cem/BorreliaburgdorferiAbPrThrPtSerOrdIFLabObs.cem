@@ -1,0 +1,4 @@
+cem BorreliaburgdorferiAbPrThrPtSerOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BorreliaburgdorferiAbPrThrPtSerOrdIF_CODE

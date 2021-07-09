@@ -1,0 +1,4 @@
+cem PathologistReviewImpPtSerPlasNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PathologistReviewImpPtSerPlasNom_CODE

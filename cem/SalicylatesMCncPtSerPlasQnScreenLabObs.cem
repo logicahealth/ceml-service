@@ -1,0 +1,7 @@
+cem SalicylatesMCncPtSerPlasQnScreenLabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         SalicylatesMCncPtSerPlasQnScreen_CODE
+    constraint  data.quantity.unit_code
+        value   MicrogramsPerMilliliter_CODE
+

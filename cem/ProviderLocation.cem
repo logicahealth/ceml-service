@@ -1,0 +1,4 @@
+cem ProviderLocation
+	kind		component
+	key			ProviderLocation_CODE
+	data		String

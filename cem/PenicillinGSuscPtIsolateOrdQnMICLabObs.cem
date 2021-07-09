@@ -1,0 +1,4 @@
+cem PenicillinGSuscPtIsolateOrdQnMICLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PenicillinGSuscPtIsolateOrdQnMIC_CODE

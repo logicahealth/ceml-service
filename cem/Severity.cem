@@ -1,0 +1,8 @@
+cem Severity
+	kind		component
+	key			Severity_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Severity_VSET

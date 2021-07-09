@@ -1,0 +1,7 @@
+cem WorkPressureVentilatorSettingMeas
+	kind	statement
+	base	StatementBase
+	key			WorkPressureVentilatorSetting_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	CentimetersOfWater_CODE

@@ -1,0 +1,8 @@
+cem CommunicationAid
+	kind		component
+	key			CommunicationAid_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	CommunicationAid_VSET

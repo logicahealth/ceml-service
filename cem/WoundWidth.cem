@@ -1,0 +1,7 @@
+cem WoundWidth
+	kind		component
+	key			WoundWidth_CODE
+    data        Quantity
+    constraint	data.quantity.unit_normal
+		value	Centimeters_CODE
+    

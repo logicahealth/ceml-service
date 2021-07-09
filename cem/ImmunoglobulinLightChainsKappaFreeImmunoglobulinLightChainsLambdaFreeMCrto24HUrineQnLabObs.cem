@@ -1,0 +1,5 @@
+cem ImmunoglobulinLightChainsKappaFreeImmunoglobulinLightChainsLambdaFreeMCrto24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ImmunoglobulinLightChainsKappaFreeImmunoglobulinLightChainsLambdaFreeMCrto24HUrineQn_CODE
+	

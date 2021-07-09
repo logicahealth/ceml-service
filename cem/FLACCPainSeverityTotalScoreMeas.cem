@@ -1,0 +1,8 @@
+cem FLACCPainSeverityTotalScoreMeas
+	kind	statement
+	base	StatementBase
+	key			FLACCPainSeverityTotalScore_CODE
+	data		Quantity
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M

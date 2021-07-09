@@ -1,0 +1,4 @@
+cem HTLVIIIAbPrThrPtSerdonorOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HTLVIIIAbPrThrPtSerdonorOrd_CODE

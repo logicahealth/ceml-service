@@ -1,0 +1,8 @@
+OxygenSaturationSensorDescription is intended to describe the type of sensor used by a device, 
+        	such as what kind of oximeter probe is used.  It is for a general description of the sensor, 
+        	such as "sticky probe" or "ear probe" or "finger probe", not an enumeration of any kind of
+        	serial number, device identifier, manufacturer or other specific instance information.  It could also
+        	be used to describe any kind of sensor where that general description would be clinically useful.  
+        
+
+

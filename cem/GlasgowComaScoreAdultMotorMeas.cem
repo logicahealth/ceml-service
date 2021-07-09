@@ -1,0 +1,12 @@
+cem GlasgowComaScoreAdultMotorMeas
+	kind	statement
+	base	StatementBase
+	key			GlasgowComaScoreAdultMotor_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	GlasgowComaScoreAdultMotor_VSET
+    constraint	associatedPrecondition.data.codeableConcept.valueset
+		value	GlasgowComaScoreAssociatedPrecondition_VSET

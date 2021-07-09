@@ -1,0 +1,10 @@
+cem HumptyDumptyFallScaleMedicationUsageMeas
+	kind    	statement
+    base        StatementBase
+	key         HumptyDumptyFallScaleMedicationUsage_CODE
+    data        CodeableOrdinal
+    constraint	data.codeableOrdinal.strength
+		value	CNE
+	constraint	data.codeableOrdinal.valueset
+	    value	HumptyDumptyFallScaleMedicationUsage_VSET
+

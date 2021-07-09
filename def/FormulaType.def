@@ -1,0 +1,12 @@
+Formula Type is a component model to identify type of formula consumed by patient, ie. infant or pediatric formula type.
+
+Formula type is an evaluation type of model that asks the question "what type of formula is fed to the infant?"  The answer could be Infant, Pediatric, or one of several brand name formulas with volumes and ingredients.
+
+Originally created on Sept. 2, 2016 by M House
+version: 1.0
+status: draft
+
+Change:
+modeler: N Davis
+date: 9/21/2016
+change: changed model from a component to a statement and updated .def file

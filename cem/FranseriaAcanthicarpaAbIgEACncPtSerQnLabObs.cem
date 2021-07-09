@@ -1,0 +1,6 @@
+cem FranseriaAcanthicarpaAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FranseriaAcanthicarpaAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	KilounitsPerLiter_CODE

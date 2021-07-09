@@ -1,0 +1,6 @@
+cem ValineSCncPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ValineSCncPtCSFQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

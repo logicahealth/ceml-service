@@ -1,0 +1,4 @@
+cem RifampinSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteriaLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RifampinSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteria_CODE

@@ -1,0 +1,5 @@
+cem ChlamydiaTrachomatisAbIgMTitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChlamydiaTrachomatisAbIgMTitrPtSerQnIF_CODE
+	

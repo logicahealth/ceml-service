@@ -1,0 +1,4 @@
+cem DateLastSeenByPhysician
+	kind		component
+	key			DateLastSeenByPhysician_CODE
+	data		DateTime

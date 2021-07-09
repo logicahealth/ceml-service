@@ -1,0 +1,4 @@
+cem CannabinoidstestedforPridPtUrineNomScreenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CannabinoidstestedforPridPtUrineNomScreen_CODE

@@ -1,0 +1,10 @@
+cem LimitedEnglishProficiencyEval
+	kind	statement
+	base	StatementBase
+	key         LimitedEnglishProficiencyEval_CODE
+    data        CodeableOrdinal
+
+    constraint  data.codeableOrdinal.valueset
+        value   EnglishProficiencyInFourDomains_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE                                

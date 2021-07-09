@@ -1,0 +1,4 @@
+cem StriatedMuscleAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StriatedMuscleAbACncPtSerOrd_CODE

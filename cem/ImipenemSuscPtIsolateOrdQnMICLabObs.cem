@@ -1,0 +1,4 @@
+cem ImipenemSuscPtIsolateOrdQnMICLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ImipenemSuscPtIsolateOrdQnMIC_CODE

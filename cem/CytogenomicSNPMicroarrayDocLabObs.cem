@@ -1,0 +1,4 @@
+cem CytogenomicSNPMicroarrayDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			CytogenomicSNPMicroarrayDoc_CODE

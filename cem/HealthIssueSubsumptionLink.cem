@@ -1,0 +1,6 @@
+cem HealthIssueSubsumptionLink
+	kind		link
+	key			HealthIssueSubsumptionLink_CODE
+    data        Identifier
+    constraint  data.identifier.key
+        value   HealthIssue_CODE

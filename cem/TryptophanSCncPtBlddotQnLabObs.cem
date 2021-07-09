@@ -1,0 +1,6 @@
+cem TryptophanSCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TryptophanSCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

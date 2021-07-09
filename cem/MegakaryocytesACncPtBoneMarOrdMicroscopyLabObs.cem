@@ -1,0 +1,4 @@
+cem MegakaryocytesACncPtBoneMarOrdMicroscopyLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MegakaryocytesACncPtBoneMarOrdMicroscopy_CODE

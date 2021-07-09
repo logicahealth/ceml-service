@@ -1,0 +1,7 @@
+cem TimeQuantity
+	kind    	component
+	key         TimeQuantity_CODE
+    data        Quantity
+    constraint  data.quantity.unit_valueset
+        value   UnitValueset_VSET
+

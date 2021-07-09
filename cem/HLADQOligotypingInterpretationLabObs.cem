@@ -1,0 +1,4 @@
+cem HLADQOligotypingInterpretationLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HLADQOligotypingInterpretation_CODE

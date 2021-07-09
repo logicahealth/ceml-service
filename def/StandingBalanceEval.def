@@ -1,0 +1,13 @@
+StandingBalanceEval
+author dmm
+status proposed
+
+In the StandingBalanceEval model, the question is "What is the patient's standing balance?" and the coded answers can be 'Requires support','Does not stand', and 'Stable at bedside' etc.
+
+LOINC code for this eval looks like 45610-3 Balance while standing [Minimum Data Set]
+LOINC data values (shared with Sitting Balance):
+   Maintained position as required in test
+   Unsteady, but able to rebalance self without physical support
+   Partial physical support during test; or stands (sits) but does not follow directions for test
+   Not able to attempt test without physical help
+

@@ -1,0 +1,32 @@
+fhir cem StandardLabObs
+	resource Observation
+	slice additionalElement Observation.extension
+	map reportingPriority 
+		slice to additionalElement
+		extension "http://hl7.org/fhir/hspc/StructureDefinition/reportingPriority"
+		bind ReportingPriority_VALUESET_CODE to "http://hl7.org/fhir/hspc/ValueSet/reportingPriority"
+	map deltaFlag
+		slice to additionalElement
+		extension "http://hl7.org/fhir/hspc/StructureDefinition/deltaFlag"
+	slice identifier Observation.identifier
+	map accessionNumber to Observation.identifier
+		slice to identifier
+	map fillerOrderNumber to Observation.identifier
+		slice to identifier
+	map placerOrderNumber to Observation.identifier
+		slice to identifier
+	map interpretation to Observation.interpretation
+	slice performer Observation.performer
+	map responsibleObserver to Observation.performer
+		slice to performer 
+		reference "http://hl7.org/fhir/hspc/StructureDefinition/practitioner"
+	map performingOrganizationMedicalDirector to Observation.performer
+		slice to performer
+		reference "http://hl7.org/fhir/hspc/StructureDefinition/practitioner"
+	map performingLaboratory to Observation.performer
+		slice to performer
+		reference "http://hl7.org/fhir/hspc/StructureDefinition/organization"
+	map comment to Observation.comments
+	map resultedDateTime to Observation.issued
+
+	property base.definition = "http://hl7.org/fhir/us/core/StructureDefinition/us-core-observationresults"

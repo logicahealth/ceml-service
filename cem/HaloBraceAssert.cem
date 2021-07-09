@@ -1,0 +1,6 @@
+
+cem HaloBraceAssert
+    kind        statement
+    base       	ObservationAssert
+    constraint	data.codeableConcept.code
+        value	HaloBrace_CODE

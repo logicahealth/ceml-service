@@ -1,0 +1,7 @@
+ThoracentesisOutputFluidDescriptionEval model is an evaluation model. An evaluation model holds a "question" in the key and holds
+a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?",
+and the "answer" in data can be "White".
+In the ThoracentesisOutputFluidDescriptionEval model, the question is "what is the subject's Thoracentesis Output Fluid Description?"
+and the coded answers can be 'pink' and 'clear'.
+"ThoracentesisOutputFluidDescriptionEval" by definition means to describe Thoracentesis output fluid characteristics.
+

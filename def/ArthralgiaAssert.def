@@ -1,0 +1,4 @@
+ArthralgiaAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the ArthralgiaAssert model, data is Arthralgia_ECID which means joint pain not caused by an inflammatory process..
+

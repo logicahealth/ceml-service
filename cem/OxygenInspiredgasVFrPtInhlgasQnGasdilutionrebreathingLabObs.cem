@@ -1,0 +1,6 @@
+cem OxygenInspiredgasVFrPtInhlgasQnGasdilutionrebreathingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxygenInspiredgasVFrPtInhlgasQnGasdilutionrebreathing_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

@@ -1,0 +1,6 @@
+cem ErythrocyteDistributionWidthRatioPtRBCQnAutomatedCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocyteDistributionWidthRatioPtRBCQnAutomatedCount_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

@@ -1,0 +1,15 @@
+cem ConstipationDescriptionDurationEval
+	kind	statement
+	base	StatementBase
+	key			ConstipationDescriptionDuration_CODE
+	data		CodeableConcept
+	qual		AlleviatingFactor
+		id		alleviatingFactor
+		card	0-M
+	qual		ExacerbatingFactor
+		id		exacerbatingFactor
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ConstipationDuration_VSET

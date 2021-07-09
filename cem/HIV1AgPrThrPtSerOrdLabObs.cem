@@ -1,0 +1,4 @@
+cem HIV1AgPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HIV1AgPrThrPtSerOrd_CODE

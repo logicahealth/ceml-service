@@ -1,0 +1,6 @@
+ConditionPresenceObservation is a clinical element model for recording if a condition is  present, absent, or unknown.  This can be considered as an iso-semantic model to an assertion of a condition.
+
+@Author nrdavis1
+@Date 24 May 2021 07:44
+@Status draft
+@RequestedBy ePneumonia

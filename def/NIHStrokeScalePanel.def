@@ -1,0 +1,3 @@
+The NIH Stroke Scale assesses the severity of a stroke in a patient. It consists of 12 items to be tested, with the motor function item being tested 4 times, once on each extremity. Each test item is assigned a number between 0-2, 0-3 or 0-4, depending on the item. A total of 15 numbers are added up to the total measurement. The model is built as a panel with the individual items built as measurement models.
+
+Built by Jael Lindblom on 2/18/2016 for the ABD project.

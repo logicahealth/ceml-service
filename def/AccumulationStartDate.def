@@ -1,0 +1,3 @@
+AccumulationStartDate is the date and time the cummulative dose started to accrue. This model was made specifically for Homer Warner Center for use in the 
+Lifetime Radiation Dose model, but can be used in other models if needed.
+

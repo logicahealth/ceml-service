@@ -1,0 +1,4 @@
+cem OligosaccharidesACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			OligosaccharidesACncPtUrineOrd_CODE

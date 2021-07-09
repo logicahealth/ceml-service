@@ -1,0 +1,4 @@
+cem SigText
+	kind		component
+	key			SigText_CODE
+	data		String

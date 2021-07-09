@@ -1,0 +1,4 @@
+cem HemoglobinpatternImpPtBldNarElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HemoglobinpatternImpPtBldNarElectrophoresis_CODE

@@ -1,0 +1,4 @@
+BreastLeasionAnatomicalLocation created by L.Buhl on 07/Jun/2016 15:17 for iActivity project
+
+
+BreastLeasionAnatomicalLocation provides a code for the anatomical location of a lesion in a breast.  Values include: anterior, posterior, middle, retroareolar, central and axillary tail.

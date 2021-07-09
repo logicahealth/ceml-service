@@ -1,0 +1,9 @@
+cem WoundTypeEtiology
+	kind    	component
+	key         WoundTypeEtiology_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   WoundTypeEtiology_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

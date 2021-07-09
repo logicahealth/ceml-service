@@ -1,0 +1,4 @@
+cem ThiopurineMetabolitesLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ThiopurineMetabolites_CODE

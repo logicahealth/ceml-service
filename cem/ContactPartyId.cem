@@ -1,0 +1,4 @@
+cem ContactPartyId
+	kind		component
+	key			ContactPartyId_CODE
+	data		Identifier

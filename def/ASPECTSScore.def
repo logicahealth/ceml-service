@@ -1,0 +1,7 @@
+ASPECTSScore 
+A diagnostic instrument used to convey the severity of a stroke.  ASPECTS is an acronym for Alberta Stroke Program Early CT Score.  There is currently no LOINC code for this.  The value of this score is given as an integer from 1-10.
+
+@Author nrdavis1
+@Date 29 Jan 2018 15:26
+@Status draft
+@RequestedBy iActivity

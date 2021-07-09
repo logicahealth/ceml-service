@@ -1,0 +1,6 @@
+cem HIV1AbACncPtSerOrdIBLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HIV1AbACncPtSerOrdIB_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

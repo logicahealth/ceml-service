@@ -1,0 +1,4 @@
+EmploymentAssignment is a component model.
+The EmploymentAssignment model captures the data key code of EmploymentAssignment_KEY_ECID.
+By definition EmploymentAssignment is an employment assignment. An employee may have multiple assignments during the employment period.
+

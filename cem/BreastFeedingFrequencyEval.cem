@@ -1,0 +1,12 @@
+cem BreastFeedingFrequencyEval
+    kind	statement
+	base	StatementBase
+    key     BreastFeedingFrequency_CODE
+	data	CodeableConcept
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+    constraint	data.codeableConcept.valueset
+        value   FrequencyPerDay_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE

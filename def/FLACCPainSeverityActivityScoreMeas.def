@@ -1,0 +1,4 @@
+FLACCPainSeverityActivityScoreMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the FLACCPainSeverityActivityScoreMeas model,  the question is "what is the subject's FLACC pain severity activity score?" and the answer will have an ordinal value. 
+"FLACC pain severity activity score" by definitions means "An element of the FLACC pain assessment tool used to assess a pain level as evidenced by activity".
+

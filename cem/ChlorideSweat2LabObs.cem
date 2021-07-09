@@ -1,0 +1,6 @@
+cem ChlorideSweat2LabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChlorideSweat2_CODE
+	constraint		data.quantity.unit_code
+		value	MillimolesPerLiter_CODE

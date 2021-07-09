@@ -1,0 +1,6 @@
+cem NifedipineMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NifedipineMCncPtSerPlasQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

@@ -1,0 +1,13 @@
+cem MicroResultCodedPanel
+	kind		panel
+	base		MicroResultPanel
+	form		abstract
+	item		MicroSlideExam
+		id		microSlideExam
+		card	0-M
+	item		MicroIsolatePanel
+		id		microIsolatePanel
+		card	0-1
+	item		Specimen
+		id		specimen
+		card	0-M

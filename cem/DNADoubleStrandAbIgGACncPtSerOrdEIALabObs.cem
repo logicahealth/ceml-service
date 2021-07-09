@@ -1,0 +1,4 @@
+cem DNADoubleStrandAbIgGACncPtSerOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			DNADoubleStrandAbIgGACncPtSerOrdEIA_CODE

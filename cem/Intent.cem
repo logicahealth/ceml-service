@@ -1,0 +1,8 @@
+cem Intent
+	kind    	component
+	key         Intent_CODE
+	data        CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+    constraint	data.codeableConcept.valueset
+		value	Intent_VSET

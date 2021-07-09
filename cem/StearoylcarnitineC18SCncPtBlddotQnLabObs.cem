@@ -1,0 +1,6 @@
+cem StearoylcarnitineC18SCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			StearoylcarnitineC18SCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

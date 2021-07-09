@@ -1,0 +1,6 @@
+cem EmesisDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			EmesisDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	EmesisDescription_VSET

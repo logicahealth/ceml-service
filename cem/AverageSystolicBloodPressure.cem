@@ -1,0 +1,8 @@
+cem AverageSystolicBloodPressure
+	kind    	statement
+    base        StatementBase
+	key         AverageSystolicBloodPressure_CODE
+    data        Quantity
+    constraint  data.quantity.unit_code
+        value   MillimetersMercury_CODE
+

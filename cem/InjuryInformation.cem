@@ -1,0 +1,21 @@
+cem InjuryInformation
+	kind		component
+	key			InjuryInformation_CODE
+	item		InjurySequenceOfEvents
+		id		injurySequenceOfEvents
+		card	0-1
+	item		DateTimeOfInjury
+		id		dateTimeOfInjury
+		card	0-1
+	item		InjuryOccurAtWorkInd
+		id		injuryOccurAtWorkInd
+		card	0-1
+	item		PlaceOfInjury
+		id		placeOfInjury
+		card	0-1
+	item		MotorVehicleOccupantInjury
+		id		motorVehicleOccupantInjury
+		card	0-1
+	item		AddressOfInjury
+		id		addressOfInjury
+		card	0-1

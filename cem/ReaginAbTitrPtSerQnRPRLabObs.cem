@@ -1,0 +1,5 @@
+cem ReaginAbTitrPtSerQnRPRLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ReaginAbTitrPtSerQnRPR_CODE
+	

@@ -1,0 +1,10 @@
+cem NippleBottleTypeEval
+	kind    	statement
+    base        StatementBase
+	key         NippleBottleType_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   NippleBottleType_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

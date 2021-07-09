@@ -1,0 +1,8 @@
+ImplantStatus
+ImplantStatus is a component model that is used to identify the status of an implant.  The values inclued: Intact, ruptured, and deflated.
+
+@Author ljbuhl
+@Date 02 Dec 2016 11:39
+@Status draft
+@RequestedBy iActivity
+

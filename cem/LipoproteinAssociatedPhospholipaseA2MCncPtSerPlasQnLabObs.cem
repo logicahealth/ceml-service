@@ -1,0 +1,6 @@
+cem LipoproteinAssociatedPhospholipaseA2MCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LipoproteinAssociatedPhospholipaseA2MCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

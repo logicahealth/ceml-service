@@ -1,0 +1,6 @@
+cem Num8MinusHydroxyloxapineMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num8MinusHydroxyloxapineMCncPtSerPlasQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

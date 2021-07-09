@@ -1,0 +1,6 @@
+cem ParathyrinRelatedProteinSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ParathyrinRelatedProteinSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	PicomolesPerLiter_CODE

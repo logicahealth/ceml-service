@@ -1,0 +1,31 @@
+cem AnkleBrachialIndexMeas
+	kind		statement
+    base        StatementBase
+	key			AnkleBrachialIndex_CODE
+	data		Quantity
+	qual		StatinsUseInd
+		id		statinsUseInd
+		card	0-1
+	qual		BodyLocationOrientation
+		id		bodyLocationOrientation
+		card	0-1
+	qual		AgeAtObservation
+		id		ageAtObservation
+		card	0-1
+	qual		AbnormalInterpretation
+		id		abnormalInterpretation
+		card	0-1
+	qual		DeltaFlag
+		id		deltaFlag
+		card	0-1
+	qual		ReferenceRangeNar
+		id		referenceRangeNar
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	abnormalInterpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationNumericNom_VSET
+	constraint	deltaFlag.data.codeableConcept.valueset
+		value	DeltaFlagNumericNom_VSET
+    

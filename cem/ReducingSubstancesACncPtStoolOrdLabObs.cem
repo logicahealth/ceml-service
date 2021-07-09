@@ -1,0 +1,6 @@
+cem ReducingSubstancesACncPtStoolOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ReducingSubstancesACncPtStoolOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrdinalScaleNegToFour_VSET

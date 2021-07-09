@@ -1,0 +1,4 @@
+cem MicroscopicobservationPridPtSputumNomCytostainLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MicroscopicobservationPridPtSputumNomCytostain_CODE

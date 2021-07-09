@@ -1,0 +1,25 @@
+cem Reviewed
+	kind		comment
+	key			Reviewed_CODE
+    data        String
+	qual		StartTime
+		id		startTime
+		card	0-1
+	qual		EndTime
+		id		endTime
+		card	0-1
+	qual		Participant
+		id		participant
+		card	0-M
+	qual		PatientLocation
+		id		patientLocation
+		card	0-1
+	qual		ProviderLocation
+		id		providerLocation
+		card	0-1
+	qual		Reason
+		id		reason
+		card	0-M
+	qual		ActionMethod
+		id		actionMethod
+		card	0-1

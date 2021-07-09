@@ -1,0 +1,2 @@
+ApgarScoreTwoMinutePostBirthPanel is a model to capture the Apgar score of a newborn two minutes after birth delivery. It is a summation of five subcategory scores, and they are acronyms of Appearance, Pulse, Grimace, Activity and Respiration.
+

@@ -1,0 +1,3 @@
+Discontinued represents the act of ceasing a medication, therapy, procedure, or other action.
+Disontinued is a child model of the Attribution model. It holds the who, when, where, and why information
+of the discontinuation.

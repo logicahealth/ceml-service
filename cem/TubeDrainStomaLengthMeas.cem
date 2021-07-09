@@ -1,0 +1,6 @@
+cem TubeDrainStomaLengthMeas
+	kind		component
+	key			TubeDrainStomaLength_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	TubeDrainStomaLengthUnits_VSET

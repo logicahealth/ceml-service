@@ -1,0 +1,7 @@
+cem ObservationUpdateStatus
+	kind    	component
+	key         ObservationUpdateStatus_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   ObservationUpdateStatus_VSET
+

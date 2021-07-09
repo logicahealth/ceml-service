@@ -1,0 +1,2 @@
+ExternalIdentifier is a component base model used to record any key or code from an external system that is used soley or in conjunction with other information to identify an object instance.
+They are business IDs and are assumed to be human readable. An MMI is an example of an external ID.

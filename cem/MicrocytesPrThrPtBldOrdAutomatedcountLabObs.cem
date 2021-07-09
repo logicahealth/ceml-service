@@ -1,0 +1,4 @@
+cem MicrocytesPrThrPtBldOrdAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MicrocytesPrThrPtBldOrdAutomatedcount_CODE

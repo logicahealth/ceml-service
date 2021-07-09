@@ -1,0 +1,26 @@
+author: Bret Heale        
+initial Date: 02/29/2016
+status: proposed
+
+AttentionScreeningExam_aseMeas is an qualifer model. It is used to capture the score of the "Attention Screening Exam" (ASE). This is not used elsewhere and the score itslef is not meaningful.
+In general, the answer is positive (scores of 8 or more) or negative (scores of less than 3). The number of errors to get a result of negative is zero to two. The number of errors to get a result of postive is 3 to 10.
+
+Current methods for AttentionScreeningExamMethods_VALUESET_CODE include an exam based on Pictures or an exam based on Letters. (See PDD)
+
+Feature 2: Inattention
+** Feature 2 is positive if ASE score is less than 8.
+Assess using the Attention Screening Examination (ASE) –
+Letters or Pictures. Attempt ASE Letters first. If pt is able to
+perform this test and the score is clear, record this score and
+move to Feature 3. If pt is unable to perform this test or the
+score is unclear, perform the ASE Pictures. If you perform
+both tests, use the ASE pictures results to score the Feature.
+ASE Letters: Auditory/Random Letter “A” Test
+Directions: Say to the patient, “I am going to read you a series of 10 letters.
+Whenever you hear the letter ‘A,’ indicate by squeezing my hand.” Read
+letters from the following letter list in a normal tone.
+S A V E A H A A R T
+Scoring: Errors are counted when patient fails to squeeze on the letter “A”
+and when the patient squeezes on any letter other than “A.”
+ASE Pictures: Visual/Picture Recognition
+Directions and Scoring are located on the picture packet

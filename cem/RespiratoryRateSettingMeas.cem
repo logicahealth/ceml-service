@@ -1,0 +1,7 @@
+cem RespiratoryRateSettingMeas
+	kind	statement
+	base	StatementBase
+	key			RespiratoryRateSetting_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	PerMinute_CODE

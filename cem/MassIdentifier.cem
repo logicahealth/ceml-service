@@ -1,0 +1,4 @@
+cem MassIdentifier
+	kind    	component
+	key         MassIdentifier_CODE
+	data        Quantity

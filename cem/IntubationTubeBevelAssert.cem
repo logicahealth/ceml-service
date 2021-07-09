@@ -1,0 +1,5 @@
+cem IntubationTubeBevelAssert
+	kind		statement
+	base		ObservationAssert
+	constraint	data.codeableConcept.code
+		value	IntubationTubeBevel_CODE

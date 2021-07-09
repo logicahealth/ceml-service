@@ -1,0 +1,7 @@
+cem PlateletslargePrThrPtBldOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PlateletslargePrThrPtBldOrdMicroscopylight_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	OrdinalScaleNegToFour_VSET

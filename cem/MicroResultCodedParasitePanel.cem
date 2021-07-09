@@ -1,0 +1,7 @@
+cem MicroResultCodedParasitePanel
+	kind		panel
+	base		MicroResultCodedPanel
+	key			MicroResultCodedParasitePanel_VSET
+	item		ParasiticIsolatePanel
+		id		parasiticIsolatePanel
+		card	0-M

@@ -1,0 +1,4 @@
+cem PiperacillinSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PiperacillinSuscPtIsolateOrdQn_CODE

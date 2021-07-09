@@ -1,0 +1,6 @@
+cem NormoblastsBasophilic100CellsNFrPtBoneMarQnMicroscopyLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NormoblastsBasophilic100CellsNFrPtBoneMarQnMicroscopy_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

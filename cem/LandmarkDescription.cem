@@ -1,0 +1,9 @@
+cem LandmarkDescription
+	kind    	component
+	key         LandmarkDescription_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   LandmarkDescription_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

@@ -1,0 +1,3 @@
+SentForPathologyReviewLabObs is a Clinical Element model to record that a slide was sent to a pathologist for review as well as the
+pathologists findings.  The value is Sent for Pathology Review.  The findings are reported as comments to the value.
+LOINC number: Not able to map to a LOINC code at this time.

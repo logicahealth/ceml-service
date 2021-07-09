@@ -1,0 +1,10 @@
+cem SnackIntakeMeas
+	kind    	statement
+    base        StatementBase
+	key         SnackIntakeMeas_CODE
+    data        CodeableConcept
+    qual        FoodType
+        id      foodType
+        card    0-M
+    constraint  data.codeableConcept.valueset
+        value   SnackIntake_VSET

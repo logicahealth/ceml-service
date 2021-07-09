@@ -1,0 +1,4 @@
+UrinaryCatheterAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_CODE", and data is the condition being asserted. 
+
+In the UrinaryCatheterAssert model, data is UrinaryCatheter_CODE which means the patient has a urinary catheter in place.
+

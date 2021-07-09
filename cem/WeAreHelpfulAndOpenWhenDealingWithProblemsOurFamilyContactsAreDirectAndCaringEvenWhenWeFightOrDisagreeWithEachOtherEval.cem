@@ -1,0 +1,6 @@
+cem WeAreHelpfulAndOpenWhenDealingWithProblemsOurFamilyContactsAreDirectAndCaringEvenWhenWeFightOrDisagreeWithEachOtherEval
+
+	kind	statement
+	base	StatementBase
+    key     WeAreHelpfulAndOpenWhenDealingWithProblemsOurFamilyContactsAreDirectAndCaringEvenWhenWeFightOrDisagreeWithEachOther_CODE
+	data	Integer

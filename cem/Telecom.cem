@@ -1,0 +1,16 @@
+cem Telecom
+	kind		component
+	key			Telecom_CODE
+	data		String
+	qual		TelecomSystem
+		id		telecomSystem
+		card	0-1
+	qual		TelecomUse
+		id		telecomUse
+		card	0-1
+	qual		CEMLPeriod
+		id		period
+		card	0-1
+	qual		PreferenceInd
+		id		preferenceInd
+		card	0-1

@@ -1,0 +1,10 @@
+This is the TelecomType CEM. 
+			The ADDRESS TYPE CODE describes the type of the electronic contact, e.g., a cellular phone, a pager.
+			The value set of this coded attribute is partially taken from the HL7 V3 Telecom Use code set with CDM extension:
+			-   AS: Answering service
+			-   MC: Mobile contact
+			-   PG: Pager
+			-   EC: Emergency contact
+		
+
+

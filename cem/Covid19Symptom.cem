@@ -1,0 +1,5 @@
+cem Covid19Symptom
+	kind		statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.valueset
+		value	Covid19Symptom_VSET

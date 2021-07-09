@@ -1,0 +1,6 @@
+cem Glutamatedecarboxylase65AbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Glutamatedecarboxylase65AbACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		ArbitraryUnitsPerMilliliter_CODE

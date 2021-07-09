@@ -1,0 +1,8 @@
+cem AlertSeverity
+	kind		component
+	key			AlertSeverity_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	AlertSeverity_VSET

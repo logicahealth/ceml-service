@@ -1,0 +1,7 @@
+VisualFieldsEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the VisualFieldsEval model, the question is "what are the findings from assessing the subject's visual fields?" and the coded answers can be "all fields intact", "Temporal defect", "Lower Temporal Defect", "Upper Temporal Defect", and "Nasal Defect" etc.
+"Visual Field" by definition means "The total area in which objects can be seen in the side (peripheral) vision as you focus your eyes on a central point".
+
+
+Modeler: L. Buhl
+Date created: 02/24/2016

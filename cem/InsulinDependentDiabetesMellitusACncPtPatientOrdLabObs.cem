@@ -1,0 +1,6 @@
+cem InsulinDependentDiabetesMellitusACncPtPatientOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			InsulinDependentDiabetesMellitusACncPtPatientOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	YesNoUnknown_VSET

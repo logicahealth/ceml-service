@@ -1,0 +1,10 @@
+cem UpperAirwayScoreCyanosisMeas
+	kind	statement
+	base	StatementBase
+	key			UpperAirwayScoreCyanosis_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	UpperAirwayScoreCyanosis_VSET

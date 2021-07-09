@@ -1,0 +1,4 @@
+cem TramadolPrThrPtUrineOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TramadolPrThrPtUrineOrdScreen_CODE

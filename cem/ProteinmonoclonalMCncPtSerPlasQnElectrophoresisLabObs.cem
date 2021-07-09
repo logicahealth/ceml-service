@@ -1,0 +1,6 @@
+cem ProteinmonoclonalMCncPtSerPlasQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ProteinmonoclonalMCncPtSerPlasQnElectrophoresis_CODE
+	constraint		data.quantity.unit_code
+			value		GramsPerDeciliter_CODE

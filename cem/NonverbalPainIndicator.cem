@@ -1,0 +1,6 @@
+cem NonverbalPainIndicator
+	kind    	component
+	key         NonverbalPainIndicator_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   NonverbalPainIndicator_VSET

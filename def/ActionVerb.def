@@ -1,0 +1,3 @@
+ActionVerb was developed specifically for ambulatory medication orders. It is used to capture action words
+in the order such as "Take," "Apply," etc. It could have a default value depending on medication, with the ability to change it if needed.
+

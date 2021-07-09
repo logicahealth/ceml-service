@@ -1,0 +1,12 @@
+cem BehaviorEval
+
+	kind	statement
+	base	StatementBase
+    key     Behavior_CODE
+	data	CodeableConcept
+
+	constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	Behavior_VSET
+

@@ -1,0 +1,7 @@
+cem CluecellsPrThrPtXXXOrdWetpreparationLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CluecellsPrThrPtXXXOrdWetpreparation_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	NoneRareFewModMany_VSET

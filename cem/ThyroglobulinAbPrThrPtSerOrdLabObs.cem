@@ -1,0 +1,4 @@
+cem ThyroglobulinAbPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ThyroglobulinAbPrThrPtSerOrd_CODE

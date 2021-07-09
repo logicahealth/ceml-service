@@ -1,0 +1,4 @@
+cem ClientContactLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ClientContact_CODE

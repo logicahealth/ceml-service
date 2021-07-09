@@ -1,0 +1,6 @@
+cem CortisolFreeRadataMrat24HUrQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CortisolFreeRadataMrat24HUrQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

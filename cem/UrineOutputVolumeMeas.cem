@@ -1,0 +1,8 @@
+cem UrineOutputVolumeMeas
+	kind		statement
+	base		OutputVolumeMeas
+	key			UrineOutputVolume_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	UrineElminationDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	UrineOutputBodyLocationPrecoord_VSET

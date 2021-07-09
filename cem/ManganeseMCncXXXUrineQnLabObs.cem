@@ -1,0 +1,6 @@
+cem ManganeseMCncXXXUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ManganeseMCncXXXUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

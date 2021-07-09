@@ -1,0 +1,4 @@
+cem LipoproteinPatternImpPtSerPlasNomElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			LipoproteinPatternImpPtSerPlasNomElectrophoresis_CODE

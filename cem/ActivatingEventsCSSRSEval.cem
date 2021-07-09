@@ -1,0 +1,18 @@
+cem ActivatingEventsCSSRSEval
+
+	kind	statement
+	base	StatementBase
+    key     ActivatingEventsCSSRS_CODE
+	data	CodeableConcept
+    qual    TimeFrameCSSRS
+     id     timeFrameCSSRS
+     card   1
+
+
+	constraint	data.codeableConcept.strength
+	    value	CNE
+	constraint	data.codeableConcept.valueset
+	    value	ActivatingEventsCSSRS_VSET
+    constraint	timeFrameCSSRS.data.codeableConcept.code
+		value	Recent_CODE
+

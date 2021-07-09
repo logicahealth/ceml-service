@@ -1,0 +1,6 @@
+cem CD21PercentLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CD21Percent_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

@@ -1,0 +1,4 @@
+cem PrepAndFreezeOfDNALabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PrepAndFreezeOfDNA_CODE

@@ -1,0 +1,4 @@
+cem InterpretationTMinusCellShortLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationTMinusCellShort_CODE

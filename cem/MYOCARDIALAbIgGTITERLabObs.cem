@@ -1,0 +1,4 @@
+cem MYOCARDIALAbIgGTITERLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MYOCARDIALAbIgGTITER_CODE

@@ -1,0 +1,4 @@
+cem SpermatozoaUrineLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SpermatozoaUrine_CODE

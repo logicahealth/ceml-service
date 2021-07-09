@@ -1,0 +1,4 @@
+cem CrystalsPridPtBodyFldNomMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CrystalsPridPtBodyFldNomMicroscopyLight_CODE

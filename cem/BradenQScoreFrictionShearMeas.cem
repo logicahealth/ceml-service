@@ -1,0 +1,9 @@
+cem BradenQScoreFrictionShearMeas
+	kind		statement
+    base        StatementBase
+	key			BradenQScoreFrictionShear_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.valueset
+		value	BradenQScoreFrictionShear_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

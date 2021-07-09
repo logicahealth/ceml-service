@@ -1,0 +1,3 @@
+OrderContainer is a partial model statement
+OrderContainer is the topmost node and refers to the order in its entirety. An order is characterized by a single defined action, intervention, or diagnostic, in a single domain, that the clinician desires for the patient. This single desired action can have multiple sub-parts, but is not scoped to include multiple orders in a protocol or order set. The qualifiers at this level are qualifiers to all the Orderable segments within the Order.
+

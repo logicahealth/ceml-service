@@ -1,0 +1,4 @@
+cem CysticFibrosisSymptomQualitativeLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CysticFibrosisSymptomQualitative_CODE

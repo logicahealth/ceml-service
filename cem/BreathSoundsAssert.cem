@@ -1,0 +1,26 @@
+cem BreathSoundsAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		Device
+		id		device
+		card	0-1
+	qual		AlleviatingFactor
+		id		alleviatingFactor
+		card	0-1
+	qual		ExacerbatingFactor
+		id		exacerbatingFactor
+		card	0-1
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-1
+	qual		Course
+		id		course
+		card	0-1
+	constraint	data.codeableConcept.valueset
+		value	BreathSounds_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	BreathSoundsDevice_VSET
+	constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	BreathSoundsBodyLocation_VSET
+    constraint  bodyLocation.bodyLocationOrientation.data.codeableConcept.valueset
+        value   BreathSoundsBodyLaterality_VSET

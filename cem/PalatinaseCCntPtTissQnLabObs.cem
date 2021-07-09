@@ -1,0 +1,6 @@
+cem PalatinaseCCntPtTissQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PalatinaseCCntPtTissQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerMinutePerGramProtein_CODE

@@ -1,0 +1,4 @@
+cem TerminationReason
+	kind		component
+	key			TerminationReason_CODE
+	data		String

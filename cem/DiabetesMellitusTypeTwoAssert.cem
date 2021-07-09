@@ -1,0 +1,14 @@
+cem DiabetesMellitusTypeTwoAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		AlleviatingFactor
+		id		alleviatingFactor
+		card	0-M
+	qual		ExacerbatingFactor
+		id		exacerbatingFactor
+		card	0-M
+	qual		Course
+		id		course
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	DiabetesMellitusTypeTwo_CODE

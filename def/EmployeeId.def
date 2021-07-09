@@ -1,0 +1,4 @@
+EmployeeId is a component model.
+The EmployeeId model captures the data key code of EmployeeId_KEY_ECID.
+By definition the EmployeeId is the unique ECIS internal identifier of an employee across an enterprise.
+

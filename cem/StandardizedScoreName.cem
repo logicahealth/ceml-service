@@ -1,0 +1,8 @@
+cem StandardizedScoreName
+	kind		component
+	key			StandardizedScoreName_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	StandardizedScore_VSET

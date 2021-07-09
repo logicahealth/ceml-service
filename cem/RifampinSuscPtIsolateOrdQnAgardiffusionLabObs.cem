@@ -1,0 +1,4 @@
+cem RifampinSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RifampinSuscPtIsolateOrdQnAgardiffusion_CODE

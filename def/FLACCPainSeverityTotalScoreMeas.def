@@ -1,0 +1,4 @@
+FLACCPainSeverityTotalScoreMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the FLACCPainSeverityTotalScoreMeas model,  the question is "what is the subject's flacc pain severity total score?" and the numeric answer will have a unit of measure. 
+"Flacc pain severity total score" by definitions means "The summation of five elements of the FLACC score used to assess pain severity in developmentally young or nonverbal subjects". 
+

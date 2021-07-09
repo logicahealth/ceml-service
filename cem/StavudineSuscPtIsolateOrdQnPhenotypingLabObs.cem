@@ -1,0 +1,4 @@
+cem StavudineSuscPtIsolateOrdQnPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			StavudineSuscPtIsolateOrdQnPhenotyping_CODE

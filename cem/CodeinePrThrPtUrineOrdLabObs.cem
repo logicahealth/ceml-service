@@ -1,0 +1,4 @@
+cem CodeinePrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CodeinePrThrPtUrineOrd_CODE

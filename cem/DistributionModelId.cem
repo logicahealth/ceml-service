@@ -1,0 +1,4 @@
+cem DistributionModelId
+	kind		component
+	key			DistributionModelId_CODE
+	data		String

@@ -1,0 +1,6 @@
+cem Polymorphonuclearcells100leukocytesNFrPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Polymorphonuclearcells100leukocytesNFrPtCSFQn_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

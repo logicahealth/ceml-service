@@ -1,0 +1,3 @@
+DayToEvent is used to describe the frequency of administration or execution of an action related to the number of days to an event.
+It is based on a patient-related event, such as surgery.  This allows constructs such as post-op days 1, 3 and 7. 
+

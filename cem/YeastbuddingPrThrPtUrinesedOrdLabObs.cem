@@ -1,0 +1,4 @@
+cem YeastbuddingPrThrPtUrinesedOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			YeastbuddingPrThrPtUrinesedOrd_CODE

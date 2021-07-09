@@ -1,0 +1,8 @@
+cem AdmittingPhysicianEval
+	kind	statement
+	base	StatementBase
+	key			AdmittingPhysician_CODE
+	data		Identifier
+	qual		PersonName
+		id		personName
+		card	0-1

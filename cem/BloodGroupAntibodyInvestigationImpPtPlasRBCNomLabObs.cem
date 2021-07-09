@@ -1,0 +1,4 @@
+cem BloodGroupAntibodyInvestigationImpPtPlasRBCNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BloodGroupAntibodyInvestigationImpPtPlasRBCNom_CODE

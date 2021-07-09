@@ -1,0 +1,19 @@
+cem EmesisOutputPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			EmesisOutputPanel_CODE
+	item		EmesisOutputVolumeMeas
+		id		emesisOutputVolumeMeas
+		card	0-1
+	item		EmesisDescriptionEval
+		id		emesisDescriptionEval
+		card	0-M
+    item        EmesisAmountMeas
+        id      emesisAmountMeas
+        card    0-1
+	constraint	method.card
+		value	0
+	constraint	device.card
+		value	0
+	constraint	bodyLocationPrecoord.card
+		value	0

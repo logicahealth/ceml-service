@@ -1,0 +1,6 @@
+cem LymphocytesNCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LymphocytesNCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+			value		ThousandsPerMicroliter_CODE

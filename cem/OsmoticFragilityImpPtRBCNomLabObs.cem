@@ -1,0 +1,4 @@
+cem OsmoticFragilityImpPtRBCNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			OsmoticFragilityImpPtRBCNom_CODE

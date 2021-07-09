@@ -1,0 +1,6 @@
+cem LaCrosseVirusAbIgGTitrPtCSFQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LaCrosseVirusAbIgGTitrPtCSFQnIF_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

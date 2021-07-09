@@ -1,0 +1,6 @@
+AdministrativeObservation
+AdministrativeObservation is a base model for observations that are non-clinical.  Such as Religion, VeteranMilitaryStatus, etc.  These are things that used to be thought of as part of the patient instance data.
+@Author nrdavis1
+@Date 10 Feb 2017 14:58
+@Status draft
+@RequestedBy Clinical Modeling Engineering Group (Intermountain Healthcare)

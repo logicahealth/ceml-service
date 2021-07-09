@@ -1,0 +1,6 @@
+cem TyrosineSCncPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TyrosineSCncPtCSFQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

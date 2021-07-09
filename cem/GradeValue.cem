@@ -1,0 +1,5 @@
+cem GradeValue
+	kind    	statement
+	key         GradeValue_CODE
+    data        CodeableConcept
+

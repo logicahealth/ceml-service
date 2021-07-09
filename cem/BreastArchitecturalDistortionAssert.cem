@@ -1,0 +1,28 @@
+cem BreastArchitecturalDistortionAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        Modality
+        id      modality
+        card    0-1
+    qual        LocationOfBreastLesion
+        id      locationOfBreastLesion
+        card    0-1
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    link        ImageLink
+        id      imageLink
+        card    0-M
+    constraint	data.codeableConcept.code
+        value	BreastArchitecturalDistortion_CODE
+    constraint	associatedSituation.data.codeableConcept.valueset
+		value	BreastArchitecturalDistortionAssociatedPrecondition_VSET
+    constraint  locationOfBreastLesion.clockFacePosition.card
+        value   0
+    constraint  reportedReceived.card
+        value   0
+    constraint  verified.card
+        value   0
+    constraint  bodyLocation.card
+        value   0
+    

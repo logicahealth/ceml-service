@@ -1,0 +1,4 @@
+cem BKVirusDNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BKVirusDNAACncPtXXXOrdProbeAmpTar_CODE

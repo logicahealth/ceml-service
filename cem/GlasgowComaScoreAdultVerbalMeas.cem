@@ -1,0 +1,12 @@
+cem GlasgowComaScoreAdultVerbalMeas
+	kind	statement
+	base	StatementBase
+	key			GlasgowComaScoreAdultVerbal_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	GlasgowComaScoreAdultVerbal_VSET
+    constraint	associatedPrecondition.data.codeableConcept.valueset
+		value	GlasgowComaScoreAssociatedPrecondition_VSET

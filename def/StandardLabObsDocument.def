@@ -1,0 +1,7 @@
+StandardLabObsDocument is the Clinical Element Model for standard laboratory test results/observations as found in LOINC. This model is used for lab observations with Document results.
+
+@Author bsheale
+@Date 27 Feb 2017 16:01
+@Status draft
+@RequestedBy AOCG/OPA
+

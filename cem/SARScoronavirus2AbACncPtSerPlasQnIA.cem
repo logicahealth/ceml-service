@@ -1,0 +1,7 @@
+cem SARScoronavirus2AbACncPtSerPlasQnIA
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         SARScoronavirus2AbACncPtSerPlasQnIA_CODE
+    constraint  data.quantity.unit_code
+        value   InernationalUnitsPerMilliliter_CODE
+

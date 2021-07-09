@@ -1,0 +1,6 @@
+cem BilirubinMCncPtUrineQnTeststripautomatedLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BilirubinMCncPtUrineQnTeststripautomated_CODE
+	constraint		data.quantity.unit_code
+			value		MilligramsPerDeciliter_CODE

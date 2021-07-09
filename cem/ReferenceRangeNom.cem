@@ -1,0 +1,9 @@
+cem ReferenceRangeNom
+	kind    	component
+	key         ReferenceRangeNom_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   NominalReferenceRange_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

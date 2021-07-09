@@ -1,0 +1,3 @@
+Vaccinated is a child model of the Attribution model. It holds the who, when, where, and why information of the vaccination.
+Vaccinated means to receive profylactic treatment to immunize against disease.
+

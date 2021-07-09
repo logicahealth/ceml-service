@@ -1,0 +1,6 @@
+cem HistoneAbIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HistoneAbIgGACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	ArbitraryUnitsPerMilliliter_CODE

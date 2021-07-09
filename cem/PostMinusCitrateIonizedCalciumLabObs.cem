@@ -1,0 +1,6 @@
+cem PostMinusCitrateIonizedCalciumLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PostMinusCitrateIonizedCalcium_CODE
+	constraint		data.quantity.unit_code
+		value	MillimolesPerLiter_CODE

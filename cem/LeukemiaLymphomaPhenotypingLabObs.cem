@@ -1,0 +1,4 @@
+cem LeukemiaLymphomaPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			LeukemiaLymphomaPhenotyping_CODE

@@ -1,0 +1,27 @@
+cem GenitalDischargeAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual   		GenitalDischargeDescription
+		id		genitalDischargeDescription
+		card	0-M
+	qual		GenitalDischargeQuantityDescription
+		id		genitalDischargeQuantityDescription
+		card	0-1
+	qual		AlleviatingFactor
+		id		alleviatingFactor
+		card	0-M
+	qual		ExacerbatingFactor
+		id		exacerbatingFactor
+		card	0-M
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-M
+	qual		Course
+		id		course
+		card	0-1
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	GenitaliaBodyLocationPrecoord_VSET
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.code
+		value	GenitalDischarge_CODE

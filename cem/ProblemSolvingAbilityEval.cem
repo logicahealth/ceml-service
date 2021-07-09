@@ -1,0 +1,10 @@
+cem ProblemSolvingAbilityEval
+	kind    	statement
+    base        StatementBase
+	key         ProblemSolvingAbility_CODE
+    data		CodeableConcept
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+    constraint	data.codeableConcept.valueset
+        value   ProblemSolvingAbility_VSET

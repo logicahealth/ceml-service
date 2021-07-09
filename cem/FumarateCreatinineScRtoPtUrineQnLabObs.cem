@@ -1,0 +1,6 @@
+cem FumarateCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FumarateCreatinineScRtoPtUrineQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

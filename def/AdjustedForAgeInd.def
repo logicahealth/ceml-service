@@ -1,0 +1,5 @@
+AdjustedForAgeInd
+status:  proposed
+Author: DMM
+
+AdjustedForAgeInd is a yes/no model to indicate that the value of the containing model has been adjusted for age.

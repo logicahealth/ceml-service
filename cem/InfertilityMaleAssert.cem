@@ -1,0 +1,5 @@
+cem InfertilityMaleAssert
+	kind		statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.code
+		value	InfertilityMale_CODE

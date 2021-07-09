@@ -1,0 +1,6 @@
+cem UreaNitrogenPostDialysisUreaNitrogenPreDialysisMCrtoPtDialFldPrtQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			UreaNitrogenPostDialysisUreaNitrogenPreDialysisMCrtoPtDialFldPrtQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

@@ -1,0 +1,6 @@
+cem BetaGlucuronidaseCCncPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BetaGlucuronidaseCCncPtCSFQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilliunitsPerLiter_CODE

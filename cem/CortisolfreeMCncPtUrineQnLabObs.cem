@@ -1,0 +1,6 @@
+cem CortisolfreeMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CortisolfreeMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerDeciliter_CODE

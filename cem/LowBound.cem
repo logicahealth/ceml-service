@@ -1,0 +1,4 @@
+cem LowBound
+	kind	component
+	key     LowBound_CODE
+	data	Quantity

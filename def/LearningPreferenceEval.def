@@ -1,0 +1,4 @@
+LearningPreferenceEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the LearningPreferenceEval model, the question is "what is the subject's learning preference?" and the coded answers can be "Demonstration", "Printed materials", "Verbal explanation", "Video/Educational TV", "Internet", etc.
+"Learning preference" by definition means "The teaching method a person prefers when being taught".
+

@@ -1,0 +1,6 @@
+COVID19ContactID is the model to record the id assigned using the original (source) case-patient’s nCoV ID followed by a hyphen and a sequential number indicating the order in which the contact was identified (e.g., Confirmed case CA102034567 may have contacts CA102034567 -01 and CA102034567 -02). It should only be filled out if a PUI or case-patient is a known contact to another confirmed case of COVID-19. 
+
+@Author lpnzhuo
+@Date 01 Apr 2020 13:35
+@Status draft
+@RequestedBy Logica

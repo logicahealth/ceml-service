@@ -1,0 +1,6 @@
+cem PlateletAssociatedAbIgMACncPtBldQnFlowCytometryLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PlateletAssociatedAbIgMACncPtBldQnFlowCytometry_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

@@ -1,0 +1,15 @@
+cem BarrierToLearningEval
+	kind		statement
+    base        StatementBase
+	key			BarrierToLearning_CODE
+	data		CodeableConcept
+	qual		CommunicationAid
+		id		communicationAid
+		card	0-1
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	BarrierToLearning_VSET

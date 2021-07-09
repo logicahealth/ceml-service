@@ -1,0 +1,6 @@
+cem ViscosityViscPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ViscosityViscPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	Centipoise_CODE

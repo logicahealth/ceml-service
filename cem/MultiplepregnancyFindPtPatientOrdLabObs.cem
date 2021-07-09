@@ -1,0 +1,4 @@
+cem MultiplepregnancyFindPtPatientOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MultiplepregnancyFindPtPatientOrd_CODE

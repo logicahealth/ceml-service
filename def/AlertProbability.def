@@ -1,0 +1,4 @@
+AlertProbability suggests the likelihood of an alert being true. 
+The data value is in the format of a percentile. This models applies to instance alert.  For example, 
+this particular glucose alert for this patient has a probability of 70 percent being true. 
+

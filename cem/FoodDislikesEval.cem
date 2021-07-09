@@ -1,0 +1,11 @@
+
+cem FoodDislikesEval
+	kind    	statement
+    base        StatementBase
+	key         FoodDislikes_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   FoodDislikes_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

@@ -1,0 +1,4 @@
+cem AcidHemolysisACncPtBldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AcidHemolysisACncPtBldOrd_CODE

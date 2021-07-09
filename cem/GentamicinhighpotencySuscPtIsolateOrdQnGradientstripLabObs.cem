@@ -1,0 +1,4 @@
+cem GentamicinhighpotencySuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GentamicinhighpotencySuscPtIsolateOrdQnGradientstrip_CODE

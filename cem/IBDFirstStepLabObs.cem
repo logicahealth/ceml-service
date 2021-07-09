@@ -1,0 +1,4 @@
+cem IBDFirstStepLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			IBDFirstStep_CODE

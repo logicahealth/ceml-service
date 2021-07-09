@@ -1,0 +1,6 @@
+cem DiscreteStrength
+	kind		component
+	key			DiscreteStrength_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	MassUnits_VSET

@@ -1,0 +1,4 @@
+cem MicroscopicObservationPridPtBldBoneMarNomSudanBlackBStainLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MicroscopicObservationPridPtBldBoneMarNomSudanBlackBStain_CODE

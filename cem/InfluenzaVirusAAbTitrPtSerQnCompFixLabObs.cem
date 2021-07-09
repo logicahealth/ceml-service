@@ -1,0 +1,5 @@
+cem InfluenzaVirusAAbTitrPtSerQnCompFixLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			InfluenzaVirusAAbTitrPtSerQnCompFix_CODE
+	

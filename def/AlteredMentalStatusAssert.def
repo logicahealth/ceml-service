@@ -1,0 +1,9 @@
+AlteredMentalStatusAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+In the AlteredMentalStatusAssert model, data is AlteredMentalStatusAssert_ECID which means the subject's has had a change in his/her baseline mental status.
+
+March 03, 2016: Bret added 
+ qual        Method
+        id      method
+        card    0-1
+
+

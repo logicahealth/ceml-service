@@ -1,0 +1,7 @@
+cem OurFamilyContactsCanBeRejectingDistantAndColdTheImportanceOfEarlyFamilyRelationshipsIsIgnoredOrForgottenEval
+
+	kind	statement
+	base	StatementBase
+    key     OurFamilyContactsCanBeRejectingDistantAndColdTheImportanceOfEarlyFamilyRelationshipsIsIgnoredOrForgotten_CODE
+	data	Integer
+

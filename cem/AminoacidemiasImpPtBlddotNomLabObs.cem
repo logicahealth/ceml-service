@@ -1,0 +1,4 @@
+cem AminoacidemiasImpPtBlddotNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			AminoacidemiasImpPtBlddotNom_CODE

@@ -1,0 +1,4 @@
+cem CeftazidimeSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CeftazidimeSuscPtIsolateOrdQnGradientstrip_CODE

@@ -1,0 +1,8 @@
+cem DestinationStatus
+	kind		component
+	key			DestinationStatus_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	DestinationStatus_VSET

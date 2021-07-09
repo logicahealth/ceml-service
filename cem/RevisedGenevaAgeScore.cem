@@ -1,0 +1,7 @@
+cem RevisedGenevaAgeScore
+	kind	statement
+	base	StatementBase
+	key     RevisedGenevaAgeScore_CODE
+	data	CodeableOrdinal
+    constraint data.codeableOrdinal.valueset
+        value  RevisedGenevaAgeScore_VSET

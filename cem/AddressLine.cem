@@ -1,0 +1,4 @@
+cem AddressLine
+	kind		component
+	key			AddressLine_CODE
+	data		String

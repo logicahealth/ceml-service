@@ -1,0 +1,6 @@
+cem BarbituratesMCntPtMeconiumQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BarbituratesMCntPtMeconiumQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerGram_CODE

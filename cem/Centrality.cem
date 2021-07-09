@@ -1,0 +1,9 @@
+cem Centrality
+	kind    	component
+	key         Centrality_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Centrality_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

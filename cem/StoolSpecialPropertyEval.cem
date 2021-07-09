@@ -1,0 +1,12 @@
+cem StoolSpecialPropertyEval
+	kind		statement
+    base        StatementBase
+	key			StoolSpecialProperty_CODE
+	data		CodeableConcept
+    qual		SourceIdentifier
+		id		sourceIdentifier
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	StoolSpecialProperty_VSET

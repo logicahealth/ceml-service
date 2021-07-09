@@ -1,0 +1,4 @@
+cem AmoxicillinClavulanateSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmoxicillinClavulanateSuscPtIsolateOrdQnGradientstrip_CODE

@@ -1,0 +1,6 @@
+cem CalculatedDoseMax
+	kind		component
+	key			CalculatedDoseMax_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	MassVolumeUnits_VSET

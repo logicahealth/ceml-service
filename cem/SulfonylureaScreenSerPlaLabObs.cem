@@ -1,0 +1,4 @@
+cem SulfonylureaScreenSerPlaLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			SulfonylureaScreenSerPla_CODE

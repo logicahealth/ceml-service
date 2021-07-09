@@ -1,0 +1,12 @@
+cem ActivitiesOfDailyLivingIndexFeedingMeas
+	kind    	statement
+    base        StatementBase
+	key         ActivitiesOfDailyLivingIndexFeeding_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	ActivitiesOfDailyLivingIndexLevelOfAssistanceFeeding_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

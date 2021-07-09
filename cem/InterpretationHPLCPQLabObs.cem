@@ -1,0 +1,4 @@
+cem InterpretationHPLCPQLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationHPLCPQ_CODE

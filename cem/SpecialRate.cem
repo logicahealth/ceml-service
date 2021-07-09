@@ -1,0 +1,4 @@
+cem SpecialRate
+	kind		component
+	key			SpecialRate_CODE
+	data		String

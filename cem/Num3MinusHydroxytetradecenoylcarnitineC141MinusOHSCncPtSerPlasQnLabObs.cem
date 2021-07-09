@@ -1,0 +1,6 @@
+cem Num3MinusHydroxytetradecenoylcarnitineC141MinusOHSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num3MinusHydroxytetradecenoylcarnitineC141MinusOHSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

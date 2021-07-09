@@ -1,0 +1,4 @@
+EducationDegree is a component model. This model holds a "question" in the key code (EducationDegree_KEY_ECID)and a Text String (ST) as the answer in data.
+In the EducationDegree model the question is "what is the Education Degree" and the answer in data is a text string.
+By definition Education Degree means the educational degree of a person (or person role).
+

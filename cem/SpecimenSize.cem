@@ -1,0 +1,6 @@
+cem SpecimenSize
+	kind		component
+	key			SpecimenSize_CODE
+	item		SpecimenDimensions
+		id		specimenDimensions
+		card	0-M

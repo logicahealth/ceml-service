@@ -1,0 +1,12 @@
+cem FathersEthnicityEval
+	kind	statement
+	base	StatementBase
+	key			FathersEthnicity_CODE
+	data		CodeableConcept
+	mod 	    FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Race_VSET

@@ -1,0 +1,4 @@
+PsychosocialBarriersToCareParticipationEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the PsychosocialBarriersToCareParticipationEval model, the question is "what are the subject's Psychosocial Barriers To Care Participation?" and the coded answers can be '','', and '' etc.
+"PsychosocialBarriersToCareParticipationEval" by definition means the psychological or social reasons that an individual would have that hinder the ability to participate in their own care. 
+

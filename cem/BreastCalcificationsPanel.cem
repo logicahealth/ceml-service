@@ -1,0 +1,29 @@
+cem BreastCalcificationsPanel
+	kind    	panel
+    base        PanelBase
+	key         BreastCalcificationsPanel_CODE
+    item        BreastCalcificationsAssert
+        id      breastCalcificationsAssert
+        card    0-1
+    item        TypicallyBenignCalcificationEval
+        id      typicallyBenignCalcificationEval
+        card    0-1
+    item        BreastCalcificationGreatestDimensionMeas
+        id      breastCalcificationGreatestDimensionMeas
+        card    0-1
+    item        SuspiciousMorphologyCalcificationsEval
+        id      suspiciousMorphologyCalcificationsEval
+        card    0-1
+    item        BreastCalcificationDistributionTypeEval
+        id      breastCalcificationDistributionTypeEval
+        card    0-1
+    item        CalcificationDistributionGreatestDimensionMeas
+        id      calcificationDistributionGreatestDimensionMeas
+        card    0-1
+    qual        AssociatedSituation
+        id      associatedSituation
+        card    0-M
+    constraint	associatedSituation.data.codeableConcept.valueset
+		value	BreastCalcificationsAssociatedPrecondition_VSET
+
+

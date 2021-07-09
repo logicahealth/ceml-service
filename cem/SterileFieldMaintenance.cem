@@ -1,0 +1,9 @@
+
+cem SterileFieldMaintenance
+	kind    	component
+    key         SterileFieldMaintenance_CODE
+    data        CodeableConcept
+    constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	SterileFieldMaintenance_VSET

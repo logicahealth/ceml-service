@@ -1,0 +1,8 @@
+cem AirwayPatentAssert
+	kind		statement
+	base		ObservationAssert
+	qual        TypeOfAirway
+        id      typeOfAirway
+        card    0-M
+	constraint	data.codeableConcept.code
+		value	AirwayPatent_CODE

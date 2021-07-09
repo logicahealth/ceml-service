@@ -1,0 +1,4 @@
+cem SpecimenSeqNumber
+	kind		component
+	key			SpecimenSeqNumber_CODE
+	data		String

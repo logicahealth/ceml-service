@@ -1,0 +1,16 @@
+AbnormalInterpretation takes a value from the valueset listed in the model to indicate the data value in the containing model is "abnormal".
+      This model is used to constrain values from OBX-8 in a lab result HL7 message. 
+       Because OBX-8 is overloaded to contain multiple types of data, we need a way to tell
+       which kind of code is sent (abnormal flag, delta flag, or ordinal interpretation).
+
+Sample values from AbnormalInterpretation_VALUESET_ECID
+		Below low normal
+		Very abnormal
+		Above absolute high-off instrument scale
+		Below lower panic limits
+		Abnormal
+		Above upper panic limits
+		Above high normal
+		Below absolute low-off instrument scale
+
+

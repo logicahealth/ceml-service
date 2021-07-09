@@ -1,0 +1,16 @@
+cem BurnEstimatedOutputFluidPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			BurnEstimatedOutputFluidPanel_CODE
+	item		BurnEstimatedOutputFluidVolumeMeas
+		id		burnEstimatedOutputFluidVolumeMeas
+		card	1
+	item		BurnEstimatedOutputFluidDescriptionEval
+		id		burnEstimatedOutputFluidDescriptionEval
+		card	0-M
+	constraint	method.card
+		value	0
+	constraint	device.card
+		value	0
+	constraint	sourceIdentifier.card
+		value	0

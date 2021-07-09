@@ -1,0 +1,12 @@
+cem PulmonaryParenchymaExamEval
+	kind	statement
+	base	StatementBase
+	key			PulmonaryParenchymaExam_CODE
+	data		CodeableConcept
+	att			ImageTaken
+		id		imageTaken
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	NormalAbnormal_VSET

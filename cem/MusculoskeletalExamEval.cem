@@ -1,0 +1,9 @@
+cem MusculoskeletalExamEval
+	kind	statement
+	base	StatementBase
+	key			MusculoskeletalExam_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	NormalAbnormal_VSET

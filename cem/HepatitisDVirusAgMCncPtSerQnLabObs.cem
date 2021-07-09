@@ -1,0 +1,6 @@
+cem HepatitisDVirusAgMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HepatitisDVirusAgMCncPtSerQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

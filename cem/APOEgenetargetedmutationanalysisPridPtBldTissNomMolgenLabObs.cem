@@ -1,0 +1,4 @@
+cem APOEgenetargetedmutationanalysisPridPtBldTissNomMolgenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			APOEgenetargetedmutationanalysisPridPtBldTissNomMolgen_CODE

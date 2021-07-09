@@ -1,0 +1,10 @@
+cem OrganizationName
+	kind		component
+	key			OrganizationName_CODE
+	data		String
+	qual		OrganizationNameUse
+		id		organizationNameUse
+		card	0-1
+	qual		CEMLPeriod
+		id		period
+		card	0-1

@@ -1,0 +1,6 @@
+cem CreatinineMRat12HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CreatinineMRat12HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	Milligrams_CODE

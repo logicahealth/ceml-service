@@ -1,0 +1,5 @@
+StoolOutputPanel is the output panel model that contains descriptions of the volume and size of stool output
+
+added StoolNumMeas, ColorOfStoolEval, HemoglobinGastrointestinalACncPtStoolOrdLabObs, SpecimenSentToLab, ExternalIdentifierm, PatientIdentifier by Bret Heale on 02/05/2016
+
+

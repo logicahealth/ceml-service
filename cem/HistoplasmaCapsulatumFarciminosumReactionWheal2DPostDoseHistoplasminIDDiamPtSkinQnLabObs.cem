@@ -1,0 +1,6 @@
+cem HistoplasmaCapsulatumFarciminosumReactionWheal2DPostDoseHistoplasminIDDiamPtSkinQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HistoplasmaCapsulatumFarciminosumReactionWheal2DPostDoseHistoplasminIDDiamPtSkinQn_CODE
+	constraint		data.quantity.unit_code
+		value	Millimeters_CODE

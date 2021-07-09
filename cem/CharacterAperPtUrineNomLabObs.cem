@@ -1,0 +1,4 @@
+cem CharacterAperPtUrineNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CharacterAperPtUrineNom_CODE

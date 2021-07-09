@@ -1,0 +1,5 @@
+cem InhibinAMoMPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			InhibinAMoMPtSerQn_CODE
+	

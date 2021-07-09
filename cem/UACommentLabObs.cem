@@ -1,0 +1,4 @@
+cem UACommentLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			UAComment_CODE

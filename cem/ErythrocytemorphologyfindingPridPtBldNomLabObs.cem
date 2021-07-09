@@ -1,0 +1,4 @@
+cem ErythrocytemorphologyfindingPridPtBldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ErythrocytemorphologyfindingPridPtBldNom_CODE

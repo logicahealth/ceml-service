@@ -1,0 +1,6 @@
+cem MetanephrinesMCnc24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MetanephrinesMCnc24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+			value		NanogramsPerMilliliter_CODE

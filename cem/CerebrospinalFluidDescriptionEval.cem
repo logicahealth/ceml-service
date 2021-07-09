@@ -1,0 +1,12 @@
+cem CerebrospinalFluidDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			CerebrospinalFluidDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	CerebrospinalFluidDescription_VSET
+	constraint	method.data.codeableConcept.valueset
+		value	CerebrospinalFluidOutputMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	CerebrospinalFluidOutputDevice_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	CerebrospinalFluidOutputBodyLocationPrecoord_VSET

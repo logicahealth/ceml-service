@@ -1,0 +1,16 @@
+cem GastricTubeOutputFluidPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			GastricTubeOutputFluidPanel_CODE
+	item		GastricTubeOutputFluidVolumeMeas
+		id		gastricTubeOutputFluidVolumeMeas
+		card	1
+	item		GastricTubeOutputFluidDescriptionEval
+		id		gastricTubeOutputFluidDescriptionEval
+		card	0-M
+	constraint	method.data.codeableConcept.valueset
+		value	GastricTubeMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	GastricTubeDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	GastricTubeBodyLocationPrecoord_VSET

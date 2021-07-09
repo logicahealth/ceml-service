@@ -1,0 +1,4 @@
+cem InterpretationTMinusCellExtendedLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationTMinusCellExtended_CODE

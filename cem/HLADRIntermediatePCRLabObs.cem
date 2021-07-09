@@ -1,0 +1,4 @@
+cem HLADRIntermediatePCRLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HLADRIntermediatePCR_CODE

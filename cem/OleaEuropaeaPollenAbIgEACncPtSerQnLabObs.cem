@@ -1,0 +1,6 @@
+cem OleaEuropaeaPollenAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OleaEuropaeaPollenAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	KilounitsPerLiter_CODE

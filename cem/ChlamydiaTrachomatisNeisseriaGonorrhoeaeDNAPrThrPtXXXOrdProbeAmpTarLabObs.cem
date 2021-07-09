@@ -1,0 +1,6 @@
+cem ChlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtXXXOrdProbeAmpTar_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	FPARDetectedNotDetected_VSET

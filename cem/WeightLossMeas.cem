@@ -1,0 +1,8 @@
+cem WeightLossMeas
+    kind	statement
+	base	StatementBase
+    key     WeightLossAmount_CODE
+	data	Quantity
+	constraint	data.quantity.unit_code
+	    value	Kilograms_CODE
+

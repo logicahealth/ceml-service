@@ -1,0 +1,4 @@
+cem ClostridiumDifficileGlutamateDehydrogenaseAcNCPtStoolOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ClostridiumDifficileGlutamateDehydrogenaseAcNCPtStoolOrd_CODE

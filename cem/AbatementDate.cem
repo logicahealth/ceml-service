@@ -1,0 +1,6 @@
+cem AbatementDate
+	kind    	component
+	key         AbatementDate_CODE
+    data        DateTime
+    
+

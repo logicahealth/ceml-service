@@ -1,0 +1,3 @@
+TriggerDataItem is a clinical element model that will be used to create a reference between patient statments and Trigger Data items.  This 
+reference is used to identify patient data that trigger alert statements.
+

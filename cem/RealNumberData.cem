@@ -1,0 +1,4 @@
+cem RealNumberData
+	kind		component
+	key			RealNumberData_CODE
+	data		Decimal

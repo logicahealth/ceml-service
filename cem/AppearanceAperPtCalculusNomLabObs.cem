@@ -1,0 +1,4 @@
+cem AppearanceAperPtCalculusNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			AppearanceAperPtCalculusNom_CODE

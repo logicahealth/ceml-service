@@ -1,0 +1,8 @@
+cem UrinaryBladderIrrigationOutputFluidDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			UrinaryBladderIrrigationOutputFluidDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	UrinaryBladderIrrigationOutputFluidDescription_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	UrinaryBladderIrrigationBodyLocationPrecoord_VSET

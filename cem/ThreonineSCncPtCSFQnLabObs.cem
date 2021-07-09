@@ -1,0 +1,6 @@
+cem ThreonineSCncPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThreonineSCncPtCSFQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

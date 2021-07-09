@@ -1,0 +1,4 @@
+cem OxacillinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxacillinSuscPtIsolateOrdQnGradientstrip_CODE

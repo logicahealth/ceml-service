@@ -1,0 +1,4 @@
+RequiresMobilityAssistiveDeviceAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the RequiresMobilityAssistiveDeviceAssert model, data is "RequiresMobilityAssistiveDevice_ECID" and indicates that the person is in need of an assistive device such as a cane for mobility.
+

@@ -1,0 +1,6 @@
+PEDISWoundGrade is a classification system for diabetic foot ulcers and stands for Pefusion-Extent-Depth-Infection-Sensitivity.  Each of these is rated according to defined scales, the individual ratings combined into a total score which is reported as the result.  No LOINC code to associate with this yet.
+
+@Author nrdavis1
+@Date 29 Jan 2020 13:57
+@Status draft
+@RequestedBy Logica wound project

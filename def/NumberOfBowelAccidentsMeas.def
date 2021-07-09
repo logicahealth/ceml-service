@@ -1,0 +1,11 @@
+NumberOfBowelAccidentsMeas created on 15/Apr/2016 16:10 by B Heale
+
+Proposed 
+
+NumberOfBowelAccidentsMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the NumberOfBowelAccidentsMeas model, the question is "How many bowel accidents has the patient had?" "NumberOfBowelAccidentsMeas" is the number of bowel accidents the patient has had.
+
+Accidents refers to the wetting or soiling of linen or clothing and includes bedpan.
+If the Caregiver spills the container, it is not counted as a patient accident.
+An incontinence is NOT an accident if it is contained within a collection device.
+A person can be continent and still have an accident if there is any soiling of clothing or linens.

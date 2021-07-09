@@ -1,0 +1,5 @@
+cem LesionIdentifier
+	kind    	component
+	key         LesionIdentifier_CODE
+    data        String
+

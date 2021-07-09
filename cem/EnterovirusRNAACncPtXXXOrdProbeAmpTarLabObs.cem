@@ -1,0 +1,6 @@
+cem EnterovirusRNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EnterovirusRNAACncPtXXXOrdProbeAmpTar_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

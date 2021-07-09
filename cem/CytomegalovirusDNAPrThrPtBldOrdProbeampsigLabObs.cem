@@ -1,0 +1,7 @@
+cem CytomegalovirusDNAPrThrPtBldOrdProbeampsigLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CytomegalovirusDNAPrThrPtBldOrdProbeampsig_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

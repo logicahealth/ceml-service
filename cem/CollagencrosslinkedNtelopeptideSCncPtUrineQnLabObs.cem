@@ -1,0 +1,6 @@
+cem CollagencrosslinkedNtelopeptideSCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CollagencrosslinkedNtelopeptideSCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+			value		NanomolesPerMilliliterSubstanceConcentrationUnits_CODE

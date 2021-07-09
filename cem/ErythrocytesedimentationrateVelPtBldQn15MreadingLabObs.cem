@@ -1,0 +1,4 @@
+cem ErythrocytesedimentationrateVelPtBldQn15MreadingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocytesedimentationrateVelPtBldQn15Mreading_CODE

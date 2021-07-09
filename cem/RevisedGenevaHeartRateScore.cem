@@ -1,0 +1,7 @@
+cem RevisedGenevaHeartRateScore
+	kind	statement
+	base	StatementBase
+	key     RevisedGenevaHeartRateScore_CODE
+	data	CodeableOrdinal
+    constraint  data.codeableOrdinal.valueset
+        value   RevisedGenevaScoreHeartRate_VSET

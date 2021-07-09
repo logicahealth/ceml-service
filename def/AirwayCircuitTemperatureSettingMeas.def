@@ -1,0 +1,4 @@
+AirwayCircuitTemperatureSettingMeas model is a setting measurement model. A setting measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ) answer in data for a value set on a machine by a user. 
+In the AirwayCircuitTemperatureSettingMeas model, the question is "what is the temperature in the ventilator's airway circuit set at?" and the numeric answer will have a value experessed in degrees celsius. 
+"Airway Circuit Temperature Setting" by definition means "setting of the temperature of the environment contained in the circuit connection tubing of a mechanical ventilator to an artificial gas source and patient".
+

@@ -1,0 +1,3 @@
+TreponemaPallidumAbACncPtSerOrdAgglLabObs is a Clinical Element model to record the ordinal, coded results of the Treponema pallidum IgG
+particle agglutination test.  Result values are Non-Reactive (NR), Reactive (REAC), and Equivalent (EQ).
+LOINC code: 24312-1

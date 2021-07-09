@@ -1,0 +1,4 @@
+EventOfInterest is a component model. This model holds a "question" in the code and holds a coded value (CD) "answer" from the value set referred to in data.
+In the EventOfInterest model the question is "what is the event of interest?" and the coded answers from the EventOfInterest value set can be "Preoperative," or "Postoperative."
+EventOfInterest by definition means a user defined event used as a reference point for an order duration (a patient related event to which a frequency of action can be anchored).
+

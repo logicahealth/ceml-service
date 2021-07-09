@@ -1,0 +1,15 @@
+cem DefecationEffortEval
+	kind	statement
+	base	PhysicalObs
+	key			DefecationEffort_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	DefecationEffort_VSET
+    constraint  method.card
+        value   0
+    constraint  device.card
+        value   0
+    constraint  bodyLocation.card
+        value   0    

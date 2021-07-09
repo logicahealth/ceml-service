@@ -1,0 +1,5 @@
+cem BCRMinusABL1B2a2FusionTranscriptABL1TranscriptNRtoPtBldTissQnMolgenLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BCRMinusABL1B2a2FusionTranscriptABL1TranscriptNRtoPtBldTissQnMolgen_CODE
+	

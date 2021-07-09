@@ -1,0 +1,4 @@
+cem VendornameIDPtXXXNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			VendornameIDPtXXXNom_CODE

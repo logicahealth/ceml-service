@@ -1,0 +1,4 @@
+cem StudyReportFindPtCvxVagDocCytologyLabObs
+	kind		statement
+	base		StandardLabObsDocument
+	key			StudyReportFindPtCvxVagDocCytology_CODE

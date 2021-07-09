@@ -1,0 +1,5 @@
+cem EncounterIdentifier
+	kind    	component
+	key         EncounterIdentifier_CODE
+    data        Identifier
+

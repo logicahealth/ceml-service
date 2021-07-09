@@ -1,0 +1,4 @@
+cem FentanylPrThrPtUrineOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			FentanylPrThrPtUrineOrdScreen_CODE

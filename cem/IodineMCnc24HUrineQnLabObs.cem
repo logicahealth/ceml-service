@@ -1,0 +1,6 @@
+cem IodineMCnc24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			IodineMCnc24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

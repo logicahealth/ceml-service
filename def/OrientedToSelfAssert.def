@@ -1,0 +1,4 @@
+OrientedToSelfAssert is an assertion model that extends the ClinicalAssertion model by capturing oriented to place-specific data through additional qualifiers. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the OrientedToSelf model, data is OrientedToSelf_CODE which means "An ability to recognize self." (An indication of a patient's neurological status with regard to orientation to self.)
+

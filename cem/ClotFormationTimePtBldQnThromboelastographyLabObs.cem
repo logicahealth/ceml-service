@@ -1,0 +1,6 @@
+cem ClotFormationTimePtBldQnThromboelastographyLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ClotFormationTimePtBldQnThromboelastography_CODE
+	constraint		data.quantity.unit_code
+		value	Minutes_CODE

@@ -1,0 +1,12 @@
+cem PerformingLaboratory
+	kind		component
+	key			PerformingLaboratory_CODE
+	item		LaboratoryId
+		id		laboratoryId
+		card	0-1
+	item		LaboratoryName
+		id		laboratoryName
+		card	0-1
+	item		AddressText
+		id		addressText
+		card	0-1

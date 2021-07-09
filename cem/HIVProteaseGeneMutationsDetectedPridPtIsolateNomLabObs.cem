@@ -1,0 +1,4 @@
+cem HIVProteaseGeneMutationsDetectedPridPtIsolateNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HIVProteaseGeneMutationsDetectedPridPtIsolateNom_CODE

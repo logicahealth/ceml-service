@@ -1,0 +1,6 @@
+cem SexHormoneBindingGlobulinMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SexHormoneBindingGlobulinMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerDeciliter_CODE

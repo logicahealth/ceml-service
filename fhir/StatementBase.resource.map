@@ -1,0 +1,6 @@
+fhir resource StatementBase
+	map Comment
+	map	ExternalIdentifier
+	map Status
+	map Aggregate
+	

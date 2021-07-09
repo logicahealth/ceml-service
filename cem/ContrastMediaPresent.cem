@@ -1,0 +1,4 @@
+cem ContrastMediaPresent
+	kind    	component
+	key         ContrastMediaPresent_CODE
+    data        Boolean

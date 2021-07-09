@@ -1,0 +1,3 @@
+OrderSetId is a component model.
+If the order was placed through use of an order set, this is the coded identifier of the order set.
+

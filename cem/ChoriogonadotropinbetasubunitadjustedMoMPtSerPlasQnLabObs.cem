@@ -1,0 +1,5 @@
+cem ChoriogonadotropinbetasubunitadjustedMoMPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChoriogonadotropinbetasubunitadjustedMoMPtSerPlasQn_CODE
+	

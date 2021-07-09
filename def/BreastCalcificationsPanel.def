@@ -1,0 +1,6 @@
+BreastCalcificationsPanel created by L.Buhl on 07/Jun/2016 11:39 for iActivity project.
+
+BreastCalcificationsPanel is comprised of models that are used to describe calcification findings from a mammogram procedure.
+
+
+BreastCalcificationsAssociatedPrecondition_VALUESET_CODE will have a value of seatbelt injury.

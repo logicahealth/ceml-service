@@ -1,0 +1,6 @@
+cem SaccharomycesCerevisiaeAbIgGMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SaccharomycesCerevisiaeAbIgGMCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

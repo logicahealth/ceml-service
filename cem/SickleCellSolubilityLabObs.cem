@@ -1,0 +1,4 @@
+cem SickleCellSolubilityLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			SickleCellSolubility_CODE

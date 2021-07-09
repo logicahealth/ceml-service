@@ -1,0 +1,6 @@
+cem CalciumcorrectedforalbuminSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CalciumcorrectedforalbuminSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		MillimolesPerLiter_CODE

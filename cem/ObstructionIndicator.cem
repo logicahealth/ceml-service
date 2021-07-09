@@ -1,0 +1,8 @@
+cem ObstructionIndicator
+	kind    	component
+	key         ObstructionIndicator_CODE
+    data        CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	YesNo_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE

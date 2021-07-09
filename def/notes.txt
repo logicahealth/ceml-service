@@ -1,0 +1,16 @@
+We identified relevant stages of COVID-19 including three periods: pre-exposure, incubation, and detectable viral replication; and five phases: the viral symptom phase, the early inflammatory phase, the secondary infection phase, the multisystem inflammatory phase, and the tail phase. This common terminology should serve as a framework to guide when COVID-19 therapeutics being studied or currently in use is likely to provide benefit rather than harm.
+https://pubmed.ncbi.nlm.nih.gov/33556957/
+
+
+
+Codes in StandardLabObs without terms in the LOINC extension catalog
+StandardLabObs_CODE
+FocalSubject_CODE
+PerformingLaboratory_CODE
+Aggregate_CODE
+PerformingLaboratoryID_CODE
+
+
+
+https://covid-19-ig.logicahealth.org/StructureDefinition-FluABSARSCoV2PnlRespNAAprb.html
+https://covid-19-ig.logicahealth.org/StructureDefinition-FluAandBandSARSCoV2andRSVRNApanelPtRespProbeamptar.html

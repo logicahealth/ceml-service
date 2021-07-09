@@ -1,0 +1,25 @@
+cem FLACCPainAssessmentPanel
+	kind	panel
+	base	PanelBase
+	key			FLACCPainAssessmentPanel_CODE
+	item		FLACCPainSeverityFaceScoreMeas
+		id		fLACCPainSeverityFaceScoreMeas
+		card	0-1
+	item		FLACCPainSeverityLegsScoreMeas
+		id		fLACCPainSeverityLegsScoreMeas
+		card	0-1
+	item		FLACCPainSeverityActivityScoreMeas
+		id		fLACCPainSeverityActivityScoreMeas
+		card	0-1
+	item		FLACCPainSeverityCryScoreMeas
+		id		fLACCPainSeverityCryScoreMeas
+		card	0-1
+	item		FLACCPainSeverityConsolabilityScoreMeas
+		id		fLACCPainSeverityConsolabilityScoreMeas
+		card	0-1
+	item		FLACCPainSeverityTotalScoreMeas
+		id		fLACCPainSeverityTotalScoreMeas
+		card	1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M

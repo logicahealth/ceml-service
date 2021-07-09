@@ -1,0 +1,6 @@
+WoundTunnelingDirection is a component model to indicate the clock face position of the direction of the wound tunneling. 12 o' clock is towards the head, 6 o' clock is towards the feet.
+
+@Author ljbuhl
+@Date 12 Sep 2017 16:17
+@Status draft
+@RequestedBy S. Matney

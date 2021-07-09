@@ -1,0 +1,5 @@
+SmotheringFeelingAtNightAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the SmotheringFeelingAtNightAssert model, data is SmotheringFeelingAtNight_ECID which means the subject has smothering feeling at night.  A smothering feeling is one that
+makes a person feel like they cannot breathe.
+

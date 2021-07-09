@@ -1,0 +1,5 @@
+cem MethioninePhenylalanineSRtoPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethioninePhenylalanineSRtoPtBlddotQn_CODE
+	

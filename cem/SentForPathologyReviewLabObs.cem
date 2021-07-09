@@ -1,0 +1,6 @@
+cem SentForPathologyReviewLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			SentForPathologyReview_CODE
+	constraint	data.codeableConcept.valueset
+		value	LabValue_VSET

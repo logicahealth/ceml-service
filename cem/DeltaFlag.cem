@@ -1,0 +1,8 @@
+cem DeltaFlag
+	kind		component
+	key			DeltaFlag_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	DeltaFlag_VSET

@@ -1,0 +1,6 @@
+cem ThiamineMCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThiamineMCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerDeciliter_CODE

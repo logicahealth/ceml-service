@@ -1,0 +1,5 @@
+cem NuclearAbACncPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NuclearAbACncPtSerQnEIA_CODE
+	

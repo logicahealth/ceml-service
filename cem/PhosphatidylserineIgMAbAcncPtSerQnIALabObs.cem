@@ -1,0 +1,5 @@
+cem PhosphatidylserineIgMAbAcncPtSerQnIALabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         PhosphatidylserineIgMAbAcncPtSerQnIA_CODE
+

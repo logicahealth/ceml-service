@@ -1,0 +1,7 @@
+cem EpsteinBarrviruscapsidAbIgMPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EpsteinBarrviruscapsidAbIgMPrThrPtSerOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

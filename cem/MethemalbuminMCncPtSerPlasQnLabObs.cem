@@ -1,0 +1,6 @@
+cem MethemalbuminMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethemalbuminMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	GramsPerDeciliter_CODE

@@ -1,0 +1,6 @@
+cem BenzodiazepinesMCntPtMeconiumQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BenzodiazepinesMCntPtMeconiumQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerGram_CODE

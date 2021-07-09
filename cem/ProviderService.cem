@@ -1,0 +1,8 @@
+cem ProviderService
+	kind		component
+	key			ProviderService_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ProviderService_VSET

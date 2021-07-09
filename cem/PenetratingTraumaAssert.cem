@@ -1,0 +1,26 @@
+cem PenetratingTraumaAssert
+	kind		statement
+	base		EventAssert
+	qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-M
+	qual		Severity
+		id		severity
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	qual		ForeignBody
+		id		foreignBody
+		card	0-M
+	qual		DrainageFluidDescription
+		id		drainageFluidDescription
+		card	0-M
+	qual		Hemostatic
+		id		hemostatic
+		card	0-M
+	qual		MechanismOfInjury
+		id		mechanismOfInjury
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	PenetratingTrauma_CODE

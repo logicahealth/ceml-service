@@ -1,0 +1,6 @@
+cem IronbindingcapacityunsaturatedMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			IronbindingcapacityunsaturatedMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerDeciliter_CODE

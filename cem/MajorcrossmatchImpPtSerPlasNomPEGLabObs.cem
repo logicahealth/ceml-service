@@ -1,0 +1,4 @@
+cem MajorcrossmatchImpPtSerPlasNomPEGLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MajorcrossmatchImpPtSerPlasNomPEG_CODE

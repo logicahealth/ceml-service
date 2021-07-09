@@ -1,0 +1,6 @@
+cem PlateletMeanVolumeEntVolPtBldQnAutomatedCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PlateletMeanVolumeEntVolPtBldQnAutomatedCount_CODE
+	constraint		data.quantity.unit_code
+		value	Femtoliters_CODE

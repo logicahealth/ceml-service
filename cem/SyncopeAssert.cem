@@ -1,0 +1,5 @@
+cem SyncopeAssert
+    kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.code
+        value	Syncope_CODE

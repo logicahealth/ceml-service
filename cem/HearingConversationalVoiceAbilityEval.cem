@@ -1,0 +1,26 @@
+cem HearingConversationalVoiceAbilityEval
+	kind	statement
+	base	StatementBase
+	key         HearingConversationalVoiceAbility_CODE
+	data        CodeableConcept
+    qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-M    
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+    qual		AssociatedSignAndSymptom
+		id		associatedSignAndSymptom
+		card	0-M
+    qual        DataAbsentReason
+        id      dataAbsentReason
+        card    0-M
+    qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+    constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	EarBodyLocationPrecoord_VSET
+    constraint	data.codeableConcept.valueset
+		value	HearingConversationalVoiceAbility_VSET

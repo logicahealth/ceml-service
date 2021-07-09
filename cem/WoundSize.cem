@@ -1,0 +1,23 @@
+cem WoundSize
+	kind		component
+	key			WoundSize_CODE
+	item		WoundLength
+		id		woundLength
+		card	0-1
+	item		WoundWidth
+		id		woundWidth
+		card	0-1
+	item		WoundDepth
+		id		woundDepth
+		card	0-1
+    item        WoundArea
+        id      woundArea
+        card    0-1
+    item        WoundVolume
+        id      woundVolume
+        card    0-1
+    qual		Device
+		id		device
+		card	0-M
+    constraint	device.data.codeableConcept.valueset
+		value	WoundMeasurementDevice_VSET

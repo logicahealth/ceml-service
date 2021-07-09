@@ -1,0 +1,6 @@
+cem CreatinineMCncPtBodyFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CreatinineMCncPtBodyFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

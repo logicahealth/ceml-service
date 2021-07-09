@@ -1,0 +1,11 @@
+cem RoutineOralCareProc
+	kind		statement
+	base		Procedure
+	qual		RouteMethodDevice
+		id		routeMethodDevice
+		card	0-M
+	qual		Duration
+		id		duration
+		card	0-1
+	constraint	data.codeableConcept.valueset
+		value	OralCare_VSET

@@ -1,0 +1,4 @@
+cem NarcolepsyPanelDRB115LabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			NarcolepsyPanelDRB115_CODE

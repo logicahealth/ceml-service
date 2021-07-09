@@ -1,0 +1,4 @@
+cem AdipateACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AdipateACncPtUrineOrd_CODE

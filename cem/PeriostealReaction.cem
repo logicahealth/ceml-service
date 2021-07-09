@@ -1,0 +1,9 @@
+cem PeriostealReaction
+	kind    	component
+	key         PeriostealReaction_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   PeriostealReaction_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

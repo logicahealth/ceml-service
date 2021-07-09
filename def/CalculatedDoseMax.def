@@ -1,0 +1,4 @@
+CalculatedDoseMax model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the CalculatedDoseMax model, the question is "what is the subject's maximum calculated dose?" and the numeric answer will have a unit of measure. 
+CalculatedDoseMax is a service-generated field for decision support. The dose is calculated from the OrderedDose and Ingredient Strength fields. For example:OrderedDose of  2 tablet, each tablet is 400mg Strength, the calculated dose is 800mg. This is always calculated from the maximum of either the OrderedDoseLowerLimit and OrderedDoseUpperLimit.
+

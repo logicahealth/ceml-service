@@ -1,0 +1,7 @@
+cem MicroResultCodedBacterialPanel
+	kind		panel
+	base		MicroResultCodedPanel
+	key			MicroResultCodedBacterialPanel_VSET
+	item		BacterialIsolatePanel
+		id		bacterialIsolatePanel
+		card	0-M

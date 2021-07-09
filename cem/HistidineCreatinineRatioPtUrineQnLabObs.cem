@@ -1,0 +1,6 @@
+cem HistidineCreatinineRatioPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HistidineCreatinineRatioPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicromolesPerGram_CODE

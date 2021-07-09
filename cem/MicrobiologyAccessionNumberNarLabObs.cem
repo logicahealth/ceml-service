@@ -1,0 +1,4 @@
+cem MicrobiologyAccessionNumberNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MicrobiologyAccessionNumberNar_CODE

@@ -1,0 +1,7 @@
+cem MethaqualonePrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MethaqualonePrThrPtUrineOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

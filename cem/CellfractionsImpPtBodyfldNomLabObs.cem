@@ -1,0 +1,4 @@
+cem CellfractionsImpPtBodyfldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CellfractionsImpPtBodyfldNom_CODE

@@ -1,0 +1,16 @@
+cem WoundClosureProc
+	kind		statement
+	base		Procedure
+	qual		ApproachSite
+		id		approachSite
+		card	0-1
+	qual		RouteMethodDevice
+		id		routeMethodDevice
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	WoundClosure_CODE
+	constraint	routeMethodDevice.data.codeableConcept.valueset
+		value	WoundClosureRouteMethodDevice_VSET

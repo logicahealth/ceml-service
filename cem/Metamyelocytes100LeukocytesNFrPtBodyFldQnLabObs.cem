@@ -1,0 +1,6 @@
+cem Metamyelocytes100LeukocytesNFrPtBodyFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Metamyelocytes100LeukocytesNFrPtBodyFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

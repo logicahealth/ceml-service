@@ -1,0 +1,9 @@
+cem FeelingBadAboutYourselfOrThatYouAreAFailureOrHaveLetYourselfOrYourFamilyDownInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     FeelingBadAboutYourselfOrThatYouAreAFailureOrHaveLetYourselfOrYourFamilyDownInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET

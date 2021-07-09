@@ -1,0 +1,1 @@
+PatientArrivalStatus is the state of the patient's arrival, such as "arrived" or "in transit."

@@ -1,0 +1,4 @@
+cem HemosiderinACncPtUrineOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HemosiderinACncPtUrineOrdMicroscopyLight_CODE

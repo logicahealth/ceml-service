@@ -1,0 +1,4 @@
+cem CandidasprRNAPrThrPtVagOrdProbeLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CandidasprRNAPrThrPtVagOrdProbe_CODE

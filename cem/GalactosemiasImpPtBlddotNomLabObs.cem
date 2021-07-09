@@ -1,0 +1,4 @@
+cem GalactosemiasImpPtBlddotNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			GalactosemiasImpPtBlddotNom_CODE

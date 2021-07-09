@@ -1,0 +1,4 @@
+cem CytogeneticsGrowProcessAndHoldBoneMarrowLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CytogeneticsGrowProcessAndHoldBoneMarrow_CODE

@@ -1,0 +1,7 @@
+cem HomocystinePrThrPtBlddotOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HomocystinePrThrPtBlddotOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	NormAbnormIncDec_VSET

@@ -1,0 +1,9 @@
+cem TransportationModeEval
+	kind	statement
+	base	StatementBase
+	key			TransportationMode_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	TransportationMode_VSET

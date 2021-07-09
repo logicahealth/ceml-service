@@ -1,0 +1,6 @@
+cem MaximumCumulativeDose
+	kind		component
+	key			MaximumCumulativeDose_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	MassUnits_VSET

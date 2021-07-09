@@ -1,0 +1,4 @@
+cem CytomegalovirusAbIgGImpPtSerNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CytomegalovirusAbIgGImpPtSerNom_CODE

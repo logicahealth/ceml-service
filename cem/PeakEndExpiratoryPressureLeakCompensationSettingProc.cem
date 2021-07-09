@@ -1,0 +1,8 @@
+cem PeakEndExpiratoryPressureLeakCompensationSettingProc
+	kind		statement
+	base		Procedure
+	qual		MethodDevice
+		id		methodDevice
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	PeakEndExpiratoryPressureLeakCompensationSetting_CODE

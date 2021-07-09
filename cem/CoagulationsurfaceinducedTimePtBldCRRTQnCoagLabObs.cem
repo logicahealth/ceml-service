@@ -1,0 +1,6 @@
+cem CoagulationsurfaceinducedTimePtBldCRRTQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationsurfaceinducedTimePtBldCRRTQnCoag_CODE
+	constraint		data.quantity.unit_code
+			value		Seconds_CODE

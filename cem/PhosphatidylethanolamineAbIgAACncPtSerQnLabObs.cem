@@ -1,0 +1,6 @@
+cem PhosphatidylethanolamineAbIgAACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PhosphatidylethanolamineAbIgAACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerMilliliter_CODE

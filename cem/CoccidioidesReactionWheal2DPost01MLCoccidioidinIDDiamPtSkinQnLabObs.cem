@@ -1,0 +1,6 @@
+cem CoccidioidesReactionWheal2DPost01MLCoccidioidinIDDiamPtSkinQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoccidioidesReactionWheal2DPost01MLCoccidioidinIDDiamPtSkinQn_CODE
+	constraint		data.quantity.unit_code
+		value	Millimeters_CODE

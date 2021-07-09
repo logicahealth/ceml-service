@@ -1,0 +1,6 @@
+cem MyoglobinMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MyoglobinMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerLiter_CODE

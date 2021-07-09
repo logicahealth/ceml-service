@@ -1,0 +1,4 @@
+cem EmtricitabineSuscPtIsolateOrdQnGenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EmtricitabineSuscPtIsolateOrdQnGenotyping_CODE

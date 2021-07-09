@@ -1,0 +1,4 @@
+cem ErythrophagocytosisCerebrospinalFluidLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ErythrophagocytosisCerebrospinalFluid_CODE

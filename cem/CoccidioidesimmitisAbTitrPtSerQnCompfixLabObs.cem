@@ -1,0 +1,5 @@
+cem CoccidioidesimmitisAbTitrPtSerQnCompfixLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoccidioidesimmitisAbTitrPtSerQnCompfix_CODE
+	

@@ -1,0 +1,14 @@
+cem SputumQuantityDescriptionEval
+	kind	statement
+	base	StatementBase
+	key			SputumQuantityDescription_CODE
+	data		CodeableConcept
+	qual		RouteMethodDevice
+		id		routeMethodDevice
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	SputumQuantityDescription_VSET
+	constraint	routeMethodDevice.data.codeableConcept.valueset
+		value	AirwayInterfaceType_VSET

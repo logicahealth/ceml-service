@@ -1,0 +1,6 @@
+cem CaseReportLocalID
+	kind    	component
+	key         CaseReportLocalID_CODE
+    data        Identifier
+
+

@@ -1,0 +1,4 @@
+ThiopurineMetabolitesLabObs is a Clinical Element Model to record the interpreted reults of the Thiopurine
+test battery.  The test is resulted usally as "SEE NOTE" or "Refer to HELP2 under Lab, Scanned Lab In".
+This is an Inetmountain Healthcare specific model.
+LOINC number: not able to map to LOINC

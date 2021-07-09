@@ -1,0 +1,5 @@
+cem WestNileVirusAbIgMACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			WestNileVirusAbIgMACncPtSerQn_CODE
+	

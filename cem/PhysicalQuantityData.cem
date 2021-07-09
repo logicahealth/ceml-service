@@ -1,0 +1,4 @@
+cem PhysicalQuantityData
+	kind		component
+	key			PhysicalQuantityData_CODE
+	data		Quantity

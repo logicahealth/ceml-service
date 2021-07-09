@@ -1,0 +1,6 @@
+cem CobalaminsUnsaturatedBindingCapacityMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CobalaminsUnsaturatedBindingCapacityMCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	PicogramsPerMilliliter_CODE

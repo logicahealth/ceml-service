@@ -1,0 +1,6 @@
+cem EpithelialCellsNonSquamousNaricPtUrineSedQnMicroscopyLightHpfLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EpithelialCellsNonSquamousNaricPtUrineSedQnMicroscopyLightHpf_CODE
+	constraint		data.quantity.unit_code
+		value	PerHighPowerField_CODE

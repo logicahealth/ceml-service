@@ -1,0 +1,5 @@
+cem RickettsiaRickettsiiAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RickettsiaRickettsiiAbACncPtSerQn_CODE
+	

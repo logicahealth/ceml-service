@@ -1,0 +1,8 @@
+cem MiscellaneousOutputFluidVolumeRateMeas
+	kind		statement
+	base		OutputVolumeRateMeas
+	key			MiscellaneousOutputFluidVolumeRate_CODE
+	constraint	method.data.codeableConcept.valueset
+		value	MiscellaneousOutputFluidMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	MiscellaneousOutputFluidDevice_VSET

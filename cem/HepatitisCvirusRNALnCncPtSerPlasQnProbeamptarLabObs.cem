@@ -1,0 +1,6 @@
+cem HepatitisCvirusRNALnCncPtSerPlasQnProbeamptarLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HepatitisCvirusRNALnCncPtSerPlasQnProbeamptar_CODE
+	constraint	data.quantity.unit_code
+		value	PermilliLiterNumberConcentrationUnits_CODE

@@ -1,0 +1,20 @@
+cem ShoulderShrugEval
+	kind	statement
+	base	StatementBase
+	key         ShoulderShrug_CODE
+	data		CodeableConcept
+    qual        Equality
+        id      equality
+        card    0-1
+    qual		DataAbsentReason
+		id		dataAbsentReason
+		card	0-1
+    qual        AssociatedPrecondition
+        id      neuromuscularAssociatedPrecondition
+        card    0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ShoulderShrug_VSET
+    constraint  neuromuscularAssociatedPrecondition.data.codeableConcept.valueset
+        value   NeuromuscularAssociatedPrecondition_VSET

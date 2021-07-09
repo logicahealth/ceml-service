@@ -1,0 +1,12 @@
+
+cem AirwayCompromisedAssert
+	kind		statement
+	base		ObservationAssert
+	qual        TypeOfAirway
+        id      typeOfAirway
+        card    0-M
+    qual        AirwayCompromisedDueTo
+        id      airwayCompromisedDueTo
+        card    0-M
+	constraint	data.codeableConcept.code
+		value	AirwayCompromised_CODE

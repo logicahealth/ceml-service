@@ -1,0 +1,6 @@
+cem Num21MinusHydroxylaseAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num21MinusHydroxylaseAbACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerMilliliter_CODE

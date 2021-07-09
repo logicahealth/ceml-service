@@ -1,0 +1,4 @@
+cem DateBodyReleased
+	kind		component
+	key			DateBodyReleased_CODE
+	data		DateTime

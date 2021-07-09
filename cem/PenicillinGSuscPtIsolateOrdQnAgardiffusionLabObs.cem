@@ -1,0 +1,4 @@
+cem PenicillinGSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PenicillinGSuscPtIsolateOrdQnAgardiffusion_CODE

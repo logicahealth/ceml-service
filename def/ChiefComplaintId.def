@@ -1,0 +1,2 @@
+ChiefComplaintId
+This is the ChiefComplaintId clinical element model.  It is used to capture the identifying code that will point to or link to the instance data that describes the chief complaint.

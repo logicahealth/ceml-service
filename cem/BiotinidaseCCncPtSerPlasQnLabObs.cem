@@ -1,0 +1,6 @@
+cem BiotinidaseCCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BiotinidaseCCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerLiter_CODE

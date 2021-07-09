@@ -1,0 +1,6 @@
+cem BetaGlobulinMCncPtSerPlasQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BetaGlobulinMCncPtSerPlasQnElectrophoresis_CODE
+	constraint		data.quantity.unit_code
+		value	GramsPerDeciliter_CODE

@@ -1,0 +1,6 @@
+cem ReticulocytesImmatureReticulocytesTotalNFrPtRBCQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ReticulocytesImmatureReticulocytesTotalNFrPtRBCQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

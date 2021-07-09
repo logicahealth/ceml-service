@@ -1,0 +1,4 @@
+ParasiteObservationPtBdyFldOrdLabObs is a Clinical Element model to record that parasites were observed during microscopic slide examination
+of body fluid.
+Value is Observed.  This test is not reported/resulted if no parasites are observed.
+LOINC number: Not able to map to a LOINC code at this time.

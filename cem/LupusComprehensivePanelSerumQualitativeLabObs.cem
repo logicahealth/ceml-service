@@ -1,0 +1,4 @@
+cem LupusComprehensivePanelSerumQualitativeLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			LupusComprehensivePanelSerumQualitative_CODE

@@ -1,0 +1,3 @@
+OrganizationId is a component model.
+This model captures the unique ECIS internal identifier in the Organization table.
+

@@ -1,0 +1,6 @@
+cem MercuryMCntPtNailQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MercuryMCntPtNailQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerGram_CODE

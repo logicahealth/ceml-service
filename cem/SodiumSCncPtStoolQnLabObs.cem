@@ -1,0 +1,6 @@
+cem SodiumSCncPtStoolQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SodiumSCncPtStoolQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimolesPerLiter_CODE

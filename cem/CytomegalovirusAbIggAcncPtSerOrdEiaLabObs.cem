@@ -1,0 +1,4 @@
+cem CytomegalovirusAbIggAcncPtSerOrdEiaLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CytomegalovirusAbIggAcncPtSerOrdEia_CODE

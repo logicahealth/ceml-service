@@ -1,0 +1,5 @@
+RecoveryStatusAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the RecoveryStatusAssert model, data is RecoveryStatus_VALUESET_ECID which is a set of different recovery protocols one of which the patient is on for this encounter.
+
+

@@ -1,0 +1,6 @@
+cem HistamineSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HistamineSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanomolesPerLiter_CODE

@@ -1,0 +1,10 @@
+VesicoureteralRefluxAssert 
+VesicoureteralRefluxAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition 
+being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the VesicoureteralRefluxAssert model, data is VesicoureteralReflux_ECID which means the backward flow of urine from the bladder to the kidneys.
+
+@Author nrdavis1
+@Date 02 Dec 2016 11:49
+@Status draft
+@RequestedBy iActivity

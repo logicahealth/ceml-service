@@ -1,0 +1,4 @@
+cem ProviderName
+	kind		component
+	key			ProviderName_CODE
+	data		String

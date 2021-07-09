@@ -1,0 +1,10 @@
+cem PainObsPanel
+	kind	panel
+	base	PanelBase
+	key			PainObsPanel_CODE
+	item		PainAssert
+		id		painAssert
+		card	1-M
+	qual		AssociatedSignAndSymptom
+		id		associatedSignAndSymptom
+		card	0-M

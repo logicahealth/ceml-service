@@ -1,0 +1,9 @@
+cem PresentAtTimeOfEventEval
+	kind	statement
+	base	StatementBase
+	key			PresentAtTimeOfEvent_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PresentAtTimeOfEvent_VSET

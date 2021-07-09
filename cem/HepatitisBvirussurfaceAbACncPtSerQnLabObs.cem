@@ -1,0 +1,6 @@
+cem HepatitisBvirussurfaceAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HepatitisBvirussurfaceAbACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		MilliinternationalUnitsPerMilliliterArbitraryConcentrationUnits_CODE

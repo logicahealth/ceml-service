@@ -1,0 +1,6 @@
+cem KetonesACncPtUrineOrdTestStripLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			KetonesACncPtUrineOrdTestStrip_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrdinalScaleNegToFour_VSET

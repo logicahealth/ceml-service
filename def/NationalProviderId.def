@@ -1,0 +1,7 @@
+NationalProviderId is a model for the National Provider Identifier (NPI); the health care provider's unique 10-digit NPI
+
+@Author bsheale
+@Date 02 May 2017 15:09
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog, implementation

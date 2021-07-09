@@ -1,0 +1,23 @@
+cem AdultAdhdSelfReportScaleASRSPartAPanel
+	kind    	panel
+    base        PanelBase
+	key         AdultAdhdSelfReportScaleASRSPartAPanel_CODE
+    item        HowOftenDoYouHaveTroubleWrappingUpTheFinalDetailsOfAProjectOnceTheChallengingPartsHaveBeenDoneEval
+        id      howOftenDoYouHaveTroubleWrappingUpTheFinalDetailsOfAProjectOnceTheChallengingPartsHaveBeenDoneEval
+        card    0-1
+    item        HowOftenDoYouHaveDifficultyGettingThingsInOrderWhenYouHaveToDoATaskThatRequiresOrganizationEval
+        id      howOftenDoYouHaveDifficultyGettingThingsInOrderWhenYouHaveToDoATaskThatRequiresOrganizationEval
+        card    0-1
+    item        HowOftenDoYouHaveProblemsRememberingAppointmentsOrObligationsEval
+        id      howOftenDoYouHaveProblemsRememberingAppointmentsOrObligationsEval
+        card    0-1
+    item        WhenYouHaveATaskThatRequiresALotOfThoughtHowOftenDoYouAvoidOrDelayGettingStartedEval
+        id      whenYouHaveATaskThatRequiresALotOfThoughtHowOftenDoYouAvoidOrDelayGettingStartedEval
+        card    0-1
+    item        HowOftenDoYouFidgetOrSquirmWithYourHandsOrFeetWhenYouHaveToSitDownForALongTimeEval
+        id      howOftenDoYouFidgetOrSquirmWithYourHandsOrFeetWhenYouHaveToSitDownForALongTimeEval
+        card    0-1
+    item        HowOftenDoYouFeelOverlyActiveAndCompelledToDoThingsLikeYouWereDrivenByAMotorEval
+        id      howOftenDoYouFeelOverlyActiveAndCompelledToDoThingsLikeYouWereDrivenByAMotorEval
+        card    0-1
+

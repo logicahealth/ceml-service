@@ -1,0 +1,4 @@
+cem ReferenceRangeNar
+	kind		component
+	key			ReferenceRangeNar_CODE
+	data		String

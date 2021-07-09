@@ -1,0 +1,2 @@
+UpperAirwayScorePanel is a model to capture the Upper airway assessment score. It is a summation of five subcategory scores.This score is primarily used with epiglotitis and croup patients
+

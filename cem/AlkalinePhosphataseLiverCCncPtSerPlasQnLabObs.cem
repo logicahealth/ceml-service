@@ -1,0 +1,6 @@
+cem AlkalinePhosphataseLiverCCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlkalinePhosphataseLiverCCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerLiter_CODE

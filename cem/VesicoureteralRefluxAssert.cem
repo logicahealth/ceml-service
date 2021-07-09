@@ -1,0 +1,9 @@
+cem VesicoureteralRefluxAssert
+	kind    	statement
+    base        AssertionOfPresence
+    constraint  data.codeableConcept.code
+        value   VesicoureteralReflux_CODE
+    constraint  reportedReceived.card
+        value   0
+    constraint  verified.card
+        value   0

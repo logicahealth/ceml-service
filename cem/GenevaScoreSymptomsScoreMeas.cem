@@ -1,0 +1,5 @@
+cem GenevaScoreSymptomsScoreMeas
+	kind	statement
+	base	StatementBase
+	key     GenevaScoreSymptomsScoreMeas_CODE
+	data	Integer

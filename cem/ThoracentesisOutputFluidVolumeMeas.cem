@@ -1,0 +1,8 @@
+cem ThoracentesisOutputFluidVolumeMeas
+	kind		statement
+	base		OutputVolumeMeas
+	key			ThoracentesisOutputFluidVolume_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	ThoracentesisDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	ThoracentesisBodyLocationPrecoord_VSET

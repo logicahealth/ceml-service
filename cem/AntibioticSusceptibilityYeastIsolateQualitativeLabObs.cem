@@ -1,0 +1,4 @@
+cem AntibioticSusceptibilityYeastIsolateQualitativeLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			AntibioticSusceptibilityYeastIsolateQualitative_CODE

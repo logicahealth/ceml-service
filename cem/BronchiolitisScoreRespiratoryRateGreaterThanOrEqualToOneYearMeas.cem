@@ -1,0 +1,7 @@
+cem BronchiolitisScoreRespiratoryRateGreaterThanOrEqualToOneYearMeas
+	kind	statement
+	base	StatementBase
+	key			BronchiolitisScoreRespiratoryRateGreaterThanOrEqualToOneYear_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.valueset
+		value	BronchiolitisScoreRespiratoryRateGreaterThanOrEqualToOneYear_VSET

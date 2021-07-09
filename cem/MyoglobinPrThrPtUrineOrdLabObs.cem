@@ -1,0 +1,4 @@
+cem MyoglobinPrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MyoglobinPrThrPtUrineOrd_CODE

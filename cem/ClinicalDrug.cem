@@ -1,0 +1,7 @@
+cem ClinicalDrug
+	kind	component
+	key     ClinicalDrug_CODE
+	data	CodeableConcept
+
+    constraint      data.codeableConcept.valueset
+        value       ClinicalDrug_VSET

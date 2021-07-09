@@ -1,0 +1,6 @@
+cem CreatinineMCnc24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CreatinineMCnc24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+			value		MilligramsPerDeciliter_CODE

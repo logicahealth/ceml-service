@@ -1,0 +1,4 @@
+cem CoagulationthrombininducedImpPtBldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CoagulationthrombininducedImpPtBldNom_CODE

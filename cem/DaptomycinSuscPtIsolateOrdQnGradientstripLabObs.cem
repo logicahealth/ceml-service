@@ -1,0 +1,4 @@
+cem DaptomycinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DaptomycinSuscPtIsolateOrdQnGradientstrip_CODE

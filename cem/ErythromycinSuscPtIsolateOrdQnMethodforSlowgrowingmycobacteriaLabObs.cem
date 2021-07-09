@@ -1,0 +1,4 @@
+cem ErythromycinSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteriaLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythromycinSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteria_CODE

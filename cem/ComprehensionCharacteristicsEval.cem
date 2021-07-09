@@ -1,0 +1,18 @@
+
+cem ComprehensionCharacteristicsEval
+	kind	statement
+    base    StatementBase
+	key			ComprehensionCharacteristics_CODE
+	data		CodeableConcept
+    qual		DataAbsentReason
+		id		dataAbsentReason
+		card	0-1
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ComprehensionCharacteristics_VSET
+    constraint  associatedPrecondition.data.codeableConcept.valueset
+        value   ComprehensionAssociatedPrecondition_VSET

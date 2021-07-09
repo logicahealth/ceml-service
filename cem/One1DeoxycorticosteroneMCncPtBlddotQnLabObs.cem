@@ -1,0 +1,6 @@
+cem One1DeoxycorticosteroneMCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			One1DeoxycorticosteroneMCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		NanogramsPerDeciliter_CODE

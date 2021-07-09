@@ -1,0 +1,7 @@
+PersonBase created on 24/Jun/2016 15:57 bsheale
+created from Patient to allow for a common personbase
+This model contains the essential elements to record about a person.
+change log
+	modeler N Davis
+	date February 15, 2017 3:06 pm
+	change: removed from the model the following items due to incorrect usage (not needed): DeceasedInd, EmergencyContact, LanguageCommunication, BirthPlace, Disability, Religion, DeceacedDate, MulitpleBirthInd, MultipleBirthOrderNumber, AdministrativeRace, AdministrativeEthnicGroup, AdministrativeMaritalStatus, Citizenship, Nationality, CadavericDonorInd, VeteranMilitaryStatus, AdoptionInfo, AdministrativeOccupation

@@ -1,0 +1,4 @@
+cem SpecimendrawnfromTypePtPatientNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			SpecimendrawnfromTypePtPatientNom_CODE

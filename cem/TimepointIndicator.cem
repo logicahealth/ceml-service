@@ -1,0 +1,12 @@
+cem TimepointIndicator
+	kind    	component
+	key         TimepointIndicator_CODE
+    data        CodeableConcept
+    qual        TimepointIdentifier
+        id      timepointIdentifier
+        card    0-1
+    constraint  data.codeableConcept.valueset
+        value   TimepointIndicator_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

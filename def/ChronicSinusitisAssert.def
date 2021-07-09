@@ -1,0 +1,5 @@
+ChronicSinusitisAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the ChronicSinusitisAssert model, data is ChronicSinusitis_ECID which indicates the subject has chronic sinusitis: the inflammation and swelling
+ of the walls of the sinuses due to an infectious response for longer than 6 months.
+

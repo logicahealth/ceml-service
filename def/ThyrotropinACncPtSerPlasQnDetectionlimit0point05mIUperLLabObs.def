@@ -1,0 +1,6 @@
+ThyrotropinACncPtSerPlasQnDetectionlimit0point05mIUperLLabObs is the Clinical Element Model for standard laboratory test results/observations numeric results. LOINC Code: 11579-0.
+LOINC name: Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.05 mIU/L
+@Author nrdavis1
+@Date 24 May 2018 13:34
+@Status draft
+@RequestedBy ONC work

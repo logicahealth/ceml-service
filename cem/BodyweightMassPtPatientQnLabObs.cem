@@ -1,0 +1,6 @@
+cem BodyweightMassPtPatientQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BodyweightMassPtPatientQn_CODE
+	constraint		data.quantity.unit_code
+			value		Kilograms_CODE

@@ -1,0 +1,5 @@
+cem ActivityOrPlanDefinitionIdentifier
+	kind    	component
+	key         ActivityOrPlanDefinitionIdentifier_CODE
+    data        Identifier
+

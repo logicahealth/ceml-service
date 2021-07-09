@@ -1,0 +1,4 @@
+cem AmoxicillinClavulanateSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteriaLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmoxicillinClavulanateSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteria_CODE

@@ -1,0 +1,17 @@
+cem LanguageCommunication
+	kind		component
+	key			LanguageCommunication_CODE
+	data		CodeableConcept
+	qual		CommunicationMode
+		id		communicationMode
+		card	0-1
+	qual		ProficiencyLevel
+		id		proficiencyLevel
+		card	0-1
+	qual		PreferenceInd
+		id		preferenceInd
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Language_VSET

@@ -1,0 +1,3 @@
+OrganizationType is a component model.
+This model represents the classification of the organization based on the characteristics of its infrastructure and how the business is carried out. Sample values include Health Care Facility, Clinic, Pharmacy, and etc.
+

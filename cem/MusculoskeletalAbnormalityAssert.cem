@@ -1,0 +1,11 @@
+cem MusculoskeletalAbnormalityAssert
+    kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.valueset
+		value	MusculoskeletalAbnormality_VSET
+    constraint	bodyLocation.bodyLocationQualifier.data.codeableConcept.valueset
+		value	MusculoskeletalAbnormalityBodyLocationQualifer_VSET
+    constraint	bodyLocation.bodyLocationOrientation.card
+		value	0
+    constraint  bodyLocation.bodySite.data.codeableConcept.valueset
+		value	MusculoskeletalAbnormalityBodyLocation_VSET

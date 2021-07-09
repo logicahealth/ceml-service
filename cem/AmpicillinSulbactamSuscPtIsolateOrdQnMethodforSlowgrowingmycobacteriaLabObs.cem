@@ -1,0 +1,4 @@
+cem AmpicillinSulbactamSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteriaLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmpicillinSulbactamSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteria_CODE

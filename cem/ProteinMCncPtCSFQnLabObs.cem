@@ -1,0 +1,6 @@
+cem ProteinMCncPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ProteinMCncPtCSFQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

@@ -1,0 +1,4 @@
+PupilShapeEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the PupilShapeEval model, the question is "what is the subject's Pupil Shape?" and the coded answers can be 'round', 'irregular', etc.
+"PupilShapeEval" by definition means a description of the shape of a pupil.
+

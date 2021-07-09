@@ -1,0 +1,5 @@
+OrderContainerDerivativeLink is a semantic link which associates an Order Container with one or many of its children.
+date: 03/02/2016
+modeler: N Davis
+change: updated model to CEML v2 syntax for links.
+

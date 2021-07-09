@@ -1,0 +1,6 @@
+cem MixedcellularcastsNaricPtUrinesedQnMicroscopylightLPFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MixedcellularcastsNaricPtUrinesedQnMicroscopylightLPF_CODE
+	constraint		data.quantity.unit_code
+			value		PerLowPowerField_CODE

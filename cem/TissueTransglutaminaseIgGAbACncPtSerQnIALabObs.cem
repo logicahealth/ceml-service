@@ -1,0 +1,4 @@
+cem TissueTransglutaminaseIgGAbACncPtSerQnIALabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         TissueTransglutaminaseIgGAbACncPtSerQnIA_CODE

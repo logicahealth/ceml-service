@@ -1,0 +1,6 @@
+cem Num18MinusHydroxycorticosteroneMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num18MinusHydroxycorticosteroneMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerDeciliter_CODE

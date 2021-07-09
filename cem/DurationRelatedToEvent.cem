@@ -1,0 +1,9 @@
+cem DurationRelatedToEvent
+	kind		component
+	key			DurationRelatedToEvent_CODE
+	item		EventOfInterest
+		id		eventOfInterest
+		card	1
+	qual		Duration
+		id		duration
+		card	1

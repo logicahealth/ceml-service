@@ -1,0 +1,4 @@
+cem NorbuprenorphineGlucuronideMCncPtUrineConfirmOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NorbuprenorphineGlucuronideMCncPtUrineConfirmOrd_CODE

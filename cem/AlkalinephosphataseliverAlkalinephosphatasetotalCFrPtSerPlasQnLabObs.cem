@@ -1,0 +1,6 @@
+cem AlkalinephosphataseliverAlkalinephosphatasetotalCFrPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlkalinephosphataseliverAlkalinephosphatasetotalCFrPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

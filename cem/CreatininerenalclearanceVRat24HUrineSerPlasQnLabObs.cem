@@ -1,0 +1,6 @@
+cem CreatininerenalclearanceVRat24HUrineSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CreatininerenalclearanceVRat24HUrineSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		MillilitersPerMinute_CODE

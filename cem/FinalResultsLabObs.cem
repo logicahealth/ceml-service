@@ -1,0 +1,4 @@
+cem FinalResultsLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			FinalResults_CODE

@@ -1,0 +1,8 @@
+cem OrderSpecialRequirement
+	kind		component
+	key			OrderSpecialRequirement_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	OrderSpecialRequirement_VSET

@@ -1,0 +1,4 @@
+DSVNIDistressScaleBehavioralScorePanel is the model for documenting the DSVNI distress scale used mainly with ventilated newborns, but can be used with a non-ventilated newborn to rate pain/discomfort.
+		             Values range from 0-8
+
+

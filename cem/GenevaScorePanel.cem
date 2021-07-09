@@ -1,0 +1,16 @@
+cem GenevaScorePanel
+	kind	panel
+	base	PanelBase
+	key     GenevaScorePanel_CODE
+	item        GenevaScoreRiskFactorsScoreMeas
+       id       genevaScoreRiskFactorsScoreMeas
+       card     1
+    item        GenevaScoreSymptomsScoreMeas
+       id       genevaScoreSymptomsScoreMeas
+       card     1
+    item        GenevaScoreClinicalSignsScoreMeas
+       id       genevaScoreClinicalSignsScoreMeas
+       card     1
+    item        GenevaScoreTotalScoreMeas
+       id       genevaScoreTotalScoreMeas
+       card     1

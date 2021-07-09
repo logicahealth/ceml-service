@@ -1,0 +1,10 @@
+cem VasoactiveMedPanel
+	kind	panel
+	base	PanelBase
+	key			VasoactiveMedPanel_CODE
+	item		MedicationInfusionDoseRateMeas
+		id		medicationInfusionDoseRateMeas
+		card	0-M
+	att			Updated
+		id		updated
+		card	0-1

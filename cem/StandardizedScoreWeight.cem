@@ -1,0 +1,4 @@
+cem StandardizedScoreWeight
+	kind		component
+	key			StandardizedScoreWeight_CODE
+	data		Quantity

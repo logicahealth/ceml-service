@@ -1,0 +1,10 @@
+cem NIHStrokeScoreTotalMeas
+	kind	statement
+	base	StatementBase
+	key         NIHStrokeScoreTotal_CODE
+	data        Integer
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+    constraint	associatedPrecondition.data.codeableConcept.valueset
+		value	NIHStrokeScaleAssociatedPrecondition_VSET

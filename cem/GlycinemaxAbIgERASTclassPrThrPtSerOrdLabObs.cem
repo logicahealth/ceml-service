@@ -1,0 +1,7 @@
+cem GlycinemaxAbIgERASTclassPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			GlycinemaxAbIgERASTclassPrThrPtSerOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	DetectNotDetectPosNegOrdLabResult_VSET

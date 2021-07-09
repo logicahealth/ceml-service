@@ -1,0 +1,4 @@
+cem OrganicacidemiasImpPtBlddotNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			OrganicacidemiasImpPtBlddotNom_CODE

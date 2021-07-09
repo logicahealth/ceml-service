@@ -1,0 +1,4 @@
+cem Date
+	kind		component
+	key			Date_CODE
+	data		DateTime

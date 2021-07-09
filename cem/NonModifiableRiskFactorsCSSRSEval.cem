@@ -1,0 +1,12 @@
+cem NonModifiableRiskFactorsCSSRSEval
+
+	kind	statement
+	base	StatementBase
+    key     NonModifiableRiskFactorsCSSRS_CODE
+	data	CodeableConcept
+
+	constraint	data.codeableConcept.strength
+	    value	CNE
+	constraint	data.codeableConcept.valueset
+	    value	NonModifiableRiskFactorsCSSRS_VSET
+

@@ -1,0 +1,16 @@
+cem OstomyOutputPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			OstomyOutputPanel_CODE
+	item		OstomyOutputVolumeMeas
+		id		ostomyOutputVolumeMeas
+		card	1
+	item		OstomyOutputDescriptionEval
+		id		ostomyOutputDescriptionEval
+		card	0-M
+	constraint	method.data.codeableConcept.valueset
+		value	OstomyMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	OstomyDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	OstomyBodyLocationPrecoord_VSET

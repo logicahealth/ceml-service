@@ -1,0 +1,6 @@
+cem FibronectinFetalACncPtVagOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			FibronectinFetalACncPtVagOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

@@ -1,0 +1,4 @@
+cem HemoglobinSPrThrPtBldOrdElectrophoresispH89LabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HemoglobinSPrThrPtBldOrdElectrophoresispH89_CODE

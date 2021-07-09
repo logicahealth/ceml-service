@@ -1,0 +1,4 @@
+cem MPVListIdentifier
+	kind		component
+	key			MPVListIdentifier_CODE
+	data		Identifier

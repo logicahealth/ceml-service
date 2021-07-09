@@ -1,0 +1,4 @@
+cem CefazolinSuscPtIsolateOrdQnMICLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CefazolinSuscPtIsolateOrdQnMIC_CODE

@@ -1,0 +1,2 @@
+PulmonaryEmbolismSeverityIndexInterpretation is a model used to predict the 30-day outcome of a patient with a PE. 
+This model was made specifically for the Homer Warner center for use in the pulomonary embolism (PE) clinical decision support application.

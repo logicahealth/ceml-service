@@ -1,0 +1,9 @@
+cem ReasonForRecall
+	kind    	component
+	key         ReasonForRecall_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   ReasonForRecall_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

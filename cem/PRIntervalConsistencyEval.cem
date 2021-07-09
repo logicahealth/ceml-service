@@ -1,0 +1,20 @@
+cem PRIntervalConsistencyEval
+	kind	statement
+	base	StatementBase
+	key     PRIntervalConsistency_CODE
+	data		CodeableConcept
+	qual		Device
+		id		device
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PRIntervalConsistency_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	MonitoredCardiacRhythmDevice_VSET

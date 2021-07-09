@@ -1,0 +1,6 @@
+cem PotassiumIntakeMeas
+	kind		statement
+	base		NutrientIntakeMeas
+	key			PotassiumIntake_CODE
+	constraint	data.quantity.unit_code
+		value	Milligrams_CODE

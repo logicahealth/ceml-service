@@ -1,0 +1,16 @@
+cem HeartRateBloodPressureVitalSignsPanel
+	kind	panel
+	base	PanelBase
+	key			HeartRateBloodPressureVitalSignsPanel_CODE
+	item		BloodPressurePanel
+		id		bloodPressurePanel
+		card	0-1
+	item		HeartRateMeas
+		id		heartRateMeas
+		card	0-1
+	item		UnknownObservationNar
+		id		unknownObservationNar
+		card	0-M
+	att			Updated
+		id		updated
+		card	0-1

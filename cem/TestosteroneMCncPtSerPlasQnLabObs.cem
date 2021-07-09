@@ -1,0 +1,6 @@
+cem TestosteroneMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TestosteroneMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerDeciliter_CODE

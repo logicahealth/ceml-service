@@ -1,0 +1,4 @@
+cem LevofloxacinSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LevofloxacinSuscPtIsolateOrdQnAgardiffusion_CODE

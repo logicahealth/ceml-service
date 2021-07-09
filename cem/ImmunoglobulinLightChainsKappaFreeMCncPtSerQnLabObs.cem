@@ -1,0 +1,6 @@
+cem ImmunoglobulinLightChainsKappaFreeMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ImmunoglobulinLightChainsKappaFreeMCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

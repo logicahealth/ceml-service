@@ -1,0 +1,8 @@
+status:  proposal
+Author: Bret Heale               
+    initatedDate: 02/26/2016    
+
+DeliriousAssert this model is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+In the DeliriousAssert model, data is a code for Delirium which means the patient has delirium.
+
+Notes: the assesment method can be included. RASS_CAM_ICU_panel is an example     

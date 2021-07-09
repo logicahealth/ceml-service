@@ -1,0 +1,13 @@
+cem NationalAssignedIdentifier
+	kind		component
+	key			NationalAssignedIdentifier_CODE
+	data		Identifier
+	qual		AssigningAuthority
+		id		assigningAuthority
+		card	0-1
+	qual		NationalAssignedIdentifierType
+		id		nationalAssignedIdentifierType
+		card	1
+	qual		NationalAssignedIdVerifiedMethod
+		id		nationalAssignedIdVerifiedMethod
+		card	0-1

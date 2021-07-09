@@ -1,0 +1,6 @@
+cem PMMinusSCLMinus100AbIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PMMinusSCLMinus100AbIgGACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	Units_CODE

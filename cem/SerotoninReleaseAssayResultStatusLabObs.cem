@@ -1,0 +1,4 @@
+cem SerotoninReleaseAssayResultStatusLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			SerotoninReleaseAssayResultStatus_CODE

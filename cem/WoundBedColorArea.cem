@@ -1,0 +1,7 @@
+cem WoundBedColorArea
+	kind    	component
+	key         WoundBedColorArea_CODE
+    data        Quantity
+    constraint	data.quantity.unit_normal
+		value	Percent_CODE
+

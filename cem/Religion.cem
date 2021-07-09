@@ -1,0 +1,6 @@
+cem Religion
+	kind		statement
+    base        AdministrativeObservation
+	key			Religion_CODE
+	constraint	data.codeableConcept.valueset
+		value	Religion_VSET

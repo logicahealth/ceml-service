@@ -1,0 +1,6 @@
+cem Comorbidity
+	kind	component
+	key     Comorbidity_CODE
+	data	CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Comorbidities_VSET

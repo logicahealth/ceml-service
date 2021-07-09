@@ -1,0 +1,6 @@
+cem CryptococcusSpAgACncPtCSFOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CryptococcusSpAgACncPtCSFOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

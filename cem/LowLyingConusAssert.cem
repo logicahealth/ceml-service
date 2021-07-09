@@ -1,0 +1,19 @@
+cem LowLyingConusAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        ConusTerminationLevel
+        id      conusTerminationLevel
+        card    0-1
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    qual        Modality
+        id      modality
+        card    0-1
+    link        ImageLink
+        id      imageLink
+        card    0-M
+	constraint	data.codeableConcept.strength
+	    value	CWE
+    constraint	data.codeableConcept.code
+        value	LowLyingConus_CODE

@@ -1,0 +1,4 @@
+cem YeastPrThrPtBodyfldOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			YeastPrThrPtBodyfldOrdMicroscopylight_CODE

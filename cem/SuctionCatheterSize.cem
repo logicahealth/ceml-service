@@ -1,0 +1,8 @@
+cem SuctionCatheterSize
+	kind		component
+	key			SuctionCatheterSize_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	SuctionCatheterSize_VSET

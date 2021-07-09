@@ -1,0 +1,8 @@
+cem DayOfWeek
+	kind		component
+	key			DayOfWeek_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	DayOfWeek_VSET

@@ -1,0 +1,6 @@
+cem PatientImportance
+	kind		statement
+    base        AdministrativeObservation
+	key			PatientImportance_CODE
+	constraint	data.codeableConcept.valueset
+		value	PatientImportance_VSET

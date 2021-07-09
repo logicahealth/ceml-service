@@ -1,0 +1,5 @@
+cem HerpessimplexvirusAbACncPtSerQnIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HerpessimplexvirusAbACncPtSerQnIA_CODE
+	

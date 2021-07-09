@@ -1,0 +1,12 @@
+cem RecallForAdditionalImagingModalityAndView
+	kind    	component
+	key         RecallForAdditionalImagingModalityAndView_CODE
+    data        CodeableConcept
+    qual        MammographyImagingView
+        id      mammographyImagingView
+        card    0-M
+    constraint  data.codeableConcept.valueset
+        value   RecallForAdditionalImagingModalityAndView_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

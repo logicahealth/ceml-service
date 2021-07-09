@@ -1,0 +1,7 @@
+cem EndomysiumAbIgAPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EndomysiumAbIgAPrThrPtSerOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	DetectedNotDetIndeterminate_VSET

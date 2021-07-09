@@ -1,0 +1,5 @@
+cem HighExhaledTidalVolumeAlarmSettingMeas
+	kind	statement
+	base	StatementBase
+	key			HighExhaledTidalVolumeAlarmSetting_CODE
+	data		Quantity

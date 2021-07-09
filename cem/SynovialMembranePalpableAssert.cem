@@ -1,0 +1,13 @@
+cem SynovialMembranePalpableAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		AlleviatingFactor
+		id		alleviatingFactor
+		card	0-M
+	qual		ExacerbatingFactor
+		id		exacerbatingFactor
+		card	0-M
+	constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	MusculoskeletalBodyLocation_VSET
+	constraint	data.codeableConcept.code
+		value	SynovialMembranePalpable_CODE

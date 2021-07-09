@@ -1,0 +1,4 @@
+cem StreptococcusagalactiaePrThrPtVagOrdOrganismspecificcultureLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StreptococcusagalactiaePrThrPtVagOrdOrganismspecificculture_CODE

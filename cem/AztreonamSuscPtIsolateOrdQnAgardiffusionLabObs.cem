@@ -1,0 +1,4 @@
+cem AztreonamSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AztreonamSuscPtIsolateOrdQnAgardiffusion_CODE

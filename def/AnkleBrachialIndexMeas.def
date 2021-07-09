@@ -1,0 +1,11 @@
+AnkleBrachialIndexMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the AnkleBrachialIndexMeas model, the question is "what is the subject's ankle brachial index value?" and the numeric answer will be expressed as a real data type. 
+"AnkleBrachialIndex" by definition compares the blood pressure obtained in the brachial artery to
+blood pressure of the posterior tibial artery. It is an indicator to evaluate peripheral arterial disease."
+
+Corresponding LOINC code is 77194-9
+ 
+change
+date: 8/24/2016
+modeler: N Davis
+changes: It was decided that the data type of this model should be Quantity instead of decimal due to the fact that it is often reported with units of {ratio} (UCUM arbitrary UOM).

@@ -1,0 +1,2 @@
+ClinicalAsthmaScoreLessThanOrEqualToFiveYearsPanel is a model to capture the severity of asthma in a patient. It is an Intermountain Healthcare developed tool used on patients less than or equal to 5 years old.
+

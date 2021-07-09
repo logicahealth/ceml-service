@@ -1,0 +1,24 @@
+cem AdminFrequencyItem
+	kind		component
+	key			AdminFrequencyItem_CODE
+	item		CodedFrequency
+		id		codedFrequency
+		card	0-1
+	item		PeriodicFrequencyLowerLimit
+		id		periodicFrequencyLowerLimit
+		card	0-1
+	item		PeriodicFrequencyUpperLimit
+		id		periodicFrequencyUpperLimit
+		card	0-1
+	item		DateTime
+		id		administrationTime
+		card	0-M
+	item		AdministrationDays
+		id		administrationDays
+		card	0-1
+	qual		DailyDoseCount
+		id		dailyDoseCount
+		card	0-1
+	qual		ExpressionTermId
+		id		expressionTermId
+		card	0-1

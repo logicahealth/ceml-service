@@ -1,0 +1,8 @@
+cem HearingLossAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		Course
+		id		course
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	HearingLoss_CODE

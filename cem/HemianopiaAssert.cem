@@ -1,0 +1,7 @@
+cem HemianopiaAssert
+	kind		statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.code
+		value	Hemianopia_CODE
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	HemianopiaBodyLocationPrecoord_VSET

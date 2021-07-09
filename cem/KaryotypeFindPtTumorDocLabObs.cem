@@ -1,0 +1,4 @@
+cem KaryotypeFindPtTumorDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			KaryotypeFindPtTumorDoc_CODE

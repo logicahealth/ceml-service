@@ -1,0 +1,5 @@
+cem MoMForNuchalTranslucencyLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MoMForNuchalTranslucency_CODE
+	

@@ -1,0 +1,12 @@
+cem BurnEstimatedOutputFluidDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			BurnEstimatedOutputFluidDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	BurnEstimatedOutputFluidDescription_VSET
+	constraint	method.card
+		value	0
+	constraint	device.card
+		value	0
+	constraint	sourceIdentifier.card
+		value	0

@@ -1,0 +1,25 @@
+cem GlasgowComaScorePediatricPanel
+	kind		panel
+    base        PanelBase
+	key			GlasgowComaScorePediatricPanel_CODE
+	item		GlasgowComaScoreEyeOpeningMeas
+		id		glasgowComaScoreEyeOpeningMeas
+		card	0-1
+	item		GlasgowComaScorePediatricMotorMeas
+		id		glasgowComaScorePediatricMotorMeas
+		card	0-1
+	item		GlasgowComaScorePediatricVerbalMeas
+		id		glasgowComaScorePediatricVerbalMeas
+		card	0-1
+	item		GlasgowComaScoreTotalMeas
+		id		glasgowComaScoreTotalMeas
+		card	1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+    constraint	glasgowComaScoreEyeOpeningMeas.associatedPrecondition.data.codeableConcept.valueset
+		value	GlasgowComaScorePediatricAssociatedPrecondition_VSET
+    constraint	glasgowComaScoreTotalMeas.associatedPrecondition.data.codeableConcept.valueset
+		value	GlasgowComaScorePediatricAssociatedPrecondition_VSET
+    constraint	associatedPrecondition.data.codeableConcept.valueset
+		value	GlasgowComaScorePediatricAssociatedPrecondition_VSET

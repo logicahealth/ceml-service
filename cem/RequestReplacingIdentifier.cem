@@ -1,0 +1,5 @@
+cem RequestReplacingIdentifier
+	kind    	component
+	key         RequestReplacingIdentifier_CODE
+    data        Identifier
+

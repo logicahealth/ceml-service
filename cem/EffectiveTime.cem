@@ -1,0 +1,4 @@
+cem EffectiveTime
+	kind		component
+	key			EffectiveTime_CODE
+	data		DateTime

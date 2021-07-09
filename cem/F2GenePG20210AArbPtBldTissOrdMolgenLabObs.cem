@@ -1,0 +1,6 @@
+cem F2GenePG20210AArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			F2GenePG20210AArbPtBldTissOrdMolgen_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	AllelicState_VSET

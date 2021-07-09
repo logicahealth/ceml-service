@@ -1,0 +1,5 @@
+EmergencyEncounter
+This is the EmergencyEncounter clinical element model.  It is used to capture data about only an emergency type of encounter only.
+
+modeler: NDavis
+date: 12/17/2015

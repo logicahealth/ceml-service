@@ -1,0 +1,6 @@
+cem HeterophileAbACncPtSerOrdLALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HeterophileAbACncPtSerOrdLA_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

@@ -1,0 +1,4 @@
+cem ArterialSpecimenSiteLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ArterialSpecimenSite_CODE

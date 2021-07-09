@@ -1,0 +1,4 @@
+cem TetracyclineSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TetracyclineSuscPtIsolateOrdQnAgardiffusion_CODE

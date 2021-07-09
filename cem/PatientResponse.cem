@@ -1,0 +1,11 @@
+cem PatientResponse
+	kind		component
+	key			PatientResponse_CODE
+	data		CodeableConcept
+	qual		Aggregate
+		id		aggregate
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PatientResponse_VSET

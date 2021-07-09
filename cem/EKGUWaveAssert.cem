@@ -1,0 +1,15 @@
+cem EKGUWaveAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		Device
+		id		device
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	EKGUWave_CODE
+	constraint  historicalInd.card
+        value   0    
+    constraint  bodyLocation.card
+        value   0 
+	constraint	device.data.codeableConcept.valueset
+		value	MonitoredCardiacRhythmDevice_VSET
+	

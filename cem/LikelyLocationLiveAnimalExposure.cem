@@ -1,0 +1,5 @@
+cem LikelyLocationLiveAnimalExposure
+	kind		statement
+	base		StatementBase
+	key			LikelyLocationLiveAnimalExposure_CODE
+	data        String    # If this was CodeableConcept, not sure what the valueset would be 

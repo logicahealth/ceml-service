@@ -1,0 +1,5 @@
+cem NeisseriaGonorrhoeaeAbTitrPtSerQnCompFixLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NeisseriaGonorrhoeaeAbTitrPtSerQnCompFix_CODE
+	

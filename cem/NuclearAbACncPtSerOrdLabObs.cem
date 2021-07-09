@@ -1,0 +1,4 @@
+cem NuclearAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NuclearAbACncPtSerOrd_CODE

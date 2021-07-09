@@ -1,0 +1,7 @@
+cem QualitativeFrequency
+	kind    	component
+	key         QualitativeFrequency_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   QualitativeFrequency_VSET
+    

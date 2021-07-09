@@ -1,0 +1,17 @@
+cem PeritonealDialysisOutputPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			PeritonealDialysisOutputPanel_CODE
+	item		PeritonealDialysisOutputVolumeMeas
+		id		peritonealDialysisOutputVolumeMeas
+		card	1
+	item		PeritonealDialysisOutputDescriptionEval
+		id		peritonealDialysisOutputDescriptionEval
+		card	0-M
+
+	constraint	method.data.codeableConcept.valueset
+		value	PeritonealDialysisOutputMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	PeritonealDialysisOutputDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	PeritonealDialysisBodyLocationPrecoord_VSET

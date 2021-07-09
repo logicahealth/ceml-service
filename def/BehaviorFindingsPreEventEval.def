@@ -1,0 +1,4 @@
+  BehaviorFindingsPreEventEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the BehaviorFindingsPreEventEval model, the question is "what behavioral findings did the subject exhibit before an event?" and the coded answers can be 'confused','not responding', and 'combative' etc.
+"BehaviorFindingsPreEvent" by definition means " Observed indicators of the mental state of a subject before a procedure or event."  
+ 

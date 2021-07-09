@@ -1,0 +1,6 @@
+cem ProtoporphyrinZincMCncPtRBCQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ProtoporphyrinZincMCncPtRBCQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerDeciliter_CODE

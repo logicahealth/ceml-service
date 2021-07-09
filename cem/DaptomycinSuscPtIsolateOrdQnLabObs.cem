@@ -1,0 +1,4 @@
+cem DaptomycinSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DaptomycinSuscPtIsolateOrdQn_CODE

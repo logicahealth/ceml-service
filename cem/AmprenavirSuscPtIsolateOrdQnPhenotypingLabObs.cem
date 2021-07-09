@@ -1,0 +1,4 @@
+cem AmprenavirSuscPtIsolateOrdQnPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmprenavirSuscPtIsolateOrdQnPhenotyping_CODE

@@ -1,0 +1,6 @@
+cem FollitropinACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FollitropinACncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilliunitsPerMilliliter_CODE

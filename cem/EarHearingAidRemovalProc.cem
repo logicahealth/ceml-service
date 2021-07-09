@@ -1,0 +1,10 @@
+cem EarHearingAidRemovalProc
+	kind		statement
+	base		Procedure
+	qual		BodySide
+		id		bodySide
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.code
+		value	EarHearingAidRemoval_CODE

@@ -1,0 +1,20 @@
+cem CranialNerveVIIIHearingEval
+	kind	statement
+	base	StatementBase
+	key         CranialNerveVIIIHearing_CODE
+    data        CodeableConcept
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+    qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-M
+    qual		DataAbsentReason
+		id		dataAbsentReason
+		card	0-1
+    constraint	data.codeableConcept.strength
+		value	CWE
+    constraint	data.codeableConcept.valueset
+		value	CranialNerveVIIIHearing_VSET
+    constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	EarBodyLocationPrecoord_VSET

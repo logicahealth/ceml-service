@@ -1,0 +1,23 @@
+cem TubeSecuredMethodEval
+	kind	statement
+	base	StatementBase
+	key			TubeSecuredMethod_CODE
+	data		CodeableConcept
+	qual		RouteMethodDevice
+		id		routeMethodDevice
+		card	0-1
+	qual		BodyLocation
+		id		bodyLocation
+		card	0-1
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	TubeSecuredMethod_VSET
+	constraint	routeMethodDevice.data.codeableConcept.valueset
+		value	AirwayInterfaceType_VSET

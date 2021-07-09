@@ -1,0 +1,6 @@
+cem CarbonDioxidePPresPtBldCoVQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CarbonDioxidePPresPtBldCoVQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimetersOfMercury_CODE

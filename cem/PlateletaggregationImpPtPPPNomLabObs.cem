@@ -1,0 +1,4 @@
+cem PlateletaggregationImpPtPPPNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PlateletaggregationImpPtPPPNom_CODE

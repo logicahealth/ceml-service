@@ -1,0 +1,7 @@
+AssociatedSituation is a component (qualifier) model that describes things that are occurring at the time of an observation, condition, problem, etc.  Such as "while excercising" for a blood pressure measurement.
+
+@Author nrdavis1
+@Date 24 Sep 2020 07:04
+@Status draft
+@RequestedBy Logica
+

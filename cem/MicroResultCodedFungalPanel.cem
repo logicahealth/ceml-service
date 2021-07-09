@@ -1,0 +1,7 @@
+cem MicroResultCodedFungalPanel
+	kind		panel
+	base		MicroResultCodedPanel
+	key			MicroResultCodedFungalPanel_VSET
+	item		FungalIsolatePanel
+		id		fungalIsolatePanel
+		card	0-M

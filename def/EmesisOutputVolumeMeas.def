@@ -1,0 +1,4 @@
+EmesisOutputVolumeMeas is a measurement model that restricts the "OutputVolumeMeas" model (i.e., this model "constrains" the qualifiers in the OutputVolumeMeas" model to emesis output-specific sources, body locations, and methods and devices). A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. 
+For example, in the "EmesisOutputVolumeMeas" model the "question" or the "test" is "What measure is the emesis output Volume?" and the "answer" in data can be "X mL."
+By definition EmesisOutputVolumeMeas means the measurement of the volume of emesis from a patient
+

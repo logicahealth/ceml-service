@@ -1,0 +1,4 @@
+cem PathReportSiteOfOriginAnatPtSpecimenNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			PathReportSiteOfOriginAnatPtSpecimenNar_CODE

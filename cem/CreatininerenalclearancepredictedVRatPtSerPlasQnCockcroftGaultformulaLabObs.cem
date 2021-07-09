@@ -1,0 +1,6 @@
+cem CreatininerenalclearancepredictedVRatPtSerPlasQnCockcroftGaultformulaLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CreatininerenalclearancepredictedVRatPtSerPlasQnCockcroftGaultformula_CODE
+	constraint		data.quantity.unit_code
+			value		MillilitersPerMinute_CODE

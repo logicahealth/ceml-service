@@ -1,0 +1,6 @@
+cem AcetylcarnitineC2SCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AcetylcarnitineC2SCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

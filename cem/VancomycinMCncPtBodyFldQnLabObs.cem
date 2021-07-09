@@ -1,0 +1,6 @@
+cem VancomycinMCncPtBodyFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			VancomycinMCncPtBodyFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

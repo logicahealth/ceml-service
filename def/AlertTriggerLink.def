@@ -1,0 +1,3 @@
+AlertTriggerLink is an association created between the Alert message and the information, in this case lab data, that generated the alert.
+The source of the link is Alert and the target is the TriggerData.
+ 

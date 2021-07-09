@@ -1,0 +1,10 @@
+cem FungalIsolatePanel
+	kind		panel
+	base		MicroIsolatePanel
+	key			FungalIsolatePanel_CODE
+	constraint	microOrganismEval.data.codeableConcept.valueset
+		value	FungalMicroOrganism_VSET
+	constraint	microOrganismEval.microOrganismQuantitative.data.codeableConcept.valueset
+		value	FungalMicroGrowthQuantitative_VSET
+	constraint	microOrganismEval.microOrganismQualitative.data.codeableConcept.valueset
+		value	FungalMicroObsQualitative_VSET

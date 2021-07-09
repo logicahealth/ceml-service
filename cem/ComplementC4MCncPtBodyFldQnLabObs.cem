@@ -1,0 +1,6 @@
+cem ComplementC4MCncPtBodyFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ComplementC4MCncPtBodyFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

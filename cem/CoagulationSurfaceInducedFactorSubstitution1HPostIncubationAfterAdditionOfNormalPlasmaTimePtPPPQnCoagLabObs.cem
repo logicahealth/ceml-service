@@ -1,0 +1,6 @@
+cem CoagulationSurfaceInducedFactorSubstitution1HPostIncubationAfterAdditionOfNormalPlasmaTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationSurfaceInducedFactorSubstitution1HPostIncubationAfterAdditionOfNormalPlasmaTimePtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

@@ -1,0 +1,6 @@
+cem FatNeutralACncPtStoolOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			FatNeutralACncPtStoolOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NormAbnormIncDec_VSET

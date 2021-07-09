@@ -1,0 +1,8 @@
+cem BloodLossVolumeMeas
+	kind		statement
+	base		OutputVolumeMeas
+	key			BloodLossVolume_CODE
+	constraint	method.data.codeableConcept.valueset
+		value	BloodLossMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	BloodLossDevice_VSET

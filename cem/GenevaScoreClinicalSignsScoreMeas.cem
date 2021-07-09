@@ -1,0 +1,8 @@
+cem GenevaScoreClinicalSignsScoreMeas
+	kind	statement
+	base	StatementBase
+	key     GenevaScoreClinicalSignsScoreMeas_CODE
+	data	Integer
+    att         Observed
+        id      obesrved
+        card    0-1

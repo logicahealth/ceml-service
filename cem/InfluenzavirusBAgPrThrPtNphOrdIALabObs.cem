@@ -1,0 +1,4 @@
+cem InfluenzavirusBAgPrThrPtNphOrdIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			InfluenzavirusBAgPrThrPtNphOrdIA_CODE

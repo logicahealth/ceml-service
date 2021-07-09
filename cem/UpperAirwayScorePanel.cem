@@ -1,0 +1,25 @@
+cem UpperAirwayScorePanel
+	kind	panel
+	base	PanelBase
+	key			UpperAirwayScorePanel_CODE
+	item		UpperAirwayScoreStridorMeas
+		id		upperAirwayScoreStridorMeas
+		card	0-1
+	item		UpperAirwayScoreCoughMeas
+		id		upperAirwayScoreCoughMeas
+		card	0-1
+	item		UpperAirwayScoreRetractionsNasalFlaringMeas
+		id		upperAirwayScoreRetractionsNasalFlaringMeas
+		card	0-1
+	item		UpperAirwayScoreCyanosisMeas
+		id		upperAirwayScoreCyanosisMeas
+		card	0-1
+	item		UpperAirwayScoreInspiratoryBreathSoundsMeas
+		id		upperAirwayScoreInspiratoryBreathSoundsMeas
+		card	0-1
+	item		UpperAirwayScoreTotalMeas
+		id		upperAirwayScoreTotalMeas
+		card	1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M

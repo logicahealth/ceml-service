@@ -1,0 +1,4 @@
+cem MaternalSerumFirstTrimesterDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MaternalSerumFirstTrimesterDoc_CODE

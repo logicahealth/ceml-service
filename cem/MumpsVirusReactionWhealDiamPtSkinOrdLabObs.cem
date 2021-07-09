@@ -1,0 +1,4 @@
+cem MumpsVirusReactionWhealDiamPtSkinOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MumpsVirusReactionWhealDiamPtSkinOrd_CODE

@@ -1,0 +1,4 @@
+cem ExpirationTime
+	kind		component
+	key			ExpirationTime_CODE
+	data		DateTime

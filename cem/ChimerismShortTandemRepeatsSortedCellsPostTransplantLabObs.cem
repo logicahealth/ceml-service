@@ -1,0 +1,4 @@
+cem ChimerismShortTandemRepeatsSortedCellsPostTransplantLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ChimerismShortTandemRepeatsSortedCellsPostTransplant_CODE

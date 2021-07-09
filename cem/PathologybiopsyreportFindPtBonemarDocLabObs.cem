@@ -1,0 +1,4 @@
+cem PathologybiopsyreportFindPtBonemarDocLabObs
+	kind		statement
+	base		StandardLabObsDocument
+	key			PathologybiopsyreportFindPtBonemarDoc_CODE

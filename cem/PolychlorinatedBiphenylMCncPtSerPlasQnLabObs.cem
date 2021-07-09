@@ -1,0 +1,6 @@
+cem PolychlorinatedBiphenylMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PolychlorinatedBiphenylMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	PartsPerBillion_CODE

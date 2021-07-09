@@ -1,0 +1,6 @@
+cem CoagulationFactorXActivityActualNormalRelTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationFactorXActivityActualNormalRelTimePtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

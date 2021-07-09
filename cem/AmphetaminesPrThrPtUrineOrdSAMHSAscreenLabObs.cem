@@ -1,0 +1,4 @@
+cem AmphetaminesPrThrPtUrineOrdSAMHSAscreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AmphetaminesPrThrPtUrineOrdSAMHSAscreen_CODE

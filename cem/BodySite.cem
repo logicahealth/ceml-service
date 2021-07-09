@@ -1,0 +1,8 @@
+cem BodySite
+	kind    	component
+	key         BodySite_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   BodyLocation_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE

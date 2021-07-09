@@ -1,0 +1,7 @@
+cem DopplerDetail
+	kind	component
+	key     DopplerDetail_CODE
+	data	CodeableConcept
+
+    constraint      data.codeableConcept.valueset
+        value       DopplerDetail_VSET

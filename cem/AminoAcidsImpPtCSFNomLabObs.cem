@@ -1,0 +1,4 @@
+cem AminoAcidsImpPtCSFNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			AminoAcidsImpPtCSFNom_CODE

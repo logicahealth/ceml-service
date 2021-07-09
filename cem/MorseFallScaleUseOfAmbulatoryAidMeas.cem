@@ -1,0 +1,12 @@
+cem MorseFallScaleUseOfAmbulatoryAidMeas
+
+	kind	statement
+	base	StatementBase
+    key     MorseFallScaleUseOfAmbulatoryAid_CODE
+	data	CodeableOrdinal
+
+	constraint	data.codeableOrdinal.strength
+	    value	CNE
+	constraint	data.codeableOrdinal.valueset
+	    value	MorseFallScaleUseOfAmbulatoryAid_VSET
+

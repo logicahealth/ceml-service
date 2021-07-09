@@ -1,0 +1,4 @@
+cem GentamicinSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteriaLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GentamicinSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteria_CODE

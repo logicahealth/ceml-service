@@ -1,0 +1,6 @@
+cem PhosphatidylserineAbIgGACncPtSerQnIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PhosphatidylserineAbIgGACncPtSerQnIA_CODE
+	constraint		data.quantity.unit_code
+		value	GPortionPhospholipids_CODE

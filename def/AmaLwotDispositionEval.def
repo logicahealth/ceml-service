@@ -1,0 +1,4 @@
+AWALwotDispositionEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD or CO) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the AmaLwotDispositionEval model, the question is "what is the subject's disposition when they left AMA or LWOT?" and the coded answers can be 'Left Against Medical Advice','Elopement', etc.
+"AmaLwotDisposition" by definition means "leaving a treatment facility either against medical advice" (AMA), or "leaving without treatment" (LWOT).
+

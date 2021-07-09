@@ -1,0 +1,6 @@
+cem PathologistReviewImpPtXXXNarLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PathologistReviewImpPtXXXNar_CODE
+	constraint	data.codeableConcept.valueset
+		value	LabValue_VSET

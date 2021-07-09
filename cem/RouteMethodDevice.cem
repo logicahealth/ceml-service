@@ -1,0 +1,8 @@
+cem RouteMethodDevice
+	kind		component
+	key			RouteMethodDevice_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	RouteMethodDevice_VSET

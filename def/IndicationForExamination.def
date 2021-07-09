@@ -1,0 +1,3 @@
+IndicationForExamination created on 22/Apr/2016 13:06 by L.Buhl for iActivity project
+
+This model will contain values indicatating why an exam is needed.  Values are: annual screening, abnormal clinical finding, or short term follow up.

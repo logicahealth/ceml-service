@@ -1,0 +1,4 @@
+cem GeneralCategoriesImpPtCvxVagNomCytostainLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			GeneralCategoriesImpPtCvxVagNomCytostain_CODE

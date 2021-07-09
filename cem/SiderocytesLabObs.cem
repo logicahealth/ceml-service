@@ -1,0 +1,4 @@
+cem SiderocytesLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			Siderocytes_CODE

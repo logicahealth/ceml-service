@@ -1,0 +1,4 @@
+cem DrugsIdentifiedPridPtHairNomScreenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			DrugsIdentifiedPridPtHairNomScreen_CODE

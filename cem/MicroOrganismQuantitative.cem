@@ -1,0 +1,8 @@
+cem MicroOrganismQuantitative
+	kind		component
+	key			MicroOrganismQuantitative_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	MicroOrganismQuantitative_VSET

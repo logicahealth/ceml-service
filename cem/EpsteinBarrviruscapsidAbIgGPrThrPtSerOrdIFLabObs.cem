@@ -1,0 +1,4 @@
+cem EpsteinBarrviruscapsidAbIgGPrThrPtSerOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EpsteinBarrviruscapsidAbIgGPrThrPtSerOrdIF_CODE

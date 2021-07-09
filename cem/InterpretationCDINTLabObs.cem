@@ -1,0 +1,4 @@
+cem InterpretationCDINTLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			InterpretationCDINT_CODE

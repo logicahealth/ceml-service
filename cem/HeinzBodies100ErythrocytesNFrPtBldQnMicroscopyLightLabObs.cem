@@ -1,0 +1,6 @@
+cem HeinzBodies100ErythrocytesNFrPtBldQnMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HeinzBodies100ErythrocytesNFrPtBldQnMicroscopyLight_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

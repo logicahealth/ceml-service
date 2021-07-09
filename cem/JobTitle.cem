@@ -1,0 +1,8 @@
+cem JobTitle
+	kind		component
+	key			JobTitle_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	JobTitle_VSET

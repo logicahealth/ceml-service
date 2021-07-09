@@ -1,0 +1,4 @@
+cem VerapamilACncPtSerPlasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			VerapamilACncPtSerPlasOrd_CODE

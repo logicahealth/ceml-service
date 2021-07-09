@@ -1,0 +1,4 @@
+cem FanconiAnemiaStudyLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			FanconiAnemiaStudy_CODE

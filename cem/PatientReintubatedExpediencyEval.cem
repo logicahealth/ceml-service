@@ -1,0 +1,25 @@
+cem PatientReintubatedExpediencyEval
+	kind	statement
+	base	StatementBase
+	key			PatientReintubatedExpediency_CODE
+	data		CodeableConcept
+	qual		BodyLocation
+		id		bodyLocation
+		card	0-1
+	qual		AbnormalInterpretation
+		id		abnormalInterpretation
+		card	0-1
+	qual		DeltaFlag
+		id		deltaFlag
+		card	0-1
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PatientReintubatedExpediency_VSET
+	constraint	abnormalInterpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationCodedNom_VSET
+	constraint	deltaFlag.data.codeableConcept.valueset
+		value	DeltaFlagCodedNom_VSET

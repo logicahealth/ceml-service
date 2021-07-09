@@ -1,0 +1,4 @@
+cem DegeneratingCellsFluidLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			DegeneratingCellsFluid_CODE

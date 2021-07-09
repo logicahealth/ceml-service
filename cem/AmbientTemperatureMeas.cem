@@ -1,0 +1,13 @@
+cem AmbientTemperatureMeas
+	kind	statement
+	base	StatementBase
+	key			AmbientTemperature_CODE
+	data		Quantity
+	qual		RouteMethodDevice
+		id		routeMethodDevice
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint		data.quantity.unit_code
+		value	DegreesCelsius_CODE

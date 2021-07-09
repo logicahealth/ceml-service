@@ -1,0 +1,6 @@
+cem BloodGroupAntibodyScreenACncPtSerPlasOrdPrewarmedLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BloodGroupAntibodyScreenACncPtSerPlasOrdPrewarmed_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

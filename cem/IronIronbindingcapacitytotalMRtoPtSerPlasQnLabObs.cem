@@ -1,0 +1,5 @@
+cem IronIronbindingcapacitytotalMRtoPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			IronIronbindingcapacitytotalMRtoPtSerPlasQn_CODE
+	

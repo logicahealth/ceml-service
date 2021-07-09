@@ -1,0 +1,4 @@
+cem ABORhgroupposttransfusionreactionTypePtBldBPUNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ABORhgroupposttransfusionreactionTypePtBldBPUNom_CODE

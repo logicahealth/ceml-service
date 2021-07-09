@@ -1,0 +1,5 @@
+SleepApneaAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the SleepApneaAssert model, data is SleepApnea_ECID which means a patiet has sleep apnea.  Sleep apnea is a condition in which an individual will have abnormal pauses
+in breathing during sleep.
+

@@ -1,0 +1,4 @@
+cem PartOf
+	kind	component
+	key     PartOf_CODE
+    data    Identifier

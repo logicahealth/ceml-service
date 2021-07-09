@@ -1,0 +1,9 @@
+cem VentilatorTypeEval
+	kind	statement
+	base	StatementBase
+	key			VentilatorMethodDevice_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	VentilatorMethodDevice_VSET

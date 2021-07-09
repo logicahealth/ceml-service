@@ -1,0 +1,12 @@
+cem IncrementalDosageChange
+	kind		component
+	key			IncrementalDosageChange_CODE
+	item		Rate
+		id		incrementalChangeLower
+		card	0-1
+	item		Rate
+		id		incrementalChangeUpper
+		card	0-1
+	item		DoseChangeInterval
+		id		interval
+		card	0-1

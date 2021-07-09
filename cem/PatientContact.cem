@@ -1,0 +1,10 @@
+cem PatientContact
+	kind	statement
+	base	StatementBase
+	key			PatientContact_CODE
+	item		StartTime
+		id		startTime
+		card	0-1
+	item		EndTime
+		id		endTime
+		card	0-1

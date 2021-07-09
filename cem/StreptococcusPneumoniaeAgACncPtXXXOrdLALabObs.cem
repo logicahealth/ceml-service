@@ -1,0 +1,4 @@
+cem StreptococcusPneumoniaeAgACncPtXXXOrdLALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StreptococcusPneumoniaeAgACncPtXXXOrdLA_CODE

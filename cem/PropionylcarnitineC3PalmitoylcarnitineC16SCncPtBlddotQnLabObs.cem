@@ -1,0 +1,6 @@
+cem PropionylcarnitineC3PalmitoylcarnitineC16SCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PropionylcarnitineC3PalmitoylcarnitineC16SCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

@@ -1,0 +1,4 @@
+cem Network
+kind    component
+key     Network_CODE
+data    String

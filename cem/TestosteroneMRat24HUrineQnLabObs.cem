@@ -1,0 +1,6 @@
+cem TestosteroneMRat24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TestosteroneMRat24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerDay_CODE

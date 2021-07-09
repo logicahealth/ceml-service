@@ -1,0 +1,11 @@
+PregnancyIntention is a model of a question found on instruments such as the Family Planning Annual Report (FPAR).
+e.g. Clinician asks "Would you like to become pregnant in the next year?" of patients.
+ 
+The value set has values such as "Yes, I want to become pregnant," "No I don't want to become pregnant," "I'm OK either way," abd "I'm unsure."
+
+@Author bsheale 
+@Date 06 Apr 2017 17:20
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog, reporting-instrument
+

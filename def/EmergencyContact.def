@@ -1,0 +1,4 @@
+EmergencyContact is a component model.
+The "EmergencyContact" model captures the data key code of EmergencyContact_KEY_ECID.
+By definition EmergencyContact means the emergency contact information for a patient. 
+

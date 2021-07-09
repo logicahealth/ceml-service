@@ -1,0 +1,4 @@
+cem StarchGranulesAcncPtUrineSedOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StarchGranulesAcncPtUrineSedOrdMicroscopyLight_CODE

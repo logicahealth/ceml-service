@@ -1,0 +1,4 @@
+cem SignificantConditionsContributingToDeath
+	kind		component
+	key			SignificantConditionsContributingToDeath_CODE
+	data		String

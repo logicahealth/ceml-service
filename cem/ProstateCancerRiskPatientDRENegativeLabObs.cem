@@ -1,0 +1,6 @@
+cem ProstateCancerRiskPatientDRENegativeLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ProstateCancerRiskPatientDRENegative_CODE
+	constraint		data.quantity.unit_code
+		value	PercentRisk_CODE

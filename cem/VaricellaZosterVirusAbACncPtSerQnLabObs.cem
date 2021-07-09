@@ -1,0 +1,4 @@
+cem VaricellaZosterVirusAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			VaricellaZosterVirusAbACncPtSerQn_CODE

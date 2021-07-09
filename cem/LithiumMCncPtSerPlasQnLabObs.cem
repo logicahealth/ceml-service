@@ -1,0 +1,6 @@
+cem LithiumMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LithiumMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimolesPerLiter_CODE

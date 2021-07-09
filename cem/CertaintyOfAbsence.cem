@@ -1,0 +1,6 @@
+cem CertaintyOfAbsence
+	kind    	modifier
+	key         CertaintyOfAbsence_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   CertaintyOfAbsence_VSET

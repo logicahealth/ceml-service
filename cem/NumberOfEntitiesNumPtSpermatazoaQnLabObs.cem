@@ -1,0 +1,6 @@
+cem NumberOfEntitiesNumPtSpermatazoaQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NumberOfEntitiesNumPtSpermatazoaQn_CODE
+	constraint	data.quantity.unit_code
+		value	Million_CODE

@@ -1,0 +1,4 @@
+OstomyOutputVolumeRateMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the "OstomyOutputVolumeRateMeas" model the question is "What is the subject's Ostomy Output Volume Rate?" and the numeric answer will have a unit of measure. 
+By definition Ostomy Output Volume Rate Measurement is the measurement model representing the calculation of rate of stool output over a specific period of time (for example 4 hours)from any type of ostomy.
+

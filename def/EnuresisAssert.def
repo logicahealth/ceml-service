@@ -1,0 +1,10 @@
+EnuresisAssert 
+EnuresisAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition 
+being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the EnuresisAssert model, data is Enuresis_ECID which means involuntary urination, especially at night.
+
+@Author nrdavis1
+@Date 02 Dec 2016 12:06
+@Status draft
+@RequestedBy ABD

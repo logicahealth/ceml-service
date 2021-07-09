@@ -1,0 +1,6 @@
+cem CD14MY4PercentInBloodLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CD14MY4PercentInBlood_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

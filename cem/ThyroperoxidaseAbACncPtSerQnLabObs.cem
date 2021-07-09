@@ -1,0 +1,6 @@
+cem ThyroperoxidaseAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThyroperoxidaseAbACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	InternationalUnitsPerMilliliter_CODE

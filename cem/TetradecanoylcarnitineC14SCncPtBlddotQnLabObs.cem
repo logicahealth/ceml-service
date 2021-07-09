@@ -1,0 +1,6 @@
+cem TetradecanoylcarnitineC14SCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TetradecanoylcarnitineC14SCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

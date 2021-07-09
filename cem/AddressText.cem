@@ -1,0 +1,4 @@
+cem AddressText
+	kind		component
+	key			AddressText_CODE
+	data		String

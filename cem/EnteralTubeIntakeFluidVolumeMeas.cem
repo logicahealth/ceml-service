@@ -1,0 +1,8 @@
+cem EnteralTubeIntakeFluidVolumeMeas
+	kind		statement
+	base		IntakeFluidVolumeMeas
+	key			EnteralTubeIntakeFluidVolume_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	EnteralTubeIntakeDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	EnteralTubeBodyLocationPrecoord_VSET

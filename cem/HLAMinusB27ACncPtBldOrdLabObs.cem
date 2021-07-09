@@ -1,0 +1,4 @@
+cem HLAMinusB27ACncPtBldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HLAMinusB27ACncPtBldOrd_CODE

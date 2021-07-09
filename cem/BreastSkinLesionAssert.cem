@@ -1,0 +1,26 @@
+cem BreastSkinLesionAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        BreastQuadrant
+        id      breastQuadrant
+        card    0-M
+    qual        ClockFacePosition
+        id      clockFacePosition
+        card    0-1
+    qual        BreastHemisphere
+        id      breastHemisphere
+        card    0-1
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    link        ImageLink
+        id      imageLink
+        card    0-M
+    constraint	data.codeableConcept.code
+        value	BreastSkinLesion_CODE
+    constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	BreastBodyLocationPrecoord_VSET
+    constraint  reportedReceived.card
+        value   0
+    constraint  verified.card
+        value   0

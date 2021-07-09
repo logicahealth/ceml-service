@@ -1,0 +1,10 @@
+cem EpiduralIntakeFluidVolumeMeas
+	kind		statement
+	base		IntakeFluidVolumeMeas
+	key			EpiduralIntakeFluidVolume_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	EpiduralDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	EpiduralBodyLocationPrecoord_VSET
+	constraint	intakeFluidType.data.codeableConcept.valueset
+		value	MedicationName_VSET

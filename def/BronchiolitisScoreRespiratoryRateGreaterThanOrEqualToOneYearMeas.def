@@ -1,0 +1,5 @@
+BronchiolitisScoreRespiratoryRateGreaterThanOrEqualToOneYearMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the BronchiolitisScoreRespiratoryRateGreaterThanOrEqualToOneYearMeas model, the question is "what is the subject's, who is greater than or equal to one year old, bronchiolitis respiratory score?" and the answer will be an ordinal value.
+BronchiolitisScoreRespiratoryRateGreaterThanOrEqualToOneYearMeas is component of the bronchiolitis score(an Intermountain Healthcare developed scale) used to assess rate of respirations in a pediatric patient that is greater than or equal to one year old.
+Values range from 0-3 and correspond as follows:  '0' corresponds to a respiratory rate (RR) of less than or equal to 30, '1' corresponds to a RR of 31-38, '2' to a RR of 39-45, and a '3' to a RR above 45.
+

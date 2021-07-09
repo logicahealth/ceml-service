@@ -1,0 +1,7 @@
+VentricularRateByEKGMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value
+(PQ) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the
+"answer" in data can be "100 bpm".
+In the VentricularRateByEKGMeas model, the question is "what is the subject's Ventricular Rate By EKG?" and the numeric answer will have a unit
+of measure. 
+"VentricularRateByEKGMeas" by definition means the rate of ventricular contraction as measured on an EKG (using the distance between R waves).
+

@@ -1,0 +1,4 @@
+EstimatedInd is a component model. This model holds a "question" in the code and holds a coded value (CO) "answer" from the value set referred to in data.
+In the EstimatedInd model the question is "Was X result estimated?" and the answer and the coded answers from the Yes/No value set can be "Yes" or "No."
+By definition Estimated Ind is an indication that some calculation was performed to achieve the result.
+

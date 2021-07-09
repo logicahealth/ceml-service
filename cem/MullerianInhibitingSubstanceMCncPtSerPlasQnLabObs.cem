@@ -1,0 +1,6 @@
+cem MullerianInhibitingSubstanceMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MullerianInhibitingSubstanceMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

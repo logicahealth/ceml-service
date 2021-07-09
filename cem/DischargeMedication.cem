@@ -1,0 +1,6 @@
+cem DischargeMedication
+	kind	component
+	key     DischargeMedication_CODE
+	data	CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	DischargeMedication_VSET

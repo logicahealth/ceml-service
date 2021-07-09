@@ -1,0 +1,6 @@
+cem PhosphatidylglycerolACncPtAmnioFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PhosphatidylglycerolACncPtAmnioFldQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

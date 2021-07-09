@@ -1,0 +1,6 @@
+cem SpecimenMarginsTumorInvolvement
+	kind		component
+	key			SpecimenMarginsTumorInvolvement_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	SpecimenMarginsTumorInvolvement_VSET

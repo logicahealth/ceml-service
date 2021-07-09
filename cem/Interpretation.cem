@@ -1,0 +1,8 @@
+cem Interpretation
+	kind	component
+	key     Interpretation_CODE
+	data	CodeableConcept
+    constraint  data.codeableConcept.strength
+        value   CWE
+    constraint  data.codeableConcept.valueset
+        value   Interpretation_VSET

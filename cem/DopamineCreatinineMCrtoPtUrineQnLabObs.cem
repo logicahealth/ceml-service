@@ -1,0 +1,6 @@
+cem DopamineCreatinineMCrtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DopamineCreatinineMCrtoPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicrogramsPerGram_CODE

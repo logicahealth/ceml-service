@@ -1,0 +1,4 @@
+MonitoredCardiacRhythmAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the MonitoredCardiacRhythmAssert model, data is "MonitoredCardiacRhythm_VALUESET_ECID" which holds "A set of values for monitored cardiac rhythm".
+

@@ -1,0 +1,12 @@
+cem Covid19RenalUnderlyingConditionAssert
+    kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.valueset
+        value	Covid19RenalUnderlyingCondition_VSET
+    constraint  bodyLocation.card 
+        value   0 
+    constraint  associatedSituation.card 
+        value   0 
+    constraint  verified.card 
+        value   0 
+   

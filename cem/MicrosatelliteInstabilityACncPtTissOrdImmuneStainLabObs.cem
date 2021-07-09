@@ -1,0 +1,4 @@
+cem MicrosatelliteInstabilityACncPtTissOrdImmuneStainLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MicrosatelliteInstabilityACncPtTissOrdImmuneStain_CODE

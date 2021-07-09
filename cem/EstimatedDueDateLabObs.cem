@@ -1,0 +1,4 @@
+cem EstimatedDueDateLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			EstimatedDueDate_CODE

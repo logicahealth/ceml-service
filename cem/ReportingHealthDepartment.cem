@@ -1,0 +1,5 @@
+cem ReportingHealthDepartment
+	kind    	component
+	key         ReportingHealthDepartment_CODE
+    data        String
+

@@ -1,0 +1,4 @@
+PericardialDrainOutputDescriptionEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the PericardialDrainOutputDescriptionEval model, the question is "what is the subject's Pericardial Drain Output Description?" and the coded answers can be 'Pink' and 'Clear'.
+"PericardialDrainOutputDescriptionEval" by definition means to describe output fluid characteristics produced from a pericardial drain
+

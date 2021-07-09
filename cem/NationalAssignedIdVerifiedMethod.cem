@@ -1,0 +1,6 @@
+cem NationalAssignedIdVerifiedMethod
+	kind	component
+	key     NationalAssignedIdVerifiedMethod_CODE
+	data	CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	NationalAssignedIdentifierVerifiedMethod_VSET

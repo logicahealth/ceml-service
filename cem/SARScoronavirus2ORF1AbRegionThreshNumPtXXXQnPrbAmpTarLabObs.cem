@@ -1,0 +1,6 @@
+cem SARScoronavirus2ORF1AbRegionThreshNumPtXXXQnPrbAmpTarLabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         SARScoronavirus2ORF1AbRegionThreshNumPtXXXQnPrbAmpTar_CODE
+    constraint  data.quantity.unit_code
+        value   Count_CODE

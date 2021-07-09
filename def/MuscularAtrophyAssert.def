@@ -1,0 +1,8 @@
+MuscularAtrophyAssert created on 23/Jun/2016 14:21 BHeale
+
+MuscularAtrophyAssert is an assertion model that asserts the presence of Muscular Atrophy.  By definition is the wasting or loss of muscle tissue.
+
+The qualifier body location precoord allows for specifying the body location of the muscular atrophy (such as left arm, calf, etc...).
+The qualifier 'associated sign and symptom' allows for specifying a disease state such as ‘diabetes mellitus’ which is associated with the Muscular Atrophy.
+
+This model is intended for the Assertion that muscle atrophy is present and allows for post-coordination of a body location and/or associated condition.

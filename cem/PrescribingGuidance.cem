@@ -1,0 +1,17 @@
+cem PrescribingGuidance
+	kind	statement
+	base	StatementBase
+	form		abstract
+	key			PrescribingGuidance_VSET
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1
+	mod			Likelihood
+		id		likelihood
+		card	0-1
+	att			Documented
+		id		documented
+		card	0-1
+    cmnt        PrescribingGuidanceComment
+        id      prescribingGuidanceCommnet
+        card    0-M

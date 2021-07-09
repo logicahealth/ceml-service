@@ -1,0 +1,5 @@
+cem ThyroperoxidaseAbTitrPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThyroperoxidaseAbTitrPtSerPlasQn_CODE
+	

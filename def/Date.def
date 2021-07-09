@@ -1,0 +1,4 @@
+Data type in this model is TS, but this model should only be used to capture the day, month, and year of an instance. 
+The DateTime model also has the data type of TS, but is used to also capture the time of day.
+
+

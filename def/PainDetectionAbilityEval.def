@@ -1,0 +1,2 @@
+PainDetectionAbilityEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD or CO) answer in data.
+In the PainDetectionAbilityEval model, the question is "What is the patient's ability to detect pain?" and the coded answers can be 'Able to detect pain' or "Unable to detect pain'.

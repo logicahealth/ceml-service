@@ -1,0 +1,36 @@
+cem BasicMetabolicPanel2008WithIonizedCalciumPtSerPlasQnLabObs
+	kind    	panel
+    base        PanelBase
+	key         BasicMetabolicPanel2008WithIonizedCalciumPtSerPlasQnLabObs_CODE
+    
+    item        GlucoseMCncPtSerPlasQnLabObs
+        id      glucoseMCncPtSerPlasQnLabObs
+        card    1
+    item        UreaNitrogenMCncPtSerPlasQnLabObs
+        id      ureaNitrogenMCncPtSerPlasQnLabObs
+        card    1
+    item        CreatinineMCncPtSerPlasQnLabObs
+        id      creatinineMCncPtSerPlasQnLabObs
+        card    1
+    item        UreanitrogenCreatinineMRtoPtSerPlasQnLabObs
+        id      ureanitrogenCreatinineMRtoPtSerPlasQnLabObs
+        card    0-1
+    item        GlomerularFiltrationRate173SqMPredictedVRatPtSerPlasQnCreatinineMinusBasedFormulaMDRDLabObs
+        id      glomerularFiltrationRate173SqMPredictedVRatPtSerPlasQnCreatinineMinusBasedFormulaMDRDLabObs
+        card    0-1
+    item        GlomerularFiltrationRAte173SqMPredictedFemaleArVratPtSerPlasBldQnCreatinineBasedFormulaMDRDLabObs
+        id      glomerularFiltrationRAte173SqMPredictedFemaleArVratPtSerPlasBldQnCreatinineBasedFormulaMDRDLabObs
+        card    0-1
+    item        GlomerularFiltrationRate173SqMPredictedBlackVRatPtSerPlasQnCreatinineMinusBasedFormulaMDRDLabObs
+        id      glomerularFiltrationRate173SqMPredictedBlackVRatPtSerPlasQnCreatinineMinusBasedFormulaMDRDLabObs
+        card    0-1
+    item        GlomerularFiltrationRate173SqMPredictedNonBlackVRatPtSerPlasQnCreatinineMinusBasedFormulaMDRDLabObs
+        id      glomerularFiltrationRate173SqMPredictedNonBlackVRatPtSerPlasQnCreatinineMinusBasedFormulaMDRDLabObs
+        card    0-1
+    item        CalciumionizedMCncPtSerPlasQn
+        id      calciumionizedMCncPtSerPlasQn
+        card    1
+    item        Electrolytes1998PanelPtSerPlasQn
+        id      electrolytes1998PanelPtSerPlasQn
+        card    1
+

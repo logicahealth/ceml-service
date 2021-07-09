@@ -1,0 +1,6 @@
+cem CarboxyhemoglobinHemoglobinTotalMFrPtBldAQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CarboxyhemoglobinHemoglobinTotalMFrPtBldAQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	GeneralFractionUnits_VSET

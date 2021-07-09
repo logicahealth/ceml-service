@@ -1,0 +1,4 @@
+cem AmikacinSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmikacinSuscPtIsolateOrdQn_CODE

@@ -1,0 +1,6 @@
+cem GlobulinMCncPtSerQnCalculatedLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GlobulinMCncPtSerQnCalculated_CODE
+	constraint		data.quantity.unit_code
+			value		GramsPerLiter_CODE

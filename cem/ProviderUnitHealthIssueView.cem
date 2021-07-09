@@ -1,0 +1,7 @@
+cem ProviderUnitHealthIssueView
+	kind		component
+	base		HealthIssueView
+	key			ProviderUnitHealthIssueView_CODE
+	qual		ProviderLocation
+		id		providerLocation
+		card	1

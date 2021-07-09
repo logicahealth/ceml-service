@@ -1,0 +1,13 @@
+cem ProviderInstitution
+	kind		statement
+	base		Provider
+	key			ProviderInstitution_CODE
+	item		OrganizationId
+		id		organizationId
+		card	1
+	constraint	providerType.data.codeableConcept.valueset
+		value	ProviderInstitutionType_VSET
+	constraint	providerClassification.data.codeableConcept.valueset
+		value	ProviderInstitutionClassification_VSET
+	constraint	providerSpecialty.data.codeableConcept.valueset
+		value	ProviderInstitutionSpecialty_VSET

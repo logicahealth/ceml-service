@@ -1,0 +1,4 @@
+cem YersiniaSpAbIgGACncPtSerOrdIBLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			YersiniaSpAbIgGACncPtSerOrdIB_CODE

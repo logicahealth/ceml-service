@@ -1,0 +1,4 @@
+cem AlertProbability
+	kind		component
+	key			AlertProbability_CODE
+	data		Decimal

@@ -1,0 +1,4 @@
+cem AmphotericinBSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmphotericinBSuscPtIsolateOrdQn_CODE

@@ -1,0 +1,26 @@
+cem SkinAssessmentInterpretation
+	kind    	statement
+    base        StatementBase
+	key         SkinAssessmentInterpretation_CODE
+    data        CodeableConcept
+    qual        BodyLocationPrecoord
+        id      bodyLocationPrecoord
+        card    0-M	
+    constraint  data.codeableConcept.valueset
+        value   SkinAssessmentInterpretation_VSET
+    constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	SkinBodyLocation_VSET
+    constraint  reportedReceived.patientLocation.card
+        value   0
+    constraint  reportedReceived.providerLocation.card
+        value   0
+    constraint  reportedReceived.reason.card
+        value   0
+    constraint  observed.providerLocation.card
+        value   0
+    constraint  observed.patientLocation.card
+        value   0
+    constraint  observed.reason.card
+        value   0
+    constraint  observed.actionMethod.card
+        value   0

@@ -1,0 +1,6 @@
+cem CoagulationTissueFactorInducedFactorSubstitutionImmediatelyAfterAdditionOfNormalPlasmaTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationTissueFactorInducedFactorSubstitutionImmediatelyAfterAdditionOfNormalPlasmaTimePtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

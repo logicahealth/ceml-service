@@ -1,0 +1,5 @@
+cem BrucellaSpAbIgMACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BrucellaSpAbIgMACncPtSerQn_CODE
+	

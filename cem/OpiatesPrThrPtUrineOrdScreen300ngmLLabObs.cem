@@ -1,0 +1,4 @@
+cem OpiatesPrThrPtUrineOrdScreen300ngmLLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			OpiatesPrThrPtUrineOrdScreen300ngmL_CODE

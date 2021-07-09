@@ -1,0 +1,4 @@
+cem Jo1extractablenuclearAbPrThrPtSerOrdIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			Jo1extractablenuclearAbPrThrPtSerOrdIA_CODE

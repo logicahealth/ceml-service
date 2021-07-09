@@ -1,0 +1,4 @@
+cem DosesGiven
+	kind		component
+	key			DosesGiven_CODE
+	data		String

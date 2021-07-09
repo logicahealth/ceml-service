@@ -1,0 +1,18 @@
+cem Strength
+	kind		component
+	key			Strength_CODE
+	item		DiscreteStrength
+		id		discreteStrength
+		card	0-1
+	item		DiscreteVolume
+		id		discreteVolume
+		card	0-1
+	item		AlternateDiscreteStrength
+		id		alternateDiscreteStrength
+		card	0-1
+	item		DiscreteTime
+		id		discreteTime
+		card	0-1
+	item		AggregateStrength
+		id		aggregateStrength
+		card	0-1

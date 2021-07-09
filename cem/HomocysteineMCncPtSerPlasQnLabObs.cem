@@ -1,0 +1,4 @@
+cem HomocysteineMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HomocysteineMCncPtSerPlasQn_CODE

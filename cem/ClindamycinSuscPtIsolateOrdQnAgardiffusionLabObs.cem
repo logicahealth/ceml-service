@@ -1,0 +1,4 @@
+cem ClindamycinSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ClindamycinSuscPtIsolateOrdQnAgardiffusion_CODE

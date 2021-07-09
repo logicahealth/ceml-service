@@ -1,0 +1,10 @@
+cem VisitedLiveAnimalMarket
+	kind		statement
+	base		StatementBase
+	key			VisitedLiveAnimalMarket_CODE
+	data		CodeableConcept
+	constraint  data.codeableConcept.strength 
+        value   CWE 
+    constraint  data.codeableConcept.valueset 
+        value   YesNo_VSET
+

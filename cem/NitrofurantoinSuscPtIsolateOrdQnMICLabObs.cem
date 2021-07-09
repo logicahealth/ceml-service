@@ -1,0 +1,4 @@
+cem NitrofurantoinSuscPtIsolateOrdQnMICLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NitrofurantoinSuscPtIsolateOrdQnMIC_CODE

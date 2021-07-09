@@ -1,0 +1,6 @@
+cem TroponinICardiacMCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TroponinICardiacMCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

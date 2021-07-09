@@ -1,0 +1,6 @@
+cem AllergenmiscellaneousAbIgERASTclassPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AllergenmiscellaneousAbIgERASTclassPrThrPtSerOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	RAST0to6_VSET

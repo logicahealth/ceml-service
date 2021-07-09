@@ -1,0 +1,13 @@
+cem BodyLandmarkOrientation
+	kind    	component
+	key         BodyLandmarkOrientation_CODE
+    item        LandmarkDescription
+        id      landmarkDescription
+        card    0-1
+    item        ClockFacePosition
+        id      clockFacePosition
+        card    0-1
+    item        DistanceFromLandmark
+        id      distanceFromLandmark
+        card    0-1
+

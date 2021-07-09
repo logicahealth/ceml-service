@@ -1,0 +1,4 @@
+cem AcetoacetateCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AcetoacetateCreatinineScRtoPtUrineQn_CODE

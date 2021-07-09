@@ -1,0 +1,55 @@
+cem NoduleFindingsPanel
+	kind    	panel
+    base        PanelBase
+	key         NoduleFindingsPanel_CODE
+    item        NoduleAssert
+        id      noduleAssert
+        card    0-1
+    item        NoduleDensityEval
+        id      noduleDensityEval
+        card    0-1
+    item        NoduleMorphologyEval
+        id      noduleMorphologyEval
+        card    0-1
+    item        NoduleShapeEval
+        id      noduleShapeEval
+        card    0-1
+    item        NoduleMarginEval
+        id      noduleMarginEval
+        card    0-1
+    item        MeanDiameterMeas
+        id      meanDiameterMeas
+        card    0-1
+    item        CalcificationsEval
+        id      calcificationsEval
+        card    0-1
+    qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-1
+    qual        LesionIdentifier
+        id      lesionIdentifier
+        card    0-1
+    qual        TargetLesionIndicator
+        id      targetLesionIndicator
+        card    0-1
+    qual        DimensionType
+        id      dimensionType
+        card    0-1
+    qual        Modality
+        id      modality
+        card    0-1
+    qual        TimepointIndicator
+        id      timepointIndicator
+        card    0-1
+    qual        TrackingIdentifier
+        id      trackingIdentifier
+        card    0-1
+    link        ImageLink
+        id      imageLink
+        card    0-M
+    constraint  bodyLocationPrecoord.data.codeableConcept.valueset
+        value   NoduleBodyLocationPrecoord_VSET
+        
+
+       
+

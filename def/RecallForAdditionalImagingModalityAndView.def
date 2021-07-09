@@ -1,0 +1,4 @@
+RecallForAdditionalImagingModalityAndView created by L.Buhl on 19/Sep/2016 13:56 for iActivity project.
+
+
+RecallForAdditionalImagingModalityAndView is a component model used for imaging management and follow up to identify that a patient needs to be recalled for additional imaging procedures.  Values include: "Additional views", "Additional views and possible Ultrasound", "Additional Views and Ultrasound", or "Ultrasound".

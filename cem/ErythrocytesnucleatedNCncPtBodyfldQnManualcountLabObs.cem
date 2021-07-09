@@ -1,0 +1,6 @@
+cem ErythrocytesnucleatedNCncPtBodyfldQnManualcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocytesnucleatedNCncPtBodyfldQnManualcount_CODE
+	constraint		data.quantity.unit_code
+			value		PerMicroliter_CODE

@@ -1,0 +1,4 @@
+cem FMR1GeneAllele2CGGRepeatsEntNumPtBldTissQnMolgenLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FMR1GeneAllele2CGGRepeatsEntNumPtBldTissQnMolgen_CODE

@@ -1,0 +1,9 @@
+cem MovingOrSpeakingSoSlowlyThatOtherPeopleCouldHaveNoticedOrTheOppositeBeingSoFidgetyOrRestlessThatYouHaveBeenMovingAroundALotMoreThanUsualInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     MovingOrSpeakingSoSlowlyThatOtherPeopleCouldHaveNoticedOrTheOppositeBeingSoFidgetyOrRestlessThatYouHaveBeenMovingAroundALotMoreThanUsualInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET

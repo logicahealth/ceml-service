@@ -1,0 +1,4 @@
+cem ImipenemSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ImipenemSuscPtIsolateOrdQnAgardiffusion_CODE

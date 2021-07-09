@@ -1,0 +1,5 @@
+cem AntibodyTiterLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AntibodyTiter_CODE
+	

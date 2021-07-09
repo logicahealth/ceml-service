@@ -1,0 +1,6 @@
+cem AppearanceAperPtCSFNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			AppearanceAperPtCSFNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	CSFAppearance_VSET

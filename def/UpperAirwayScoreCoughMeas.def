@@ -1,0 +1,6 @@
+UpperAirwayScoreCoughMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value 
+(PQ) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the 
+"answer" in data can be "100 bpm".
+In the UpperAirwayScoreCoughMeas model, the question is "what is the subject's Upper Airway Cough Score?" with a numeric answer. 
+"UpperAirwayScoreCoughMeas" by definition means an upper airway respiratory score related to the type of cough the patient exhibits. Values from 0-2. 
+

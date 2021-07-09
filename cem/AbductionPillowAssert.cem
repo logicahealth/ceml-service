@@ -1,0 +1,6 @@
+
+cem AbductionPillowAssert
+    kind        statement
+    base       	ObservationAssert
+    constraint	data.codeableConcept.code
+        value	AbductionPillow_CODE

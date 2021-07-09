@@ -1,0 +1,12 @@
+cem FPARPregnancyStatusEval
+	kind	statement
+	base	PregnancyStatusEval
+
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	FPARPregnancyStatus_VSET
+    constraint  observed.actionMethod.data.codeableConcept.valueset
+        value   PregnancyStatusReportingMethod_VSET
+
+

@@ -1,0 +1,8 @@
+EcchymosisColorEval created on 16/May/2016 15:17
+EcchymosisColorEval is an eval model. In an eval model, the key is set to the real world "thing" being evaluated, measured, or assessed, and data is the result of the assessment, evaluation, or measurement and can be coded data, quantifiable data, etc. 
+For example, the EcchymosisColorEval model the "thing" being assessed is "what is the color of the ecchymosis observed?"  The answsers could be Blue/Black, Purple, Greenish/Brown, or Yellow.
+
+
+modeler: N Davis
+status: draft
+version: 1.0

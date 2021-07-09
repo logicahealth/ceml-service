@@ -1,0 +1,6 @@
+cem HemoglobinA1cHemoglobintotalMFrPtBldQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HemoglobinA1cHemoglobintotalMFrPtBldQnElectrophoresis_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

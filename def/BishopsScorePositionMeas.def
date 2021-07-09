@@ -1,0 +1,4 @@
+BishopsScorePositionMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the BishopsScorePositionMeas model, the question is "what is the subject's Bishop's Position score?" and the ordinal value answer will be one of the following: '0' corresponds to 'posterior'; '1' to 'intermediate' and '2' to posterior.
+BishopsScorePosition records the Bishops score related to position of a woman's cervix during labor. 
+

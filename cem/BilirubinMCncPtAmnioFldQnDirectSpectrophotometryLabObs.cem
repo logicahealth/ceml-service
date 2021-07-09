@@ -1,0 +1,5 @@
+cem BilirubinMCncPtAmnioFldQnDirectSpectrophotometryLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BilirubinMCncPtAmnioFldQnDirectSpectrophotometry_CODE
+	

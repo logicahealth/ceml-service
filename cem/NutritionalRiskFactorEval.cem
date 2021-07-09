@@ -1,0 +1,14 @@
+cem NutritionalRiskFactorEval
+	kind	statement
+	base	StatementBase
+	key         NutritionalRiskFactor_CODE
+	data        CodeableConcept
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+  
+    qual        DataAbsentReason
+        id      dataAbsentReason
+        card    0-M
+    constraint	data.codeableConcept.valueset
+		value	NutritionalRiskFactor_VSET

@@ -1,0 +1,5 @@
+cem AldosteroneReninRatioPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AldosteroneReninRatioPtSerPlasQn_CODE
+	

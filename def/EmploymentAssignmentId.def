@@ -1,0 +1,4 @@
+EmploymentAssignmentId model is a component model.
+The EmploymentAssignmentId model captures the data key code of EmploymentAssignmentId_KEY_ECID.
+By definition the EmploymentAssignmentId is the identifier of an employment assignment. This ID is usually an identifier in an employer's HR system.
+

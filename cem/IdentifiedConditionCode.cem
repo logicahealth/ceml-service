@@ -1,0 +1,6 @@
+cem IdentifiedConditionCode
+	kind    	component
+	key         IdentifiedConditionCode_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Conditions_VSET

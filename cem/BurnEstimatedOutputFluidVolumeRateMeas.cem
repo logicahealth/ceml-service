@@ -1,0 +1,12 @@
+cem BurnEstimatedOutputFluidVolumeRateMeas
+	kind		statement
+	base		OutputVolumeRateMeas
+	key			BurnEstimatedOutputFluidVolumeRate_CODE
+	constraint	method.card
+		value	0
+	constraint	device.card
+		value	0
+	constraint	sourceIdentifier.card
+		value	0
+	constraint	estimatedMeasuredStated.data.codeableConcept.code
+		value	Estimated_CODE

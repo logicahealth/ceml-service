@@ -1,0 +1,6 @@
+cem TranscutaneousBilirubinLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TranscutaneousBilirubin_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

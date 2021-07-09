@@ -1,0 +1,4 @@
+cem FetallungmaturityImpPtAmniofldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			FetallungmaturityImpPtAmniofldNom_CODE

@@ -1,0 +1,6 @@
+ICentraSkinColorEval created on 13/May/2016 13:13
+This is an isosemantic model to the logical SkinColorEval model.  It was created specifically for iCentra implementation.  The value set used for iCentra has different values than the logical model.
+
+Modeler: N Davis
+status: draft
+version: 1.0

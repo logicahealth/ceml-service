@@ -1,0 +1,6 @@
+cem CoagulationDiluteRussellViperVenomInducedFactorSubstitutionImmediatelyAfterAdditionOfNormalPlasmaTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationDiluteRussellViperVenomInducedFactorSubstitutionImmediatelyAfterAdditionOfNormalPlasmaTimePtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

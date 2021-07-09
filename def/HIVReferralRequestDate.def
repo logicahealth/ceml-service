@@ -1,0 +1,10 @@
+HIVReferralRequestDate 
+ 
+A date at which a clinician identifies that a clinical or laboratory finding requires a referral to a different provider for a medical visit and the client has been provided knowledge of that referral. The referred provider and location is summarized as well as any relevant diagnostic or billing codes that help document the need for the referral. This date would be considered the start date for a performance measure that evaluates the time that it takes for a necessary referral period to be completed.
+
+@Author bsheale
+@Date 24 Apr 2017 11:03
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog, implementation
+

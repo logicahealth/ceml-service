@@ -1,0 +1,16 @@
+cem NeuromuscularCheckPanel
+	kind	panel
+	base	PanelBase
+	key			NeuromuscularCheckPanel_CODE
+	item		CapillaryRefillTimeEval
+		id		capillaryRefillTimeEval
+		card	0-M
+	item		MovementEval
+		id		movementEval
+		card	0-M
+	item		SensationAssert
+		id		sensationAssert
+		card	0-M
+	item		SkinColorEval
+		id		skinColorEval
+		card	0-M

@@ -1,0 +1,6 @@
+cem GestationalAgeTimePtFetusQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GestationalAge_CODE
+	constraint		data.quantity.unit_code
+		value	Weeks_CODE

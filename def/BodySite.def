@@ -1,0 +1,7 @@
+BodySite 
+The Body Site is a component type of clinical element model and is used as part of the BodyLocation model.  Body site is a codified term used to identify where on or in the body structure a particular observation or assertion was made about. 
+
+@Author nrdavis1
+@Date 25 Feb 2019 10:37
+@Status draft
+@RequestedBy CIMI

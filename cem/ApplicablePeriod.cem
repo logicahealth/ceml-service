@@ -1,0 +1,4 @@
+cem ApplicablePeriod
+	kind	component
+	key     ApplicablePeriod_CODE
+	data	Period

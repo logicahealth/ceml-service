@@ -1,0 +1,5 @@
+
+cem AvgDailyDose
+	kind	component
+	key     AvgDailyDose_CODE
+	data	Quantity

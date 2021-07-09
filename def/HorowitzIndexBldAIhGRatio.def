@@ -1,0 +1,6 @@
+HorowitzIndexBldAIhGRatio is a quantitative laboratory clinical element model that describes the measurement calculated from the partila pressure of oxygen in arterial blood (numerator) and the fraction of inspired oxygen (denominator).  LOINC code 50984-4
+
+@Author nrdavis1
+@Date 14 Jun 2021 07:09
+@Status draft
+@RequestedBy ePneumonia

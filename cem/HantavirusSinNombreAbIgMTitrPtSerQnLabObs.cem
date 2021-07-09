@@ -1,0 +1,5 @@
+cem HantavirusSinNombreAbIgMTitrPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HantavirusSinNombreAbIgMTitrPtSerQn_CODE
+	

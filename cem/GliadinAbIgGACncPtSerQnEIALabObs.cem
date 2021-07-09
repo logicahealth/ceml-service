@@ -1,0 +1,6 @@
+cem GliadinAbIgGACncPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GliadinAbIgGACncPtSerQnEIA_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

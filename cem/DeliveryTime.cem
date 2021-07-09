@@ -1,0 +1,4 @@
+cem DeliveryTime
+	kind		component
+	key			DeliveryTime_CODE
+	data		DateTime

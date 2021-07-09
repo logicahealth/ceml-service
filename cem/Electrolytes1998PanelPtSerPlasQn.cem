@@ -1,0 +1,24 @@
+cem Electrolytes1998PanelPtSerPlasQn
+	kind    	panel
+    base        PanelBase
+	key         Electrolytes1998PanelPtSerPlasQn_CODE
+    
+    item        SodiumSCncPtSerPlasQnLabObs
+        id      sodiumSCncPtSerPlasQnLabObs
+        card    1
+    item        PotassiumSCncPtSerPlasQnLabObs
+        id      potassiumSCncPtSerPlasQnLabObs
+        card    1
+    item        ChlorideSCncPtSerPlasQnLabObs
+        id      chlorideSCncPtSerPlasQnLabObs
+        card    1
+    item        BicarbonateSCncPtSerQnLabObs
+        id      bicarbonateSCncPtSerQnLabObs
+        card    1
+    item        CarbonDioxideSCncPtSerPlasQnLabObs
+        id      carbonDioxideSCncPtSerPlasQnLabObs
+        card    1
+    item        AniongapSCncPtSerPlasQnLabObs
+        id      aniongapSCncPtSerPlasQnLabObs
+        card    0-1
+

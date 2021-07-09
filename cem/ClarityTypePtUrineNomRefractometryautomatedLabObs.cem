@@ -1,0 +1,4 @@
+cem ClarityTypePtUrineNomRefractometryautomatedLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ClarityTypePtUrineNomRefractometryautomated_CODE

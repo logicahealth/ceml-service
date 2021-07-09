@@ -1,0 +1,8 @@
+
+cem DrugVehicle
+	kind	component
+	key     DrugVehicle_CODE
+	data	CodeableConcept
+
+    constraint      data.codeableConcept.valueset
+        value       DrugVehicle_VSET

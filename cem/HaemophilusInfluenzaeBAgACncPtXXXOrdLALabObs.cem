@@ -1,0 +1,4 @@
+cem HaemophilusInfluenzaeBAgACncPtXXXOrdLALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HaemophilusInfluenzaeBAgACncPtXXXOrdLA_CODE

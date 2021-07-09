@@ -1,0 +1,6 @@
+cem GranularCastsUrineSedimentLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GranularCastsUrineSediment_CODE
+	constraint		data.quantity.unit_code
+		value	PerLowPowerField_CODE

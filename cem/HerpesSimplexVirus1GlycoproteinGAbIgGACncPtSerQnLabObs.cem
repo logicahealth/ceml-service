@@ -1,0 +1,4 @@
+cem HerpesSimplexVirus1GlycoproteinGAbIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HerpesSimplexVirus1GlycoproteinGAbIgGACncPtSerQn_CODE

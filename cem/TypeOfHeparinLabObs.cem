@@ -1,0 +1,4 @@
+cem TypeOfHeparinLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			TypeOfHeparin_CODE

@@ -1,0 +1,2 @@
+ReadingRequest is used for imaging if we want another group to read the exam. The purpose of the field is to route the order for documentation. The choices for this field are governed by contract.
+

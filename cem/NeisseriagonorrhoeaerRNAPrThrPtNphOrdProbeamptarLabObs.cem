@@ -1,0 +1,4 @@
+cem NeisseriagonorrhoeaerRNAPrThrPtNphOrdProbeamptarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeisseriagonorrhoeaerRNAPrThrPtNphOrdProbeamptar_CODE

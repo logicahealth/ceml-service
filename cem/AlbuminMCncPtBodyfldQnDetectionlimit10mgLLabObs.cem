@@ -1,0 +1,6 @@
+cem AlbuminMCncPtBodyfldQnDetectionlimit10mgLLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlbuminMCncPtBodyfldQnDetectionlimit10mgL_CODE
+	constraint		data.quantity.unit_code
+			value		MilligramsPerDeciliter_CODE

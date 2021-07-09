@@ -1,0 +1,4 @@
+cem UrobilinogenACncPtUrineQnTeststripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			UrobilinogenACncPtUrineQnTeststrip_CODE

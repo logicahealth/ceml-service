@@ -1,0 +1,4 @@
+cem EvidenceReference
+	kind		component
+	key			EvidenceReference_CODE
+	data		String

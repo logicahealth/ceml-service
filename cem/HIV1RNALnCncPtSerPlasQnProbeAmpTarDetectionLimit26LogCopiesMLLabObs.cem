@@ -1,0 +1,6 @@
+cem HIV1RNALnCncPtSerPlasQnProbeAmpTarDetectionLimit26LogCopiesMLLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HIV1RNALnCncPtSerPlasQnProbeAmpTarDetectionLimit26LogCopiesML_CODE
+	constraint	data.quantity.unit_code
+		value	PermilliLiterNumberConcentrationUnits_CODE

@@ -1,0 +1,6 @@
+cem BKVirusDNANCncPtXXXQnProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BKVirusDNANCncPtXXXQnProbeAmpTar_CODE
+	constraint	data.quantity.unit_code
+		value	PermilliLiterNumberConcentrationUnits_CODE

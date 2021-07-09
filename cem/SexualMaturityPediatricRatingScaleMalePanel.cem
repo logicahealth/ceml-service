@@ -1,0 +1,19 @@
+cem SexualMaturityPediatricRatingScaleMalePanel
+	kind	panel
+	base	PanelBase
+	key			SexualMaturityPediatricRatingScaleMalePanel_CODE
+	item		SexualMaturityPediatricRatingScaleMaleTestesAndScrotumMeas
+		id		sexualMaturityPediatricRatingScaleMaleTestesAndScrotumMeas
+		card	0-1
+	item		SexualMaturityPediatricRatingScaleMalePenisMeas
+		id		sexualMaturityPediatricRatingScaleMalePenisMeas
+		card	0-1
+	item		SexualMaturityPediatricRatingScaleMalePubicHairMeas
+		id		sexualMaturityPediatricRatingScaleMalePubicHairMeas
+		card	0-1
+	item		SexualMaturityPediatricRatingScaleMaleMilestoneEval
+		id		sexualMaturityPediatricRatingScaleMaleMilestoneEval
+		card	0-1
+	item		SexualMaturityPediatricRatingScaleMaleTotalScoreMeas
+		id		sexualMaturityPediatricRatingScaleMaleTotalScoreMeas
+		card	1

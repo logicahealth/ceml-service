@@ -1,0 +1,6 @@
+cem OxygenPPresPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxygenPPresPtBldQn_CODE
+	constraint		data.quantity.unit_code
+			value		MillimetersOfMercury_CODE

@@ -1,0 +1,7 @@
+cem HumanpapillomaVirusIdentifiedPridPtCvxNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HumanpapillomaVirusIdentifiedPridPtCvxNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	OrganismDetectionOrdLabResult_VSET
+

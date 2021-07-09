@@ -1,0 +1,7 @@
+MusculoskeletalAbnormalityPanel. This model is used to document and assessment abnormalities found in the musculoskelal system. It is not used just to say they have the abnormality, but includes the assessment of the effects of the abnormality. For CapillaryRefillTimeEval, AdultPeripheralPulseScaleMeas, SensationAbilityEval, PainAssert, TinglingAssert and NumbnessAssert, the DistalToInjuryIndicator should be set to yes.
+ Note*** Nonsensical combinations are possible. It possible to chart 3rd Elbow has an injury of Lordosis. If concurrent constraint or conditional constraints are implemented. We will need to look at the possible combinations and make appropriate restrictions.
+
+@Author unknown
+@Date 15 April 2016 15:53
+@Status draft
+@RequestedBy unknown

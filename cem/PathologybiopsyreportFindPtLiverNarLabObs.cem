@@ -1,0 +1,4 @@
+cem PathologybiopsyreportFindPtLiverNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			PathologybiopsyreportFindPtLiverNar_CODE

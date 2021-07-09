@@ -1,0 +1,6 @@
+cem OxazepamMCncPtUrineQnConfirmLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxazepamMCncPtUrineQnConfirm_CODE
+	constraint		data.quantity.unit_code
+			value		NanogramsPerMilliliter_CODE

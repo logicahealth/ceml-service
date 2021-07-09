@@ -1,0 +1,6 @@
+cem FluorideCreatinineMCrtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FluorideCreatinineMCrtoPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerGram_CODE

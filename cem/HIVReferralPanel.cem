@@ -1,0 +1,12 @@
+cem HIVReferralPanel
+	kind    	panel
+    base        PanelBase
+	key         HIVReferralPanel_CODE
+
+    item        OutpatientEncounter
+        id      outpatientEncounter
+        card    0-1
+
+    item        ReferralRequest
+        id      referralRequest
+        card    1

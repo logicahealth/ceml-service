@@ -1,0 +1,6 @@
+cem PEDISWoundGradeTotalScore
+	kind    	statement
+    base        StatementBase
+	key         PEDISWoundGradeTotalScore_CODE
+    data        Integer
+

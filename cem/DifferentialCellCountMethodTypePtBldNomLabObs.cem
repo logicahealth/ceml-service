@@ -1,0 +1,6 @@
+cem DifferentialCellCountMethodTypePtBldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			DifferentialCellCountMethodTypePtBldNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	DifferentialType_VSET

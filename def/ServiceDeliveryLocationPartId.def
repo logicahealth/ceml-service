@@ -1,0 +1,2 @@
+ServiceDeliveryLocationPartId is a pointer from a ServiceDeliveryLocation to a ServiceDeliveryLocation that is a part of the given ServiceDeliveryLocation.
+

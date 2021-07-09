@@ -1,0 +1,6 @@
+cem ICentraSkinColorEval
+	kind    	statement
+    base        SkinColorEval
+	constraint	data.codeableConcept.valueset
+		value	ICentraSkinColor_VSET
+

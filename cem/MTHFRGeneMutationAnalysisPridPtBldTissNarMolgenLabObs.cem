@@ -1,0 +1,4 @@
+cem MTHFRGeneMutationAnalysisPridPtBldTissNarMolgenLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MTHFRGeneMutationAnalysisPridPtBldTissNarMolgen_CODE

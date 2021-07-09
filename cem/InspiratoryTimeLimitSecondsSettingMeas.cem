@@ -1,0 +1,7 @@
+cem InspiratoryTimeLimitSecondsSettingMeas
+	kind	statement
+	base	StatementBase
+	key			InspiratoryTimeLimitSecondsSetting_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

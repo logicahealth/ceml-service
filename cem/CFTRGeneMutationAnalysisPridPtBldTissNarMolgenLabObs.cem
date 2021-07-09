@@ -1,0 +1,4 @@
+cem CFTRGeneMutationAnalysisPridPtBldTissNarMolgenLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			CFTRGeneMutationAnalysisPridPtBldTissNarMolgen_CODE

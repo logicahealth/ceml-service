@@ -1,0 +1,4 @@
+cem ProteaseInhibitorsLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ProteaseInhibitors_CODE

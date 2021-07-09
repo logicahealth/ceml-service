@@ -1,0 +1,4 @@
+cem EfavirenzSuscPtIsolateOrdQnGenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EfavirenzSuscPtIsolateOrdQnGenotyping_CODE

@@ -1,0 +1,6 @@
+cem LeukocytesNCncPtSemenQnAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LeukocytesNCncPtSemenQnAutomatedcount_CODE
+	constraint		data.quantity.unit_code
+			value		ThousandsPerMicroliter_CODE

@@ -1,0 +1,4 @@
+cem RhTypePtBldBPUNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			RhTypePtBldBPUNom_CODE

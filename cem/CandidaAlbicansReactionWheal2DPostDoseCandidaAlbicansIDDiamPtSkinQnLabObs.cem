@@ -1,0 +1,6 @@
+cem CandidaAlbicansReactionWheal2DPostDoseCandidaAlbicansIDDiamPtSkinQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CandidaAlbicansReactionWheal2DPostDoseCandidaAlbicansIDDiamPtSkinQn_CODE
+	constraint		data.quantity.unit_code
+		value	Millimeters_CODE

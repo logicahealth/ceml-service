@@ -1,0 +1,4 @@
+cem ChromosomeFISHPrenatalDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ChromosomeFISHPrenatalDoc_CODE

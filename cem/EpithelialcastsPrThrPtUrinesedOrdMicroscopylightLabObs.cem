@@ -1,0 +1,4 @@
+cem EpithelialcastsPrThrPtUrinesedOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EpithelialcastsPrThrPtUrinesedOrdMicroscopylight_CODE

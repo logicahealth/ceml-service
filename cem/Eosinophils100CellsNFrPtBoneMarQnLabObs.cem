@@ -1,0 +1,6 @@
+cem Eosinophils100CellsNFrPtBoneMarQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Eosinophils100CellsNFrPtBoneMarQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

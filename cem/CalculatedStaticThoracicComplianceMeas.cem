@@ -1,0 +1,18 @@
+cem CalculatedStaticThoracicComplianceMeas
+	kind	statement
+	base	StatementBase
+	key			CalculatedStaticThoracicCompliance_CODE
+	data		Quantity
+	qual		Device
+		id		device
+		card	0-1
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	qual		ReferenceRangeNar
+		id		referenceRangeNar
+		card	0-1
+	constraint	device.data.codeableConcept.valueset
+		value	VentilatorDevice_VSET
+	constraint		data.quantity.unit_code
+		value	MillilitersPerCentimeterOfWater_CODE

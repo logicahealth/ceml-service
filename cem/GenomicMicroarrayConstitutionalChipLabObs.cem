@@ -1,0 +1,4 @@
+cem GenomicMicroarrayConstitutionalChipLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			GenomicMicroarrayConstitutionalChip_CODE

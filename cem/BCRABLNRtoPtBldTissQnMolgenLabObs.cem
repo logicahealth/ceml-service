@@ -1,0 +1,5 @@
+cem BCRABLNRtoPtBldTissQnMolgenLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BCRABLNRtoPtBldTissQnMolgen_CODE
+	

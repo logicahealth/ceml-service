@@ -1,0 +1,5 @@
+cem RevisedGenevaTotalScore
+	kind	statement
+	base	StatementBase
+	key     RevisedGenevaTotalScore_CODE
+	data	Integer

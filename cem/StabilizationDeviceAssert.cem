@@ -1,0 +1,16 @@
+cem StabilizationDeviceAssert
+	kind		statement
+	base		ObservationAssert
+	qual		BodyLocation
+		id		bodyLocation
+		card	0-M
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-M
+	qual		AssociatedSignAndSymptom
+		id		associatedSignAndSymptom
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	StabilizationDevice_CODE
+	constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	MovementBodyLocation_VSET

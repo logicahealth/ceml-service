@@ -1,0 +1,7 @@
+cem WeHavePeopleWhoCanHelpUsInTimesOfStressWeValueAndAskForExpertsDoctorsNursesHelpWithOurProblemsEval
+
+	kind	statement
+	base	StatementBase
+    key     WeHavePeopleWhoCanHelpUsInTimesOfStressWeValueAndAskForExpertsDoctorsNursesHelpWithOurProblems_CODE
+	data	Integer
+

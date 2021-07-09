@@ -1,0 +1,4 @@
+cem HydrocodonePrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HydrocodonePrThrPtUrineOrd_CODE

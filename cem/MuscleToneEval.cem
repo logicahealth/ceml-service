@@ -1,0 +1,25 @@
+cem MuscleToneEval
+	kind		statement
+    base        StatementBase
+	key			MuscleTone_CODE
+	data		CodeableConcept
+	qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-1
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+    qual        AssociatedPrecondition
+        id      neuromuscularAssociatedPrecondition
+        card    0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	MuscleTone_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	MusculoskeletalBodyLocationPrecoord_VSET
+    constraint  neuromuscularAssociatedPrecondition.data.codeableConcept.valueset
+        value   NeuromuscularAssociatedPrecondition_VSET

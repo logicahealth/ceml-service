@@ -1,0 +1,9 @@
+cem ClinicalRace
+	kind		statement
+	base		ClinicalObs
+	key			ClinicalRace_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Race_VSET

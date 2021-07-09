@@ -1,0 +1,39 @@
+DEF FILE CONTENTS:
+status:  proposed
+Author: Bret Heale
+initatedDate: 02/26/2016
+
+CAM_ICU_deliriumPanel models the Confusion Assessment Method (CAM) score for use in ICU patients (see below). 
+Note: AlteredMentalStatusAssert and FluctuatingMentalStatusAssert are constrained in likelihood to Definitely not (NCID:522884096)
+and Definitely (NCID:522884100) to reflect presence and absence. 
+Note: DataAbsentReason is being constrained to approriate CAM_ICU_evalExclusions such as "Non-English Speaking', 'Blind', 'Extremely hard of hearing', Severe mental diability (e.g. Down's syndrome, cerebral palsy...), Richmond Agitation-Sedation Scale (RASS) score of '-4' or '-5', 'Refused', 'Withdrawal of support.'
+
+Delirium Assessment (CAM-ICU)
+If one of Feature 1: Acute onset of mental status changes (feature 1a)
+or a fluctuating course (feature 1b)
+And
+Feature 2: Inattention
+And
+Feature 3: Disorganized Or Feature 4: Altered Thinking Level of Consciousness
+then the patient is thought to have  DELIRIUM
+Ely, JAMA 2001; 286, 2703-2710.
+Ely, Crit Car Med 2001: 29,1370-1379.
+Sedation and Delirium Assessments:
+A Two Step Approach
+Step One: Sedation Assessment(RASS)
+If RASS is -4or -5, then Stop & Reassess patient at later time
+If RASS is above-4 (-3 through +4) then Proceed to Step 2
+Step Two: Delirium Assessment (CAM-ICU)
+Feature 1: Acute onset of mental status changes
+or a fluctuating course
+And
+Feature 2: Inattention
+And
+Feature 3: DisorganizedOr Feature 4: Altered
+Thinking Level of Consciousness
+= DELIRIUM
+Ely, JAMA 2001; 286, 2703-2710.
+Ely, Crit Car Med 2001: 29,1370-1379.
+Inouye, Ann Intern Med 1990; 113:941-948.
+CAM-ICU: Copyright © 2002, E. Wesley Ely, MD, MPH and Vanderbilt University, all rights reserved
+Original CAM: Copyright © 2003, Sharon K. Inouye, M.D., MPH, The Confusion Assessment Method, all rights reserved

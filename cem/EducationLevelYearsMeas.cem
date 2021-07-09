@@ -1,0 +1,7 @@
+cem EducationLevelYearsMeas
+	kind	statement
+	base	StatementBase
+	key			EducationLevelYears_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	Years_CODE

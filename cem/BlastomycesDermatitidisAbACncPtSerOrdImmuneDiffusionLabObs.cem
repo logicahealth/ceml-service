@@ -1,0 +1,4 @@
+cem BlastomycesDermatitidisAbACncPtSerOrdImmuneDiffusionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BlastomycesDermatitidisAbACncPtSerOrdImmuneDiffusion_CODE

@@ -1,0 +1,15 @@
+cem DeathCertifier
+	kind		component
+	key			DeathCertifier_CODE
+	item		PersonName
+		id		personName
+		card	1-M
+	item		Address
+		id		address
+		card	0-M
+	item		Telecom
+		id		telecom
+		card	0-M
+	item		StateProfessionalLicenseNumber
+		id		stateProfessionalLicenseNumber
+		card	0-1

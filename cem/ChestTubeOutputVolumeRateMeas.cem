@@ -1,0 +1,8 @@
+cem ChestTubeOutputVolumeRateMeas
+	kind		statement
+	base		OutputVolumeRateMeas
+	key			ChestTubeOutputVolumeRate_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	ChestTubeDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	ChestTubeBodyLocationPrecoord_VSET

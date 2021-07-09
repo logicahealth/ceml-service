@@ -1,0 +1,7 @@
+cem EcchymosisColorEval
+    kind        statement
+    base       	StatementBase
+    key         EcchymosisColor_CODE
+    data        CodeableConcept
+    constraint	data.codeableConcept.valueset
+        value	EcchymosisColor_VSET

@@ -1,0 +1,4 @@
+cem DrugConfirmOpiateSerPlasLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			DrugConfirmOpiateSerPlas_CODE

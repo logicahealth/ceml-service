@@ -1,0 +1,4 @@
+cem HIV12AbPrThrPtXXXOrdIArapidLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HIV12AbPrThrPtXXXOrdIArapid_CODE

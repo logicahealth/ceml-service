@@ -1,0 +1,4 @@
+cem PlateletmorphologyfindingPridPtBldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PlateletmorphologyfindingPridPtBldNom_CODE

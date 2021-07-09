@@ -1,0 +1,6 @@
+cem NormetanephrineSCnc24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NormetanephrineSCnc24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanomolesPerLiter_CODE

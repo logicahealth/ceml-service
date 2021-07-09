@@ -1,0 +1,6 @@
+cem ThromboelastogramGParameterLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThromboelastogramGParameter_CODE
+	constraint		data.quantity.unit_code
+		value	DyneSecondsPerSquareCentimeter_CODE

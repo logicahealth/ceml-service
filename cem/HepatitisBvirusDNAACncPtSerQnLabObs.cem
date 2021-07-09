@@ -1,0 +1,6 @@
+cem HepatitisBvirusDNAACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HepatitisBvirusDNAACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		InternationalUnitsPerMilliliterArbitraryConcentrationUnits_CODE

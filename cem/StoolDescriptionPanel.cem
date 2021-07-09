@@ -1,0 +1,14 @@
+cem StoolDescriptionPanel
+    kind    	panel
+    base        PanelBase
+	key         StoolDescriptionPanel_CODE
+
+    item        ConsistencyOfStoolEval
+        id      consistencyOfStoolEval
+        card    0-M
+    item        ColorOfStoolEval
+        id      colorOfStoolEval
+        card    0-M
+    item        StoolSpecialPropertyEval
+        id      stoolSpecialPropertyEval
+        card    0-M

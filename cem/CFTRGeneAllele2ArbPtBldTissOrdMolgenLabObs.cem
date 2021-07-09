@@ -1,0 +1,4 @@
+cem CFTRGeneAllele2ArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CFTRGeneAllele2ArbPtBldTissOrdMolgen_CODE

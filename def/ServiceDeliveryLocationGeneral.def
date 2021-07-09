@@ -1,0 +1,4 @@
+ServiceDeliveryLocationGeneral extends the partial model ServiceDeliveryLocation.
+ServiceDeliveryLocationGeneral currently does not add anything to ServiceDeliveryLocation,
+it just constrains the key to a specific code.  It is anticipated that other
+extensions may be necessary (bed, unit, etc.)

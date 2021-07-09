@@ -1,0 +1,9 @@
+cem WoundExudateAppearance
+	kind    	component
+	key         WoundExudateAppearance_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   WoundExudateAppearance_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

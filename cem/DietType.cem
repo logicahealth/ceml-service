@@ -1,0 +1,14 @@
+cem DietType
+	kind		statement
+    base        StatementBase
+	key			DietType_CODE
+	data		CodeableConcept
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	DietType_VSET
+    constraint  associatedPrecondition.data.codeableConcept.valueset
+        value	DietTypeAssociatedPrecondition_VSET

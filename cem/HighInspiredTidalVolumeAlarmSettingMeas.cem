@@ -1,0 +1,5 @@
+cem HighInspiredTidalVolumeAlarmSettingMeas
+	kind	statement
+	base	StatementBase
+	key			HighInspiredTidalVolumeAlarmSetting_CODE
+	data		Quantity

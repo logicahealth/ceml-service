@@ -1,0 +1,6 @@
+cem AlbuminCreatinineMCrtoPtUrineQnDetectionLimit20MgLLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlbuminCreatinineMCrtoPtUrineQnDetectionLimit20MgL_CODE
+	constraint	data.quantity.unit_code
+		value	MicrogramsPerMilligram_CODE

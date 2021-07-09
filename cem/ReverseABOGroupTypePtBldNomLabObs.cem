@@ -1,0 +1,4 @@
+cem ReverseABOGroupTypePtBldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ReverseABOGroupTypePtBldNom_CODE

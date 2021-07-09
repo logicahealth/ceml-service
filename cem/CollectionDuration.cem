@@ -1,0 +1,6 @@
+cem CollectionDuration
+	kind		component
+	key			CollectionDuration_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	TimeUnits_VSET

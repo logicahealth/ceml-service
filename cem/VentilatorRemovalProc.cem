@@ -1,0 +1,8 @@
+cem VentilatorRemovalProc
+	kind		statement
+	base		Procedure
+	qual		SourceIdentifier
+		id		sourceIdentifier
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	VentilatorRemoval_CODE

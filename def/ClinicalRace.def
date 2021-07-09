@@ -1,0 +1,3 @@
+ClinicalRace is the CDL Model for patient race observations. It is different from the administrative race. Currently,
+ClinicalRace is used in our lab observation models and AdministrativeRace is used in our ADT models, such as PatientEncounter.
+

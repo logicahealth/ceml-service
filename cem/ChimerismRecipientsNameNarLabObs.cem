@@ -1,0 +1,4 @@
+cem ChimerismRecipientsNameNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ChimerismRecipientsNameNar_CODE

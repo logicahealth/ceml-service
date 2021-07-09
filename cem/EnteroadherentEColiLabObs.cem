@@ -1,0 +1,4 @@
+cem EnteroadherentEColiLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			EnteroadherentEColi_CODE

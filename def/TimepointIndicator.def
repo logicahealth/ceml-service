@@ -1,0 +1,3 @@
+TimepointIndicator created by L.Buhl on 11/Jul/2016 13:58 for iActivity project.
+
+TimepointIndicator is a component model that will indicate the timepoint of an image.  Values include: current, baseline, and previous.

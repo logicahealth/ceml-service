@@ -1,0 +1,4 @@
+cem PainSeverityScore
+	kind		component
+	key			PainSeverityScore_CODE
+	data		Integer

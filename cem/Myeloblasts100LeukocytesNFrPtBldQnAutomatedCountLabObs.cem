@@ -1,0 +1,6 @@
+cem Myeloblasts100LeukocytesNFrPtBldQnAutomatedCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Myeloblasts100LeukocytesNFrPtBldQnAutomatedCount_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

@@ -1,0 +1,19 @@
+cem NIHStrokeScaleMotorFunctionMeas
+	kind	statement
+	base	StatementBase
+	key         NIHStrokeScaleMotorFunction_CODE
+	data        CodeableOrdinal
+    qual        BodyLocationPrecoord
+        id      bodyLocationPrecoord
+        card    1
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+    constraint  data.codeableOrdinal.valueset
+        value   NIHStrokeScaleMotorFunction_VSET
+    constraint  bodyLocationPrecoord.data.codeableConcept.valueset
+        value   NIHStrokeScaleBodyLocationPrecoord_VSET
+    constraint  associatedPrecondition.data.codeableConcept.valueset
+        value   NIHStrokeScaleAssociatedPrecondition_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

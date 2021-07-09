@@ -1,0 +1,14 @@
+cem EatingBehaviorsQuestionnairePanel
+	kind    	panel
+    base        PanelBase
+	key         EatingBehaviorsQuestionnairePanel_CODE
+    item        DoYouEverEatInSecretEval
+        id      doYouEverEatInSecretEval
+        card    0-1
+    item        DoesYourWeightAffectTheWayYouFeelAboutYourselfEval
+        id      doesYourWeightAffectTheWayYouFeelAboutYourselfEval
+        card    0-1
+    item        FamilyHistoryOfEatingDisorderAssert
+        id      familyHistoryOfEatingDisorderAssert
+        card    0-1
+

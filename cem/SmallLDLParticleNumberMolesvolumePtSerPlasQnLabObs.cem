@@ -1,0 +1,6 @@
+cem SmallLDLParticleNumberMolesvolumePtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SmallLDLParticleNumberMolesvolumePtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanomolesPerLiter_CODE

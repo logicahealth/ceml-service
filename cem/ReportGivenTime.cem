@@ -1,0 +1,4 @@
+cem ReportGivenTime
+	kind		component
+	key			ReportGivenTime_CODE
+	data		DateTime

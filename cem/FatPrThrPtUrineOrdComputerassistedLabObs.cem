@@ -1,0 +1,4 @@
+cem FatPrThrPtUrineOrdComputerassistedLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			FatPrThrPtUrineOrdComputerassisted_CODE

@@ -1,0 +1,2 @@
+MedicationStatement is used to record any drugs or medications an individual may have taken recently.
+It may or may not have accurate dose amounts, dose timing, dose forms, or number of doses.

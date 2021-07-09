@@ -1,0 +1,4 @@
+cem SpecimensiteTypeStdyNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			SpecimensiteTypeStdyNar_CODE

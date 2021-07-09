@@ -1,0 +1,6 @@
+cem ImmuneComplexACncPtSerPlasQnC1qBindingAssayLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ImmuneComplexACncPtSerPlasQnC1qBindingAssay_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramEquivalentsPerMilliliter_CODE

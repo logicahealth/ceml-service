@@ -1,0 +1,8 @@
+cem VaginalDeliveryMethod
+	kind		component
+	key			VaginalDeliveryMethod_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	VaginalDeliveryMethod_VSET

@@ -1,0 +1,8 @@
+cem CollectionStatus
+	kind		component
+	key			CollectionStatus_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	CollectionStatus_VSET

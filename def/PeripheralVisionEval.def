@@ -1,0 +1,5 @@
+PeripheralVisionEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the PeripheralVisionEval model, the question is evaluating the subject's peripheral vision.
+
+Modeler: L. Buhl
+Date created: 03/07/2016

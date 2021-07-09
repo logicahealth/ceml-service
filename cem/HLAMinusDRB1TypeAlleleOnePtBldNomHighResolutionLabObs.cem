@@ -1,0 +1,4 @@
+cem HLAMinusDRB1TypeAlleleOnePtBldNomHighResolutionLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HLAMinusDRB1TypeAlleleOnePtBldNomHighResolution_CODE

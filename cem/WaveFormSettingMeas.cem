@@ -1,0 +1,9 @@
+cem WaveFormSettingMeas
+	kind	statement
+	base	StatementBase
+	key			WaveFormSetting_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	WaveFormSetting_VSET

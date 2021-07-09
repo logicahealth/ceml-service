@@ -1,0 +1,5 @@
+cem Echovirus11AbTitrPtSerQnNeutLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Echovirus11AbTitrPtSerQnNeut_CODE
+	

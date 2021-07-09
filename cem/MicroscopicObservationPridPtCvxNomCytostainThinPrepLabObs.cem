@@ -1,0 +1,4 @@
+cem MicroscopicObservationPridPtCvxNomCytostainThinPrepLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MicroscopicObservationPridPtCvxNomCytostainThinPrep_CODE

@@ -1,0 +1,23 @@
+cem FootExamEval
+	kind	statement
+	base	StatementBase
+	key			FootExam_CODE
+	data		CodeableConcept
+	qual		Method
+		id		method
+		card	0-1
+	qual		Device
+		id		device
+		card	0-1
+	qual		BodyLocation
+		id		bodyLocation
+		card	0-1
+	qual		DeltaFlag
+		id		deltaFlag
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	NormalAbnormal_VSET
+	constraint	deltaFlag.data.codeableConcept.valueset
+		value	DeltaFlagCodedNom_VSET

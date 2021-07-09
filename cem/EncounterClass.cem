@@ -1,0 +1,6 @@
+cem EncounterClass
+	kind	component
+	key     EncounterClass_CODE
+	data	CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	EncounterClass_VSET

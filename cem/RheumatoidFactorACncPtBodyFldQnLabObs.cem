@@ -1,0 +1,6 @@
+cem RheumatoidFactorACncPtBodyFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RheumatoidFactorACncPtBodyFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	InternationalUnitsPerMilliliter_CODE

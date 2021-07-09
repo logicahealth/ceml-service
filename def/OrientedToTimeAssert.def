@@ -1,0 +1,4 @@
+OrientedToTimeAssert is an assertion model that extends the ClinicalAssertion model by capturing oriented to time-specific data through additional qualifiers. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the OrientedToTimeAssert model, data is OrientedToTime_ECID which means "An ability to recognize the time." (An indication of a patient's neurological status with in regard to time.)
+

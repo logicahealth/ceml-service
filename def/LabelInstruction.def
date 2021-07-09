@@ -1,0 +1,2 @@
+LabelInstruction is a model for defaulted inpatient instructions that will appear on the label of an ambulatory medication. These are usually provided as part of a medication database. Example, "Give with food."
+

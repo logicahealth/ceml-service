@@ -1,0 +1,13 @@
+cem GenitalDischargeDescription
+	kind		component
+	key			GenitalDischargeDescription_CODE
+	data		CodeableConcept
+	qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	GenitalDischargeDescription_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	GenitaliaBodyLocationPrecoord_VSET

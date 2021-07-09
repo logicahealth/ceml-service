@@ -1,0 +1,4 @@
+cem SubtelomereAnalysisImpPtBldTissNarFISHLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			SubtelomereAnalysisImpPtBldTissNarFISH_CODE

@@ -1,0 +1,4 @@
+cem ImmunoglobulinHeavyChainGeneRearrangementsArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ImmunoglobulinHeavyChainGeneRearrangementsArbPtBldTissOrdMolgen_CODE

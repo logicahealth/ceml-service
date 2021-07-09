@@ -1,0 +1,12 @@
+cem InfantFeedingTypeEval
+	kind	statement
+	base	StatementBase
+	key			InfantFeedingTypeEval_CODE
+	data		CodeableConcept
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	InfantFeedingType_VSET

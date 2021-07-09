@@ -1,0 +1,9 @@
+NystagmusAssert is an assertion model that extends the ClinicalAssertion model by capturing Nystagmus-specific data through additional qualifiers. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the NystagmusAssert model, data is Nystagmus_ECID.   
+By definition NystagmusAssert asserts the existence of Nystagmus- or the condition in which the eyes make repetitive and uncontrollable movements.
+
+
+
+Modeler: L. Buhl
+Date created: 02/05/2016

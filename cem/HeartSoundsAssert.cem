@@ -1,0 +1,15 @@
+cem HeartSoundsAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		CardiacCyclePhase
+		id		cardiacCyclePhase
+		card	0-1
+	qual		Device
+		id		device
+		card	0-1
+	constraint	data.codeableConcept.valueset
+		value	HeartSounds_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	HeartSoundsDevice_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	HeartSoundsBodyLocationPrecoord_VSET

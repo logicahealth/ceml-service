@@ -1,0 +1,2 @@
+PersonName has specific name pieces, such as family name and given name, but it also has the extensiblity of adding new name parts by using PersonNamePart.
+

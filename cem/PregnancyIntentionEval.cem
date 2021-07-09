@@ -1,0 +1,14 @@
+cem PregnancyIntentionEval
+	kind	statement
+	base	StatementBase 
+	key         PregnancyIntention_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   PregnancyIntention_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+
+    constraint	verified.card
+	    value	0
+    constraint	performed.card
+	    value	0

@@ -1,0 +1,4 @@
+cem MostpredominanthemoglobinFindPtBlddotNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MostpredominanthemoglobinFindPtBlddotNom_CODE

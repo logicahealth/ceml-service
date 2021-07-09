@@ -1,0 +1,6 @@
+cem CoagulationTissueFactorInducedTimePtPPPControlQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationTissueFactorInducedTimePtPPPControlQnCoag_CODE
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

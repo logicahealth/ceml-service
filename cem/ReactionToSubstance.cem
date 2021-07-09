@@ -1,0 +1,14 @@
+cem ReactionToSubstance
+	kind		component
+	key			ReactionToSubstance_CODE
+	data		CodeableConcept
+	qual		Severity
+		id		severity
+		card	0-1
+	qual		Comment
+		id		comment
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ReactionToSubstance_VSET

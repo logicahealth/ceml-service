@@ -1,0 +1,4 @@
+cem ArterialPatencyPreArterialPunctureACncPtWristArteryOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ArterialPatencyPreArterialPunctureACncPtWristArteryOrd_CODE

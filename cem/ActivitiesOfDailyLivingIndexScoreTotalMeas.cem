@@ -1,0 +1,10 @@
+cem ActivitiesOfDailyLivingIndexScoreTotalMeas
+	kind    	statement
+    base        StatementBase
+	key         ActivitiesOfDailyLivingIndexScoreTotal_CODE
+	data		Integer
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+
+

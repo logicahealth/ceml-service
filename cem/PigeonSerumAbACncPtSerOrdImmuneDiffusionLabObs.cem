@@ -1,0 +1,6 @@
+cem PigeonSerumAbACncPtSerOrdImmuneDiffusionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PigeonSerumAbACncPtSerOrdImmuneDiffusion_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	DetectNotDetectPosNegOrdLabResult_VSET

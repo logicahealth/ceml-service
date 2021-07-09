@@ -1,0 +1,4 @@
+OralCavityFindingEval created on 22/Jul/2016 11:33
+
+In the OralCavityFindingEval model, the question is "what is the finding of subject's oral cavity?" and the coded answers can be 'Missing teeth', 'Canker sore', etc.
+"OralCavityFindingEval" by definition means an evaluation of the findings of the patient's oral cavity.

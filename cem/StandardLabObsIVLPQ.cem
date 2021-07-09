@@ -1,0 +1,14 @@
+cem StandardLabObsIVLPQ
+	kind		statement
+	base		StandardLabObs
+	key			StandardLabObsIVLPQ_VSET
+	data		Range
+	qual		ReferenceRangeNom
+		id		referenceRangeNom
+		card	0-1
+	constraint	data.range.unit_valueset
+		value	UnitsOfMeasure_VSET
+	constraint	data.nullFlavor.valueset
+		value	LabNullFlavor_VSET
+	constraint	interpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationNumericNom_VSET

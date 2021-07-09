@@ -1,0 +1,4 @@
+cem MixingStudiesImpPtPPPNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MixingStudiesImpPtPPPNar_CODE

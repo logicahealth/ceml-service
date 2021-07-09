@@ -1,0 +1,5 @@
+WoundIrrigationProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes the procedure
+being performed.
+In the WoundIrrigationProc model data is WoundIrrigation_ECID which captures information surrounding a Wound Irrigation which means the
+act of therapeutically flushing the wound with a stream of liquid.
+

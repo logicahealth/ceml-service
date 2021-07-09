@@ -1,0 +1,4 @@
+cem MLH1GeneMethylationArbPtTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MLH1GeneMethylationArbPtTissOrdMolgen_CODE

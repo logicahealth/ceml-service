@@ -1,0 +1,4 @@
+cem SpermatozoaagglutinatedPrThrPtSemenOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SpermatozoaagglutinatedPrThrPtSemenOrd_CODE

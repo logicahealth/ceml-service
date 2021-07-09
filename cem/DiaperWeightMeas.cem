@@ -1,0 +1,7 @@
+cem DiaperWeightMeas
+	kind	statement
+	base	StatementBase
+	key			DiaperWeight_CODE
+	data		Quantity
+	constraint	data.quantity.unit_code
+		value	Milligrams_CODE

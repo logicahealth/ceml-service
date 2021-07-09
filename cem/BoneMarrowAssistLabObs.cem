@@ -1,0 +1,4 @@
+cem BoneMarrowAssistLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BoneMarrowAssist_CODE

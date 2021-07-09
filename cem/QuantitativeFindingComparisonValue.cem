@@ -1,0 +1,4 @@
+cem QuantitativeFindingComparisonValue
+	kind		component
+	key			QuantitativeFindingComparisonValue_CODE
+	data		Quantity

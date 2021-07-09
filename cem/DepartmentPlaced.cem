@@ -1,0 +1,9 @@
+
+cem DepartmentPlaced
+	kind    	component
+	key         DepartmentPlaced_CODE
+	data        CodeableConcept
+    constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	DepartmentPlaced_VSET

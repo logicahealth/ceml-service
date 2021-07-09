@@ -1,0 +1,6 @@
+cem GenericEventAssert
+	kind		statement
+	base		EventAssert
+	mod			RiskForInd
+		id		riskForInd
+		card	0-1

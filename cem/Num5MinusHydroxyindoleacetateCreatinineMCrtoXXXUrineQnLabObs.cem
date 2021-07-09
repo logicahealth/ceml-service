@@ -1,0 +1,6 @@
+cem Num5MinusHydroxyindoleacetateCreatinineMCrtoXXXUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num5MinusHydroxyindoleacetateCreatinineMCrtoXXXUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerGram_CODE

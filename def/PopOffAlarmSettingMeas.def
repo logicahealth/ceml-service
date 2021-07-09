@@ -1,0 +1,4 @@
+PopOffAlarmSettingMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the PopOffAlarmSettingMeas model, the question is "what is the Pop Off Alarm Setting?" and the numeric answer will have a unit of measure. 
+"PopOffAlarmSettingMeas" by definition means a setting on a ventilator that, if the setting is met or exceeded an alarm will be activated.
+

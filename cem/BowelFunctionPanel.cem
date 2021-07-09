@@ -1,0 +1,24 @@
+cem BowelFunctionPanel
+	kind		panel
+    base        PanelBase
+
+	key			BowelFunctionPanel_CODE
+	item		BowelMovementFrequencyEval
+		id		bowelMovementFrequencyEval
+		card	0-1
+
+    item        LastBowelMovementDateMeas
+        id      lastBowelMovementDateMeas
+        card    0-1
+    item        PassingFlatusEval
+        id      passingFlatusEval
+        card    0-1
+    item        NumberOfBowelAccidentsMeas
+        id      numberOfBowelAccidentsMeas
+        card    0-1
+    item        BowelEliminationDescriptionEval
+        id      bowelEliminationDescriptionEval
+        card    0-1
+    item        ColostomyAssert
+        id      colostomyAssert
+        card    0-1

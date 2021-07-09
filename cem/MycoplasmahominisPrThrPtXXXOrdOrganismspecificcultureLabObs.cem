@@ -1,0 +1,4 @@
+cem MycoplasmahominisPrThrPtXXXOrdOrganismspecificcultureLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MycoplasmahominisPrThrPtXXXOrdOrganismspecificculture_CODE

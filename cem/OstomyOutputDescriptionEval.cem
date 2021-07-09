@@ -1,0 +1,10 @@
+cem OstomyOutputDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			OstomyOutputDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	OstomyOutputDescription_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	OstomyDevice_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	OstomyBodyLocationPrecoord_VSET

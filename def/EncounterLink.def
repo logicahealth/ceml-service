@@ -1,0 +1,8 @@
+EncounterLink is an association created between an Encounter and the information. The value is the encounter that is linked to.
+
+@Author bsheale
+@Date 06 Apr 2017 16:01
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog
+

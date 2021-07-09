@@ -1,0 +1,10 @@
+cem VentilatorSerialNumberEval
+	kind	statement
+	base	StatementBase
+	key			VentilatorSerialNumber_CODE
+	data		String
+	qual		MethodDevice
+		id		methodDevice
+		card	0-1
+	constraint	methodDevice.data.codeableConcept.valueset
+		value	VentilatorMethodDevice_VSET

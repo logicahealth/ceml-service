@@ -1,0 +1,4 @@
+cem MicroscopicObservationPridPtBldNomMalariaSmearLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MicroscopicObservationPridPtBldNomMalariaSmear_CODE

@@ -1,0 +1,14 @@
+cem NIHStrokeScaleCurrentMonthAndAgeAnswersMeas
+	kind	statement
+	base	StatementBase
+	key         NIHStrokeScaleCurrentMonthAndAgeAnswers_CODE
+	data        CodeableOrdinal
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+    constraint  data.codeableOrdinal.valueset
+        value   NIHStrokeScaleCurrentMonthAndAgeAnswers_VSET
+    constraint  associatedPrecondition.data.codeableConcept.valueset
+        value   NIHStrokeScaleAssociatedPrecondition_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

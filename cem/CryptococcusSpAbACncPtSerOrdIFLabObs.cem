@@ -1,0 +1,4 @@
+cem CryptococcusSpAbACncPtSerOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CryptococcusSpAbACncPtSerOrdIF_CODE

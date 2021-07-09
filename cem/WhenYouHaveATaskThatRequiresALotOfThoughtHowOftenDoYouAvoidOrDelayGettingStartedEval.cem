@@ -1,0 +1,9 @@
+cem WhenYouHaveATaskThatRequiresALotOfThoughtHowOftenDoYouAvoidOrDelayGettingStartedEval
+
+	kind	statement
+	base	StatementBase
+    key     WhenYouHaveATaskThatRequiresALotOfThoughtHowOftenDoYouAvoidOrDelayGettingStarted_CODE
+	data	CodeableOrdinal
+
+	constraint	data.codeableOrdinal.valueset
+	    value	AdultAdhdSelfReportScaleASRSClinicalFrequency_VSET

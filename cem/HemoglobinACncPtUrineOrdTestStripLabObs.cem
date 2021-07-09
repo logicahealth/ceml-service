@@ -1,0 +1,6 @@
+cem HemoglobinACncPtUrineOrdTestStripLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HemoglobinACncPtUrineOrdTestStrip_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrdScaleTractToLarge_VSET

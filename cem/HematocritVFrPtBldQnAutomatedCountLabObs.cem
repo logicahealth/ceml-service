@@ -1,0 +1,6 @@
+cem HematocritVFrPtBldQnAutomatedCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HematocritVFrPtBldQnAutomatedCount_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

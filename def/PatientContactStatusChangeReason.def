@@ -1,0 +1,2 @@
+PatientContactStatusChangeReason captures the trigger event that will subsequently change patient contact status. 
+

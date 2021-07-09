@@ -1,0 +1,4 @@
+cem EmploymentAssignmentId
+	kind		component
+	key			EmploymentAssignmentId_CODE
+	data		String

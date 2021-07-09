@@ -1,0 +1,6 @@
+cem PrealbuminMCncPtSerPlasQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PrealbuminMCncPtSerPlasQnElectrophoresis_CODE
+	constraint		data.quantity.unit_code
+			value		GramsPerDeciliter_CODE

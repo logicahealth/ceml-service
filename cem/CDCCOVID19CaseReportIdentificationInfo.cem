@@ -1,0 +1,22 @@
+cem CDCCOVID19CaseReportIdentificationInfo
+	kind    	statement
+    base        StatementBase
+	key         CDCCOVID19CaseReportIdentificationInfo_CODE
+    item        ReportingJurisdiction
+        id      reportingJurisdiction
+        card    0-1
+    item        ReportingHealthDepartment
+        id      reportingHealthDepartment
+        card    0-1
+    item        CaseReportLocalID
+        id      caseReportLocalId
+        card    0-1
+    item        CDC2019nCoVID
+        id      cDC2019nCoVID
+        card    0-1
+    item        COVID19ContactID
+        id      cOVID19ContactID
+        card    0-1
+    item        NNDSSCaseLocalPatientID
+        id      nNDSSCaseLocalPatientID
+        card    0-1

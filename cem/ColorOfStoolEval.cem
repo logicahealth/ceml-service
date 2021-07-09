@@ -1,0 +1,15 @@
+cem ColorOfStoolEval
+	kind	statement
+	base	PhysicalObs
+	key         ColorOfStool_CODE
+	data        CodeableConcept
+    constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ColorOfStool_VSET 
+    constraint  method.card
+        value   0
+    constraint  device.card
+        value   0
+    constraint  bodyLocation.card
+        value   0

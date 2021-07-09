@@ -1,0 +1,15 @@
+cem PsychosocialBarriersToCareParticipationEval
+	kind	statement
+	base	StatementBase
+	key			PsychosocialBarriersToCareParticipation_CODE
+	data		CodeableConcept
+	qual		CommunicationAid
+		id		communicationAid
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PsychosocialBarriersToCareParticipation_VSET

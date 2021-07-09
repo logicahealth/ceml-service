@@ -1,0 +1,7 @@
+cem NumberOfYearsQuitSmokingMeas
+    kind	statement
+	base	StatementBase
+    key     NumberOfYearsQuitSmoking_CODE
+	data	Quantity
+    constraint	data.quantity.unit_code
+	    value	Years_CODE

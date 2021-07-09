@@ -1,0 +1,9 @@
+AllergyIntolerance is for documenting allergies and intolerances. Intolerance and FailedTherapy will have a different model. Use AllergySummaryPanel to document negation.
+Change:
+   Modeler: NDavis
+   Date: Oct. 21, 2015
+   Value:  Removed Ingredient item from the model.  It was put in as an implementation element for the Qualibria project.  Decision to remove was made on Oct. 21, 2015 by T Onikii, N Davis, C Tilley, N Zhuo, K Sorensen.
+
+modeler: BHeale
+date: 04/26/2016
+Value: replaced negInd with Likelihood

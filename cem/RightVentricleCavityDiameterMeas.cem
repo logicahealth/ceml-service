@@ -1,0 +1,13 @@
+cem RightVentricleCavityDiameterMeas
+    kind	statement
+	base	StatementBase
+    key     RightVentricleCavityDiameter_CODE
+	data        Quantity
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    qual        Modality
+        id      modality
+        card    0-1
+    constraint	data.quantity.unit_code
+		value	Centimeters_CODE

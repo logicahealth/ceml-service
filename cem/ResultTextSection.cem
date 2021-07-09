@@ -1,0 +1,7 @@
+cem ResultTextSection
+	kind		component
+	key			ResultTextSection_VSET
+	data		Attachment
+	qual		SequenceNumber
+		id		sequenceNumber
+		card	0-1

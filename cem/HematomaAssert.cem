@@ -1,0 +1,15 @@
+cem HematomaAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		MechanismOfInjury
+		id		mechanismOfInjury
+		card	0-M
+    qual        TissueFirmness
+        id      tissueFirmness
+        card    0-1
+    qual        WoundSize
+        id      woundSize
+        card    0-1
+	constraint	data.codeableConcept.code
+		value	Hematoma_CODE
+    

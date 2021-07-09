@@ -1,0 +1,6 @@
+cem AlanineaminotransferaseCCncPtSerPlasQnWithP5PLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlanineaminotransferaseCCncPtSerPlasQnWithP5P_CODE
+	constraint		data.quantity.unit_code
+			value		UnitsPerLiter_CODE

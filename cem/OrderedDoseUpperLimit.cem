@@ -1,0 +1,6 @@
+cem OrderedDoseUpperLimit
+	kind		component
+	key			OrderedDoseUpperLimit_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	DoseQuantityUnitOfMeasure_VSET

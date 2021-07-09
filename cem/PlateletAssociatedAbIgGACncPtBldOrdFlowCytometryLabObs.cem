@@ -1,0 +1,4 @@
+cem PlateletAssociatedAbIgGACncPtBldOrdFlowCytometryLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PlateletAssociatedAbIgGACncPtBldOrdFlowCytometry_CODE

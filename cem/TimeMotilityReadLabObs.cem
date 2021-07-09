@@ -1,0 +1,6 @@
+cem TimeMotilityReadLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TimeMotilityRead_CODE
+	constraint		data.quantity.unit_code
+		value	UnityUnitsOfMeasure_CODE

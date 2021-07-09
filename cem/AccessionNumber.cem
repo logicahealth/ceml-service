@@ -1,0 +1,4 @@
+cem AccessionNumber
+	kind	component
+	key		AccessionNumber_CODE
+    data    Identifier

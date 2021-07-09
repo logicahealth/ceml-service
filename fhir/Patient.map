@@ -1,0 +1,53 @@
+fhir cem Patient
+	base definition	"http://hl7.org/fhir/us/daf/StructureDefinition/daf-patient"
+	map 	Patient.PersonName.FamilyName to Patient.name.family
+	map		Patient.PersonName.GivenName to Patient.name.given
+	map		Patient.PersonName.MiddleName to Patient.name.given
+	map		Patient.PersonName.PrefixName to Patient.name.prefix
+	map		Patient.PersonName.SuffixName to Patient.name.suffix
+	map		Patient.PersonName.PersonNameUse to Patient.name.use
+	map		Patient.PersonName.StartTime to Patient.name.period.start
+	map		Patient.PersonName.EndTime to Patient.name.period.end
+	map		Patient.PersonNamePreferenceInd to Patient.name.iso21090-preferred
+	map		Patient.BirthDate to Patient.birthDate
+	set		Patient.BirthDate to Extension name = VerificationMethod "http://fhir.org/guides/hspc/StructureDefinition/extensions-birthDateVerificationMethod"
+		bind	Patient.birthDate.verificationMethod to "http://fhir.org/guides/hspc/ValueSet/bdverifiedmethod"
+	map		Patient.AdministrativeGender to Patient.gender
+	map		Patient.DeceasedDate to Patient.deceasedDateTime
+	map		Patient.Address.AddressUse to Patient.address.use
+	map		Patient.Address.AddressText to Patient.address.text
+	map		Patient.Address.AddressLine to Patient.address.line
+	map		Patient.Address.City to Patient.address.city
+	map		Patient.Address.State to Patient.address.state
+	map		Patient.Address.PostalCode to Patient.address.postalCode
+	map		Patient.Address.Country to Patient.address.country
+	map		Patient.Address.Period to Patient.address.period
+	map		Patient.Address.AddressType to Patient.address.type
+	set		Patient.address to Extension name = PrimaryIndicator "http://fhir.org/guides/hspc/StructureDefinition/extensions-primaryIndicator"
+		bind	Patient.address.primaryIndicator to "http://fhir.org/guides/hspc/ValueSet/yesNo"
+	map		Patient.Telecom.data to Patient.telecom.value
+	map		Patient.Telecom.TelecomSystem to Patient.telecom.system
+	map		Patient.Telecom.TelecomUse to Patient.telecom.use
+	map		Patient.Telecom.Period to Patient.telecom.period
+	map		Patient.Telecom.PreferenceInd to Patient.telecom.iso21090-preferred
+	map		Patient.LanguageCommunication.data to Patient.communication.language
+	map		Patient.LanguageCommunication.CommunicationMode to Patient.communication.preferred
+	set		Patient.communication to Extension name = CommunicationMode "http://fhir.org/guides/hspc/StructureDefinition/extensions-communicationMode"
+		bind	Patient.communication.communicationMode to "http://fhir.org/guides/hspc/ValueSet/communicationMode"
+	map		Patient.BirthPlace to Patient.birthPlace
+	map		Patient.PatientExternalId to Patient.identifier.value
+	map		Patient.MultipleBirthInd to Patient.multipleBirth(boolean)
+	map		Patient.MultipleBirthOrderNumber to Patient.multipleBirth(integer)
+	map		Patient.AdminstrativeRace to Patient.us-core-race
+	map		Patient.AdministrativeEthnicGroup to Patient.us-core-ethnicity
+	map		Patient.AdminstrativeMaritalStatus to Patient.maritalStatus
+	slice	Patient.contact
+		discriminator = contact.name|false|openAtEnd
+		slice 1
+				set Patient.contact to Extension "http://fhir.org/guides/hspc/StructureDefinition/extensions-contactPartyId"
+		slice 2	name = EmergencyContact
+				map Patient.EmergencyContact.PersonName to Patient.contact.name
+				map	Patient.EmergencyContact.Address to Patinte.contact.address	
+				map Patient.EmergencyContact.Telecom to Patient.contact.telecom
+				bind	Patient.contact.relationship to system="http://hl7.org/fhir/ValueSet/patient-contact-relationship" code="emergency" display="Emergency"
+				set Patient.contact to Extension name = ContactPartyId "http://fhir.org/guides/hspc/StructureDefinition/extensions-contactPartyId"

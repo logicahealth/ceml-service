@@ -1,0 +1,6 @@
+IdentifiedConditionCode is a component clinical element model used to identify a specific condition when it qualifies another CEM.  Maps to LOINC code 75323-6.
+
+@Author nrdavis1
+@Date 06 May 2021 10:30
+@Status draft
+@RequestedBy ePneumonia project

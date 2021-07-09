@@ -1,0 +1,8 @@
+cem PersonNameUse
+	kind		component
+	key			PersonNameUse_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PersonNameUse_VSET

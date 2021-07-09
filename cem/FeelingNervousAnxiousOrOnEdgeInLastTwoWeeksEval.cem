@@ -1,0 +1,10 @@
+cem FeelingNervousAnxiousOrOnEdgeInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     FeelingNervousAnxiousOrOnEdgeInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET
+

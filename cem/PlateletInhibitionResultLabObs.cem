@@ -1,0 +1,4 @@
+cem PlateletInhibitionResultLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PlateletInhibitionResult_CODE

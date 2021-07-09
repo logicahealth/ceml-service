@@ -1,0 +1,6 @@
+cem RTimeTEGLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RTimeTEG_CODE
+	constraint		data.quantity.unit_code
+		value	Minutes_CODE

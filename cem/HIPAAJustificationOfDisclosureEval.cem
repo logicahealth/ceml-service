@@ -1,0 +1,9 @@
+cem HIPAAJustificationOfDisclosureEval
+	kind	statement
+	base	StatementBase
+	key			HIPAAJustificationOfDisclosure_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	HIPAAJustificationOfDisclosure_VSET

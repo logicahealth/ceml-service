@@ -1,0 +1,6 @@
+cem Num3MinusAlphaMinusAndrostanediolGlucuronideMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num3MinusAlphaMinusAndrostanediolGlucuronideMCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerDeciliter_CODE

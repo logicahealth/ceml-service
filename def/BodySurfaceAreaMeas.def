@@ -1,0 +1,7 @@
+BodySurfaceAreaMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the  BodySurfaceAreaMeas model, the question is "what is the subject's  Body Surface Area" and the numeric answer will have a unit of measure. 
+Body surface area is calculated using  a formula which includes height and weight. It is an indicator of body mass used in medication dosing.
+
+LOINC code 8277-6
+
+

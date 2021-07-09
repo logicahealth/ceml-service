@@ -1,0 +1,4 @@
+cem HepatitisCviruscoreAgPrThrPtBldBonemardonorOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HepatitisCviruscoreAgPrThrPtBldBonemardonorOrd_CODE

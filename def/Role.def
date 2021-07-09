@@ -1,0 +1,9 @@
+Role is the association between two entities, one who plays the role defined by the other.
+Entities play roles and participate in acts.
+Roles are consistent across acts, while ParticipationTypes are defined only within the associated act.
+
+For example:
+		Registered Nurse is the role played by a person.  The role is defined by a licensing entity.
+		A registered nurse can participate in acts as Observer, Performer, Reporter, etc.
+     
+

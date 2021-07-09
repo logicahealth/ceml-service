@@ -1,0 +1,11 @@
+cem TypeOfFall
+
+	kind	component
+    key     TypeOfFall_CODE
+	data	CodeableConcept
+
+	constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	TypeOfFall_VSET
+

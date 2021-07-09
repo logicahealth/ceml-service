@@ -1,0 +1,6 @@
+cem OxyhemoglobinHemoglobinTotalDuringTreatmentMFrPtBldAQnPulseOximetryLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxyhemoglobinHemoglobinTotalDuringTreatmentMFrPtBldAQnPulseOximetry_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

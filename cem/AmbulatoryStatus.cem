@@ -1,0 +1,8 @@
+cem AmbulatoryStatus
+	kind		component
+	key			AmbulatoryStatus_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	AmbulatoryStatus_VSET

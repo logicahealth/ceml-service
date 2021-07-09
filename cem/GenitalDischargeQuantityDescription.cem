@@ -1,0 +1,10 @@
+
+cem GenitalDischargeQuantityDescription
+    kind		component
+	key			GenitalDischargeQuantityDescription_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	GenitalDischargeQuantityDescription_VSET
+	

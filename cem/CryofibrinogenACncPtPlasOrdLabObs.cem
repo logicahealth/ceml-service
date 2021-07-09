@@ -1,0 +1,4 @@
+cem CryofibrinogenACncPtPlasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CryofibrinogenACncPtPlasOrd_CODE

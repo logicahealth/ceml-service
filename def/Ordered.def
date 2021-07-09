@@ -1,0 +1,5 @@
+Ordered is an attribution model.
+"Ordered" means the act of placing an order.
+Ordered is a child model of the Attribution model. It holds the who, when, where, and why information
+of the order placement.
+

@@ -1,0 +1,4 @@
+cem KaryotypeFindPtProductsOfConceptionDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			KaryotypeFindPtProductsOfConceptionDoc_CODE

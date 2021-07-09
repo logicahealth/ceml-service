@@ -1,0 +1,15 @@
+cem PersonalBelongingsDispositionEval
+	kind	statement
+	base	StatementBase
+	key			PersonalBelongingsDisposition_CODE
+	data		CodeableConcept
+	qual		PersonalBelongings
+		id		personalBelongings
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PersonalBelongingsDisposition_VSET

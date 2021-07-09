@@ -1,0 +1,20 @@
+cem FetalHeartRateDecelerationPatternEval
+	kind	statement
+	base	StatementBase
+	key			FetalHeartRateDecelerationPattern_CODE
+	data		CodeableConcept
+	qual		Device
+		id		device
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	FetalHeartRatePattern_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	FetalMonitorDevice_VSET

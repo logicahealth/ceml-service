@@ -1,0 +1,13 @@
+cem PeripheralVisionAssessmentPanel
+	kind	panel
+	base	PanelBase
+	key         PeripheralVisionAssessmentPanel_CODE
+    item        VisualFieldsEval
+        id      visualFieldsEval
+        card    0-1
+    item        PeripheralVisionEval
+        id      peripheralVisionEval
+        card    0-1
+    qual		DataAbsentReason
+		id		dataAbsentReason
+		card	0-1

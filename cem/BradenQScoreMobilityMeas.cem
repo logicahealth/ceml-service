@@ -1,0 +1,9 @@
+cem BradenQScoreMobilityMeas
+	kind		statement
+    base        StatementBase
+	key			BradenQScoreMobility_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.valueset
+		value	BradenQScoreMobility_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

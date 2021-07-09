@@ -1,0 +1,9 @@
+cem LesionMultiplicity
+	kind    	component
+	key         LesionMultiplicity_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   LesionMultiplicity_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

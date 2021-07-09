@@ -1,0 +1,6 @@
+cem LimulusAmebocyteLysateTestACncPtFluNonbiologicalQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LimulusAmebocyteLysateTestACncPtFluNonbiologicalQn_CODE
+	constraint		data.quantity.unit_code
+		value	ElisaUnitsPerMilliliter_CODE

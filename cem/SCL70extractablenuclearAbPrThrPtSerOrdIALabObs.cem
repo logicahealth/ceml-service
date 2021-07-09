@@ -1,0 +1,4 @@
+cem SCL70extractablenuclearAbPrThrPtSerOrdIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SCL70extractablenuclearAbPrThrPtSerOrdIA_CODE

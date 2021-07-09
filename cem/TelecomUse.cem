@@ -1,0 +1,8 @@
+cem TelecomUse
+	kind		component
+	key			TelecomUse_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	TelecomUse_VSET

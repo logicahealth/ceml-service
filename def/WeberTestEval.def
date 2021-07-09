@@ -1,0 +1,5 @@
+WeberTestEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the WeberTestEval model, the question is "what are the findings from performing a Weber test?" and the coded answers can be "lateralizes sound" or "Sound perceived in midline". "WeberTest" tests if a patient has conductive hearing loss, or sensorineural hearing loss. A tuning fork is held midline on the patients head. Normal results are to hear the sound centrally and not for sound to be heard better in one ear over another. 
+
+Modeler: L. Buhl
+Date created: 03/23/2016

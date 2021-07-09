@@ -1,0 +1,24 @@
+cem MonitoredUterineContractionStrengthToneMeas
+	kind	statement
+	base	StatementBase
+	key			MonitoredUterineContractionStrengthTone_CODE
+	data		Quantity
+	qual		Device
+		id		device
+		card	0-1
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	qual		AbnormalInterpretation
+		id		abnormalInterpretation
+		card	0-1
+	qual		DeltaFlag
+		id		deltaFlag
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	device.data.codeableConcept.valueset
+		value	FetalMonitorDevice_VSET
+	constraint	abnormalInterpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationNumericNom_VSET

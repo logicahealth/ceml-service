@@ -1,0 +1,7 @@
+cem HemoglobinA2HemoglobinTotalMFrPtBldQnChromatographycolumnLabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         HemoglobinA2HemoglobinTotalMFrPtBldQnChromatographycolumn_CODE
+    constraint  data.quantity.unit_code
+        value   Percent_CODE
+

@@ -1,0 +1,12 @@
+RevisedGenevaScoreInterpretation
+    This model is used as a means of capturing the interpretation of the
+    Revised Geneva Score total score.  The coded values for the interpretation are:
+	0-3 points indicates low probability (8%)
+	4-10 points indicates intermediate probability (28%)
+	11 points or more indicates high probability (74%)
+
+Created
+    Date Oct. 26, 2015
+    Modeler N Davis
+    status draft
+    

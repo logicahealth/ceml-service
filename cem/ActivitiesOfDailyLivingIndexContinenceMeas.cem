@@ -1,0 +1,12 @@
+cem ActivitiesOfDailyLivingIndexContinenceMeas
+	kind    	statement
+    base        StatementBase
+	key         ActivitiesOfDailyLivingIndexContinence_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	ActivitiesOfDailyLivingIndexLevelOfAssistance_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

@@ -1,0 +1,4 @@
+cem HeinzBodiesACncPtBldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HeinzBodiesACncPtBldOrdMicroscopyLight_CODE

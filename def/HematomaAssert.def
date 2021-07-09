@@ -1,0 +1,4 @@
+HematomaAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the HematomaAssert model, data is "Hematoma_ECID" which means "A collection of blood outside the blood vessels. Hematoma can be localized in an organ, space, or tissue. (MeSH)".
+

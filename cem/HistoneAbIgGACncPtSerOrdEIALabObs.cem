@@ -1,0 +1,4 @@
+cem HistoneAbIgGACncPtSerOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HistoneAbIgGACncPtSerOrdEIA_CODE

@@ -1,0 +1,4 @@
+cem HomogentisateACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HomogentisateACncPtUrineOrd_CODE

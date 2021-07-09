@@ -1,0 +1,5 @@
+cem ChoriogonadotropinadjustedMoMPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChoriogonadotropinadjustedMoMPtSerPlasQn_CODE
+	

@@ -1,0 +1,7 @@
+cem LeucinecrystalsPrThrPtUrinesedOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LeucinecrystalsPrThrPtUrinesedOrdMicroscopylight_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	OrdinalScaleNegToFour_VSET

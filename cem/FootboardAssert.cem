@@ -1,0 +1,6 @@
+
+cem FootboardAssert
+    kind        statement
+    base       	ObservationAssert
+    constraint	data.codeableConcept.code
+        value	Footboard_CODE

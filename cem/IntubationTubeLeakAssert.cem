@@ -1,0 +1,5 @@
+cem IntubationTubeLeakAssert
+	kind		statement
+	base		ObservationAssert
+	constraint	data.codeableConcept.code
+		value	IntubationTubeLeak_CODE

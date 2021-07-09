@@ -1,0 +1,6 @@
+cem LutropinACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LutropinACncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilliunitsPerMilliliter_CODE

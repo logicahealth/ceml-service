@@ -1,0 +1,4 @@
+cem CiprofloxacinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CiprofloxacinSuscPtIsolateOrdQnGradientstrip_CODE

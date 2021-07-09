@@ -1,0 +1,5 @@
+cem AlphaMinus1MinusFetoproteinMoMPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlphaMinus1MinusFetoproteinMoMPtSerPlasQn_CODE
+	

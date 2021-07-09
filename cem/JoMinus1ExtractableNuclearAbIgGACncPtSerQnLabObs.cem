@@ -1,0 +1,6 @@
+cem JoMinus1ExtractableNuclearAbIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			JoMinus1ExtractableNuclearAbIgGACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	ArbitraryUnitsPerMilliliter_CODE

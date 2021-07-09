@@ -1,0 +1,9 @@
+SacralDimpleEval
+
+This model is for evaluating a sacral dimple. Possible values are "Simple dimple" and "Complex dimple". It can be further qualified by an associated syndrome, associated signs and symptoms such as "Tuft of hair" and "Other cutaneous abnormalities" and the level where the conus terminates.
+
+@Author jlindblo
+@Date 01 Dec 2016 16:08
+@Status draft
+@RequestedBy iActivity
+

@@ -1,0 +1,4 @@
+cem BCRMinusABL1MajMolecularRespAchievedArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BCRMinusABL1MajMolecularRespAchievedArbPtBldTissOrdMolgen_CODE

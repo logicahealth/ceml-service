@@ -1,0 +1,2 @@
+ServiceDeliveryLocationParentId is a pointer from a ServiceDeliveryLocation to a ServiceDeliveryLocation that is a parent of the given ServiceDeliveryLocation.
+

@@ -1,0 +1,5 @@
+cem LastBowelMovementDateMeas
+	kind	statement
+	base	StatementBase
+	key         LastBowelMovementDate_CODE
+	data		DateTime

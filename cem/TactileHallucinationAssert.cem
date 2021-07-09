@@ -1,0 +1,5 @@
+cem TactileHallucinationAssert
+	kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.code
+        value	TactileHallucination_CODE

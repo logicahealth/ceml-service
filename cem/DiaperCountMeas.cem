@@ -1,0 +1,5 @@
+cem DiaperCountMeas
+	kind	statement
+	base	StatementBase
+	key			DiaperCount_CODE
+	data		Quantity

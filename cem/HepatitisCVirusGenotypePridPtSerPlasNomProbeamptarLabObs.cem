@@ -1,0 +1,4 @@
+cem HepatitisCVirusGenotypePridPtSerPlasNomProbeamptarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HepatitisCVirusGenotypePridPtSerPlasNomProbeamptar_CODE

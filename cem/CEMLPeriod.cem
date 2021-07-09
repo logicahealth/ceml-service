@@ -1,0 +1,4 @@
+cem CEMLPeriod
+	kind	component
+	key     CEMLPeriod_CODE
+	data	Period

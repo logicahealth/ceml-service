@@ -1,0 +1,12 @@
+cem Drainage
+	kind		component
+	key			Drainage_CODE
+	item		DrainageFluidDescription
+		id		drainageFluidDescription
+		card	0-1
+	item		DrainageFluidStatus
+		id		drainageFluidStatus
+		card	0-1
+	item		DrainageFluidAmountDescription
+		id		drainageFluidAmountDescription
+		card	0-1

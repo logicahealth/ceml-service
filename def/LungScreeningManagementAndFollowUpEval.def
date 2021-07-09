@@ -1,0 +1,14 @@
+LungScreeningManagementAndFollowUpEval created by L.Buhl on 10/Aug/2016 15:30 for iActivity project.
+
+
+LungScreeningManagementAndFollowUpEval is the radiologist's recommendations for managment and follow up regarding a patient's lung screening. 
+
+ Values include:
+	Recall for additional imaging
+	Comparison with prior examination needed
+	Annual screening with low dose CT scan in 12 months
+	Low dose CT scan in 6 months
+	Low dose CT scan in 3 months
+	PET scan
+	Tissue diagnosis
+	

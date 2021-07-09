@@ -1,0 +1,14 @@
+cem NIHStrokeScaleLevelOfConsciousnessMeas
+	kind	statement
+	base	StatementBase
+	key         NIHStrokeScaleLevelOfConsciousness_CODE
+	data        CodeableOrdinal
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+    constraint  data.codeableOrdinal.valueset
+        value   NIHStrokeScaleLevelOfConsciousness_VSET
+    constraint  associatedPrecondition.data.codeableConcept.valueset
+        value   NIHStrokeScaleAssociatedPrecondition_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

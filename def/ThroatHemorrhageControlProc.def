@@ -1,0 +1,5 @@
+ThroatHemorrhageControlProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data
+describes the procedure being performed.
+In the ThroatHemorrhageControlProc model data is ThroatHemorrhageControl_KEY_ECID which captures information surrounding
+a Throat Hemorrhage Control which means the act of controlling bleeding in the throat.
+

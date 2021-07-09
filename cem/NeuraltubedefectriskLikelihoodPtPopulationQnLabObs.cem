@@ -1,0 +1,4 @@
+cem NeuraltubedefectriskLikelihoodPtPopulationQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NeuraltubedefectriskLikelihoodPtPopulationQn_CODE

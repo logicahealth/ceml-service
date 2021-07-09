@@ -1,0 +1,6 @@
+cem BismuthCreatinineMCrto24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BismuthCreatinineMCrto24HUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicrogramsPerGram_CODE

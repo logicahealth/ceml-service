@@ -1,0 +1,14 @@
+cem CultureCollectedProc
+	kind		statement
+	base		Procedure
+	qual		ApproachSite
+		id		approachSite
+		card	0-1
+    qual        SpecimenType
+        id      specimenType
+        card    0-1    
+	att			SpecimenCollected
+		id		specimenCollected
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	CultureCollected_CODE

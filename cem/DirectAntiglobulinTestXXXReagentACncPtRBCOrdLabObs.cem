@@ -1,0 +1,6 @@
+cem DirectAntiglobulinTestXXXReagentACncPtRBCOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			DirectAntiglobulinTestXXXReagentACncPtRBCOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

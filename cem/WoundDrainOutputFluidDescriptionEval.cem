@@ -1,0 +1,8 @@
+cem WoundDrainOutputFluidDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			WoundDrainOutputFluidDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	WoundDrainOutputFluidDescription_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	WoundDrainOutputBodyLocationPrecoord_VSET

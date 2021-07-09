@@ -1,0 +1,4 @@
+cem MinBacterialcidalSusceptibilityLabObs
+	kind		statement
+	base		AntibioticSusceptibilityLabObs
+	key			MinBacterialcidalSusceptibility_CODE

@@ -1,0 +1,4 @@
+ErroneousIdentification is a component model. 
+The ErroneousIdentification model captures the data key code of ErroneousIdentification_KEY_ECID.
+By definition ErroneousIdentification means a value that serves as a warning that a patient has been or may have been erroneously identified.  Sample values are "potentially fraudulent" (meaning there is suspicion that the patient may have intentionally misidentified himself) and "prior misidentification" (meaning in the past this patient has been confused with another patient). 
+

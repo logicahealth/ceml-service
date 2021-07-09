@@ -1,0 +1,4 @@
+cem ZidovudineSuscPtIsolateOrdQnGenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ZidovudineSuscPtIsolateOrdQnGenotyping_CODE

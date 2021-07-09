@@ -1,0 +1,6 @@
+cem InsulinPorcineAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			InsulinPorcineAbACncPtSerQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

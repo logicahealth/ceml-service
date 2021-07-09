@@ -1,0 +1,8 @@
+cem PrimaryInd
+	kind		component
+	key			PrimaryInd_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	YesNo_VSET

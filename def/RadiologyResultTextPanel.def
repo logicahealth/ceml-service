@@ -1,0 +1,5 @@
+RadiologyResultText Panel is a subtype (the only one that presently exists) of RadiologyResultPanel that just contains a RadiologyText item.
+Modeler: Kspencer
+Date:      02/05/2016
+Change:  Added constraints
+

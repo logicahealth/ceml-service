@@ -1,0 +1,6 @@
+cem SARScoronavirus2RNALnCncPtXXXQnProbeamptar
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         SARScoronavirus2RNALnCncPtXXXQnProbeamptar_CODE
+    constraint  data.quantity.unit_code
+        value   LogCopiesPerMilliliter_CODE

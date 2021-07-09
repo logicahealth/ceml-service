@@ -1,0 +1,11 @@
+PregnancyStatusEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+ In the PregnancyStatusEval model, the question is "what is the subject's Pregnancy Status?" and the coded answers can be 'Patient currently pregnant', 'Denies', and 'Not pregnant'.
+ "PregnancyStatusEval" by definition means whether a subject is pregnant or not. 
+Pregnancy status at time of encounter.
+
+@Author lpctille
+@Date 07 Apr 2017 13:27
+@Status draft
+@RequestedBy Home Warner PE project
+
+

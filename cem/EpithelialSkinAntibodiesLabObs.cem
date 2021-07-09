@@ -1,0 +1,4 @@
+cem EpithelialSkinAntibodiesLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			EpithelialSkinAntibodies_CODE

@@ -1,0 +1,6 @@
+cem ImmunizationLink
+	kind    	link
+	key         ImmunizationLink_KEY_CODE
+    data        Identifier
+    constraint  data.identifier.key
+        value   Immunization_CODE

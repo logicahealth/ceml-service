@@ -1,0 +1,4 @@
+cem AspergillusFumigatus2AbACncPtSerOrdImmuneDiffusionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AspergillusFumigatus2AbACncPtSerOrdImmuneDiffusion_CODE

@@ -1,0 +1,6 @@
+cem NumOneThreeBetaGlucanMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NumOneThreeBetaGlucanMCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	PicogramsPerMilliliter_CODE

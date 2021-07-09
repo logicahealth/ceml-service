@@ -1,0 +1,6 @@
+cem VonWillebrandfactorAgactualNormalRelMCncPtPPPQnImmLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			VonWillebrandfactorAgactualNormalRelMCncPtPPPQnImm_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

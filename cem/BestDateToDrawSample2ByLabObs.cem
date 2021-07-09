@@ -1,0 +1,4 @@
+cem BestDateToDrawSample2ByLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			BestDateToDrawSample2By_CODE

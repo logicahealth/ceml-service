@@ -1,0 +1,6 @@
+cem Num2MinusOxo3MinusMethylvalerateCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num2MinusOxo3MinusMethylvalerateCreatinineScRtoPtUrineQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

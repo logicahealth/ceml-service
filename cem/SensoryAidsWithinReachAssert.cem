@@ -1,0 +1,6 @@
+
+cem SensoryAidsWithinReachAssert
+    kind        statement
+    base       	ObservationAssert
+    constraint	data.codeableConcept.code
+        value	SensoryAidsWithinReach_CODE

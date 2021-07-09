@@ -1,0 +1,6 @@
+cem OxygenSaturationMFrPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxygenSaturationMFrPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

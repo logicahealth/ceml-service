@@ -1,0 +1,6 @@
+cem CrystalsUnidentifiedACncPtUrineSedOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CrystalsUnidentifiedACncPtUrineSedOrdMicroscopyLight_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrdinalScaleNegToFour_VSET

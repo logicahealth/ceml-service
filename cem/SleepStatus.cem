@@ -1,0 +1,9 @@
+cem SleepStatus
+	kind    	component
+	key         SleepStatus_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   SleepStatus_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

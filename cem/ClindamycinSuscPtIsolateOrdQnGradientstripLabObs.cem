@@ -1,0 +1,4 @@
+cem ClindamycinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ClindamycinSuscPtIsolateOrdQnGradientstrip_CODE

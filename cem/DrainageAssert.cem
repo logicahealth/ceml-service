@@ -1,0 +1,16 @@
+cem DrainageAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual		DrainageFluidDescription
+		id		drainageFluidDescription
+		card	0-1
+    qual		DrainageFluidColor
+		id		drainageFluidColor
+		card	0-1
+	constraint	data.codeableConcept.code
+        value	Drainage_CODE
+    constraint  bodyLocation.bodyLocationPrecoord.card
+        value   0    
+    constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	DrainageBodyLocation_VSET
+    

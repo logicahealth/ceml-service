@@ -1,0 +1,14 @@
+cem ImagingProcedure
+	kind	statement
+	base    Procedure
+	
+    qual        AvgAbsorbedRadiationDoseMeas
+        id      avgAbsorbedRadiationDoseMeas
+        card    0-1
+
+    qual        AvgRadiationEquivalentDoseMeas
+        id      avgRadiationEquivalentDoseMeas
+        card    0-1
+
+    constraint  data.codeableConcept.valueset
+        value   ImagingProcedure_VSET

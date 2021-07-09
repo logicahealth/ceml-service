@@ -1,0 +1,7 @@
+cem UnderlyingConditionLeadingToDeath
+	kind		component
+	key			UnderlyingConditionLeadingToDeath_CODE
+	data		String
+	qual		DurationOfCondition
+		id		durationOfCondition
+		card	0-1

@@ -1,0 +1,4 @@
+cem SucroseHemolysisACncPtBldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SucroseHemolysisACncPtBldOrd_CODE

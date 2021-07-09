@@ -1,0 +1,6 @@
+cem SpermatozoaNormal100SpermatozoaNFrPtSemenQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SpermatozoaNormal100SpermatozoaNFrPtSemenQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

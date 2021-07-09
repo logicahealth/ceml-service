@@ -1,0 +1,5 @@
+BreathSoundsAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the BreathSoundsAssert model, data is chosen from a domain of BreathSounds_VALUESET_ECID. Sample values from this value set are 'wheezing', 'diminished breath sounds', 'fine crackles', etc.
+This model describes the assertion of the quality and characteristics of breath sounds of a subject when assessing lung function.
+

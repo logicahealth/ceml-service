@@ -1,0 +1,15 @@
+cem CranialNerveISmellEval
+	kind	statement
+	base	StatementBase
+	key         CranialNerveISmell_CODE
+    data        CodeableConcept
+    qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-M
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-M
+    constraint	data.codeableConcept.valueset
+		value	CranialNerveISmell_VSET
+    constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	NostrilBodyLocationPrecoord_VSET

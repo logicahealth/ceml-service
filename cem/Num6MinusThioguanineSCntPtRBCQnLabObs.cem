@@ -1,0 +1,6 @@
+cem Num6MinusThioguanineSCntPtRBCQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num6MinusThioguanineSCntPtRBCQn_CODE
+	constraint		data.quantity.unit_code
+		value	Picomole_CODE

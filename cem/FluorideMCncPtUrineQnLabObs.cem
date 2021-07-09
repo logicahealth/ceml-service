@@ -1,0 +1,6 @@
+cem FluorideMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FluorideMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerLiter_CODE

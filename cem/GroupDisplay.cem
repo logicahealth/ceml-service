@@ -1,0 +1,4 @@
+cem GroupDisplay
+kind    component
+key     GroupDisplay_CODE
+data    String

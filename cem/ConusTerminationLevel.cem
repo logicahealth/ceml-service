@@ -1,0 +1,10 @@
+
+cem ConusTerminationLevel
+	kind    	component
+	key         ConusTerminationLevel_CODE
+	data        CodeableConcept
+       
+	constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	ConusTerminationLevel_VSET

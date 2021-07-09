@@ -1,0 +1,4 @@
+cem ReaginAbPrThrPtSerdonorOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ReaginAbPrThrPtSerdonorOrd_CODE

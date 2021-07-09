@@ -1,0 +1,6 @@
+cem TreponemaPallidumAbIgGACncPtSerOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TreponemaPallidumAbIgGACncPtSerOrdEIA_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	ReactNonReactIndet_VSET

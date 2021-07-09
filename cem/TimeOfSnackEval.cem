@@ -1,0 +1,16 @@
+cem TimeOfSnackEval
+
+	kind	statement
+	base	StatementBase
+    key     TimeOfSnack_CODE
+	data	CodeableConcept
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    1
+	constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	TimeOfSnack_VSET
+    constraint  associatedPrecondition.data.codeableConcept.code
+        value   Preadmission_CODE
+

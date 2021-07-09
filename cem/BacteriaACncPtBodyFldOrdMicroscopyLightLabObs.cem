@@ -1,0 +1,4 @@
+cem BacteriaACncPtBodyFldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BacteriaACncPtBodyFldOrdMicroscopyLight_CODE

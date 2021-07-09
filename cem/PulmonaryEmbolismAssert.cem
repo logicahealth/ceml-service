@@ -1,0 +1,13 @@
+cem PulmonaryEmbolismAssert
+	kind    	statement
+    base        AssertionOfPresence
+    qual        PulmonaryEmbolismSubclassification
+        id      pulmonaryEmbolismSubclassification
+        card    0-M
+    constraint  data.codeableConcept.code
+        value   PulmonaryEmbolism_CODE
+    constraint  reportedReceived.card
+        value   0
+    constraint  verified.card
+        value   0
+

@@ -1,0 +1,9 @@
+RecipientIdentifier 
+
+This is a component model used to capture the identifying code or number that represents the healthcare provider or provider organization who/which is to receive the request.
+
+@Author bsheale
+@Date 23 May 2017 15:34
+@Status draft
+@RequestedBy ACOG
+@Keyword referral, FHIR

@@ -1,0 +1,4 @@
+cem AztreonamSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AztreonamSuscPtIsolateOrdQnGradientstrip_CODE

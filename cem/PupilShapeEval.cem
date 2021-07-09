@@ -1,0 +1,14 @@
+cem PupilShapeEval
+	kind	statement
+	base	StatementBase
+	key			PupilShape_CODE
+	data		CodeableConcept
+	qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PupilShape_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	PupilBodyLocationPrecoord_VSET

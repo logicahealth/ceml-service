@@ -1,0 +1,6 @@
+cem CalciumcarbonatecrystalsNaricPtUrinesedQnMicroscopylightHPFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CalciumcarbonatecrystalsNaricPtUrinesedQnMicroscopylightHPF_CODE
+	constraint		data.quantity.unit_code
+			value		PerHighPowerField_CODE

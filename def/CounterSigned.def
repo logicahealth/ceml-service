@@ -1,0 +1,4 @@
+CounterSigned is the act of applying an additional signature to an action as a witness to it being done, for example the administration of a 
+controlled substance to a patient by a nures is countersigned by another nurse.
+CoungerSigned is a child model of the Attribution model. It holds the who, when, where, and why information regarding the signature.
+

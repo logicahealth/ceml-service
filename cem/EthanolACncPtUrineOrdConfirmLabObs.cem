@@ -1,0 +1,4 @@
+cem EthanolACncPtUrineOrdConfirmLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EthanolACncPtUrineOrdConfirm_CODE

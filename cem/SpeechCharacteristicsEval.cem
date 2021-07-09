@@ -1,0 +1,10 @@
+
+cem SpeechCharacteristicsEval
+	kind	statement
+    base    StatementBase
+	key			SpeechCharacteristics_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	SpeechCharacteristics_VSET

@@ -1,0 +1,6 @@
+cem CytosolAminopeptidaseCRat24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CytosolAminopeptidaseCRat24HUrineQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

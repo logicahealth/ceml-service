@@ -1,0 +1,10 @@
+cem ClinicalAsthmaScoreIERatioMeas
+	kind	statement
+	base	StatementBase
+	key			ClinicalAsthmaScoreIERatio_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	ClinicalAsthmaScoreIERatio_VSET

@@ -1,0 +1,4 @@
+cem OpiatestestedforPridPtUrineNomScreenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			OpiatestestedforPridPtUrineNomScreen_CODE

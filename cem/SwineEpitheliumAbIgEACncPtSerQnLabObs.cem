@@ -1,0 +1,6 @@
+cem SwineEpitheliumAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SwineEpitheliumAbIgEACncPtSerQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	ArbitraryConcentrationUnits_VSET

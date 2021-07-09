@@ -1,0 +1,4 @@
+cem MicroscopicObservationPridPtBldNomHemosiderinStainLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MicroscopicObservationPridPtBldNomHemosiderinStain_CODE

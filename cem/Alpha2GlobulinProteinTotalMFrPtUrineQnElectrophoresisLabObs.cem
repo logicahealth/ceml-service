@@ -1,0 +1,6 @@
+cem Alpha2GlobulinProteinTotalMFrPtUrineQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Alpha2GlobulinProteinTotalMFrPtUrineQnElectrophoresis_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

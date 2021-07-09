@@ -1,0 +1,7 @@
+VentilatorEquipmentChargeEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value
+(CD or CO) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the
+"answer" in data can be "White".
+In the VentilatorEquipmentChargeEval model, the question is "what is the subject's Ventilator Equipment Charge?" and the coded answers can be
+'Life support initial', 'life support subsequent', etc.
+"VentilatorEquipmentChargeEval" by definition means a request for patient accountability or payment relating to use of ventilator equipment.
+

@@ -1,0 +1,3 @@
+SutureRemovalProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes the procedure being performed.
+In the SutureRemovalProc model data is SutureRemoval_ECID which captures information surrounding a SutureRemovalProc which means the act of removing the suture from a patient's wound etc.
+

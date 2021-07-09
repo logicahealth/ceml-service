@@ -1,0 +1,6 @@
+cem GranulocytesImmature100LeukocytesNFrPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GranulocytesImmature100LeukocytesNFrPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

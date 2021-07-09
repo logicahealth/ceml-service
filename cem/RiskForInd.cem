@@ -1,0 +1,4 @@
+cem RiskForInd
+	kind		modifier
+	key			RiskForInd_CODE
+	data		Boolean

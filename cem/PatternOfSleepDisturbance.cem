@@ -1,0 +1,10 @@
+
+cem PatternOfSleepDisturbance
+	kind    	component
+	key         PatternOfSleepDisturbance_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset        
+        value   PatternOfSleepDisturbance_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

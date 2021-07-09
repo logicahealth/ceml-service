@@ -1,0 +1,9 @@
+BeneficiaryIdentifier
+This is a component model used to capture the identifying code or number for the instance data for a beneficiary.
+
+@Author N Davis
+@Date 12 May 2017
+@Status draft
+@RequestedBy Internal
+@Keyword coverage, insurance, financial
+        

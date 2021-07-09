@@ -1,0 +1,7 @@
+cem LowOxygenAlarmSettingMeas
+	kind	statement
+	base	StatementBase
+	key			LowOxygenAlarmSetting_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

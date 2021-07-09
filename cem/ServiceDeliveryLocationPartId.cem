@@ -1,0 +1,4 @@
+cem ServiceDeliveryLocationPartId
+	kind		component
+	key			ServiceDeliveryLocationPartId_CODE
+	data		Identifier

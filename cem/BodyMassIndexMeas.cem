@@ -1,0 +1,12 @@
+cem BodyMassIndexMeas
+	kind	statement
+	base	ClinicalObs
+	key			BodyMassIndex_CODE
+	data		Quantity
+	qual		ReferenceRangeNar
+		id		referenceRangeNar
+		card	0-1
+	constraint	data.quantity.unit_code
+		value	KilogramsPerSquareMeter_CODE
+	constraint	interpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationNumericNom_VSET

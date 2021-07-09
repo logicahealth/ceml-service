@@ -1,0 +1,4 @@
+cem OvaParasitesIdentifiedPridPtStoolNomConcentrationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			OvaParasitesIdentifiedPridPtStoolNomConcentration_CODE

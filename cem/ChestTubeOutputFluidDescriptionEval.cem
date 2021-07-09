@@ -1,0 +1,10 @@
+cem ChestTubeOutputFluidDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			ChestTubeOutputFluidDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	ChestTubeOutputFluidDescription_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	ChestTubeDevice_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	ChestTubeBodyLocationPrecoord_VSET

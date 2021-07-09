@@ -1,0 +1,16 @@
+cem HipTendonTearHipFemurAngleMeasuresPanel
+	kind    	panel
+    base        PanelBase
+	key         HipTendonTearHipFemurAngleMeasuresPanel_CODE
+    item        HipLabrumTearEval
+        id      hipLabrumTearEval
+        card    0-1
+    item        AlphaAngleMeas
+        id      alphaAngleMeas
+        card    0-1
+    item        CoronalCenterEdgeAngleMeas
+        id      coronalCenterEdgeAngleMeas
+        card    0-1
+    item        SagittalCenterEdgeAngleMeas
+        id      sagittalCenterEdgeAngleMeas
+        card    0-1

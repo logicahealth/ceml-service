@@ -1,0 +1,38 @@
+PulmonaryAspirationRiskPanel 
+status:  proposed
+Author: DMM
+
+original Aspiration Risk Values:
+Cough/Frequent throat clearing with oral intake
+Decreased ability to handle secretions
+Difficulty swallowing liquids, thick
+Difficulty swallowing liquids, thin
+Difficulty swallowing pills
+Difficulty swallowing saliva
+Difficulty swallowing solids
+Weak, ineffective cough
+Wet sounding voice
+none
+other
+
+Ineffective = inadequate?  NCID 103238
+
+Modeled values considered:
+cough 
+   ExacerbatingFactor:	oral intake
+throat clearing 
+   ExacerbationgFactor:	oral intake
+Dysphagia 
+    ExacerbatingFactors:	thick liquids
+		thin liquids
+		pills
+		saliva
+		solids
+wet voice
+ineffective cough (subsumes weak cough)
+(in)effective in clearing secretions
+Decided against NoSignsObservedIndicatingPulmonaryAspirationRisk for "none".  Using PulmonaryAspirationAssert with negation and RiskForInd instead.
+
+Decided to use pre-coordinated cough and difficulty swallowing terms because they are in SNOMED.
+Cough (finding) SCTID: 4972700, and descendants
+Difficulty Swallowing (finding) SCTID: 288939007, and descendants

@@ -1,0 +1,6 @@
+WoundShape is a component type clinical element model that captures the general shape of a wound.  There is no corresponding LOINC code at this time.
+
+@Author nrdavis1
+@Date 30 Sep 2019 13:52
+@Status draft
+@RequestedBy Wound Assertion project

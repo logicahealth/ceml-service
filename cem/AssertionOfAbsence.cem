@@ -1,0 +1,13 @@
+cem AssertionOfAbsence
+	kind    	statement
+    base        StatementBase
+	key         AssertionOfAbsense_CODE
+    data        CodeableConcept
+	qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-M
+    mod         CertaintyOfAbsence
+        id      certaintyOfAbsence
+        card    0-1
+	constraint	data.codeableConcept.valueset
+		value	ClinicalAssertion_VSET

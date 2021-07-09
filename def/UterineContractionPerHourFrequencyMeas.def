@@ -1,0 +1,7 @@
+UterineContractionPerHourFrequencyMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds
+a numeric value (PQ, IVLPQ, REAL, INT, CO)  answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?",
+and the "answer" in data can be "100 bpm".
+In the UterineContractionPerHourFrequencyMeas model, the question is "what is the subject's Uterine Contraction Per Hour Frequency?"
+and the numeric answer will have a unit of measure. 
+"UterineContractionPerHourFrequencyMeas" by definition means how many uterine contractions occur in a one hour time period.
+

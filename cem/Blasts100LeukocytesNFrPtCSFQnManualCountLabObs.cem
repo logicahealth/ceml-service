@@ -1,0 +1,6 @@
+cem Blasts100LeukocytesNFrPtCSFQnManualCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Blasts100LeukocytesNFrPtCSFQnManualCount_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

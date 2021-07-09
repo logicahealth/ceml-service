@@ -1,0 +1,6 @@
+cem CollectionTimeTmStpPtXXXQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CollectionTimeTmStpPtXXXQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnityUnitsOfMeasure_CODE

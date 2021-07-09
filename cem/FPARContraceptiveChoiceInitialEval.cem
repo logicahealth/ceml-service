@@ -1,0 +1,14 @@
+cem FPARContraceptiveChoiceInitialEval
+kind	statement
+base	StatementBase
+key		FPARContraceptiveChoiceInitial_CODE
+data	CodeableConcept
+
+qual		DataAbsentReason
+	id		dataAbsentReason
+	card	0-1
+	
+constraint	data.codeableConcept.valueset
+	value	ContraceptiveChoices_VSET
+constraint	dataAbsentReason.data.codeableConcept.valueset
+	value	ReasonNoContraceptiveChosen_VSET

@@ -1,0 +1,4 @@
+cem PseudocholinesterasePhenotypePridPtSerPlasNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PseudocholinesterasePhenotypePridPtSerPlasNom_CODE

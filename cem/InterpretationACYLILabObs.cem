@@ -1,0 +1,4 @@
+cem InterpretationACYLILabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationACYLI_CODE

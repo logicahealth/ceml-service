@@ -1,0 +1,4 @@
+cem AutopsyreportFindPtSettingDocRoleLabObs
+	kind		statement
+	base		StandardLabObsDocument
+	key			AutopsyreportFindPtSettingDocRole_CODE

@@ -1,0 +1,4 @@
+cem HistoplasminReactionWhealDiamPtSkinOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HistoplasminReactionWhealDiamPtSkinOrd_CODE

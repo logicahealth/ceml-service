@@ -1,0 +1,9 @@
+cem CorticalDestruction
+	kind    	component
+	key         CorticalDestruction_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   PresentAbsent_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

@@ -1,0 +1,4 @@
+cem InfluenzaVirusASwineOriginRNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			InfluenzaVirusASwineOriginRNAACncPtXXXOrdProbeAmpTar_CODE

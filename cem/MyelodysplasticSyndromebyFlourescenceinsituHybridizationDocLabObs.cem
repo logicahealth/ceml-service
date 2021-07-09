@@ -1,0 +1,4 @@
+cem MyelodysplasticSyndromebyFlourescenceinsituHybridizationDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MyelodysplasticSyndromebyFlourescenceinsituHybridizationDoc_CODE

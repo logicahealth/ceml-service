@@ -1,0 +1,6 @@
+cem Lymphocytesvariant100leukocytesNFrPtBldQnManualcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Lymphocytesvariant100leukocytesNFrPtBldQnManualcount_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

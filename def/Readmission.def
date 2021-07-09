@@ -1,0 +1,2 @@
+Readmission
+This is the Readmiission clinical element model.  It is used to capture the reason a patient has been readmitted into a hospital.  The reasons could be "Readmitted <30 days from previous procedure", "surgical site infection", "cerebral vascular accident", "bleeding", "pain", "sepsis", etc.

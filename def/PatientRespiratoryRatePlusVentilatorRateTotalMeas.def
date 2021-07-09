@@ -1,0 +1,4 @@
+PatientRespiratoryRatePlusVentilatorRateTotalMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the PatientRespiratoryRatePlusVentilatorRateTotalMeas model, the question is "what is the subject's Patient Respiratory Rate Plus Ventilator Rate Total?" and the numeric answer will have a unit of measure. 
+"PatientRespiratoryRatePlusVentilatorRateTotalMeas" is measure of a patient's total respiratory rate (ventilator rate plus patient rate)
+

@@ -1,0 +1,4 @@
+cem MaternalSerumScreeningIntegratedSpecimen1PtDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MaternalSerumScreeningIntegratedSpecimen1PtDoc_CODE

@@ -1,0 +1,11 @@
+cem Formulation
+	kind		component
+	key			Formulation_CODE
+	data		CodeableConcept
+	qual		UsualRoute
+		id		usualRoute
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	DoseForm_VSET

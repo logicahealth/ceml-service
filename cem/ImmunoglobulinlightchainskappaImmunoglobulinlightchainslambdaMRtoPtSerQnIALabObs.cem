@@ -1,0 +1,4 @@
+cem ImmunoglobulinlightchainskappaImmunoglobulinlightchainslambdaMRtoPtSerQnIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ImmunoglobulinlightchainskappaImmunoglobulinlightchainslambdaMRtoPtSerQnIA_CODE

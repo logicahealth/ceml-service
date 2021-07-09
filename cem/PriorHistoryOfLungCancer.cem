@@ -1,0 +1,9 @@
+cem PriorHistoryOfLungCancer
+	kind    	component
+	key         PriorHistoryOfLungCancer_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   YesNoUnknown_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

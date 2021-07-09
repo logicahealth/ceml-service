@@ -1,0 +1,4 @@
+DirectionsForRangeDosing is a model which takes information from the order comment field; it is triggered by range in 
+frequency and/or in dose. Range dosing examples may include, "Take one to two tablets depending on pain level," or "Take 2 Units if glucose is between
+200 and 250."
+

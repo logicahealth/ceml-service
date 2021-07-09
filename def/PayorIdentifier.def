@@ -1,0 +1,9 @@
+PayorIdentifier
+This is a component model used to capture the identifying code or number that represents the instance data of the insurance payor.
+
+@Author N Davis
+@Date 12 May 2017
+@Status draft
+@RequestedBy Internal
+@Keyword coverage, insurance, financial
+        

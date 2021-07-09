@@ -1,0 +1,6 @@
+WoundEdgeApproximationAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the
+condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the WoundEdgeApproximationAssert model, data is WoundEdgeApproximation_VALUESET_ECID which is a set of assertions that mean a
+description of how the close the edges of a wound are to each other.
+

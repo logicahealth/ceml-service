@@ -1,0 +1,6 @@
+EvidenceReference model is a component model. This model holds a "question" in the key code (EvidenceReference_KEY_ECID)and a 
+Text String (ST) as the answer in data.
+In the EvidenceReference the question is "what is the Evidence Reference" and the answer in data is a text string.
+By definition EvidenceReference means the link to an evidence that supports an alert in the knowledge management system. 
+The free text value is expected to be a URL or something similar.
+

@@ -1,0 +1,6 @@
+cem LymphNodeIdentifier
+	kind    	component
+	key         LymphNodeIdentifier_CODE
+	data        Identifier
+
+

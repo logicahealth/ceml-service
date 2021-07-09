@@ -1,0 +1,3 @@
+QuantitativeFindingComparisonUnits is a model used to store the units of stored patient that was used in a standardized score.
+For example if the PESI score grants 20 points for a HR greater than 110, the value in this model is 'beats per minute'
+This model was made specifically for the Homer Warner center for use in the pulomonary embolism (PE) clinical decision support application.

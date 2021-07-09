@@ -1,0 +1,4 @@
+cem HelicobacterpyloriAbIgGPrThrPtSerPlasOrdIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HelicobacterpyloriAbIgGPrThrPtSerPlasOrdIA_CODE

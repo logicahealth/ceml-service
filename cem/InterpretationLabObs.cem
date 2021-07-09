@@ -1,0 +1,4 @@
+cem InterpretationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			Interpretation_CODE

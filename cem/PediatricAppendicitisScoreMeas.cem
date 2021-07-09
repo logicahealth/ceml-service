@@ -1,0 +1,8 @@
+cem PediatricAppendicitisScoreMeas
+    kind        statement
+	base        StatementBase
+    key         PediatricAppendicitisScore_CODE
+	data        Quantity
+    qual        PediatricAppendicitisScoreComponents
+        id      pediatricAppendicitisScoreComponents
+        card    0-M

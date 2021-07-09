@@ -1,0 +1,4 @@
+cem EmployeeExternalId
+	kind	component
+	key		EmployeeExternalId_CODE
+    data    Identifier

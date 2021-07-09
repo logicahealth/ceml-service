@@ -1,0 +1,6 @@
+ClinicalAsthmaScoreRespiratoryRateGreaterThanFiveYearsMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the ClinicalAsthmaScoreRespiratoryRateGreaterThanFiveYearsMeas model, the question is "what is the greater than 5 year old subject's clinical asthma respiratory rate score?" and the answer will be an ordinal value.
+ClinicalAsthmaScoreRespiratoryRateGreaterThanFiveYearsMeas is an element of the clinical asthma score used to assess respiratory rate (RR)
+in a pediatric patient that is greater than 5 years old.
+Values range from 0-2 and correspond as follows: 0(RR <= 25); 1(RR 25-35); 2(RR>35)
+

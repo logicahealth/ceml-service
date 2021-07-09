@@ -1,0 +1,4 @@
+ObstetricalDeliveryRouteEval is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the ObstetricalDeliveryRouteEval model, the question is "what is the Obstetrical Delivery Route?" and the coded answers can be 'Cesarean Section','Vaginal Delivery', and '' etc. (12/19/2011 value set not yet made. jw)
+"ObstetricalDeliveryRouteEval" by definition means a record of the obsterical delivery route like Cesarean Section, Vaginal Delivery, etc.
+

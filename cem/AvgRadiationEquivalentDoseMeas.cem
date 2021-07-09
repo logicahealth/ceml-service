@@ -1,0 +1,7 @@
+cem AvgRadiationEquivalentDoseMeas
+	kind	component
+	key     AvgRadiationEquivalentDoseMeas_CODE
+	data	Quantity
+
+    constraint      data.quantity.unit_code
+        value       Millisievert_CODE

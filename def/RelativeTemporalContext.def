@@ -1,0 +1,5 @@
+RelativeTemporalContext captures temporal (temporary circumstances) that have bearing on the data that it qualifies but will not necessarily modify its meaning.
+Things like "after activity," "at rest," or "post-op." 
+
+Obsolete.  Use AssociatedPrecondition
+

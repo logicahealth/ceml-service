@@ -1,0 +1,9 @@
+ContraceptiveCounselingProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes the procedure being performed.
+
+Contraceptive counseling is an interaction in which provider spends time during an encounter discussing the patient's choice of contraceptive method; explicit patient-provider interaction discussing contraceptive methods and available options that lasts at least 10 minutes for a new patient, 5 minutes for an existing patient
+
+@Author bsheale
+@Date 07 Apr 2017 19:18
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog

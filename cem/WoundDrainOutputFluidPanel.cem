@@ -1,0 +1,19 @@
+cem WoundDrainOutputFluidPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			WoundDrainOutputFluidPanel_CODE
+	item		WoundDrainOutputFluidVolumeMeas
+		id		woundDrainOutputFluidVolumeMeas
+		card	1
+	item		WoundDrainOutputFluidDescriptionEval
+		id		woundDrainOutputFluidDescriptionEval
+		card	0-M
+	item		WoundAssert
+		id		woundAssert
+		card	0-1
+	constraint	method.data.codeableConcept.valueset
+		value	WoundDrainOutputMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	WoundDrainOutputDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	WoundDrainOutputBodyLocationPrecoord_VSET

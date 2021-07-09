@@ -1,0 +1,6 @@
+cem TrichophytonReactionWheal2DPost01mlTrichophytonIDDiamPtSkinQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TrichophytonReactionWheal2DPost01mlTrichophytonIDDiamPtSkinQn_CODE
+	constraint		data.quantity.unit_code
+		value	Millimeters_CODE

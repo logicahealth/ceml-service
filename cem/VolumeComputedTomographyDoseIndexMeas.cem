@@ -1,0 +1,8 @@
+cem VolumeComputedTomographyDoseIndexMeas
+    kind	statement
+	base	StatementBase
+    key     VolumeComputedTomographyDoseIndex_CODE
+	data	Quantity
+    constraint	data.quantity.unit_code
+	    value	Milligray_CODE
+	

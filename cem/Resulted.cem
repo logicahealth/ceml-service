@@ -1,0 +1,5 @@
+cem Resulted
+	kind		attribution
+	base		Attribution
+	constraint	data.codeableConcept.code
+		value	Resulted_CODE

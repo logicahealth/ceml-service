@@ -1,0 +1,4 @@
+cem ImmunofixationSerumLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ImmunofixationSerum_CODE

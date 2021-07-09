@@ -1,0 +1,4 @@
+cem BordetellaPertussisAgACncPtXXXOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BordetellaPertussisAgACncPtXXXOrdIF_CODE

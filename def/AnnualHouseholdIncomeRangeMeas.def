@@ -1,0 +1,9 @@
+AnnualHouseholdIncomeRangeMeas is a model for the measurment of a client’s self-report of the numeric value of the annual household income where the client resides.
+The LOINC Code is 77244-2.
+
+@Author bsheale
+@Date 05 Apr 2017 17:45
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog, lab
+

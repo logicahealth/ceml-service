@@ -1,0 +1,4 @@
+cem SpermatozoaProgressiveACncPtSemenOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SpermatozoaProgressiveACncPtSemenOrd_CODE

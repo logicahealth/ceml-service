@@ -1,0 +1,6 @@
+cem CytomegalovirusAbIgmAcncPtSerOrdEiaLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CytomegalovirusAbIgmAcncPtSerOrdEia_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

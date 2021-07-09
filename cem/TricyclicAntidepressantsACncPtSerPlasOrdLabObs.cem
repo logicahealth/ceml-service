@@ -1,0 +1,6 @@
+cem TricyclicAntidepressantsACncPtSerPlasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TricyclicAntidepressantsACncPtSerPlasOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

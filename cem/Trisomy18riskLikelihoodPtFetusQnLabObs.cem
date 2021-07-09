@@ -1,0 +1,4 @@
+cem Trisomy18riskLikelihoodPtFetusQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Trisomy18riskLikelihoodPtFetusQn_CODE

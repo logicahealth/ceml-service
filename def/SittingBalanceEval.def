@@ -1,0 +1,1 @@
+SittingBalanceEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD or CO) answer in data. In the SittingBalanceEval model, the question is "What is the patient's sitting balance?" and the coded answers can be 'Requires support','Does not sit', and 'Stable on bedside' etc.

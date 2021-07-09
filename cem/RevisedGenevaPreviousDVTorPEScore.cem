@@ -1,0 +1,7 @@
+cem RevisedGenevaPreviousDVTorPEScore
+	kind	statement
+	base	StatementBase
+	key     RevisedGenevaPreviousDVTorPEScore_CODE
+	data	CodeableOrdinal
+    constraint  data.codeableOrdinal.valueset
+        value   RevisedGenevaScorePreviousDVTPE_VSET

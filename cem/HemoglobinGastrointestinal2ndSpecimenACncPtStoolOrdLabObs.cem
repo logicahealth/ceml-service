@@ -1,0 +1,6 @@
+cem HemoglobinGastrointestinal2ndSpecimenACncPtStoolOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HemoglobinGastrointestinal2ndSpecimenACncPtStoolOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

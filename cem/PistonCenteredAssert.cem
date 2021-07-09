@@ -1,0 +1,8 @@
+cem PistonCenteredAssert
+	kind		statement
+	base		ObservationAssert
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	PistonCentered_CODE

@@ -1,0 +1,6 @@
+cem TriglycerideMCncPtBodyFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TriglycerideMCncPtBodyFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

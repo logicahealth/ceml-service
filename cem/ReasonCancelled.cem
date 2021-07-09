@@ -1,0 +1,6 @@
+cem ReasonCancelled
+	kind	component
+	key     ReasonCancelled_CODE
+	data	CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   ReasonCancelled_VSET

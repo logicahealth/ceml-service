@@ -1,0 +1,4 @@
+cem CefuroximeSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CefuroximeSuscPtIsolateOrdQnGradientstrip_CODE

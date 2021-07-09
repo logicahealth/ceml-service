@@ -1,0 +1,7 @@
+cem ConditionSeverity
+	kind    	component
+	key         ConditionSeverity_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   ConditionSeverity_VSET
+

@@ -1,0 +1,7 @@
+cem BacteriaPrThrPtUrinesedOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BacteriaPrThrPtUrinesedOrdMicroscopylight_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	OrdinalScaleNegToFour_VSET

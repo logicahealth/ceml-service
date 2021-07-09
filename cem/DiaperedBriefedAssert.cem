@@ -1,0 +1,5 @@
+cem DiaperedBriefedAssert
+	kind		statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.code
+		value	DiaperedBriefed_CODE

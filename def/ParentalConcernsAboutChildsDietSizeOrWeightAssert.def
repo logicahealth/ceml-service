@@ -1,0 +1,3 @@
+ParentalConcernsAboutChildsDietSizeOrWeight created on 14/Jul/2016 13:49 by Jael Lindblom for ABD.
+
+This model is used to assert that there are parental concerns about the child's diet, size or weight prior to admission. If there is a need in the future for more associated preconditions to be added, the code constraint to Preadmission_CODE should be changed to a valueset constraint.

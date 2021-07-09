@@ -1,0 +1,4 @@
+cem NarcolepsyPanelDQB10602LabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			NarcolepsyPanelDQB10602_CODE

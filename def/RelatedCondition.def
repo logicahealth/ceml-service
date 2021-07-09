@@ -1,0 +1,2 @@
+RelatedCondition
+This is the RelatedCondition clinical element model.  It is an assessment type of model with a question and answer.  The question is "what is/are the condition(s) related to the identified encounter?"  The answer(s) could be any problem or condition.

@@ -1,0 +1,2 @@
+EyePhTestProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes the procedure being performed.
+In the EyePhTestProc model the data is EyePhTest_KEY_ECID, which captures the key information about the medical procedure of testing the PH value, that is, measuring the acidity or alkalinity of fluid found in the eye.

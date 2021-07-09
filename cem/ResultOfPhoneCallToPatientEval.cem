@@ -1,0 +1,9 @@
+cem ResultOfPhoneCallToPatientEval
+	kind		statement
+    base        StatementBase
+	key			ResultOfPhoneCallToPatient_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ResultOfPhoneCallToPatient_VSET

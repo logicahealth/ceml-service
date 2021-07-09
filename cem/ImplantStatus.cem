@@ -1,0 +1,7 @@
+cem ImplantStatus
+	kind    	component
+	key         ImplantStatus_CODE
+	data        CodeableConcept
+
+    constraint	data.codeableConcept.valueset
+		value	ImplantStatus_VSET

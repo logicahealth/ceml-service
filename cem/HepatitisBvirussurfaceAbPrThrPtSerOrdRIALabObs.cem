@@ -1,0 +1,4 @@
+cem HepatitisBvirussurfaceAbPrThrPtSerOrdRIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HepatitisBvirussurfaceAbPrThrPtSerOrdRIA_CODE

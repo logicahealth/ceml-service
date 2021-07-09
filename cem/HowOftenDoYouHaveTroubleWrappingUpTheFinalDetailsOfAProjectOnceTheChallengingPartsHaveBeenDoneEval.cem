@@ -1,0 +1,10 @@
+cem HowOftenDoYouHaveTroubleWrappingUpTheFinalDetailsOfAProjectOnceTheChallengingPartsHaveBeenDoneEval
+
+	kind	statement
+	base	StatementBase
+    key     HowOftenDoYouHaveTroubleWrappingUpTheFinalDetailsOfAProjectOnceTheChallengingPartsHaveBeenDone_CODE
+	data	CodeableOrdinal
+
+	constraint	data.codeableOrdinal.valueset
+	    value	AdultAdhdSelfReportScaleASRSClinicalFrequency_VSET
+

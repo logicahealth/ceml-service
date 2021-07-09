@@ -1,0 +1,4 @@
+cem CiprofloxacinSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CiprofloxacinSuscPtIsolateOrdQn_CODE

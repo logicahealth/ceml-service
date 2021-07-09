@@ -1,0 +1,6 @@
+cem PelgerHuetCellsACncPtBldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PelgerHuetCellsACncPtBldOrdMicroscopyLight_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	ObservNeg_VSET

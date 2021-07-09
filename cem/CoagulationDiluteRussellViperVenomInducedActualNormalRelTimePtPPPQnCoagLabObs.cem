@@ -1,0 +1,5 @@
+cem CoagulationDiluteRussellViperVenomInducedActualNormalRelTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationDiluteRussellViperVenomInducedActualNormalRelTimePtPPPQnCoag_CODE
+	

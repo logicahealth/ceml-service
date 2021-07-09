@@ -1,0 +1,4 @@
+cem BloodProductIdentifierPooledPridPtBPUNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BloodProductIdentifierPooledPridPtBPUNom_CODE

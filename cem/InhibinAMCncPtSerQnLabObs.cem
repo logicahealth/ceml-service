@@ -1,0 +1,6 @@
+cem InhibinAMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			InhibinAMCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	PicogramsPerMilliliter_CODE

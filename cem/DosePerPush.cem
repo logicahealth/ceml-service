@@ -1,0 +1,6 @@
+cem DosePerPush
+	kind		component
+	key			DosePerPush_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	DoseQuantityUnitOfMeasure_VSET

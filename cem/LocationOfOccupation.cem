@@ -1,0 +1,9 @@
+cem LocationOfOccupation
+	kind		component
+	key			LocationOfOccupation_CODE
+	item		Facility
+		id		facility
+		card  	0-M
+    item        GeographicalLocation
+        id      geographicalLocation
+        card    0-M

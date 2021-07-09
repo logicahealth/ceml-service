@@ -1,0 +1,5 @@
+
+cem TakenDoseUpperLimit
+	kind	component
+	key     TakenDoseUpperLimit_CODE
+	data	Range

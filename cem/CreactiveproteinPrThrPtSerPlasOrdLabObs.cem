@@ -1,0 +1,4 @@
+cem CreactiveproteinPrThrPtSerPlasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CreactiveproteinPrThrPtSerPlasOrd_CODE

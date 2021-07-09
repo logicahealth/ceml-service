@@ -1,0 +1,4 @@
+cem MTHFRgenetargetedmutationanalysisPridPtBldTissNomMolgenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MTHFRgenetargetedmutationanalysisPridPtBldTissNomMolgen_CODE

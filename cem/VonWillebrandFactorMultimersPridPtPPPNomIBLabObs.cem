@@ -1,0 +1,4 @@
+cem VonWillebrandFactorMultimersPridPtPPPNomIBLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			VonWillebrandFactorMultimersPridPtPPPNomIB_CODE

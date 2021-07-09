@@ -1,0 +1,4 @@
+cem CandidaSpAgACncPtSerOrdLALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CandidaSpAgACncPtSerOrdLA_CODE

@@ -1,0 +1,16 @@
+cem UrinaryTractDilationAssert
+    kind        statement
+    base        AssertionOfPresence 
+    qual        Severity
+       id       severity
+       card     1
+    qual        UrinaryTractDilationRisk
+       id       urinaryTractDilation
+       card     1
+    qual        UrinaryTractDilationFollowUpRecommendation
+       id       urinaryTractDilationFollowUpRecommendation
+       card     0-1
+    constraint	data.codeableConcept.code
+        value	UrinaryTractDilation_CODE
+    
+    

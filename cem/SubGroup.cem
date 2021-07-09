@@ -1,0 +1,4 @@
+cem SubGroup
+kind    component
+key     SubGroup_CODE
+data    String

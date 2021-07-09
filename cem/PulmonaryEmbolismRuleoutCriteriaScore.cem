@@ -1,0 +1,22 @@
+cem PulmonaryEmbolismRuleoutCriteriaScore
+	kind	statement
+	base	StatementBase
+	key         PulmonaryEmbolismRuleoutCriteriaScore_CODE
+    data        Quantity
+    qual        KnowledgeDocumentExternalId
+        id      knowledgeDocumentExternalId
+        card    0-1
+    constraint  observed.patientLocation.card
+        value   0
+    constraint  observed.providerLocation.card
+        value   0
+    constraint  observed.reason.card
+        value   0
+    constraint  observed.actionMethod.card
+        value   0
+    constraint  reportedReceived.patientLocation.card
+        value   0
+    constraint  reportedReceived.providerLocation.card
+        value   0
+    constraint  reportedReceived.reason.card
+        value   0

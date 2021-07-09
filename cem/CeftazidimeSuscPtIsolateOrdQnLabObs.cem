@@ -1,0 +1,4 @@
+cem CeftazidimeSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CeftazidimeSuscPtIsolateOrdQn_CODE

@@ -1,0 +1,7 @@
+cem ChoriogonadotropinACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChoriogonadotropinACncPtUrineOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET
+

@@ -1,0 +1,4 @@
+cem DeliveryMethodData
+	kind		component
+	key			DeliveryMethodData_CODE
+	data		String

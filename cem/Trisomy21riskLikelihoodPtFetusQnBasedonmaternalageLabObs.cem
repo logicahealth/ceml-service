@@ -1,0 +1,4 @@
+cem Trisomy21riskLikelihoodPtFetusQnBasedonmaternalageLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Trisomy21riskLikelihoodPtFetusQnBasedonmaternalage_CODE

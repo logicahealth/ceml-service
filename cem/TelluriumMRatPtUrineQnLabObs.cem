@@ -1,0 +1,6 @@
+cem TelluriumMRatPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TelluriumMRatPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerDay_CODE

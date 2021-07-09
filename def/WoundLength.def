@@ -1,0 +1,3 @@
+WoundLength is a component model. In the WoundLength model, the question is "what is the subject's Wound Length?" and the numeric answer will have a unit of measure. 
+"WoundLength" by definition means a measurement made from one end of a wound to another along the longest line of a wound.
+

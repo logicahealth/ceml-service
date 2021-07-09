@@ -1,0 +1,4 @@
+cem OneThreeBetaDGlucanInterpretationLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			OneThreeBetaDGlucanInterpretation_CODE

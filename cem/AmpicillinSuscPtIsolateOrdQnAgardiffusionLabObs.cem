@@ -1,0 +1,4 @@
+cem AmpicillinSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmpicillinSuscPtIsolateOrdQnAgardiffusion_CODE

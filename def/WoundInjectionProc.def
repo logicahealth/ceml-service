@@ -1,0 +1,5 @@
+WoundInjectionProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes the procedure
+being performed.
+In the WoundInjectionProc model data is WoundInjection_ECID which captures information surrounding a WoundInjectionProc, which means the
+act of injecting certain medication(s) into a wound.
+

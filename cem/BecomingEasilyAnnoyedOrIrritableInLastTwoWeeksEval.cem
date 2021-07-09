@@ -1,0 +1,10 @@
+cem BecomingEasilyAnnoyedOrIrritableInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     BecomingEasilyAnnoyedOrIrritableInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET
+

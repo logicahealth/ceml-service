@@ -1,0 +1,8 @@
+cem OstomyOutputVolumeMeas
+	kind		statement
+	base		OutputVolumeMeas
+	key			OstomyOutputVolume_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	OstomyDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	OstomyBodyLocationPrecoord_VSET

@@ -1,0 +1,4 @@
+cem MeconiumDrugScreenMecstatLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MeconiumDrugScreenMecstat_CODE

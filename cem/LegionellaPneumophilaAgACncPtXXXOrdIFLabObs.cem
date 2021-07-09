@@ -1,0 +1,6 @@
+cem LegionellaPneumophilaAgACncPtXXXOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LegionellaPneumophilaAgACncPtXXXOrdIF_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

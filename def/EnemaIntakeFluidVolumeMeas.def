@@ -1,0 +1,6 @@
+EnemaIntakeFluidVolumeMeas is a measurement model that restricts the IntakeFluidVolumeMeas model (i.e., this model "constrains" the qualifiers in the IntakeFluidVolumeMeas model to enema intake-specific body locations, methods and devices and fluid types). A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) "answer"" in data. 
+For example, in the EnemaIntakeFluidVolumeMeas model the "question" or the "test" is "What is the Enema Intake Fluid Volume?" and the "answer" in data can be "X mL."
+By definition Enema Intake Fluid Volume means the measurement of the volume of enema intake.
+
+
+06/21/2016 in discussion it was decided that the constraint on intakeFluidType caused too much confusion. Thus, we simplified the definition of intakeFluidType

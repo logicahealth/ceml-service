@@ -1,0 +1,3 @@
+EstimatedMeasuredStated is a component model which holds a "question" in the key and holds a coded value (CD) "answer" of "estimated," "measured," or "stated" in data.
+EstimatedMeasuredStated by definition means how something has been obtained (e.g., how a volume of intake or output has been determined).
+

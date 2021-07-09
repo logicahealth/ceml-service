@@ -1,0 +1,12 @@
+cem ColumbiaSuicideSeverityRatingScaleSuicidalIdeationWithIntentWithoutPlanMeas
+    kind        statement
+    base       	StatementBase
+    key         ColumbiaSuicideSeverityRatingScaleSuicidalIdeationWithIntentWithoutPlan_CODE
+    data        CodeableOrdinal
+    qual        TimeFrameCSSRS
+        id      timeFrameCSSRS
+        card    0-1
+    constraint	data.codeableOrdinal.strength
+		value	CNE
+	constraint	data.codeableOrdinal.valueset
+		value	CSSRSSuicidalIdeationSomeIntentWithoutPlanYesNo_VSET

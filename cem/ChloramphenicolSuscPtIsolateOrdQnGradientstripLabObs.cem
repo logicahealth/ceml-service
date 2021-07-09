@@ -1,0 +1,4 @@
+cem ChloramphenicolSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChloramphenicolSuscPtIsolateOrdQnGradientstrip_CODE

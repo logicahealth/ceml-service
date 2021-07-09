@@ -1,0 +1,6 @@
+cem CoverageOrder
+	kind    	component
+	key         CoverageOrder_CODE
+    data        Integer
+
+ 

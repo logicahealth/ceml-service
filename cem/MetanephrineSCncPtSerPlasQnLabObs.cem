@@ -1,0 +1,6 @@
+cem MetanephrineSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MetanephrineSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanomolesPerLiter_CODE

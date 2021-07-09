@@ -1,0 +1,4 @@
+SedationVacationAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the SedationVacationAssert model, data is SedationVacation_ECID which means an interruption of sedative drug infusion until the patient reaches a point of alertness to assess readiness for extubation and discontinuation of artificial ventilation. 
+

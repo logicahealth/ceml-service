@@ -1,0 +1,5 @@
+cem ExpiratoryTimeSettingMeas
+	kind	statement
+	base	StatementBase
+	key			ExpiratoryTimeSetting_CODE
+	data		Quantity

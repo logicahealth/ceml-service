@@ -1,0 +1,6 @@
+ImmunizationLink is a link between the instance of an immunization adnimistration and antoher model, such as VaccineCredential.
+
+@Author nrdavis1
+@Date 09 Jun 2021 13:05
+@Status draft
+@RequestedBy Logica

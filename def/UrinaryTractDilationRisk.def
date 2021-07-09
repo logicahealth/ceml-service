@@ -1,0 +1,12 @@
+UrinaryTractDilationRisk 
+This model is used to document the risk of complications posed by urinary tract dilation.
+Values will be:
+Low risk or P1
+Intermediate risk or P2
+High risk or P3
+
+
+@Author lpctille
+@Date 09 Dec 2016 01:11
+@Status draft
+@RequestedBy Dr. White

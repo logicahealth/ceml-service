@@ -1,0 +1,6 @@
+cem MaxDailyDose
+	kind		component
+	key			MaxDailyDose_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	MassUnits_VSET

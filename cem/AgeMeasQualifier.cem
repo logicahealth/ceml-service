@@ -1,0 +1,4 @@
+cem AgeMeasQualifier
+	kind    	component
+	key         Age_CODE
+	data        Quantity

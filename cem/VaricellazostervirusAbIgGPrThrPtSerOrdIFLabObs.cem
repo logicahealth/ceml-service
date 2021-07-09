@@ -1,0 +1,4 @@
+cem VaricellazostervirusAbIgGPrThrPtSerOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			VaricellazostervirusAbIgGPrThrPtSerOrdIF_CODE

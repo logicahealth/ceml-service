@@ -1,0 +1,11 @@
+cem Subject
+	kind		modifier
+	key			Subject_CODE
+	data		CodeableConcept
+	qual		IndividualPerson
+		id		individualPerson
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Relationship_VSET

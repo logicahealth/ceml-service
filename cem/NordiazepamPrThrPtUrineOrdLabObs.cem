@@ -1,0 +1,4 @@
+cem NordiazepamPrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NordiazepamPrThrPtUrineOrd_CODE

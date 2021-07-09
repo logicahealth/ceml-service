@@ -1,0 +1,6 @@
+cem ElastasePancreaticMCntPtStoolQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ElastasePancreaticMCntPtStoolQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerGram_CODE

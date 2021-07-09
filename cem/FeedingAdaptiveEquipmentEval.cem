@@ -1,0 +1,10 @@
+cem FeedingAdaptiveEquipmentEval
+    kind	statement
+	base	StatementBase
+    key     FeedingAdaptiveEquipment_CODE
+	data	CodeableConcept
+    constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	FeedingAdaptiveEquipment_VSET
+

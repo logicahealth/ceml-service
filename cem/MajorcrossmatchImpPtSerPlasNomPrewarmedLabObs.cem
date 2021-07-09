@@ -1,0 +1,4 @@
+cem MajorcrossmatchImpPtSerPlasNomPrewarmedLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MajorcrossmatchImpPtSerPlasNomPrewarmed_CODE

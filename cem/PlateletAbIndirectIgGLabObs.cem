@@ -1,0 +1,4 @@
+cem PlateletAbIndirectIgGLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			PlateletAbIndirectIgG_CODE

@@ -1,0 +1,5 @@
+GenericClinicalAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+The GenericClinicalAssert model is used to store a clinical assertion if the specific clinical assertion model for it hasn't been created yet.
+It is for any clinical assertion about a patient.  
+

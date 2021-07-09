@@ -1,0 +1,4 @@
+cem ServiceDeliveryLocationParentId
+	kind		component
+	key			ServiceDeliveryLocationParentId_CODE
+	data		Identifier

@@ -1,0 +1,6 @@
+cem CarboxytetrahydrocannabinolMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CarboxytetrahydrocannabinolMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+			value		NanogramsPerMilliliter_CODE

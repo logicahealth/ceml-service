@@ -1,0 +1,4 @@
+cem ChromosomeBreakageImpPtXXXNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ChromosomeBreakageImpPtXXXNom_CODE

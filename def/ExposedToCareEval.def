@@ -1,0 +1,4 @@
+ExposedToCareEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?" and the "answer" in data can be "White."
+In the ExposedToCareEval model the question is "what assessments were completed at the time of triage?" and the coded answers can be: "12/15/2011 - no value set has been created [jw])" 
+ExposedToCareEval by definition means "12/15/2011 - pending [jw])"
+

@@ -1,0 +1,6 @@
+cem HumanPapillomaVirus16183133353945515256585968DNAACncPtCvxOrdProbeAmpSigLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HumanPapillomaVirus16183133353945515256585968DNAACncPtCvxOrdProbeAmpSig_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	FPARDetectedNotDetected_VSET

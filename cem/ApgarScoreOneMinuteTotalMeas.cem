@@ -1,0 +1,11 @@
+cem ApgarScoreOneMinuteTotalMeas
+	kind	statement
+	base	StatementBase
+	key			ApgarScoreOneMinuteTotal_CODE
+	data		Quantity
+	qual		ReferenceRangeNar
+		id		referenceRangeNar
+		card	0-1
+	mod 		FocalSubject
+		id		focalSubject
+		card	0-1

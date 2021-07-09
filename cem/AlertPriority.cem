@@ -1,0 +1,4 @@
+cem AlertPriority
+	kind		component
+	key			AlertPriority_CODE
+	data		Integer

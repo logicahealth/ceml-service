@@ -1,0 +1,7 @@
+JuandiceSeverityEval created on 16/May/2016 15:17
+JuandiceSeverityEval is an eval model. In an eval model, the key is set to the real world "thing" being evaluated, measured, or assessed, and data is the result of the assessment, evaluation, or measurement and can be coded data, quantifiable data, etc. 
+For example, the JuandiceSeverityEval model the "thing" being assessed is "how severe is the jaundice?"  The answsers could be Stage 1, Stage 2, Stage 3, Stage 4, Stage 5.  iCentra uses the values of J1, J2, and J3.  At this time it is unknown what these mean.
+
+modeler: N Davis
+status: draft
+version: 1.0

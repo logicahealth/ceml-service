@@ -1,0 +1,6 @@
+cem BiotinidaseCCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BiotinidaseCCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		NanomolePerMilliliterPerMinute_CODE

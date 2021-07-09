@@ -1,0 +1,7 @@
+cem LowExhaledMandatoryTidalVolumeAlarmSettingMeas
+	kind	statement
+	base	StatementBase
+	key			LowExhaledMandatoryTidalVolumeAlarmSetting_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	Milliliters_CODE

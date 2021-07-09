@@ -1,0 +1,6 @@
+cem ReaginAbACncPtSerOrdRPRLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ReaginAbACncPtSerOrdRPR_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	ReactNonReactIndet_VSET

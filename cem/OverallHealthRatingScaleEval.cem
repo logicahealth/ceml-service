@@ -1,0 +1,6 @@
+cem OverallHealthRatingScaleEval
+
+	kind	statement
+	base	StatementBase
+    key     OverallHealthRatingScale_CODE
+	data	Integer

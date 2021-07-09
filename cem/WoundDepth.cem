@@ -1,0 +1,11 @@
+cem WoundDepth
+	kind		component
+	key			WoundDepth_CODE
+	data		Quantity
+	qual		Device
+		id		device
+		card	0-1
+    constraint	device.data.codeableConcept.valueset
+		value	WoundMeasurementDevice_VSET
+    constraint	data.quantity.unit_code
+		value	Centimeters_CODE

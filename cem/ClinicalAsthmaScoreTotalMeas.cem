@@ -1,0 +1,8 @@
+cem ClinicalAsthmaScoreTotalMeas
+	kind	statement
+	base	StatementBase
+	key			ClinicalAsthmaScoreTotal_CODE
+	data		Quantity
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M

@@ -1,0 +1,6 @@
+cem BileAcidSCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BileAcidSCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

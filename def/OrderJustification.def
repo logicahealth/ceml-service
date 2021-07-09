@@ -1,0 +1,14 @@
+OrderJustification is a component model.
+Order Justification lists any required items to explain the "why's" of the order.
+This is not a semantic link because the justification is made at the time of the order by the practitioner and alterable by the practictioner.
+Billing may use this justification, but billing cannot create this justification.  Any justification created in the billing use cases will 
+need to be of a different structure.
+	Current values for the key domain are:  Diagnosis, Signs and Symptoms, ?Health Issue.
+Action in the application will be:   A practictioner may choose justification from a list or from the problem list of the patient.  If the practictioner
+chooses a problem from a list then the application will ask:  do you want to add this to the patient's problem list?  If yes then the problem will be 
+create in a model structure, if no then the ecid for the Health Issue will be stored.  Because the Health Issue domain is not sub categorized we perform the
+categorization of the health issue via the key domain chosen.  This way the order application and the data mining efforts can find what kind of thing this is being
+used as.  Kind of a role.
+The "otherwise error" line exists because this model is meant for application use and should have an expectation of what is allowed.
+
+

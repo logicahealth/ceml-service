@@ -1,0 +1,22 @@
+cem NystagmusAssert
+	kind	    statement
+	base        AssertionOfPresence
+    qual        GazePosition
+        id      gazePosition
+        card    0-M
+	qual		AlleviatingFactor
+		id		alleviatingFactor
+		card	0-M
+	qual		ExacerbatingFactor
+		id		exacerbatingFactor
+		card	0-M
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-M
+	qual		Course
+		id		course
+		card	0-1
+    constraint	data.codeableConcept.code
+    value       Nystagmus_CODE
+    constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	EyeBodyLocationPrecoord_VSET

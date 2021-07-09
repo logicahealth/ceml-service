@@ -1,0 +1,4 @@
+cem ChlamydiaspidentifiedPridPtXXXNomOrganismspecificcultureLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ChlamydiaspidentifiedPridPtXXXNomOrganismspecificculture_CODE

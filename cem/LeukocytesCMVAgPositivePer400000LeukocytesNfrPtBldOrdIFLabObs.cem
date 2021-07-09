@@ -1,0 +1,4 @@
+cem LeukocytesCMVAgPositivePer400000LeukocytesNfrPtBldOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LeukocytesCMVAgPositivePer400000LeukocytesNfrPtBldOrdIF_CODE

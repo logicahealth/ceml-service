@@ -1,0 +1,4 @@
+cem GardnerellaVaginalisDNAACncPtVagOrdProbeAmpSigLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			GardnerellaVaginalisDNAACncPtVagOrdProbeAmpSig_CODE

@@ -1,0 +1,4 @@
+cem AlkalineHemoglobinElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			AlkalineHemoglobinElectrophoresis_CODE

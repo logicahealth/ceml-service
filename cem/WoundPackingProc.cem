@@ -1,0 +1,8 @@
+cem WoundPackingProc
+	kind		statement
+	base		Procedure
+	qual		ApproachSite
+		id		approachSite
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	WoundPacking_CODE

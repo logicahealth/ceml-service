@@ -1,0 +1,11 @@
+cem DayToEvent
+	kind		component
+	key			DayToEvent_CODE
+	item		EventOfInterest
+		id		eventOfInterest
+		card	1
+	qual		Duration
+		id		duration
+		card	1-M
+	constraint	duration.data.quantity.unit_normal
+		value	Days_CODE

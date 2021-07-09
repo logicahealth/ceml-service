@@ -1,0 +1,6 @@
+cem AvenaSativaAbIgGMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AvenaSativaAbIgGMCncPtSerQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	MassConcentrationUnits_VSET

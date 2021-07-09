@@ -1,0 +1,6 @@
+cem EscherichiaColiShigaMinusLikeACncPtStoolOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EscherichiaColiShigaMinusLikeACncPtStoolOrdEIA_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

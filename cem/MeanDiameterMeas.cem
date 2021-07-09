@@ -1,0 +1,26 @@
+cem MeanDiameterMeas
+	kind    	statement
+    base        StatementBase
+	key         MeanDiameter_CODE
+    data        Quantity
+    constraint	data.quantity.unit_code
+		value	Millimeters_CODE
+    constraint  observed.card
+        value   0
+    constraint  reportedReceived.patientLocation.card
+        value   0
+    constraint  reportedReceived.providerLocation.card
+        value   0
+    constraint  performed.patientLocation.card
+        value   0
+    constraint  performed.providerLocation.card
+        value   0
+    constraint  performed.reason.card
+        value   0
+    constraint  performed.actionMethod.card
+        value   0
+    constraint  verified.patientLocation.card
+        value   0
+    constraint  verified.providerLocation.card
+        value   0
+

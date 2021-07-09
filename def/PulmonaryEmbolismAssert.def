@@ -1,0 +1,10 @@
+PulmonaryEmbolismAssert 
+PulmonaryEmbolismAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition 
+being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the PulmonaryEmbolismAssert model, data is PulmonaryEmbolism_ECID which means a condition in which one or more arteries in the lungs is obstructed by a blood clot.
+
+@Author nrdavis1
+@Date 05 Dec 2016 14:16
+@Status draft
+@RequestedBy iActivity

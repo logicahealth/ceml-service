@@ -1,0 +1,6 @@
+cem DoseFrequency
+	kind		component
+	key			DoseFrequency_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	DoseFrequencyUnitOfMeasure_VSET

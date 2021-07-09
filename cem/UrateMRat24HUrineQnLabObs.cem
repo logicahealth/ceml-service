@@ -1,0 +1,6 @@
+cem UrateMRat24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			UrateMRat24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDay_CODE

@@ -1,0 +1,4 @@
+cem SpermatozoaPostVasectomyACncPtSemenOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SpermatozoaPostVasectomyACncPtSemenOrdMicroscopyLight_CODE

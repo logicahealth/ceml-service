@@ -1,0 +1,6 @@
+cem HFEGenePC282YArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HFEGenePC282YArbPtBldTissOrdMolgen_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

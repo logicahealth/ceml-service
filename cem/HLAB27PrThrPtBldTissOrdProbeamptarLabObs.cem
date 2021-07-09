@@ -1,0 +1,4 @@
+cem HLAB27PrThrPtBldTissOrdProbeamptarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HLAB27PrThrPtBldTissOrdProbeamptar_CODE

@@ -1,0 +1,4 @@
+cem IndicansACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			IndicansACncPtUrineOrd_CODE

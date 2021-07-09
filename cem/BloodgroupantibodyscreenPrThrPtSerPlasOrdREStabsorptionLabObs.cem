@@ -1,0 +1,4 @@
+cem BloodgroupantibodyscreenPrThrPtSerPlasOrdREStabsorptionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BloodgroupantibodyscreenPrThrPtSerPlasOrdREStabsorption_CODE

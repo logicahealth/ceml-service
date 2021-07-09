@@ -1,0 +1,6 @@
+cem EpithelialcellssquamousNaricPtUrinesedQnMicroscopylightHPFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EpithelialcellssquamousNaricPtUrinesedQnMicroscopylightHPF_CODE
+	constraint		data.quantity.unit_code
+			value		PerHighPowerField_CODE

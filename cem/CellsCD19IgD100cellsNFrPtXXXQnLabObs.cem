@@ -1,0 +1,6 @@
+cem CellsCD19IgD100cellsNFrPtXXXQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CellsCD19IgD100cellsNFrPtXXXQn_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

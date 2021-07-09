@@ -1,0 +1,4 @@
+cem GammaGlobulinACnc24HUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			GammaGlobulinACnc24HUrineOrd_CODE

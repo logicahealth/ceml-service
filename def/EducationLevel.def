@@ -1,0 +1,6 @@
+EducationLevel is a component model.
+This model holds a "question" in the code and holds a coded value (CD) answer from the value set referred to in data.
+In the "EducationLevel" model the question is "what is the subject's Education Level?" and the coded answers from the Education Level value set can be 'Some College Education,''Some Secondary,' or 'High School.'
+"EducationLevel" by definition means the level of education of a person (or person role).  Example values (from HL7 V3 2.23) are: elementary school, college, doctoral or post graduate, etc. 
+
+

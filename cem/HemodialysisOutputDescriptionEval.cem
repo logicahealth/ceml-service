@@ -1,0 +1,10 @@
+cem HemodialysisOutputDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			HemodialysisOutputDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	HemodialysisOutputDescription_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	HemodialysisDevice_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	HemodialysisBodyLocationPrecoord_VSET

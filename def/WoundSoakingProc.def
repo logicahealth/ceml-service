@@ -1,0 +1,5 @@
+WoundSoakingProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes the procedure
+being performed.
+In the WoundSoakingProc model data is WoundSoaking_ECID which captures information surrounding a Wound Soaking which means the act
+of soaking a patient's wound.
+

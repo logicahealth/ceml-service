@@ -1,0 +1,4 @@
+cem VaccineSequenceId
+	kind		component
+	key			VaccineSequenceId_CODE
+	data		String

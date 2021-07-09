@@ -1,0 +1,4 @@
+cem NeutrophilAbACncPtSerOrdFlowCytometryLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeutrophilAbACncPtSerOrdFlowCytometry_CODE

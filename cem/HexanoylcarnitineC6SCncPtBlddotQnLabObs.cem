@@ -1,0 +1,6 @@
+cem HexanoylcarnitineC6SCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HexanoylcarnitineC6SCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

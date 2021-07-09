@@ -1,0 +1,4 @@
+cem SubstanceUseNumberOfTimePerDay
+	kind		component
+	key			SubstanceUseNumberOfTimePerDay_CODE
+	data		Integer

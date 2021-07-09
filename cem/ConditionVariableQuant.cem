@@ -1,0 +1,4 @@
+cem ConditionVariableQuant
+	kind		component
+	key			ConditionVariableQuant_CODE
+	data		Decimal

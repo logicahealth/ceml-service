@@ -1,0 +1,6 @@
+cem CellsCD3CD4NCncPtXXXQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CellsCD3CD4NCncPtXXXQn_CODE
+	constraint		data.quantity.unit_code
+			value		PerMicroliter_CODE

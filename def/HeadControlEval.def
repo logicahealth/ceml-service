@@ -1,0 +1,5 @@
+HeadControlEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the HeadControlEvalEval model, the question is "how is the subject able to control their head?" and the coded answers can be 'Good', 'Adequate', and 'Limited'.
+"HeadControlEval" by definition means the patient's ability to control the movement and stability of their head.
+
+

@@ -1,0 +1,4 @@
+cem VasDeferensReversalCheckLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			VasDeferensReversalCheck_CODE

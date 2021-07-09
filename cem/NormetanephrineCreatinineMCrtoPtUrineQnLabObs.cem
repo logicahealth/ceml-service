@@ -1,0 +1,6 @@
+cem NormetanephrineCreatinineMCrtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NormetanephrineCreatinineMCrtoPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicrogramsPerGram_CODE

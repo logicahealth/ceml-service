@@ -1,0 +1,5 @@
+cem IgGAlbuminMCrtoPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			IgGAlbuminMCrtoPtCSFQn_CODE
+	

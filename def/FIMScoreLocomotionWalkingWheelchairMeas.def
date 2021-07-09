@@ -1,0 +1,4 @@
+FIMScoreLocomotionWalkingWheelchairMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the FIMScoreLocomotionWalkingWheelchairMeas model,  the question is "what is the subject's FIM score locomotion walking wheelchair meas?" and the answer will have an ordinal value. 
+"FIM score locomotion walking wheelchair meas" by definitions means "A measurement element that records the FIM score related to a patient's level of independence with locomotion either by walking or using a wheelchair".
+

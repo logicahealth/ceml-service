@@ -1,0 +1,2 @@
+Status is a component base model used to record the state of a "thing", e.g. Final, Preliminary, Pending, Closed, etc.
+This state is dependant on the context of the data being referred to.

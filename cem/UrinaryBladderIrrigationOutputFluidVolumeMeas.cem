@@ -1,0 +1,8 @@
+cem UrinaryBladderIrrigationOutputFluidVolumeMeas
+	kind		statement
+	base		OutputVolumeMeas
+	key			UrinaryBladderIrrigationOutputFluidVolume_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	UrinaryBladderIrrigationDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	UrinaryBladderIrrigationBodyLocationPrecoord_VSET

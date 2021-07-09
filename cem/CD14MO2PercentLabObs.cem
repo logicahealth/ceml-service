@@ -1,0 +1,6 @@
+cem CD14MO2PercentLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CD14MO2Percent_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

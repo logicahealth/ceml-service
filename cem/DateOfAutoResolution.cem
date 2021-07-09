@@ -1,0 +1,4 @@
+cem DateOfAutoResolution
+	kind		component
+	key			DateOfAutoResolution_CODE
+	data		DateTime

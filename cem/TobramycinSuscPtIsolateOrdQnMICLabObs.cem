@@ -1,0 +1,4 @@
+cem TobramycinSuscPtIsolateOrdQnMICLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TobramycinSuscPtIsolateOrdQnMIC_CODE

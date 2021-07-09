@@ -1,0 +1,4 @@
+cem ThermoactinomycesCandidusAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ThermoactinomycesCandidusAbACncPtSerOrd_CODE

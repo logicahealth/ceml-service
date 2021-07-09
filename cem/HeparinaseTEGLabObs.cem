@@ -1,0 +1,4 @@
+cem HeparinaseTEGLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HeparinaseTEG_CODE

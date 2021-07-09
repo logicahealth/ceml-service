@@ -1,0 +1,24 @@
+cem AddressOfInjury
+	kind		component
+	key			AddressOfInjury_CODE
+	item		AddressType
+		id		addressType
+		card	0-1
+	item		AddressLine
+		id		addressLine
+		card	0-M
+	item		City
+		id		city
+		card	0-1
+	item		County
+		id		county
+		card	0-1
+	item		State
+		id		state
+		card	0-1
+	item		PostalCode
+		id		postalCode
+		card	0-1
+	item		Country
+		id		country
+		card	0-1

@@ -1,0 +1,1 @@
+HemianopiaAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. In the HemianopiaAssert model, data is Hemianopia_CODE which reflects the presence of Hemianopia.

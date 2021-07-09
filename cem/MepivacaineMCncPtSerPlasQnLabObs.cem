@@ -1,0 +1,6 @@
+cem MepivacaineMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MepivacaineMCncPtSerPlasQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

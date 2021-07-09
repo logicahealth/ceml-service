@@ -1,0 +1,4 @@
+cem CannabinoidsACncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CannabinoidsACncPtUrineQn_CODE

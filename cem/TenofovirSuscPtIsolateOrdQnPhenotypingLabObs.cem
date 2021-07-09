@@ -1,0 +1,4 @@
+cem TenofovirSuscPtIsolateOrdQnPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TenofovirSuscPtIsolateOrdQnPhenotyping_CODE

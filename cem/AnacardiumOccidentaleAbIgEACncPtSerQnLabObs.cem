@@ -1,0 +1,6 @@
+cem AnacardiumOccidentaleAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AnacardiumOccidentaleAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	KilounitsPerLiter_CODE

@@ -1,0 +1,4 @@
+cem CystineACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CystineACncPtUrineOrd_CODE

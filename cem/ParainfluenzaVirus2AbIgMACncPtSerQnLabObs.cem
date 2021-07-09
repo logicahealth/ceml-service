@@ -1,0 +1,5 @@
+cem ParainfluenzaVirus2AbIgMACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ParainfluenzaVirus2AbIgMACncPtSerQn_CODE
+	

@@ -1,0 +1,4 @@
+cem DidanosineSuscPtIsolateOrdQnPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DidanosineSuscPtIsolateOrdQnPhenotyping_CODE

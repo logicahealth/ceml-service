@@ -1,0 +1,4 @@
+cem AminoAcidsImpPtUrineNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			AminoAcidsImpPtUrineNom_CODE

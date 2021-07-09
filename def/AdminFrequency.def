@@ -1,0 +1,3 @@
+ADminFrequency can hold multiple Frequency definitions for the Orderable. The implied relationship between these frequencies is "AND".
+
+

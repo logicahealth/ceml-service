@@ -1,0 +1,7 @@
+cem MeaslesvirusAbIgGPrThrPtSerOrdIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MeaslesvirusAbIgGPrThrPtSerOrdIA_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	ImmuneNotImmune_VSET

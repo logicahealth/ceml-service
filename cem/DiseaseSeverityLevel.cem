@@ -1,0 +1,13 @@
+cem DiseaseSeverityLevel
+	kind    	statement
+    base        StatementBase
+	key         DiseaseSeverityLevel_CODE
+    data        CodeableConcept
+    qual        StagingSystem
+        id      stagingSystem
+        card    0-1
+    constraint  data.codeableConcept.valueset
+        value   DiseaseSeverity_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

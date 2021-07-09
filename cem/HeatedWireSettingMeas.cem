@@ -1,0 +1,5 @@
+cem HeatedWireSettingMeas
+	kind	statement
+	base	StatementBase
+	key			HeatedWireSetting_CODE
+	data		Quantity

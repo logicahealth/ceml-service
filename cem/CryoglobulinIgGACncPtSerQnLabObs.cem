@@ -1,0 +1,6 @@
+cem CryoglobulinIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CryoglobulinIgGACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

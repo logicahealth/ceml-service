@@ -1,0 +1,10 @@
+cem GastricTubeOutputFluidDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			GastricTubeOutputFluidDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	GastricTubeOutputFluidDescription_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	GastricTubeDevice_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	GastricTubeBodyLocationPrecoord_VSET

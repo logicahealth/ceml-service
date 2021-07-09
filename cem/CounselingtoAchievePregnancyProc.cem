@@ -1,0 +1,17 @@
+cem CounselingtoAchievePregnancyProc
+	kind    	statement
+	base		Procedure
+
+    constraint  data.codeableConcept.code       
+        value   CounselingtoAchievePregnancy_CODE   
+    constraint  data.codeableConcept.strength
+        value   CWE
+
+    constraint  directSite.card
+        value   0
+    constraint  indirectSite.card
+        value   0
+    constraint  likelihood.card
+        value   0
+    constraint  patientResponse.card
+        value   0

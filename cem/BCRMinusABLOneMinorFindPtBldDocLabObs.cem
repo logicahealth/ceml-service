@@ -1,0 +1,4 @@
+cem BCRMinusABLOneMinorFindPtBldDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			BCRMinusABLOneMinorFindPtBldDoc_CODE

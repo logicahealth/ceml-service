@@ -1,0 +1,4 @@
+cem InterpretationOROINTLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationOROINT_CODE

@@ -1,0 +1,6 @@
+cem ApproximateInd
+	kind	component
+	key     ApproximateInd_CODE
+	data	CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   YesNo_VSET

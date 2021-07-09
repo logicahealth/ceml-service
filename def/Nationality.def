@@ -1,0 +1,2 @@
+Nationality model contains a code that identifies the nation or national grouping to which the insured person belongs.  This information may be different from a persons citizenship in countries in which multiple nationalities are recognized (for example, Spain: Basque, Catalan, etc.).  HL7 recommends using ISO table 3166 as the suggested values.
+

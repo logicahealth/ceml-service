@@ -1,0 +1,21 @@
+cem PracticeAffiliation
+	kind		component
+	key			PracticeAffiliation_CODE
+	item		PracticeAffiliationType
+		id		practiceAffiliationType
+		card	0-1
+	item		PracticeAffiliationStatus
+		id		practiceAffiliationStatus
+		card	0-1
+	item		ProviderPractitionerPrivilege
+		id		providerPractitionerPrivilege
+		card	0-M
+	item		StartTime
+		id		startTime
+		card	0-1
+	item		EndTime
+		id		endTime
+		card	0-1
+	item		OrganizationId
+		id		organizationId
+		card	0-1

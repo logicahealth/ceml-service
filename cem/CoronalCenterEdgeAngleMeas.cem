@@ -1,0 +1,10 @@
+cem CoronalCenterEdgeAngleMeas
+	kind    	statement
+    base        StatementBase
+	key         CoronalCenterEdgeAngleMeas_CODE
+    data        Quantity
+    qual        BodySide
+        id      bodySide
+        card    0-1
+    constraint  data.quantity.unit_code
+        value   Degrees_CODE

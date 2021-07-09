@@ -1,0 +1,18 @@
+cem VaricositiesAssert
+	kind		statement
+	base        AssertionOfPresence
+    qual		Course
+		id		course
+		card	0-1
+    qual        Severity
+        id      severity
+        card    0-1
+    qual        QualitativeFrequency
+        id      qualitativeFrequency
+        card    0-1
+	constraint	data.codeableConcept.code
+		value	Varicosities_CODE
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	VaricositiesBodyLocationPrecoord_VSET
+	
+

@@ -1,0 +1,7 @@
+cem UrobilinogenMCncPtUrineTeststripLabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         UrobilinogenMCncPtUrineTeststrip_CODE
+    constraint  data.quantity.unit_code
+        value   MilligramsPerDeciliter_CODE
+

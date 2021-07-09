@@ -1,0 +1,6 @@
+cem BetaMinus2MinusMicroglobulinMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BetaMinus2MinusMicroglobulinMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

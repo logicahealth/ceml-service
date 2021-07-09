@@ -1,0 +1,6 @@
+cem CreatineKinaseMMCreatineKinaseTotalCFrPtSerPlasQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CreatineKinaseMMCreatineKinaseTotalCFrPtSerPlasQnElectrophoresis_CODE
+	constraint	data.quantity.unit_code
+		value	Percent_CODE

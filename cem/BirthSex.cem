@@ -1,0 +1,9 @@
+cem BirthSex
+	kind    	component
+	key         BirthSex_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset     
+        value   BirthSex_VSET   
+    constraint  data.codeableConcept.strength
+        value   CWE
+

@@ -1,0 +1,6 @@
+cem CoagulationtissuefactorinducedactualNormalRelTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationtissuefactorinducedactualNormalRelTimePtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

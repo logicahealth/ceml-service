@@ -1,0 +1,6 @@
+Wound Bed Appearance Area is a component model used to describe the percent of the wound bed area identified as a specific finding. For Example, the wound bed is 40% necrotic. See LOINC code 72370-0.
+
+@Author ljbuhl
+@Date 17 Oct 2017 12:52
+@Status draft
+@RequestedBy S. Matney

@@ -1,0 +1,31 @@
+cem FamilyPlanningAnnualReportPanel
+	kind    	panel
+    base        PanelBase
+	key         FamilyPlanningAnnualReportPanel_CODE
+    item        FPARPatientInformationPanel
+        id      fPARPatientInformationPanel
+        card    0-1
+    item        GeneralEncounter
+        id      generalEncounter
+        card    0-1
+    item        FPARProviderPractitioner
+        id      fPARProviderPractitioner
+        card    0-1
+   item         FPARPatientVisitInfoPanel
+        id      fPARPatientVisitInfoPanel
+        card    0-1
+   item         FPARPregnancyAndContraceptionPanel
+        id      fPARPregnancyAndContraceptionPanel
+        card    0-1
+    item        FPARLabPanel
+        id      fPARLabPanel
+        card    0-1
+	item        HIVReferralPanel
+        id      hIVReferralPanel
+        card    0-1
+	item		Organization
+		id		organization
+		card	0-1
+
+
+

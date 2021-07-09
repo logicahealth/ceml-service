@@ -1,0 +1,8 @@
+BowelEliminationDescriptionEval created on 15/Apr/2016 16:17
+status: proposed
+Author: B Heale
+
+BowelEliminationDescriptionEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the BowelEliminationDescriptionEval model, the question is, "How is the Bowel Elimination described?"
+"BowelEliminationDescriptionEval" by definition is the description of the bowel eliminaition of the patient.
+For example, 'stooling, no difficulties', 'not stooling', 'stooling with difficulties.'

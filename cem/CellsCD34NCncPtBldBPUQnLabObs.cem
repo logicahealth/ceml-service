@@ -1,0 +1,6 @@
+cem CellsCD34NCncPtBldBPUQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CellsCD34NCncPtBldBPUQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillionPerKilogram_CODE

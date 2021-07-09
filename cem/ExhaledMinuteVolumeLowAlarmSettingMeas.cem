@@ -1,0 +1,7 @@
+cem ExhaledMinuteVolumeLowAlarmSettingMeas
+	kind	statement
+	base	StatementBase
+	key			ExhaledMinuteVolumeLowAlarmSetting_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	LitersPerMinute_CODE

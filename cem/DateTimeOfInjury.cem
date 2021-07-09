@@ -1,0 +1,4 @@
+cem DateTimeOfInjury
+	kind		component
+	key			DateTimeOfInjury_CODE
+	data		DateTime

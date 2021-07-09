@@ -1,0 +1,9 @@
+cem DifferentialDiagnosisRank
+	kind    	component
+	key         DifferentialDiagnosisRank_CODE
+    data        CodeableOrdinal
+    constraint  data.codeableOrdinal.valueset
+        value   DifferentialDiagnosisRank_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CWE                                    
+

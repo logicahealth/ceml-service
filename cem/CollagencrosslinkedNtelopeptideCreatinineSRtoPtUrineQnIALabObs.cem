@@ -1,0 +1,4 @@
+cem CollagencrosslinkedNtelopeptideCreatinineSRtoPtUrineQnIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CollagencrosslinkedNtelopeptideCreatinineSRtoPtUrineQnIA_CODE

@@ -1,0 +1,10 @@
+cem TravelLast14Days
+	kind		statement
+	base		StatementBase
+	key			TravelLast14Days_CODE
+	data		CodeableConcept
+	constraint  data.codeableConcept.strength 
+        value   CWE 
+    constraint  data.codeableConcept.valueset 
+        value   YesNo_VSET
+

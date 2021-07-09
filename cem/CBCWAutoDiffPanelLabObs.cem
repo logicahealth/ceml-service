@@ -1,0 +1,12 @@
+cem CBCWAutoDiffPanelLabObs
+	kind    	panel
+    base        PanelBase
+	key         CBCWAutoDiffPanelLabObs_CODE
+    
+    item        CompleteBloodCountHemogramPanePtBldAutomatedCountLabObs 
+        id      completeBloodCountHemogramPanePtBldAutomatedCountLabObs 
+        card    0-1
+    item        AutoDifferentialPanelPtBldQnLabObs
+        id      autoDifferentialPanelPtBldQnLabObs
+        card    0-1
+

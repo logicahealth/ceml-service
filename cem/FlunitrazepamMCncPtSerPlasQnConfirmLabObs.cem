@@ -1,0 +1,4 @@
+cem FlunitrazepamMCncPtSerPlasQnConfirmLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			FlunitrazepamMCncPtSerPlasQnConfirm_CODE

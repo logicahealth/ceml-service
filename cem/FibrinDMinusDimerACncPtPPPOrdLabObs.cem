@@ -1,0 +1,4 @@
+cem FibrinDMinusDimerACncPtPPPOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			FibrinDMinusDimerACncPtPPPOrd_CODE

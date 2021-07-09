@@ -1,0 +1,6 @@
+cem CalciumCarbonateCrystalsACncPtUrineSedOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CalciumCarbonateCrystalsACncPtUrineSedOrdMicroscopyLight_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrdinalScaleNegToFour_VSET

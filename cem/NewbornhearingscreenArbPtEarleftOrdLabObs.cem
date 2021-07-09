@@ -1,0 +1,4 @@
+cem NewbornhearingscreenArbPtEarleftOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NewbornhearingscreenArbPtEarleftOrd_CODE

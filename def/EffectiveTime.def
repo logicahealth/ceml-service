@@ -1,0 +1,5 @@
+EffectiveTime is a component model. 
+The EffectiveTime model holds a "question" in the key and a Time Stamp (TS) as the answer in data.  
+In the EffectiveTime model the question is "what is the effective date (time)?" and the answer in data is a time stamp value.
+"EffectiveTime" by definition means the effective date(time).
+

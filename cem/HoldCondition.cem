@@ -1,0 +1,12 @@
+cem HoldCondition
+	kind		component
+	key			HoldCondition_CODE
+	item		DateTime
+		id		dateTime
+		card	0-1
+	item		Condition
+		id		condition
+		card	0-M
+	qual		Expression
+		id		expression
+		card	0-1

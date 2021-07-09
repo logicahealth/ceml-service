@@ -1,0 +1,8 @@
+cem PatientVisitor
+	kind	statement
+	base	StatementBase
+	key         PatientVisitor_CODE
+    data        String
+    qual        PersonalRelationshipType
+        id      relationshipToPatient
+        card    1

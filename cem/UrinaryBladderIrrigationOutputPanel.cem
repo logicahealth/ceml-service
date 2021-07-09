@@ -1,0 +1,22 @@
+cem UrinaryBladderIrrigationOutputPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			UrinaryBladderIrrigationOutputPanel_CODE
+	item		UrinaryBladderIrrigationOutputFluidVolumeMeas
+		id		urinaryBladderIrrigationOutputFluidVolumeMeas
+		card	1
+	item		UrinaryBladderIrrigationOutputFluidDescriptionEval
+		id		urinaryBladderIrrigationOutputFluidDescriptionEval
+		card	0-M
+    item UrinaryBladderIrrigationOutputFluidVolumeRateMeas
+        id      urinaryBladderIrrigationOutputFluidVolumeRateMeas
+        card 0-1
+
+    constraint	method.card
+        value	0
+
+    constraint	device.data.codeableConcept.valueset
+        value	UrinaryBladderIrrigationDevice_VSET
+
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	UrinaryBladderIrrigationBodyLocationPrecoord_VSET

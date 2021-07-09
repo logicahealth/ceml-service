@@ -1,0 +1,5 @@
+cem AuditoryHallucinationAssert
+	kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.code
+        value	AuditoryHallucination_CODE

@@ -1,0 +1,6 @@
+cem NeuronalAbACncPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NeuronalAbACncPtSerQnEIA_CODE
+	constraint		data.quantity.unit_code
+		value	Units_CODE

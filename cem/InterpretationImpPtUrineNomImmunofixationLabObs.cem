@@ -1,0 +1,4 @@
+cem InterpretationImpPtUrineNomImmunofixationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationImpPtUrineNomImmunofixation_CODE

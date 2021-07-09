@@ -1,0 +1,2 @@
+PatientType contains site-specific values that identify the patient type, providing more detailed information in addition to PatientClass(in CEM it is PatientContactType). PatientContactType has values inpatient, outpatient, emergency, etc.; PatientType will provide more detailed categories on PatientContactType.  
+

@@ -1,0 +1,6 @@
+cem ClostridiumDifficileToxinABACncPtStoolOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ClostridiumDifficileToxinABACncPtStoolOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

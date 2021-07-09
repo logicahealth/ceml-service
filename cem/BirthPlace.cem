@@ -1,0 +1,4 @@
+cem BirthPlace
+	kind		component
+	key			BirthPlace_CODE
+	data		String

@@ -1,0 +1,17 @@
+cem AlcoholUseStatusEval
+	kind	statement
+	base	StatementBase
+	key			AlcoholUseStatus_CODE
+	data		CodeableConcept
+	qual		DeltaFlag
+		id		deltaFlag
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	AlcoholUse_VSET
+	constraint	deltaFlag.data.codeableConcept.valueset
+		value	DeltaFlagNumericNom_VSET

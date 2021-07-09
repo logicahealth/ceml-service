@@ -1,0 +1,7 @@
+cem SleepProblemFrequency
+	kind    	component
+	key         SleepProblemFrequency_CODE
+    data		Quantity
+    constraint	data.quantity.unit_code
+		value	PerWeek_CODE
+

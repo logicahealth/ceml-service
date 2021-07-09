@@ -1,0 +1,4 @@
+cem AcetonePrThrPtSerPlasOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AcetonePrThrPtSerPlasOrdScreen_CODE

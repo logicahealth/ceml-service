@@ -1,0 +1,6 @@
+cem Mode
+	kind		component
+	key			Mode_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	Mode_VSET

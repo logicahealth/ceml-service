@@ -1,0 +1,8 @@
+
+cem Concluded
+	kind		attribution
+	base		Attribution
+	constraint	data.codeableConcept.code
+		value	Concluded_CODE
+    constraint  participant.data.codeableConcept.code
+        value   Concluder_CODE

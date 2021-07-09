@@ -1,0 +1,8 @@
+cem AdministrativeMaritalStatus
+	kind		component
+	key			AdministrativeMaritalStatus_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	MaritalStatus_VSET

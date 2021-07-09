@@ -1,0 +1,20 @@
+cem HemorrhoidAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		AlleviatingFactor
+		id		alleviatingFactor
+		card	0-1
+	qual		ExacerbatingFactor
+		id		exacerbatingFactor
+		card	0-1
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-1
+	qual		Course
+		id		course
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	Hemorrhoid_CODE
+	constraint  bodyLocation.card
+        value   0   
+    

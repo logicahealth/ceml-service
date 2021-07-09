@@ -1,0 +1,4 @@
+cem ClinicalEncounterId
+	kind	component
+	key		ClinicalEncounterId_CODE
+    data    Identifier

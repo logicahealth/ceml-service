@@ -1,0 +1,4 @@
+cem NeisseriaspidentifiedPridPtUrethraNomOrganismspecificcultureLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			NeisseriaspidentifiedPridPtUrethraNomOrganismspecificculture_CODE

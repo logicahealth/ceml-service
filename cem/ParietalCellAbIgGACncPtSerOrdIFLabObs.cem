@@ -1,0 +1,4 @@
+cem ParietalCellAbIgGACncPtSerOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ParietalCellAbIgGACncPtSerOrdIF_CODE

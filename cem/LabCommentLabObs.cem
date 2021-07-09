@@ -1,0 +1,4 @@
+cem LabCommentLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			LabComment_VSET

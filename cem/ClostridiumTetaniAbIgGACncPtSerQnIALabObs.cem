@@ -1,0 +1,5 @@
+cem ClostridiumTetaniAbIgGACncPtSerQnIALabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         ClostridiumTetaniAbIgGACncPtSerQnIA_CODE
+

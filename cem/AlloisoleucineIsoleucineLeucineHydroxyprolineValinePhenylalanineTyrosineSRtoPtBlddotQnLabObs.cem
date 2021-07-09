@@ -1,0 +1,5 @@
+cem AlloisoleucineIsoleucineLeucineHydroxyprolineValinePhenylalanineTyrosineSRtoPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlloisoleucineIsoleucineLeucineHydroxyprolineValinePhenylalanineTyrosineSRtoPtBlddotQn_CODE
+	

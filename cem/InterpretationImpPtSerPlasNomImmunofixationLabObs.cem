@@ -1,0 +1,4 @@
+cem InterpretationImpPtSerPlasNomImmunofixationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationImpPtSerPlasNomImmunofixation_CODE

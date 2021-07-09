@@ -1,0 +1,25 @@
+cem ServiceDeliveryLocation
+	kind		component
+	form		abstract
+	key			ServiceDeliveryLocation_VSET
+	item		ServiceDeliveryLocationName
+		id		serviceDeliveryLocationName
+		card	1-M
+	item		ServiceDeliveryLocationCondition
+		id		serviceDeliveryLocationCondition
+		card	0-1
+	item		Address
+		id		address
+		card	0-1
+	item		Telecom
+		id		telecom
+		card	0-M
+	item		CEMLPeriod
+		id		period
+		card	0-1
+	item		ExternalIdentifier
+		id		externalIdentifier
+		card	0-1
+	item		Mode
+		id		mode
+		card	0-1

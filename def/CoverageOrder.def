@@ -1,0 +1,8 @@
+CoverageOrder 	
+The order of applicability of this coverage relative to other coverages which are currently enforce. Note, there may be gaps in the numbering and this does not imply primary, secondary etc. as the specific positioning of coverages depends upon the episode of care.
+
+@Author bsheale
+@Date 12 May 2017 16:08
+@Status draft
+@RequestedBy Internal
+@Keyword coverage, insurance, financial

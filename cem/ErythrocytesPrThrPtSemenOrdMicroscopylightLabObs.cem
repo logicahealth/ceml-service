@@ -1,0 +1,7 @@
+cem ErythrocytesPrThrPtSemenOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ErythrocytesPrThrPtSemenOrdMicroscopylight_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	ObservNeg_VSET

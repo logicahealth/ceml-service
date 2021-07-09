@@ -1,0 +1,4 @@
+cem IsovalerylglycineACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			IsovalerylglycineACncPtUrineOrd_CODE

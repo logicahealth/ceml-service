@@ -1,0 +1,6 @@
+cem CD34CumulativeTotalLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CD34CumulativeTotal_CODE
+	constraint		data.quantity.unit_code
+		value	MillionPerKilogram_CODE

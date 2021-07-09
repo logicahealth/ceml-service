@@ -1,0 +1,2 @@
+VolumeRate only applies to Intermittent Infusions and Continuous Infusions. This may be entered directly by the user or it can be calculated from a dosage rate. Dosage rates are stored in the OrderableItem with the specific medication. The system then calculates this volume rate.
+

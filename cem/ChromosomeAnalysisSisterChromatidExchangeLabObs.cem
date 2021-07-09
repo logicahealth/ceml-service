@@ -1,0 +1,4 @@
+cem ChromosomeAnalysisSisterChromatidExchangeLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ChromosomeAnalysisSisterChromatidExchange_CODE

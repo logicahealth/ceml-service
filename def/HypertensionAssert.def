@@ -1,0 +1,4 @@
+HypertensionAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the HypertensionAssert model, data is "Hypertension_ECID" which means "Blood pressure higher than normal".
+

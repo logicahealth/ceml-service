@@ -1,0 +1,7 @@
+cem DateOfOnset
+	kind		component
+	key			DateOfOnset_CODE
+	data		DateTime
+	qual		EstimatedInd
+		id		estimatedInd
+		card	0-1

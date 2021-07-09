@@ -1,0 +1,7 @@
+cem HowMuchHaveYourMentalHealthSymptomsInterferedInYourSocialOrLeisureActivitiesInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     HowMuchHaveYourMentalHealthSymptomsInterferedInYourSocialOrLeisureActivitiesInLastTwoWeeks_CODE
+	data	Integer
+

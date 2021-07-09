@@ -1,0 +1,5 @@
+cem CitrullinePhenylalanineSRtoPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CitrullinePhenylalanineSRtoPtBlddotQn_CODE
+	

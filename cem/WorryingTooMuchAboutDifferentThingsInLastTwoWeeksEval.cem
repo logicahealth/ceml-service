@@ -1,0 +1,9 @@
+cem WorryingTooMuchAboutDifferentThingsInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     WorryingTooMuchAboutDifferentThingsInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET

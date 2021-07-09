@@ -1,0 +1,2 @@
+AdmitDiagnosisId
+This is the AdmitDiagnosis clinical element model.  It is used to capture the identifying code that will point or link to the instance data that contains the admission diagnosis.

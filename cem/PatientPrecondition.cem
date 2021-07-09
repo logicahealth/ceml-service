@@ -1,0 +1,9 @@
+//obsolete.  Use AssociatedPrecondition
+cem PatientPrecondition
+	kind		component
+	key			PatientPrecondition_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PatientPrecondition_VSET

@@ -1,0 +1,9 @@
+cem ResponsibleParty
+	kind		component
+	key			ResponsibleParty_CODE
+	item		ProviderId
+		id		providerId
+		card	0-1
+	item		ProviderName
+		id		providerName
+		card	0-1

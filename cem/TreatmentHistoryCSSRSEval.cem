@@ -1,0 +1,12 @@
+cem TreatmentHistoryCSSRSEval
+
+	kind	statement
+	base	StatementBase
+    key     TreatmentHistoryCSSRS_CODE
+	data	CodeableConcept
+
+	constraint	data.codeableConcept.strength
+	    value	CNE
+	constraint	data.codeableConcept.valueset
+	    value	TreatmentHistoryCSSRS_VSET
+

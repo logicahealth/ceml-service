@@ -1,0 +1,6 @@
+cem CarbonDioxideAdjustedToPatientsActualTemperaturePPresPtBldMVQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CarbonDioxideAdjustedToPatientsActualTemperaturePPresPtBldMVQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimetersOfMercury_CODE

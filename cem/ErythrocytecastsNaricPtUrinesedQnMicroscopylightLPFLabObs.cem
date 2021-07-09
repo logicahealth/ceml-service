@@ -1,0 +1,6 @@
+cem ErythrocytecastsNaricPtUrinesedQnMicroscopylightLPFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocytecastsNaricPtUrinesedQnMicroscopylightLPF_CODE
+	constraint		data.quantity.unit_code
+			value		PerLowPowerField_CODE

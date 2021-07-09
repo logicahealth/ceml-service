@@ -1,0 +1,4 @@
+HypothyroidismAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the HypothyroidismAssert model, data is "Hypothyroidism_ECID" which means "A syndrome that results from abnormally low secretion of thyroid hormones from the thyroid gland, leading to a decrease in basal metabolic rate. In its most severe form, there is accumulation of mucopolysaccharides in the skin and edema, known as myxedema (MeSH)".
+

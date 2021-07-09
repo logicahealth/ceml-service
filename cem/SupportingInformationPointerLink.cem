@@ -1,0 +1,4 @@
+cem SupportingInformationPointerLink
+	kind		component
+	key			SupportingInformationPointerLink_CODE
+	data		Identifier

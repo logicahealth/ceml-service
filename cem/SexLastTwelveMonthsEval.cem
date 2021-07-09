@@ -1,0 +1,16 @@
+cem SexLastTwelveMonthsEval
+
+	kind	statement
+	base	StatementBase
+    key     SexLastTwelveMonths_CODE
+	data	CodeableConcept
+
+    constraint	verified.card
+	    value	0
+    constraint	performed.card
+	    value	0
+	constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	YesNo_VSET
+

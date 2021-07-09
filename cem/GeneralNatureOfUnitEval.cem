@@ -1,0 +1,9 @@
+cem GeneralNatureOfUnitEval
+	kind	statement
+	base	StatementBase
+	key			GeneralNatureOfUnit_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	StatusOfNursingUnitActivityLevel_VSET

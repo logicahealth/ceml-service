@@ -1,0 +1,4 @@
+cem EndomysialAntibodyIgALabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			EndomysialAntibodyIgA_CODE

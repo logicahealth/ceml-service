@@ -1,0 +1,4 @@
+cem PMSMinus2AgACncPtTissOrdImmuneStainLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PMSMinus2AgACncPtTissOrdImmuneStain_CODE

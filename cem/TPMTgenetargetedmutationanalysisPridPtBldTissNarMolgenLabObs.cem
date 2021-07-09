@@ -1,0 +1,4 @@
+cem TPMTgenetargetedmutationanalysisPridPtBldTissNarMolgenLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			TPMTgenetargetedmutationanalysisPridPtBldTissNarMolgen_CODE

@@ -1,0 +1,6 @@
+cem Leukocytesother100leukocytesNFrPtBldQnAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Leukocytesother100leukocytesNFrPtBldQnAutomatedcount_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

@@ -1,0 +1,2 @@
+This field contains the ordering provider's instructions to the patient or the provider administering the drug or treatment. (HL7 definition, RXE-7) This is called "Directions" in Centricity Pharmacy which creates an English translation of the dose and frequency which then can be added to or changed by the pharmacist.
+

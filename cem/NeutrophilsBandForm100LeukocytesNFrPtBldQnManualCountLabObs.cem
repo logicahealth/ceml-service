@@ -1,0 +1,6 @@
+cem NeutrophilsBandForm100LeukocytesNFrPtBldQnManualCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NeutrophilsBandForm100LeukocytesNFrPtBldQnManualCount_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

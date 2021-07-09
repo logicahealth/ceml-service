@@ -1,0 +1,13 @@
+cem IdealBodyWeightMeas
+	kind	statement
+	base	StatementBase
+	key			IdealBodyWeight_CODE
+	data		Quantity
+	qual		Method
+		id		method
+		card	0-1
+	qual		ReferenceRangeNar
+		id		referenceRangeNar
+		card	0-1
+	constraint		data.quantity.unit_code
+		value	Kilograms_CODE

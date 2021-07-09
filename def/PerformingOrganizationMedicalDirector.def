@@ -1,0 +1,6 @@
+PerformingOrganizationMedicalDirector is the CEM to capture the individual that is the medical director for an organization; e.g. the pathologist responsible for a laboratory or laboratory department.  LOINC code 68990-1.
+
+@Author nrdavis1
+@Date 10 Sep 2018 09:57
+@Status draft
+@RequestedBy HSPC

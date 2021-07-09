@@ -1,0 +1,4 @@
+cem CalciumPhosphateCrystalsACncPtUrineSedOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CalciumPhosphateCrystalsAcncPtUrineSedOrdMicroscopyLight_CODE

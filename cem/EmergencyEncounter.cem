@@ -1,0 +1,16 @@
+cem EmergencyEncounter
+	kind	statement
+    base    Encounter
+    key     EmergencyEncounter_CODE
+    item		DischargeDiagnosisId
+        id		dischargeDiagnosisId    
+        card	0-M
+    item		DischargeMedicationId
+        id		dischargeMedicationId    
+        card	0-M
+    item        ChiefComplaintId
+        id		chiefComplaintId    
+        card	0-M
+
+
+

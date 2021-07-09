@@ -1,0 +1,39 @@
+
+cem FPARChlamydiaGonorrheaComboTestsPanel
+	kind    	panel
+    base        PanelBase
+	key         FPARChlamydiaGonorrheaComboTestsPanel_CODE
+	item		ChlamydiaTrachomatisNeisseriaGonorrhoeaerRNAPrThrPtXXXOrdProbeLabObs
+		id		chlamydiaTrachomatisNeisseriaGonorrhoeaerRNAPrThrPtXXXOrdProbeLabObs
+		card	0-M
+	item		ChlamydiaTrachomatisNeisseriaGonorrhoeaerRNAPrThrPtUrineOrdProbeLabObs
+		id		chlamydiaTrachomatisNeisseriaGonorrhoeaerRNAPrThrPtUrineOrdProbeLabObs
+		card	0-M
+	item		ChlamydiaTrachomatisNeisseriaGonorrhoeaerRNAPrThrPtVagOrdProbeLabObs
+		id		chlamydiaTrachomatisNeisseriaGonorrhoeaerRNAPrThrPtVagOrdProbeLabObs
+		card	0-M
+	item		ChlamydiaTrachomatisNeisseriaGonorrhoeaerRNAPrThrPtGenitalOrdProbeLabObs
+		id		chlamydiaTrachomatisNeisseriaGonorrhoeaerRNAPrThrPtGenitalOrdProbeLabObs
+		card	0-M
+	item		ChlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtCvxOrdProbeAmpTarLabObs
+		id		chlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtCvxOrdProbeAmpTarLabObs
+		card	0-M
+	item		ChlamydiaTrachomatisNeisseriaGonorrhoeaerRNAPrThrPtCvxOrdProbeLabObs
+		id		chlamydiaTrachomatisNeisseriaGonorrhoeaerRNAPrThrPtCvxOrdProbeLabObs
+		card	0-M
+	item		ChlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtGenitalOrdProbeAmpTarLabObs
+		id		chlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtGenitalOrdProbeAmpTarLabObs
+		card	0-M
+	item		ChlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtUrineOrdProbeAmpTarLabObs
+		id		chlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtUrineOrdProbeAmpTarLabObs
+		card	0-M
+	item		ChlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtXXXOrdProbeAmpSigLabObs
+		id		chlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtXXXOrdProbeAmpSigLabObs
+		card	0-M
+	item		ChlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPridPtXXXNomProbeAmpTarLabObs
+		id		chlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPridPtXXXNomProbeAmpTarLabObs
+		card	0-M
+	item		ChlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtXXXOrdProbeAmpTarLabObs
+		id		chlamydiaTrachomatisNeisseriaGonorrhoeaeDNAPrThrPtXXXOrdProbeAmpTarLabObs
+		card	0-M
+

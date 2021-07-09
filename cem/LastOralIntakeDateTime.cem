@@ -1,0 +1,11 @@
+cem LastOralIntakeDateTime
+	kind	statement
+	base	StatementBase
+	key         LastOralIntakeDateTime_CODE
+	data		DateTime
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1

@@ -1,0 +1,5 @@
+cem HepaticIronIndexRatioPtLiverQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HepaticIronIndexRatioPtLiverQn_CODE
+	

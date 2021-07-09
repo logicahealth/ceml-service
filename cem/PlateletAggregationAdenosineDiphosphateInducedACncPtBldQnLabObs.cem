@@ -1,0 +1,4 @@
+cem PlateletAggregationAdenosineDiphosphateInducedACncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PlateletAggregationAdenosineDiphosphateInducedACncPtBldQn_CODE

@@ -1,0 +1,5 @@
+cem EndomysiumAbTitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EndomysiumAbTitrPtSerQnIF_CODE
+	

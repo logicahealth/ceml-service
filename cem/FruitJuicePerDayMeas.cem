@@ -1,0 +1,12 @@
+cem FruitJuicePerDayMeas
+	kind        statement
+	base        StatementBase
+    key         FruitJuicePerDay_CODE
+	data        Quantity
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    1
+    constraint  associatedPrecondition.data.codeableConcept.code
+        value   Preadmission_CODE
+	constraint	data.quantity.unit_code
+	    value	MilliliterPerDay_CODE

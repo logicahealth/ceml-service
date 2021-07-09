@@ -1,0 +1,7 @@
+cem WoundGradeLink
+	kind    	link
+	key         WoundGradeLink_CODE
+    data        Identifier
+    constraint  data.identifier.key
+        value   WoundGradationPanel_CODE
+

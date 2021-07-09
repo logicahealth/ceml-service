@@ -1,0 +1,4 @@
+cem SjogrenssyndromeBextractablenuclearAbPrThrPtSerOrdImmunediffusionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SjogrenssyndromeBextractablenuclearAbPrThrPtSerOrdImmunediffusion_CODE

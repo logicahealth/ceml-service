@@ -1,0 +1,6 @@
+DistanceFromLandmark is a component type of clinical element model.  Part of the Body Landmark Orientation model.  It is used to capture the measured distance from a landmark (tatoo, body structure such as nipple) an observation is made.
+
+@Author nrdavis1
+@Date 25 Feb 2019 11:58
+@Status draft
+@RequestedBy CIMI Skin and Wound

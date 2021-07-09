@@ -1,0 +1,7 @@
+cem StreptococcusagalactiaeAgPrThrPtXXXOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StreptococcusagalactiaeAgPrThrPtXXXOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

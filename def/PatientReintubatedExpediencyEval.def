@@ -1,0 +1,4 @@
+PatientReintubatedExpediencyEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the PatientReintubatedExpediencyEval model, the question is "what is the subject's Patient Reintubated Expediency?" and the coded answers can be 'Emergent' and 'Elective'.
+"PatientReintubatedExpediencyEval" is an evaluation of the condition under which a patient's repeat insertion of an artificial airway device takes place.
+

@@ -1,0 +1,4 @@
+cem ColorTypePtCalculusNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ColorTypePtCalculusNom_CODE

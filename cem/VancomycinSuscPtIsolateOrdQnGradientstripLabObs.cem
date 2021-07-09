@@ -1,0 +1,4 @@
+cem VancomycinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			VancomycinSuscPtIsolateOrdQnGradientstrip_CODE

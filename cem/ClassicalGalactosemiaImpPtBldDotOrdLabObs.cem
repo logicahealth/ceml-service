@@ -1,0 +1,4 @@
+cem ClassicalGalactosemiaImpPtBldDotOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ClassicalGalactosemiaImpPtBldDotOrd_CODE

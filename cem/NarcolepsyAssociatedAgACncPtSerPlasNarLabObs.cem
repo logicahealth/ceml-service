@@ -1,0 +1,4 @@
+cem NarcolepsyAssociatedAgACncPtSerPlasNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			NarcolepsyAssociatedAgACncPtSerPlasNar_CODE

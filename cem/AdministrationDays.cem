@@ -1,0 +1,18 @@
+cem AdministrationDays
+	kind		component
+	key			AdministrationDays_CODE
+	item		DayOfWeek
+		id		dayOfWeek
+		card	0-M
+	item		DayOfMonth
+		id		dayOfMonth
+		card	0-M
+	item		Date
+		id		date
+		card	0-M
+	item		DaysOnDaysOff
+		id		daysOnDaysOff
+		card	0-1
+	item		DayToEvent
+		id		dayToEvent
+		card	0-1

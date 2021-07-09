@@ -1,0 +1,6 @@
+cem DiagnosisType
+	kind    	component
+	key         DiagnosisType_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   DiagnosisType_VSET

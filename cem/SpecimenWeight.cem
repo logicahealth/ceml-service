@@ -1,0 +1,6 @@
+cem SpecimenWeight
+	kind		component
+	key			SpecimenWeight_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	SIMassUnits_VSET

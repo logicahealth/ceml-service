@@ -1,0 +1,8 @@
+cem PersonNameStatus
+	kind		component
+	key			PersonNameStatus_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	EntityStatus_VSET

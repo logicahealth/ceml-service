@@ -1,0 +1,6 @@
+cem MethylmalonylcarnitineC4DCSCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethylmalonylcarnitineC4DCSCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

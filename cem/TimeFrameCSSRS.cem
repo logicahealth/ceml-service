@@ -1,0 +1,10 @@
+
+cem TimeFrameCSSRS
+	kind    	component
+	key         TimeFrameCSSRS_CODE
+	data        CodeableConcept
+
+    constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+	    value	TimeFrameCSSRS_VSET

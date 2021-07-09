@@ -1,0 +1,8 @@
+cem CardiacMonitoringLeadPlacementAssert
+	kind	statement
+	base		ObservationAssert
+	qual        CardiacMonitoringLead
+        id      cardiacMonitoringLead
+        card    0-M
+	constraint	data.codeableConcept.code
+		value	CardiacMonitoringLeadPlacement_CODE

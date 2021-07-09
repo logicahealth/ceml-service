@@ -1,0 +1,4 @@
+cem BasementMembraneAbIgAACncPtSerOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BasementMembraneAbIgAACncPtSerOrdIF_CODE

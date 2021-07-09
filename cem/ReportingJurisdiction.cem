@@ -1,0 +1,7 @@
+cem ReportingJurisdiction
+	kind    	component
+	key         ReportingJurisdiction_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset         
+        value   ReportingJurisdiction_VSET
+

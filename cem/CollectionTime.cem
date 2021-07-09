@@ -1,0 +1,4 @@
+cem CollectionTime
+	kind		component
+	key			CollectionTime_CODE
+	data		DateTime

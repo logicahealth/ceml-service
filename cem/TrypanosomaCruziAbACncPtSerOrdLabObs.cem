@@ -1,0 +1,4 @@
+cem TrypanosomaCruziAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TrypanosomaCruziAbACncPtSerOrd_CODE

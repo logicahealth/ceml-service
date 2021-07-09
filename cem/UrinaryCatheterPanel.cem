@@ -1,0 +1,17 @@
+cem UrinaryCatheterPanel
+	kind        panel
+    base        PanelBase
+	key         UrinaryCatheterPanel_CODE
+    item        UrinaryCatheterAssert
+        id      urinaryCatheterAssert
+        card    0-1
+    item        HematomaAssert
+        id      hematomaAssert
+        card    0-M
+    item        UrinaryCatheterInsertionProc
+        id      urinaryCatheterInsertionProc
+        card    0-M
+    item        UrinaryCatheterRemovalProc
+        id      urinaryCatheterRemovalProc
+        card    0-M
+   

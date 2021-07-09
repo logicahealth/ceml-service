@@ -1,0 +1,5 @@
+cem SARScoronavirus2wholegenomeSeqPtIsolateNomSequencing
+	kind    	statement
+    base        StandardLabObsCoded
+	key         SARScoronavirus2wholegenomeSeqPtIsolateNomSequencing_CODE
+

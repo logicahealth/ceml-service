@@ -1,0 +1,2 @@
+ClinicalDrug is a component base model used to record the clinical name, in codified form, of a medication.
+For example the clinical drug contained in Tylenol is acetaminophen.

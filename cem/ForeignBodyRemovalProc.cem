@@ -1,0 +1,14 @@
+cem ForeignBodyRemovalProc
+	kind		statement
+	base		Procedure
+	qual		ForeignBody
+		id		foreignBody
+		card	0-1
+	qual		ApproachSite
+		id		approachSite
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	ForeignBodyRemoval_CODE

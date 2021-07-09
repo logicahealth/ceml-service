@@ -1,0 +1,2 @@
+Interpretation is a component base model.  Interpretation is used to clarify data from measurements, evaluations, and assessments.
+For example, if a measured analyte is greater than a predetermined threshold the interpretation could be "Positive", or if a measurement is lower than a normal physiological range teh interpretation could be "low" or "critical low".

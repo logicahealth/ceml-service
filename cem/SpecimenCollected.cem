@@ -1,0 +1,19 @@
+cem SpecimenCollected
+	kind		attribution
+	base		Attribution
+	qual		CollectionDuration
+		id		collectionDuration
+		card	0-1
+	qual		CollectionStatus
+		id		collectionStatus
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	SpecimenCollected_CODE
+    constraint  actionMethod.data.codeableConcept.valueset
+        value   SpecimenCollectionMethod_VSET
+    constraint  patientLocation.card
+        value   0
+    constraint  providerLocation.card
+        value   0
+    constraint  reason.card
+        value   0

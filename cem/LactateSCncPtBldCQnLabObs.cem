@@ -1,0 +1,6 @@
+cem LactateSCncPtBldCQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LactateSCncPtBldCQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimolesPerLiter_CODE

@@ -1,0 +1,4 @@
+cem ResultForP2Y12InhibitionLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ResultForP2Y12Inhibition_CODE

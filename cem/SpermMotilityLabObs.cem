@@ -1,0 +1,4 @@
+cem SpermMotilityLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			SpermMotility_CODE

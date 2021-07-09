@@ -1,0 +1,8 @@
+PulmonaryEmbolismSubclassification 
+PulmonaryEmbolismSubclassification model is a qualifier or component model.
+In the PulmonaryEmbolismSubclassification model, the data being qaualified is the assertion of a pulmonary embolism.  In other words, it provides the specific sub-type of pulmonary embolism to further describe the asserted PE. 
+
+@Author nrdavis1
+@Date 05 Dec 2016 14:21
+@Status draft
+@RequestedBy iActivity

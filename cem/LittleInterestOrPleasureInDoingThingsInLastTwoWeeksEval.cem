@@ -1,0 +1,10 @@
+cem LittleInterestOrPleasureInDoingThingsInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     LittleInterestOrPleasureInDoingThingsInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET
+

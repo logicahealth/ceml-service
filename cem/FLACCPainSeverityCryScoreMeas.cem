@@ -1,0 +1,10 @@
+cem FLACCPainSeverityCryScoreMeas
+	kind	statement
+	base	StatementBase
+	key			FLACCPainSeverityCryScore_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	FLACCPainSeverityCryScore_VSET

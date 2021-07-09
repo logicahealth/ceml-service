@@ -1,0 +1,5 @@
+IntakeFluidType is a component model to identify intake fluid types where the intake fluid that is normally a medication is not being administered as a medication (i.e. normal saline) and other non-medication fluids (e.g. milk and molasses).
+
+
+06/21/2016 in discussion it was decided that the constraint on intakeFluidType caused too much confusion. Thus, we simplified the definition of intakeFluidType
+

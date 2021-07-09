@@ -1,0 +1,4 @@
+cem BloodbankconsultFindPtPatientDocLabObs
+	kind		statement
+	base		StandardLabObsDocument
+	key			BloodbankconsultFindPtPatientDoc_CODE

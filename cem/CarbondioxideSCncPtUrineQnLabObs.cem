@@ -1,0 +1,6 @@
+cem CarbondioxideSCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CarbondioxideSCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+			value		MillimolesPerLiter_CODE

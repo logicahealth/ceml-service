@@ -1,0 +1,9 @@
+cem Trend
+	kind    	component
+	key         Trend_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Trend_VSET
+        constraint  data.codeableConcept.strength
+        value   CWE
+

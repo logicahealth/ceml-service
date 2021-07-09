@@ -1,0 +1,6 @@
+cem EncounterLink
+	kind    	link
+	key         EncounterLink_CODE
+    data        Identifier
+    constraint  data.identifier.key
+        value   Encounter_VSET

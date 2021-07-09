@@ -1,0 +1,1 @@
+DataOriginationMode describes how the current data came to be.  Values include Estimated, Stated, Measured.

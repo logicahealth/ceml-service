@@ -1,0 +1,6 @@
+cem NormetanephrineMCnc24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NormetanephrineMCnc24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerMilliliter_CODE

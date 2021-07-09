@@ -1,0 +1,7 @@
+cem JaundiceSeverityEval
+    kind        statement
+    base       	StatementBase
+    key         JaundiceSeverity_CODE
+    data        CodeableConcept
+    constraint	data.codeableConcept.valueset
+        value	JaundiceSeverity_VSET

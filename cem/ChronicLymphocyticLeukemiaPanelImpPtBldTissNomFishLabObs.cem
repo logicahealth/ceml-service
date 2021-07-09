@@ -1,0 +1,4 @@
+cem ChronicLymphocyticLeukemiaPanelImpPtBldTissNomFishLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ChronicLymphocyticLeukemiaPanelImpPtBldTissNomFish_CODE

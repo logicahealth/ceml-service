@@ -1,0 +1,8 @@
+cem AreolaRegion
+	kind    	component
+	key         AreolaRegion_CODE
+	data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   AreolaRegion_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE

@@ -1,0 +1,9 @@
+cem MouthExamEval
+	kind	statement
+	base	StatementBase
+	key			MouthExamEval_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	NormalAbnormal_VSET

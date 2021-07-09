@@ -1,0 +1,4 @@
+cem HIV1ImpPtSerPlasNomIALabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HIV1ImpPtSerPlasNomIA_CODE

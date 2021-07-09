@@ -1,0 +1,4 @@
+cem CellBoundPlateletAutoantibodiesLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CellBoundPlateletAutoantibodies_CODE

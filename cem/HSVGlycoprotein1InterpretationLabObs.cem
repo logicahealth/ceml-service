@@ -1,0 +1,4 @@
+cem HSVGlycoprotein1InterpretationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HSVGlycoprotein1Interpretation_CODE

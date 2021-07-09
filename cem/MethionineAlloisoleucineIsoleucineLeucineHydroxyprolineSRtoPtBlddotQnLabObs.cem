@@ -1,0 +1,5 @@
+cem MethionineAlloisoleucineIsoleucineLeucineHydroxyprolineSRtoPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethionineAlloisoleucineIsoleucineLeucineHydroxyprolineSRtoPtBlddotQn_CODE
+	

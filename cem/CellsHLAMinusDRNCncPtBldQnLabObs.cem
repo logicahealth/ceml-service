@@ -1,0 +1,6 @@
+cem CellsHLAMinusDRNCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CellsHLAMinusDRNCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	PerMicroliter_CODE

@@ -1,0 +1,18 @@
+cem OrderedDosageContainer
+	kind		component
+	key			OrderedDosageContainer_CODE
+	item		SpecialDoseLowerLimit
+		id		specialDoseLowerLimit
+		card	0-1
+	item		SpecialDoseUpperLimit
+		id		specialDoseUpperLimit
+		card	0-1
+	item		OrderedDoseLowerLimit
+		id		orderedDoseLowerLimit
+		card	0-1
+	item		OrderedDoseUpperLimit
+		id		orderedDoseUpperLimit
+		card	0-1
+	item		MaxDailyDose
+		id		maxDailyDose
+		card	0-1

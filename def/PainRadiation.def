@@ -1,0 +1,4 @@
+PainRadiation records the body location where the pain is radiating to.  Body location is used as data in this model since it is a component to the
+parent model of PainAssert where the body location of the pain is identified.  This data of body location indicates where the pain radiates to (i.e.,
+pain in the shoulder radiating to the hand). 
+

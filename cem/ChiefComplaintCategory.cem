@@ -1,0 +1,8 @@
+cem ChiefComplaintCategory
+	kind		component
+	key			ChiefComplaintCategory_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ChiefComplaintCategory_VSET

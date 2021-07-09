@@ -1,0 +1,12 @@
+cem PainDetectionAbilityEval
+	kind	statement
+	base	StatementBase
+	key			PainDetectionAbility_CODE
+	data		CodeableConcept
+    qual		DataAbsentReason
+		id		dataAbsentReason
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PainDetectionAbility_VSET

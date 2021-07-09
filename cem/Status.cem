@@ -1,0 +1,7 @@
+cem Status
+	kind	component
+	key     Status_CODE
+	data	CodeableConcept
+
+    constraint  data.codeableConcept.valueset
+        value   Status_VSET

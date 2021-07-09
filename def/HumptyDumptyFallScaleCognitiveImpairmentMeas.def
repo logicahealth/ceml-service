@@ -1,0 +1,3 @@
+HumptyDumptyFallScaleCognitiveImpairmentMeas created on 08/Sep/2016 16:57 by Jael Lindblom for ABD.
+
+This model is part of the HumptyDumptyFallScalePanel. It evaluates cognitive impairments that can contribute to fall risk. The values are "Not aware of limitations", "Forgets limitations" and "Oriented to own ability" and are each associated with an ordinal value for the score.

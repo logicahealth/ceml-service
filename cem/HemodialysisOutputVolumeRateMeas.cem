@@ -1,0 +1,8 @@
+cem HemodialysisOutputVolumeRateMeas
+	kind		statement
+	base		OutputVolumeRateMeas
+	key			HemodialysisOutputVolumeRate_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	HemodialysisDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	HemodialysisBodyLocationPrecoord_VSET

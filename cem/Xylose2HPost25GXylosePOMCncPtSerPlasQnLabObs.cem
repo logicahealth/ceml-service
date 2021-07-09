@@ -1,0 +1,6 @@
+cem Xylose2HPost25GXylosePOMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Xylose2HPost25GXylosePOMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

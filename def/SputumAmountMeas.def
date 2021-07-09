@@ -1,0 +1,4 @@
+SputumAmountMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO)  answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the SputumAmountMeas model, the question is "what is the Sputum Amount?" and the numeric answer will have a unit of measure. 
+"SputumAmountMeas" by definition means the volume of acquired fluid that is suctioned during airway management.
+

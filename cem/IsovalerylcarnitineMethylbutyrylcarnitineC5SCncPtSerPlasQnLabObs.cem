@@ -1,0 +1,6 @@
+cem IsovalerylcarnitineMethylbutyrylcarnitineC5SCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			IsovalerylcarnitineMethylbutyrylcarnitineC5SCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

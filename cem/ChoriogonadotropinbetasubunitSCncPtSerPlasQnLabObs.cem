@@ -1,0 +1,6 @@
+cem ChoriogonadotropinbetasubunitSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChoriogonadotropinbetasubunitSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		MillimolesPerLiter_CODE

@@ -1,0 +1,6 @@
+cem ProfessionalCertificate
+	kind		component
+	base		Credential
+	key			ProfessionalCertificate_VSET
+	constraint	credentialSubType.data.codeableConcept.valueset
+		value	ProfessionalCertificateSubtype_VSET

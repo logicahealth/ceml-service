@@ -1,0 +1,6 @@
+cem AlanineSCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlanineSCncPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicromolesPerGram_CODE

@@ -1,0 +1,4 @@
+cem InterpretationPATMARLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationPATMAR_CODE

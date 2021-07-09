@@ -1,0 +1,7 @@
+HipLabrumTearEval 
+The evaluation of tearing of the labrum of the hip tendons.  Possible values are "Positive for tear", "Negative for tear", and "Equivocal for tear".  There currently is no LOINC code for this evaluation.
+
+@Author nrdavis1
+@Date 29 Jan 2018 14:09
+@Status draft
+@RequestedBy iActivity

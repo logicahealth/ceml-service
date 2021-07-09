@@ -1,0 +1,14 @@
+cem TinglingAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		AlleviatingFactor
+		id		alleviatingFactor
+		card	0-M
+	qual		ExacerbatingFactor
+		id		exacerbatingFactor
+		card	0-M
+    qual        DistalToInjuryIndicator
+        id      distalToInjuryIndicator
+        card    0-1
+	constraint	data.codeableConcept.code
+		value	Tingling_CODE

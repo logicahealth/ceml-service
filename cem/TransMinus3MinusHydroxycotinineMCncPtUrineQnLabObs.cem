@@ -1,0 +1,6 @@
+cem TransMinus3MinusHydroxycotinineMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TransMinus3MinusHydroxycotinineMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

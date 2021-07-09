@@ -1,0 +1,5 @@
+cem FoozleB
+	kind    	statement
+	base		StatementBase
+	key         FOOZLEB_CODE
+    data        DateTime

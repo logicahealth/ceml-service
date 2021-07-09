@@ -1,0 +1,9 @@
+cem TroubleConcentratingOnThingsSuchAsReadingTheNewspaperOrWatchingTelevisionInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     TroubleConcentratingOnThingsSuchAsReadingTheNewspaperOrWatchingTelevisionInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET

@@ -1,0 +1,4 @@
+cem CFTRGenePIVS8PolyTPridPtBldTissNomMolgenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CFTRGenePIVS8PolyTPridPtBldTissNomMolgen_CODE

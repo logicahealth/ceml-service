@@ -1,0 +1,4 @@
+GenitourinarySuprapubicAspirationProc is a procedure model. In a procedure model the key code is "Procedure_KEY_ECID" and data describes the procedure being performed.
+In theUrinaryCatheterAspirationProc model, data is "UrinaryCatheterAspiration_Code" which means "The act of removing fluid from the bladder with suction through the catheter".
+
+Changed name to UrinaryCatheterAspirationProc

@@ -1,0 +1,4 @@
+cem GlycosaminoglycansACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			GlycosaminoglycansACncPtUrineOrd_CODE

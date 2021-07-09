@@ -1,0 +1,4 @@
+cem SupportingInformationStringLink
+	kind		component
+	key			SupportingInformationStringLink_CODE
+	data		String

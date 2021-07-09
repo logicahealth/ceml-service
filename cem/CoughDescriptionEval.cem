@@ -1,0 +1,7 @@
+cem CoughDescriptionEval
+	kind	statement
+    base    StatementBase
+	key     CoughDescription_CODE
+	data	CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	CoughDescription_VSET

@@ -1,0 +1,10 @@
+cem BronchiolitisScoreRespiratoryRateLessThanOneYearMeas
+	kind	statement
+	base	StatementBase
+	key			BronchiolitisScoreRespiratoryRateLessThanOneYear_CODE
+	data		CodeableOrdinal
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	BronchiolitisScoreRespiratoryRateLessThanOneYear_VSET

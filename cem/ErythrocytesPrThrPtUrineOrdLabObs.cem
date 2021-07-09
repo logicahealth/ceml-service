@@ -1,0 +1,4 @@
+cem ErythrocytesPrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ErythrocytesPrThrPtUrineOrd_CODE

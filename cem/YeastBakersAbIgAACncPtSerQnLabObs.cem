@@ -1,0 +1,6 @@
+cem YeastBakersAbIgAACncPtSerQnLabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         YeastBakersAbIgAACncPtSerQn_CODE
+    constraint  data.quantity.unit_code
+        value   KilounitsPerLiter_CODE

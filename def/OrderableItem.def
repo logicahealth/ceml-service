@@ -1,0 +1,3 @@
+OrderableItem is a component model.
+This is the actual orderable item. It was pulled out into its own model to support widgets.
+

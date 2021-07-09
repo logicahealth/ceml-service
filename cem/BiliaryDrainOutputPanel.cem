@@ -1,0 +1,16 @@
+cem BiliaryDrainOutputPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			BiliaryDrainOutputPanel_CODE
+	item		BiliaryDrainOutputVolumeMeas
+		id		biliaryDrainOutputVolumeMeas
+		card	1
+	item		BiliaryFluidDescriptionEval
+		id		biliaryFluidDescriptionEval
+		card	0-M
+	constraint	method.data.codeableConcept.valueset
+		value	BiliaryDrainMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	BiliaryDrainDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	BiliaryDrainBodyLocationPrecoord_VSET

@@ -1,0 +1,6 @@
+cem Num12HrActualDrawTimeLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num12HrActualDrawTime_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

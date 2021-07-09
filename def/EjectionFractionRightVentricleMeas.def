@@ -1,0 +1,4 @@
+EjectionFractionRightVentricleMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the "EjectionFractionRightVentricleMeas" model the question is "what is the Ejection Fraction Right Ventricle Measurement?" and the "answer" in data can be a numeric quantity representing the volume ejected from the right heart ventricle / total possible volume from the right heart ventricle .
+By definition EjectionFractionRightVentricleMeas means the measured fraction of heart chamber blood volume that is ejected during contraction of the right ventricle.
+

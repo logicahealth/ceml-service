@@ -1,0 +1,10 @@
+cem MealPatternEval
+    kind	statement
+	base	StatementBase
+    key     MealPattern_CODE
+	data	CodeableConcept
+    constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	MealPattern_VSET
+

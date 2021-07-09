@@ -1,0 +1,6 @@
+cem ChromiumMRat24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChromiumMRat24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerDay_CODE

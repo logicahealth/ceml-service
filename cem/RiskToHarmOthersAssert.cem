@@ -1,0 +1,8 @@
+cem RiskToHarmOthersAssert
+    kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.code
+        value	RiskToHarmOthers_CODE
+    constraint  bodyLocation.card
+        value   0 
+   

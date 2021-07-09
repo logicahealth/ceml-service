@@ -1,0 +1,10 @@
+cem ApgarScoreTwoMinuteActivityMeas
+	kind	statement
+	base	StatementBase
+	key			ApgarScoreTwoMinuteActivity_CODE
+	data		CodeableOrdinal
+	mod 	    FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableOrdinal.valueset
+		value	ApgarScoreActivity_VSET

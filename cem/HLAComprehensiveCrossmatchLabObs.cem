@@ -1,0 +1,4 @@
+cem HLAComprehensiveCrossmatchLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HLAComprehensiveCrossmatch_CODE

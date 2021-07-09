@@ -1,0 +1,4 @@
+cem VoorvoegselName
+	kind		component
+	key			VoorvoegselName_CODE
+	data		String

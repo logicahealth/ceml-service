@@ -1,0 +1,4 @@
+cem LegionellaUrineAntigenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			LegionellaUrineAntigen_CODE

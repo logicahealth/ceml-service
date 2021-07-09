@@ -1,0 +1,6 @@
+cem AlternateDiscreteStrength
+	kind		component
+	key			AlternateDiscreteStrength_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	MassUnits_VSET

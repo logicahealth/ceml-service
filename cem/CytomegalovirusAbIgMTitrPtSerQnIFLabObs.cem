@@ -1,0 +1,5 @@
+cem CytomegalovirusAbIgMTitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CytomegalovirusAbIgMTitrPtSerQnIF_CODE
+	

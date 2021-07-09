@@ -1,0 +1,12 @@
+
+cem SupportPersonInformation
+	kind    	statement
+    base        StatementBase
+   	key         SupportPersonInformation_CODE
+    data        String
+    qual        PersonalRelationshipType
+        id      relationshipToPatient
+        card    0-1
+
+
+

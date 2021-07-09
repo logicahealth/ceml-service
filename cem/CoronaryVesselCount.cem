@@ -1,0 +1,4 @@
+cem CoronaryVesselCount
+	kind    	component
+	key         CoronaryVesselCount_CODE
+	data        Quantity

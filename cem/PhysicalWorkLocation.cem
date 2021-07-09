@@ -1,0 +1,8 @@
+cem PhysicalWorkLocation
+	kind		component
+	key			PhysicalWorkLocation_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PhysicalWorkLocation_VSET

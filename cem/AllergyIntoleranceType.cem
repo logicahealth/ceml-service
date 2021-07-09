@@ -1,0 +1,6 @@
+cem AllergyIntoleranceType
+	kind		component
+	key			AllergyIntoleranceType_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	AllergyIntoleranceType_VSET

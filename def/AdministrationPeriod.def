@@ -1,0 +1,3 @@
+AdministrationPeriod is the time over which the administration should take place. 
+Used in piggyback medication orders as in "infuse over 30 minutes".
+

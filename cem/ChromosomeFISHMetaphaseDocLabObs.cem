@@ -1,0 +1,4 @@
+cem ChromosomeFISHMetaphaseDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ChromosomeFISHMetaphaseDoc_CODE

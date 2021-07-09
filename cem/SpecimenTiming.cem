@@ -1,0 +1,10 @@
+cem SpecimenTiming
+	kind    	component
+	key         SpecimenTiming_CODE
+    item        TimeQuantity
+        id      timeQuantity
+        card    0-1
+    item        PrePost
+        id      prePost
+        card    0-1
+

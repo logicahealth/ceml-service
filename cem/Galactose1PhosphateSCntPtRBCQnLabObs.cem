@@ -1,0 +1,6 @@
+cem Galactose1PhosphateSCntPtRBCQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Galactose1PhosphateSCntPtRBCQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicromolesPerGram_CODE

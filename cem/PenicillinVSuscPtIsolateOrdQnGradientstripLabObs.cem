@@ -1,0 +1,4 @@
+cem PenicillinVSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PenicillinVSuscPtIsolateOrdQnGradientstrip_CODE

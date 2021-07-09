@@ -1,0 +1,4 @@
+cem BetaThromboglobulinLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			BetaThromboglobulin_CODE

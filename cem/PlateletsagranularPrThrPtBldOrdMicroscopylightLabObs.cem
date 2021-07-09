@@ -1,0 +1,4 @@
+cem PlateletsagranularPrThrPtBldOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PlateletsagranularPrThrPtBldOrdMicroscopylight_CODE

@@ -1,0 +1,10 @@
+cem MiscellaneousOutputFluidDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			MiscellaneousOutputFluidDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	MiscellaneousOutputFluidDescription_VSET
+	constraint	method.data.codeableConcept.valueset
+		value	MiscellaneousOutputFluidMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	MiscellaneousOutputFluidDevice_VSET

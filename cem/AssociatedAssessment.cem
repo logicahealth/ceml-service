@@ -1,0 +1,12 @@
+cem AssociatedAssessment
+	kind		component
+	key			AssociatedAssessment_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET
+
+//		
+//	constraint	data.codeableConcept.valueset
+//		value	CodedAssessment_VSET
+//	constraint	data.codeableOrdinal.valueset
+//		value	OrdinalAssessment_VSET

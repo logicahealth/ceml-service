@@ -1,0 +1,4 @@
+cem PathreportrelevantHxFindPtSpecimenNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			PathreportrelevantHxFindPtSpecimenNar_CODE

@@ -1,0 +1,6 @@
+cem HepatitisBVirusSurfaceAgACncPtSerOrdNeutLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HepatitisBVirusSurfaceAgACncPtSerOrdNeut_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

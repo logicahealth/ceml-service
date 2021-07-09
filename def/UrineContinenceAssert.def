@@ -1,0 +1,4 @@
+UrineContinenceAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the UrineContinenceAssert model, data is UrineContinence_ECID which means voluntary control of urine flow.
+

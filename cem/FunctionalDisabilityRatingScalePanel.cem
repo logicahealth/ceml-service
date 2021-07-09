@@ -1,0 +1,14 @@
+cem FunctionalDisabilityRatingScalePanel
+	kind    	panel
+    base        PanelBase
+	key         FunctionalDisabilityRatingScalePanel_CODE
+    item        HowMuchHaveYourMentalHealthSymptomsInterferedInYourFamilyLifeAndHomeResponsibiltiesInLastTwoWeeksEval
+        id      howMuchHaveYourMentalHealthSymptomsInterferedInYourFamilyLifeAndHomeResponsibiltiesInLastTwoWeeksEval
+        card    0-1
+    item        HowMuchHaveYourMentalHealthSymptomsInterferedWithWorkOrSchoolInLastTwoWeeksEval
+        id      howMuchHaveYourMentalHealthSymptomsInterferedWithWorkOrSchoolInLastTwoWeeksEval
+        card    0-1
+    item        HowMuchHaveYourMentalHealthSymptomsInterferedInYourSocialOrLeisureActivitiesInLastTwoWeeksEval
+        id      howMuchHaveYourMentalHealthSymptomsInterferedInYourSocialOrLeisureActivitiesInLastTwoWeeksEval
+        card    0-1
+

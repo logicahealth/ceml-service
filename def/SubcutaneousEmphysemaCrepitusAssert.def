@@ -1,0 +1,6 @@
+SubcutaneousEmphysemaCrepitusAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID",
+and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the SubcutaneousEmphysemaCrepitusAssert model, data is SubcutaneousEmphysemaCrepitus_ECID which means that a subject suffers
+from subcutaneous air trapping which is felt during an assessment.
+

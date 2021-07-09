@@ -1,0 +1,8 @@
+cem PersonTaught
+	kind		component
+	key			PersonTaught_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PersonTaught_VSET

@@ -1,0 +1,6 @@
+cem TrypsinogenIfreeMCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TrypsinogenIfreeMCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerLiter_CODE

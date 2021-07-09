@@ -1,0 +1,27 @@
+cem FPARHIVTestPanel
+	kind    	panel
+    base        PanelBase
+	key         FPARHIVTestPanel_CODE
+	item		HIV12AbACncPtSerPlasOrdEIALabObs
+		id		hIV12AbACncPtSerPlasOrdEIALabObs
+		card	0-M
+	item		HIV1RNALnCncPtSerPlasQnProbeAmpTarDetectionLimit17LogCopiesMLLabObs
+		id		hIV1RNALnCncPtSerPlasQnProbeAmpTarDetectionLimit17LogCopiesMLLabObs
+		card	0-M
+	item		HIV1RNANCncPtSerPlasQnProbeAmpTarDetectionLimit50CopiesMLLabObs
+		id		hIV1RNANCncPtSerPlasQnProbeAmpTarDetectionLimit50CopiesMLLabObs
+		card	0-M
+	item		HIV1RNAACncPtXXXOrdProbeAmpTarLabObs
+		id		hIV1RNAACncPtXXXOrdProbeAmpTarLabObs
+		card	0-M
+	item		HIV1AbACncPtSerOrdIBLabObs
+		id		hIV1AbACncPtSerOrdIBLabObs
+		card	0-M
+	item		HIV2AbACncPtSerOrdEIALabObs
+		id		hIV2AbACncPtSerOrdEIALabObs
+		card	0-M
+	item		HIV1AbPrThrPtSerPlasBldOrdIARapidLabObs
+		id		hIV1AbPrThrPtSerPlasBldOrdIARapidLabObs
+		card	0-M
+
+

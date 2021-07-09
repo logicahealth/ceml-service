@@ -1,0 +1,4 @@
+cem InterpretationRUBGINLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationRUBGIN_CODE

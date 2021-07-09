@@ -1,0 +1,4 @@
+cem PrimaryImmunodeficiencyPanelInterpLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			PrimaryImmunodeficiencyPanelInterp_CODE

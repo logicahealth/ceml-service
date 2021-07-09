@@ -1,0 +1,6 @@
+cem CoagulationthrombininducedfactorsubstitutionimmediatelyafteradditionofprotaminesulfateTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationthrombininducedfactorsubstitutionimmediatelyafteradditionofprotaminesulfateTimePtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+			value		Seconds_CODE

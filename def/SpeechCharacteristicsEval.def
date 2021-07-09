@@ -1,0 +1,1 @@
+SpeechCharacteristicsEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD or CO) answer in data. In the SpeechCharacteristicsEval model, the question is "What is the patient's speech characteristics?" and the coded answers can be 'Clear', 'Accent', 'Aphonic' etc.

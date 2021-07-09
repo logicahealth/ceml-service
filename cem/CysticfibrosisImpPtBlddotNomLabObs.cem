@@ -1,0 +1,4 @@
+cem CysticfibrosisImpPtBlddotNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CysticfibrosisImpPtBlddotNom_CODE

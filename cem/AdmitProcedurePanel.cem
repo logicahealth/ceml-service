@@ -1,0 +1,10 @@
+cem AdmitProcedurePanel
+	kind	panel
+	base	PanelBase
+	key			AdmitProcedurePanel_CODE
+	item		AdmitProcedure
+		id		admitProcedure
+		card	0-M
+	att			Updated
+		id		updated
+		card	0-1

@@ -1,0 +1,5 @@
+cem TricuspidValveRepairReplacementProc
+	kind		statement
+	base		Procedure
+	constraint	data.codeableConcept.code
+		value	TricuspidValveRepairReplacement_CODE

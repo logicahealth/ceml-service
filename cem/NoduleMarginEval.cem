@@ -1,0 +1,27 @@
+cem NoduleMarginEval
+    kind	statement
+	base	StatementBase
+    key     NoduleMargin_CODE
+	data	CodeableConcept
+    qual        Severity
+        id      severity
+        card    0-1
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    qual        Modality
+        id      modality
+        card    0-1
+    qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-1
+    link        ImageLink
+        id      imageLink
+        card    0-M
+	constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	NoduleMargin_VSET
+    constraint  bodyLocationPrecoord.data.codeableConcept.valueset
+        value   NoduleBodyLocationPrecoord_VSET
+

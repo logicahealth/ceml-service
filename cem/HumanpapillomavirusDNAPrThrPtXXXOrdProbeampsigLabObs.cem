@@ -1,0 +1,4 @@
+cem HumanpapillomavirusDNAPrThrPtXXXOrdProbeampsigLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HumanpapillomavirusDNAPrThrPtXXXOrdProbeampsig_CODE

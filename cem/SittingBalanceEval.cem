@@ -1,0 +1,17 @@
+cem SittingBalanceEval
+	kind	statement
+	base	StatementBase
+	key     SittingBalance_CODE
+	data	CodeableConcept
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+	qual        AssociatedPrecondition
+        id      neuromuscularAssociatedPrecondition
+        card    0-M
+    constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	SittingBalance_VSET
+    constraint  neuromuscularAssociatedPrecondition.data.codeableConcept.valueset
+        value   NeuromuscularAssociatedPrecondition_VSET

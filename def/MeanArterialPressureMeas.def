@@ -1,0 +1,4 @@
+MeanArterialPressureMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the MeanArterialPressureMeas model, the question is "what is the subject's mean arterial pressure measure?" and the numeric answer will have a unit of measure. 
+"Mean arterial pressure measure" by definition means "The average pressure within the arteries".The mean arterial pressure is often calculated using the following formula:  (SBP + 2 (DBP))/3
+ 

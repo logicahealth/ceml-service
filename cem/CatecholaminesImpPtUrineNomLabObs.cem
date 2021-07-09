@@ -1,0 +1,4 @@
+cem CatecholaminesImpPtUrineNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CatecholaminesImpPtUrineNom_CODE

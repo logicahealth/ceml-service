@@ -1,0 +1,6 @@
+cem EditFormId
+	kind		component
+	key			EditFormId_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE

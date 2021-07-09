@@ -1,0 +1,10 @@
+cem ParacentesisOutputDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			ParacentesisOutputDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	ParacentesisOutputDescription_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	ParacentesisDevice_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	ParacentesisBodyLocationPrecoord_VSET

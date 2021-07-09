@@ -1,0 +1,6 @@
+cem AmphetaminesMCntPtMeconiumOrdScreenLabObs
+	kind    	statement
+    base        StandardLabObsOrdinal
+	key         AmphetaminesMCntPtMeconiumOrdScreen_CODE
+
+

@@ -1,0 +1,24 @@
+cem OrderItem
+	kind		component
+	key			OrderItem_CODE
+	item		OrderableItem
+		id		orderableItem
+		card	1
+	item		Formulation
+		id		formulation
+		card	0-1
+	item		OrderedDosageContainer
+		id		orderedDosageContainer
+		card	0-1
+	item		IvComponentType
+		id		ivComponentType
+		card	0-1
+	item		ActiveIngredient
+		id		activeIngredient
+		card	0-M
+	item		FilledSubstance
+		id		filledSubstance
+		card	0-M
+	item		SubstitutionStatus
+		id		substitutionStatus
+		card	0-1

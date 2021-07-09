@@ -1,0 +1,7 @@
+cem Hemostatic
+	kind		component
+	key			Hemostatic_CODE
+	data		String
+	qual		Aggregate
+		id		aggregate
+		card	0-1

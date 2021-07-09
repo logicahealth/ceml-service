@@ -1,0 +1,8 @@
+cem BradenScoreTotalMeas
+	kind	statement
+	base	StatementBase
+	key			BradenScoreTotal_CODE
+	data		Quantity
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M

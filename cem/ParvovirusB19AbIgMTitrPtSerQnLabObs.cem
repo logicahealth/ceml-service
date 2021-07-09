@@ -1,0 +1,5 @@
+cem ParvovirusB19AbIgMTitrPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ParvovirusB19AbIgMTitrPtSerQn_CODE
+	

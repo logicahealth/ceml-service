@@ -1,0 +1,4 @@
+cem HemoglobinDisordersImpPtBldDotOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HemoglobinDisordersImpPtBldDotOrd_CODE

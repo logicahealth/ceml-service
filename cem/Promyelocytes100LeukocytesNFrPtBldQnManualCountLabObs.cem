@@ -1,0 +1,6 @@
+cem Promyelocytes100LeukocytesNFrPtBldQnManualCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Promyelocytes100LeukocytesNFrPtBldQnManualCount_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

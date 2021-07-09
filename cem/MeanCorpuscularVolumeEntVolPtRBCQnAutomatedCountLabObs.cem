@@ -1,0 +1,6 @@
+cem MeanCorpuscularVolumeEntVolPtRBCQnAutomatedCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MeanCorpuscularVolumeEntVolPtRBCQnAutomatedCount_CODE
+	constraint		data.quantity.unit_code
+		value	Femtoliters_CODE

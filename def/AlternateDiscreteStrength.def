@@ -1,0 +1,3 @@
+AlternateDiscreteStrength captures only strength units for construction of a post coordinated unit.  
+It is different than AggregateStrength in that it captures any alternate strength units of measure for the given ingredient.
+

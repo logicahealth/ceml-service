@@ -1,0 +1,8 @@
+cem CalciumionizedMCncPtSerPlasQn
+	kind    	statement
+    base        StatementBase
+	key         CalciumionizedMCncPtSerPlasQn_CODE
+    data        Quantity
+    constraint  data.quantity.unit_code
+        value   MilligramsPerDeciliter_CODE
+

@@ -1,0 +1,19 @@
+cem CurrentParticipatingLocation
+	kind	statement
+	base	StatementBase
+	key			CurrentParticipatingLocation_CODE
+	item		EndTime
+		id		endTime
+		card	0-1
+	item		StartTime
+		id		startTime
+		card	0-1
+	item		TemporaryInd
+		id		temporaryInd
+		card	0-1
+	item		ParticipationStatus
+		id		participationStatus
+		card	0-1
+	item		LocationId
+		id		locationId
+		card	1

@@ -1,0 +1,4 @@
+cem StringData
+	kind		component
+	key			StringData_CODE
+	data		String

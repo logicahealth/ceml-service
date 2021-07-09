@@ -1,0 +1,6 @@
+cem Thyrotropin1HPostDoseTRHACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Thyrotropin1HPostDoseTRHACncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrointernationalUnitsPerMilliliter_CODE

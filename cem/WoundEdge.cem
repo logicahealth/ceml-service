@@ -1,0 +1,10 @@
+cem WoundEdge
+	kind    	component
+	key         WoundEdge_CODE
+    item        WoundEdgeDescription
+        id      woundEdgeDescription
+        card    0-M
+    item        WoundEdgeColor
+        id      woundEdgeColor
+        card    0-M
+

@@ -1,0 +1,10 @@
+cem LunchIntakeMeas
+	kind    	statement
+    base        StatementBase
+	key         LunchIntakeMeas_CODE
+    data        CodeableOrdinal
+    qual        FoodType
+        id      foodType
+        card    0-M
+    constraint  data.codeableOrdinal.valueset
+        value   LunchIntake_VSET

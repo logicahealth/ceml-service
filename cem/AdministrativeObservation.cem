@@ -1,0 +1,12 @@
+cem AdministrativeObservation
+	kind    	statement
+    base        StatementBase
+    form        abstract
+	key         AdministrativeObservation_VSET
+    data        CodeableConcept
+    constraint  data.codeableConcept.strength
+        value   CWE
+    constraint  performed.card
+        value   0
+    constraint  verified.card
+        value   0

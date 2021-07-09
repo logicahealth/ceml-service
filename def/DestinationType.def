@@ -1,0 +1,3 @@
+DestinationType is meant to identify to what or whom information, such as an alert, is meant to be sent to.  Values may include: ordering physician, calling program, specific user, attending physician, 
+attending nurse, bedside nurse, bedside terminal, department, nursing division, tracking board, printer nearest patient, specific printer, alert table, patient CDR, JMS queue, table, process.  
+

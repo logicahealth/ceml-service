@@ -1,0 +1,4 @@
+The OrderSpecimenLink model was created because Specimen itself could not be used within Order.  Specimen is of kind statement and Order is of kind Component.
+date: 03/04/2016
+modeler: N Davis
+status: draft

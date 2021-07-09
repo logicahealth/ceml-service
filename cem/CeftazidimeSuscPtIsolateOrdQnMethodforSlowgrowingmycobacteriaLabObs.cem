@@ -1,0 +1,4 @@
+cem CeftazidimeSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteriaLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CeftazidimeSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteria_CODE

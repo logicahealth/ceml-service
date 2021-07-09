@@ -1,0 +1,6 @@
+cem ProteinMCncPtBodyFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ProteinMCncPtBodyFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	GramsPerDeciliter_CODE

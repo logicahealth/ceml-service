@@ -1,0 +1,5 @@
+cem HelicobacterpyloriAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HelicobacterpyloriAbACncPtSerQn_CODE
+	

@@ -1,0 +1,7 @@
+cem StoolSizeMeas
+	kind	statement
+	base	StatementBase
+	key			StoolSize_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.valueset
+		value	StoolSize_VSET

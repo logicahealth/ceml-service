@@ -1,0 +1,10 @@
+cem HumptyDumptyFallScaleResponseToSurgerySedationAnesthesiaMeas
+	kind	statement
+	base	StatementBase
+    key     HumptyDumptyFallScaleResponseToSurgerySedationAnesthesia_CODE
+	data	CodeableOrdinal
+	constraint	data.codeableOrdinal.strength
+	    value	CNE
+	constraint	data.codeableOrdinal.valueset
+	    value	HumptyDumptyFallScaleResponseToSurgerySedationAnesthesia_VSET
+

@@ -1,0 +1,6 @@
+cem ColorTypePtCSFNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ColorTypePtCSFNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	CSFColor_VSET

@@ -1,0 +1,5 @@
+cem SaintLouisEncephalitisVirusAbIgMTitrPtCSFQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SaintLouisEncephalitisVirusAbIgMTitrPtCSFQnIF_CODE
+	

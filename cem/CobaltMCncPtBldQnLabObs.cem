@@ -1,0 +1,6 @@
+cem CobaltMCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CobaltMCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

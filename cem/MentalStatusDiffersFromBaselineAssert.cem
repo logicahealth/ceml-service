@@ -1,0 +1,10 @@
+cem MentalStatusDiffersFromBaselineAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        Method 
+        id      method
+        card    0-1
+    constraint  bodyLocation.bodyLocationPrecoord.card
+        value   0
+    constraint	data.codeableConcept.code
+        value	MentalStatusDiffersFromBaseline_CODE

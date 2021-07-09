@@ -1,0 +1,4 @@
+cem HFEGeneMutationAnalysisPridPtBldTissNarMolgenLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HFEGeneMutationAnalysisPridPtBldTissNarMolgen_CODE

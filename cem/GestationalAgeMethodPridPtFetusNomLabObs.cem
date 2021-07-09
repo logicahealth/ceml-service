@@ -1,0 +1,6 @@
+cem GestationalAgeMethodPridPtFetusNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			GestationalAgeMethodPridPtFetusNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	GestAgeMethod_VSET

@@ -1,0 +1,9 @@
+cem CardiacArrhythmiaIndicator
+	kind    	component
+	key         CardiacArrhythmiaIndicator_KEY_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   PresentAbsent_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

@@ -1,0 +1,4 @@
+cem EosinophilsPrThrPtStoolOrdWrightstainLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EosinophilsPrThrPtStoolOrdWrightstain_CODE

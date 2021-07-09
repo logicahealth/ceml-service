@@ -1,0 +1,10 @@
+cem HemodialysisIntakeFluidVolumeMeas
+	kind		statement
+	base		IntakeFluidVolumeMeas
+	key			HemodialysisIntakeFluidVolume_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	HemodialysisDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	HemodialysisBodyLocationPrecoord_VSET
+	constraint	intakeFluidType.data.codeableConcept.valueset
+		value	BloodProducts_VSET

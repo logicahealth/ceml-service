@@ -1,0 +1,6 @@
+cem CalciumBodyWeight24hUrineLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CalciumBodyWeight24hUrine_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerKilogramPerDay_CODE

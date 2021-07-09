@@ -1,0 +1,6 @@
+cem HeptacarboxylateCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HeptacarboxylateCreatinineScRtoPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerMoleCreatinine_CODE

@@ -1,0 +1,17 @@
+cem NippleRetractionAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    link        ImageLink
+        id      imageLink
+        card    0-M
+    constraint	data.codeableConcept.code
+        value	NippleRetraction_CODE
+    constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	NippleBodyLocationPrecoord_VSET
+    constraint  reportedReceived.card
+        value   0
+    constraint  verified.card
+        value   0

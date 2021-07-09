@@ -1,0 +1,6 @@
+cem HomovanillateMRat24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HomovanillateMRat24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDay_CODE

@@ -1,0 +1,6 @@
+cem OsmolalityOsmolPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OsmolalityOsmolPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilliosmolesPerKilogram_CODE

@@ -1,0 +1,12 @@
+cem AbilityToFollowCommandsEval
+	kind	statement
+	base	StatementBase
+	key     AbilityToFollowCommands_CODE
+    data		CodeableConcept
+    qual       DataAbsentReason
+        id     dataAbsentReason
+        card   0-M
+    constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	AbilityToFollowCommands_VSET

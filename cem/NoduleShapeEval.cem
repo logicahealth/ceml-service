@@ -1,0 +1,27 @@
+cem NoduleShapeEval
+    kind	statement
+	base	PhysicalObs
+    key     NoduleShape_CODE
+	data	CodeableConcept
+    qual        Severity
+        id      severity
+        card    0-1
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    qual        Modality
+        id      modality
+        card    0-1
+    link        ImageLink
+        id      imageLink
+        card    0-M
+	constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	NoduleShape_VSET
+    constraint  bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+        value   NoduleBodyLocationPrecoord_VSET
+    constraint  method.card
+        value   0
+    constraint  device.card
+        value   0

@@ -1,0 +1,10 @@
+cem BreastFeedingTimeIntakeMeas
+	kind		statement
+    base        StatementBase
+	key			BreastFeedingTimeIntake_CODE
+	data		Quantity
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.quantity.unit_code
+		value	Minutes_CODE

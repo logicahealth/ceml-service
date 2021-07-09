@@ -1,0 +1,4 @@
+cem TimeAddedLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			TimeAdded_CODE

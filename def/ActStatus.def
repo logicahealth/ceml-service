@@ -1,0 +1,3 @@
+ActStatus is the state of an act or an entity. It needs to be constrained to a specific status
+ data domain, such as role status or guarantor status, etc.
+

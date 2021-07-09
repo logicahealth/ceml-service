@@ -1,0 +1,4 @@
+cem NewbornscreeningrecommendedfollowupImpPtPatientNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			NewbornscreeningrecommendedfollowupImpPtPatientNom_CODE

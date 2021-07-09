@@ -1,0 +1,6 @@
+cem Cortisol1HpostdosecorticotropinMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Cortisol1HpostdosecorticotropinMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerDeciliter_CODE

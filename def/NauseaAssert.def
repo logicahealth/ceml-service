@@ -1,0 +1,6 @@
+NauseaAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the NauseaAssert model, data is "Nausea_ECID" which means "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses. (MeSH)".
+
+
+3/22/2016- Updated model by adding the 'severity' qualifier.  L.Buhl.

@@ -1,0 +1,5 @@
+CircuitTubingChangeProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes the procedure being performed.
+In the CircuitTubingChangeProc model data is CircuitTubingChange_ECID which captures information surrounding changing the circuit tubing which connects a mechanical ventilator to the patient.
+
+
+

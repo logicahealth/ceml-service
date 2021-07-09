@@ -1,0 +1,4 @@
+cem MelaninACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MelaninACncPtUrineOrd_CODE

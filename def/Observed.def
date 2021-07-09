@@ -1,0 +1,22 @@
+Observed is the act of observation.
+Observed is a child model of the Attribution model. It holds the who, when, where, and why information
+of the observation of an act performed by another entity.
+This is used to document that the act was done by someone other than the documenter.
+The information is entered by the person doing the documentation -- from the perspective of the person doing the documentation.
+
+Examples:
+-- An RN documents that he saw the physician put in the chest tube 
+		The entity (person) in the role of RN, participates in the act "chest tube insertion" as observer.
+			This information is stored in the "Observed" attribution.
+	The entity (person) in the role of MD, participates in the act "chest tube insertion" as primary performer.
+    	This information is stored in the "Performed" attribution.
+-- An IV was inserted in the operating room.
+		 The entity (person) in the role of RN, participates in the act "IV insertion" as receiver in the ICU.
+			This information is stored in the "ReportedReceived" attribution.
+		 The entity (person) in the role of RN, participates in the act "IV insertion" as reporter in the ICU.
+			This information is stored in a second instance of "ReportedReceived" attribution.
+		 The entity (person) in the role of "MD", participates in the act of "IV insertion" as primary performer in the OR.
+			This information is stored in the "Performed attribution."
+		 Only the person who actually watched the IV insertion should document in "Observed". 
+  
+

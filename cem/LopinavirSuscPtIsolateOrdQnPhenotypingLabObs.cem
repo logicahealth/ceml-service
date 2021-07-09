@@ -1,0 +1,4 @@
+cem LopinavirSuscPtIsolateOrdQnPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LopinavirSuscPtIsolateOrdQnPhenotyping_CODE

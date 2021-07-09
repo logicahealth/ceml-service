@@ -1,0 +1,6 @@
+NNDSSCaseLocalPatientID is the model to record the GenV2 or NETSS patient identifier for NNDSS reporters. 
+
+@Author lpnzhuo
+@Date 01 Apr 2020 13:35
+@Status draft
+@RequestedBy Logica

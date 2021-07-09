@@ -1,0 +1,6 @@
+HeadOccipitalFrontalCircumferenceByTapeMeasureMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the "HeadOccipitalFrontalCircumferenceByTapeMeasureMeas" model the question is "what is the subject's Head Occipital Frontal Circumference Measurement by tape measure?" and the numeric answer willhave a unit of measure. 
+Head Occipital Frontal Circumference by Tape Measure Measurement by definition means a subject's head occipital-frontal circumference measurement by tape measure.
+
+This model is isosemantic with HeadOccipitalFrontalCircumferenceMeas where the device is tape measure, the LOINC code is 8287-5.
+

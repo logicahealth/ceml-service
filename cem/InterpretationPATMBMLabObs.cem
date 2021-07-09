@@ -1,0 +1,4 @@
+cem InterpretationPATMBMLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			InterpretationPATMBM_CODE

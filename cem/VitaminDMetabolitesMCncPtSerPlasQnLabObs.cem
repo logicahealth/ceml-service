@@ -1,0 +1,6 @@
+cem VitaminDMetabolitesMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			VitaminDMetabolitesMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		NanogramsPerMilliliter_CODE

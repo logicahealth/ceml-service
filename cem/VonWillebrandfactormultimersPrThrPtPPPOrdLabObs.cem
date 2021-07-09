@@ -1,0 +1,4 @@
+cem VonWillebrandfactormultimersPrThrPtPPPOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			VonWillebrandfactormultimersPrThrPtPPPOrd_CODE

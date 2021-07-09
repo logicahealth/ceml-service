@@ -1,0 +1,6 @@
+cem TriiodothyronineResinUptakeNFrPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TriiodothyronineResinUptakeNFrPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

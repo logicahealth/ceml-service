@@ -1,0 +1,11 @@
+cem SpecimenSentToLab
+	kind    	component
+    key			SpecimenSentToLab_CODE
+    data        CodeableConcept
+
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	YesNoUnknown_VSET
+
+

@@ -1,0 +1,4 @@
+cem LymphocytesvariantPrThrPtBldOrdAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LymphocytesvariantPrThrPtBldOrdAutomatedcount_CODE

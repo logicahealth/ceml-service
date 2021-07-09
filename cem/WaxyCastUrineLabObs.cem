@@ -1,0 +1,6 @@
+cem WaxyCastUrineLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			WaxyCastUrine_CODE
+	constraint		data.quantity.unit_code
+		value	PerLowPowerField_CODE

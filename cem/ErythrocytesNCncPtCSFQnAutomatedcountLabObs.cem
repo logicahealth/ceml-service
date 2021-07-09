@@ -1,0 +1,6 @@
+cem ErythrocytesNCncPtCSFQnAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocytesNCncPtCSFQnAutomatedcount_CODE
+	constraint		data.quantity.unit_code
+			value		ThousandsPerMicroliter_CODE

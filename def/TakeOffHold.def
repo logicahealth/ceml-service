@@ -1,0 +1,3 @@
+TakeOffHold records that a "hold" or suspended status for an order or procedure has been lifted or removed.
+TakeOffHold is a child model of the Attribution model. It holds the who, when, where, and why information
+of the removal of the hold.

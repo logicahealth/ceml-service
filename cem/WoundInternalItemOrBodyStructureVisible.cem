@@ -1,0 +1,8 @@
+cem WoundInternalItemOrBodyStructureVisible
+	kind    	component
+	key         WoundInternalItemOrBodyStructureVisible_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   WoundInternalItemOrBodyStructureVisible_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE

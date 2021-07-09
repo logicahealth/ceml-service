@@ -1,0 +1,4 @@
+This is the ServiceDeliveryLocation CEType. From HL7 v3 (jan 2009), a ServiceDeliveryLocation is 'A role played by a place at which services may be provided. Note that a single physical place can play multiple service delivery location roles each with its own attributes. For example, a Podiatry clinic and Research clinic may meet on alternate days in the same physical location; each clinic uses its own mailing address and telephone number.'
+		 
+
+

@@ -1,0 +1,5 @@
+cem IncubationStarted
+	kind		attribution
+	base		Attribution
+	constraint	data.codeableConcept.code
+		value	IncubationStarted_CODE

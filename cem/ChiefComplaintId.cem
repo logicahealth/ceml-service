@@ -1,0 +1,4 @@
+cem ChiefComplaintId
+	kind	component
+	key     ChiefComplaintId_CODE
+	data	Identifier

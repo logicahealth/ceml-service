@@ -1,0 +1,6 @@
+created on 010/May/2016 15:02 by BHeale
+
+StoolSpecialPropEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the StoolSpecialPropEval model, the question is "what are the special properties of the stool?".
+"StoolSpecialPropEval" by definition means what are the special properties of the stool, not considered in color or consistency, such as floater, sinker, Parastic, Melaena, Pasty, Bloody
+

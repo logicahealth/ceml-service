@@ -1,0 +1,4 @@
+cem TetracyclineSuscPtIsolateOrdQnMICLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TetracyclineSuscPtIsolateOrdQnMIC_CODE

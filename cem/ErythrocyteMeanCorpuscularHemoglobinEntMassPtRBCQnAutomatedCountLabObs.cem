@@ -1,0 +1,6 @@
+cem ErythrocyteMeanCorpuscularHemoglobinEntMassPtRBCQnAutomatedCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocyteMeanCorpuscularHemoglobinEntMassPtRBCQnAutomatedCount_CODE
+	constraint		data.quantity.unit_code
+		value	Picograms_CODE

@@ -1,0 +1,9 @@
+
+cem BirthDateVerifiedMethod
+	kind	component
+	key     BirthDateVerifiedMethod_CODE
+	data	CodeableConcept
+    constraint  data.codeableConcept.strength
+        value   CWE
+    constraint  data.codeableConcept.valueset
+        value   BirthDateVerifiedMethod_VSET

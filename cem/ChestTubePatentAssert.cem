@@ -1,0 +1,11 @@
+cem ChestTubePatentAssert
+	kind		statement
+	base		ObservationAssert
+	qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-1
+	qual		AssociatedSignAndSymptom
+		id		associatedSignAndSymptom
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	ChestTubePatent_CODE

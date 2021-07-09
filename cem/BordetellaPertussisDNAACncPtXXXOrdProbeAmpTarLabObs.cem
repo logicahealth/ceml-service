@@ -1,0 +1,4 @@
+cem BordetellaPertussisDNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BordetellaPertussisDNAACncPtXXXOrdProbeAmpTar_CODE

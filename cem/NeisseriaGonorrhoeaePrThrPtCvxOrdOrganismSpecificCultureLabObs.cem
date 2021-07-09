@@ -1,0 +1,6 @@
+cem NeisseriaGonorrhoeaePrThrPtCvxOrdOrganismSpecificCultureLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeisseriaGonorrhoeaePrThrPtCvxOrdOrganismSpecificCulture_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

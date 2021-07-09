@@ -1,0 +1,4 @@
+cem OxycodonePrThrPtUrineOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			OxycodonePrThrPtUrineOrdScreen_CODE

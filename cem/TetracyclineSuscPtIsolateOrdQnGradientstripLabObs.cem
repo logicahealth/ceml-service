@@ -1,0 +1,4 @@
+cem TetracyclineSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TetracyclineSuscPtIsolateOrdQnGradientstrip_CODE

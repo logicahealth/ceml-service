@@ -1,0 +1,4 @@
+cem PathologistIDPtCvxVagNomCytostainLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PathologistIDPtCvxVagNomCytostain_CODE

@@ -1,0 +1,6 @@
+cem AgeAtObservation
+	kind		component
+	key			AgeAtObservation_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	TimeUnits_VSET

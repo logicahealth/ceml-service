@@ -1,0 +1,4 @@
+cem NorflunitrazepamMCncPtSerPlasQnConfirmLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			NorflunitrazepamMCncPtSerPlasQnConfirm_CODE

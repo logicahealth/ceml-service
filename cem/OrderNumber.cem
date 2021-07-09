@@ -1,0 +1,4 @@
+cem OrderNumber
+	kind		component
+	key			OrderNumber_CODE
+	data		String

@@ -1,0 +1,6 @@
+cem CalciumIntakeMeas
+	kind		statement
+	base		NutrientIntakeMeas
+	key			CalciumIntake_CODE
+	constraint	data.quantity.unit_code
+		value	Milligrams_CODE

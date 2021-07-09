@@ -1,0 +1,4 @@
+cem PiperacillinTazobactamSuscPtIsolateOrdQnMICLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PiperacillinTazobactamSuscPtIsolateOrdQnMIC_CODE

@@ -1,0 +1,4 @@
+cem VAPCholesterolLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			VAPCholesterol_CODE

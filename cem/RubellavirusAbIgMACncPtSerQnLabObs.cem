@@ -1,0 +1,5 @@
+cem RubellavirusAbIgMACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RubellavirusAbIgMACncPtSerQn_CODE
+	

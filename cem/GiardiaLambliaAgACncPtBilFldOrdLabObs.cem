@@ -1,0 +1,4 @@
+cem GiardiaLambliaAgACncPtBilFldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			GiardiaLambliaAgACncPtBilFldOrd_CODE

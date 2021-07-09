@@ -1,0 +1,6 @@
+cem HemoglobinFetalHemoglobinTotalPostPartumKleihauerMinusBetkeLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HemoglobinFetalHemoglobinTotalPostPartumKleihauerMinusBetke_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

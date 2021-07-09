@@ -1,0 +1,4 @@
+cem PathreportcommentsImpPtSpecimenNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			PathreportcommentsImpPtSpecimenNar_CODE

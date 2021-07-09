@@ -1,0 +1,4 @@
+cem SpecimenNumberLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SpecimenNumber_CODE

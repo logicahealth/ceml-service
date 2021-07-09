@@ -1,0 +1,8 @@
+cem DeliveryMethodType
+	kind		component
+	key			DeliveryMethodType_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	DeliveryMethodType_VSET

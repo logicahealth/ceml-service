@@ -1,0 +1,12 @@
+cem OxygenFlowRateMeas
+	kind	statement
+	base	StatementBase
+	key			OxygenFlowRate_CODE
+	data		Quantity
+	qual		RouteMethodDevice
+		id		routeMethodDevice
+        card    0-1
+	constraint	data.quantity.unit_code
+		value	LitersPerMinute_CODE
+	constraint	routeMethodDevice.data.codeableConcept.valueset
+		value	AirwayInterfaceType_VSET

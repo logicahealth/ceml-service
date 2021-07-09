@@ -1,0 +1,6 @@
+cem CReactiveProteinQuintilePtSerPlasQnHighSensitivityLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CReactiveProteinQuintilePtSerPlasQnHighSensitivity_CODE
+	constraint		data.quantity.unit_code
+		value	UnityUnitsOfMeasure_CODE

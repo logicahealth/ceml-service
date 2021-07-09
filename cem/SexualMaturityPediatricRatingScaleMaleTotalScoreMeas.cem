@@ -1,0 +1,7 @@
+cem SexualMaturityPediatricRatingScaleMaleTotalScoreMeas
+	kind	statement
+	base	StatementBase
+	key			SexualMaturityPediatricRatingScaleMaleTotalScore_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.valueset
+		value	SexualMaturityPediatricRatingScaleMaleTotalScore_VSET

@@ -1,0 +1,6 @@
+cem PropoxypheneMCntPtMeconiumQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PropoxypheneMCntPtMeconiumQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerGram_CODE

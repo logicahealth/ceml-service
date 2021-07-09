@@ -1,0 +1,7 @@
+cem AmphetaminesPrThrPtMeconiumOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AmphetaminesPrThrPtMeconiumOrdScreen_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	PosNegEquiIndet_VSET

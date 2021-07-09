@@ -1,0 +1,5 @@
+cem InhibinAadjustedMoMPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			InhibinAadjustedMoMPtSerPlasQn_CODE
+	

@@ -1,0 +1,5 @@
+cem ToxocaraSpAbACncPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ToxocaraSpAbACncPtSerQnEIA_CODE
+	

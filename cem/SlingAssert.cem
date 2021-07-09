@@ -1,0 +1,11 @@
+
+cem SlingAssert
+    kind        statement
+    base       	ObservationAssert
+    qual        BodyLocationPrecoord
+        id      bodyLocationPrecoord
+        card    0-1
+    constraint	data.codeableConcept.code
+        value	Sling_CODE
+    constraint  bodyLocationPrecoord.data.codeableConcept.valueset
+        value   OrthopedicPreventiveDeviceBodyLocation_VSET

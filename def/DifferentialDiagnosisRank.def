@@ -1,0 +1,3 @@
+DifferentialDiagnosisRank created by L.Buhl on 29/Jun/2016 12:02 for iActivity project.
+
+DifferentialDiagnosisRank is a component model that is used to rank the differential diagnosis.  Values are: Primary diagnosis, Secondary diagnosis, etc.

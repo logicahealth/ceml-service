@@ -1,0 +1,4 @@
+cem PrefixName
+	kind		component
+	key			PrefixName_CODE
+	data		String

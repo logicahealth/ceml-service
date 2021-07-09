@@ -1,0 +1,6 @@
+cem SodiumMRat24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SodiumMRat24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerKilogramPerDay_CODE

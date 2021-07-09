@@ -1,0 +1,4 @@
+cem CeftriaxoneSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CeftriaxoneSuscPtIsolateOrdQnGradientstrip_CODE

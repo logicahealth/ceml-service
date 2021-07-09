@@ -1,0 +1,6 @@
+cem SexualAbstinenceDurationTimePtPatientQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SexualAbstinenceDurationTimePtPatientQn_CODE
+	constraint		data.quantity.unit_code
+		value	Days_CODE

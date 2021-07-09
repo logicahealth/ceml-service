@@ -1,0 +1,6 @@
+cem VerificationStatus
+	kind    	component
+	key         VerificationStatus_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   VerificationStatus_VSET

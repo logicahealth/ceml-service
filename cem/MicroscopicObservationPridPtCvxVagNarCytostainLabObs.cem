@@ -1,0 +1,4 @@
+cem MicroscopicObservationPridPtCvxVagNarCytostainLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MicroscopicObservationPridPtCvxVagNarCytostain_CODE

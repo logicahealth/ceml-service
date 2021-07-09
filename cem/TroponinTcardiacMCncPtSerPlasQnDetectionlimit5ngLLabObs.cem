@@ -1,0 +1,6 @@
+cem TroponinTcardiacMCncPtSerPlasQnDetectionlimit5ngLLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TroponinTcardiacMCncPtSerPlasQnDetectionlimit5ngL_CODE
+	constraint		data.quantity.unit_code
+			value		NanogramsPerLiter_CODE

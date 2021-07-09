@@ -1,0 +1,7 @@
+cem HorowitzIndexBldAIhGRatio
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         HorowitzIndexBldAIhGRatio_KEY_CODE
+    constraint  data.quantity.unit_code
+        value   MillimetersOfMercury_CODE
+

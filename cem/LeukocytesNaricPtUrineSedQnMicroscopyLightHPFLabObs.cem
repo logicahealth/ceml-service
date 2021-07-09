@@ -1,0 +1,6 @@
+cem LeukocytesNaricPtUrineSedQnMicroscopyLightHPFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LeukocytesNaricPtUrineSedQnMicroscopyLightHPF_CODE
+	constraint		data.quantity.unit_code
+		value	PerHighPowerField_CODE

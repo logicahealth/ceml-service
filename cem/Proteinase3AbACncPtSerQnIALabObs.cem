@@ -1,0 +1,7 @@
+cem Proteinase3AbACncPtSerQnIALabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         Proteinase3AbACncPtSerQnIA_CODE
+    constraint  data.quantity.unit_code
+        value   UnitsPerMilliliter_CODE
+

@@ -1,0 +1,9 @@
+cem UseFuzzyFrequencyLastYear
+	kind    	component
+	key         UseFuzzyFrequencyLastYear_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   UseFuzzyFrequencyLastYear_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

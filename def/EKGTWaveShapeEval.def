@@ -1,0 +1,2 @@
+EKGTWaveShapeEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD or CO) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the EKGTWaveShapeEval model, the question is "What's the shape of the T wave in the patient's EKG?" and the coded answers can be 'rounded', 'upright', 'inverted', 'notched', 'peaked', and 'tall' etc.

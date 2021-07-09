@@ -1,0 +1,4 @@
+AdministrativeEncounterId captures an administrative encounter (synonym as account) identifier coming from an external system, and the administrative encounter number is stored in the 
+		receiving system. 
+
+

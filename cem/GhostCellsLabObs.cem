@@ -1,0 +1,4 @@
+cem GhostCellsLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			GhostCells_CODE

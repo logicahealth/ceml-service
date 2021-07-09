@@ -1,0 +1,7 @@
+cem RemovalOfCatheterByPatientAssert
+    kind        statement
+    base       	EventAssert
+    constraint	data.codeableConcept.valueset
+        value   TubeDrainStomaType_VSET
+    constraint  focalSubject.card
+        value   0

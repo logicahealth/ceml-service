@@ -1,0 +1,20 @@
+cem OsteopeniaAssert
+    kind        statement
+    base        AssertionOfPresence
+	qual		Course
+		id		course
+		card	0-1
+    qual        Severity
+        id      severity
+        card    0-1
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    qual        Modality
+        id      modality
+        card    0-1
+    link        ImageLink
+        id      imageLink
+        card    0-M
+    constraint	data.codeableConcept.code
+        value	Osteopenia_CODE

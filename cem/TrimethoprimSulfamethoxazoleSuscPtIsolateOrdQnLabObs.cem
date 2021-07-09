@@ -1,0 +1,4 @@
+cem TrimethoprimSulfamethoxazoleSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TrimethoprimSulfamethoxazoleSuscPtIsolateOrdQn_CODE

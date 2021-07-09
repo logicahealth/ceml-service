@@ -1,0 +1,6 @@
+cem ComplementTotalHemolyticCH50ACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ComplementTotalHemolyticCH50ACncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerMilliliter_CODE

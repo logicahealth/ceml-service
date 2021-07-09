@@ -1,0 +1,4 @@
+cem TriggerDataItem
+	kind		component
+	key			TriggerDataItem_CODE
+	data		Identifier

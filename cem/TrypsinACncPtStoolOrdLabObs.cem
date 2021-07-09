@@ -1,0 +1,4 @@
+cem TrypsinACncPtStoolOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TrypsinACncPtStoolOrd_CODE

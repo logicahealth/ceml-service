@@ -1,0 +1,13 @@
+cem ExpiredDispositionPanel
+	kind	panel
+	base	PanelBase
+	key			ExpiredDispositionPanel_CODE
+	item		ExpiredDispositionEval
+		id		expiredDispositionEval
+		card	0-1
+	item		LocationOfExpiredBodyEval
+		id		locationOfExpiredBodyEval
+		card	0-1
+	item		PersonalBelongingsDispositionEval
+		id		personalBelongingsDispositionEval
+		card	0-1

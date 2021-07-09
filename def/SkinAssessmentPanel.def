@@ -1,0 +1,7 @@
+SkinAssessmentPanel created on 04/May/2016 14:52
+
+This is a panel model that contains all of the necessary elements needed for a skin nursing assessment.  Equivalent LOINC code is 72284-3
+
+modeler: NDavis
+version: 1.0
+status: draft

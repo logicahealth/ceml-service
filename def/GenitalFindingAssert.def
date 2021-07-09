@@ -1,0 +1,5 @@
+GenitalFindingAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the GenitalFindingAssert model, data is chosen from a domain of GenitalFinding_VALUESET_ECID. Sample values from this value set are 'Foreign body', 'Hematoma', 'Laceration', etc.
+This model describes the assertion of the genital findings of a subject.
+

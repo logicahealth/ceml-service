@@ -1,0 +1,4 @@
+cem DohleBodyACncPtBldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			DohleBodyACncPtBldOrdMicroscopyLight_CODE

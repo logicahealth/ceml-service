@@ -1,0 +1,5 @@
+cem CholesterolinLDLCholesterolinHDLMRtoPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CholesterolinLDLCholesterolinHDLMRtoPtSerPlasQn_CODE
+	

@@ -1,0 +1,11 @@
+cem ReportGivenToEval
+	kind	statement
+	base	StatementBase
+	key			ReportGivenTo_CODE
+	data		Identifier
+	qual		PersonName
+		id		personName
+		card	0-1
+	qual		ReportGivenTime
+		id		reportGivenTime
+		card	0-1

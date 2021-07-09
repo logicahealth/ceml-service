@@ -1,0 +1,27 @@
+cem PleuralEffusionAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-M
+    qual        Severity
+        id      severity
+        card    0-1
+	qual		Course
+		id		course
+		card	0-1
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    qual        Modality
+        id      modality
+        card    0-1
+	link        ImageLink
+        id      imageLink
+        card    0-M
+	constraint	data.codeableConcept.code
+		value	PleuralEffusion_CODE
+    constraint  severity.data.codeableConcept.valueset
+        value   EffusionSeverity_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	PleuraBodyLocationPrecoord_VSET

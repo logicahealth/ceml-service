@@ -1,0 +1,4 @@
+cem IbuprofenPharmacokineticsTestDateLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			IbuprofenPharmacokineticsTestDate_CODE

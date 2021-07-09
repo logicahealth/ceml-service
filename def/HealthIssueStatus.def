@@ -1,0 +1,3 @@
+HealthIssueStatus is a union of the status of a health condition with the workflow status of the user (e.g., diagnosis workflow status,
+procedure workflow status, verification workflow status).
+

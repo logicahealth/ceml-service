@@ -1,0 +1,4 @@
+Transcribed denotes that a note or dictation was taken from one source and put into a patient record.
+Transcribed is a child model of the Attribution model. It holds the who, when, where, and why information
+of the transcription.
+

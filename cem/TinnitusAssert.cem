@@ -1,0 +1,9 @@
+cem TinnitusAssert
+	kind    	statement
+	base        AssertionOfPresence
+    constraint	data.codeableConcept.code
+        value	Tinnitus_CODE
+    constraint	data.codeableConcept.strength
+		value	CWE
+    constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	EarBodyLocationPrecoord_VSET

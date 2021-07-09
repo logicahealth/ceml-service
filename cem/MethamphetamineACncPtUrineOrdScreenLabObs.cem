@@ -1,0 +1,6 @@
+cem MethamphetamineACncPtUrineOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MethamphetamineACncPtUrineOrdScreen_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

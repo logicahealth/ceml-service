@@ -1,0 +1,4 @@
+cem DisaccharidaseInterpretationLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			DisaccharidaseInterpretation_CODE

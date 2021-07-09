@@ -1,0 +1,6 @@
+cem Macrophages100leukocytesNFrPtBodyfldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Macrophages100leukocytesNFrPtBodyfldQn_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

@@ -1,0 +1,4 @@
+cem AmpicillinSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmpicillinSuscPtIsolateOrdQn_CODE

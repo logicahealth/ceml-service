@@ -1,0 +1,5 @@
+cem RibonucleoproteinExtractableNuclearAbTitrPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RibonucleoproteinExtractableNuclearAbTitrPtSerQn_CODE
+	

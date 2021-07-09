@@ -1,0 +1,4 @@
+cem ExpressionTermId
+	kind		component
+	key			ExpressionTermId_CODE
+	data		String

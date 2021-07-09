@@ -1,0 +1,6 @@
+cem Width
+	kind    	component
+	key         Width_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	CentimetersMillimeters_VSET

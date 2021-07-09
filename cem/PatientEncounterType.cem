@@ -1,0 +1,8 @@
+cem PatientEncounterType
+	kind		component
+	key			PatientEncounterType_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	EncounterType_VSET

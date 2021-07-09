@@ -1,0 +1,6 @@
+cem ClassTypePtUrineCollectionMethodNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ClassTypePtUrineCollectionMethodNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	UrineCollectionMethod_VSET

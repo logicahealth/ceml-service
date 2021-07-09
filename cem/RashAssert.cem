@@ -1,0 +1,25 @@
+cem RashAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		AlleviatingFactor
+		id		alleviatingFactor
+		card	0-M
+	qual		ExacerbatingFactor
+		id		exacerbatingFactor
+		card	0-M
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-M
+	qual		Course
+		id		course
+		card	0-1
+	qual		DrainageFluidDescription
+		id		drainageFluidDescription
+		card	0-M
+	qual		Hemostatic
+		id		hemostatic
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	Rash_CODE
+	constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	SkinBodyLocation_VSET

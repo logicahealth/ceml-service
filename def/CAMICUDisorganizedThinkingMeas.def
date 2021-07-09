@@ -1,0 +1,25 @@
+author: Bret Heale          
+initial Date: 02/29/2016
+
+CAMICUDisorganizedThinkingMeas models the result of the test for Disorganized Thinking carried out as part of the CAM-ICU protocol.
+The values is the number of incorrect questions. Interpretation is up to the system, but >1 is usually considered evidence of disorganized thinking.
+
+Feature 3: Disorganized Thinking
+**Feature 3 is positive if the combined (Questions+Command)
+score is less than 4.
+Yes/No Questions Use either Set A or Set B, alternate on consecutive days
+if necessary.
+Set A Set B
+1. Will a stone float on water? 1. Will a leaf float on water?
+2. Are there fish in the sea? 2. Are there elephants in the sea?
+3. Does one pound weigh more 3. Do two pounds weigh more
+than two pounds? than one?
+4. Can you use a hammer to 4. Can you use a hammer cut
+pound a nail? wood?
+Score: Patient earns 1 pt for each correct answer out of 4.
+Command
+Say to patient: “Hold up this many fingers” (Examiner holds
+two fingers in front of patient) “Now do the same thing with
+the other hand” (Not repeating the number of fingers).
+Score: Patient earns 1 point if able to successfully complete
+the entire command.

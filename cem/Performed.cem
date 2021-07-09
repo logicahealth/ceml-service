@@ -1,0 +1,7 @@
+cem Performed
+	kind		attribution
+	base		Attribution
+	constraint	data.codeableConcept.code
+		value	Performed_CODE
+    constraint  participant.data.codeableConcept.code
+        value   Performer_CODE

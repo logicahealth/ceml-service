@@ -1,0 +1,7 @@
+cem LiquidambarstyracifluaAbIgERASTclassPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LiquidambarstyracifluaAbIgERASTclassPrThrPtSerOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	RAST0to6_VSET

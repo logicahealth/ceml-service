@@ -1,0 +1,6 @@
+cem RecentCriterion
+	kind		component
+	key			RecentCriterion_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	Days_CODE

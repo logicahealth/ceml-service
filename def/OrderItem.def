@@ -1,0 +1,3 @@
+OrderItem is a component model.
+This is the actual orderable item.  Each Orderable can have one or more OrderableItems. Using the previous example of medication infusions, each infusion bottle can contain multiple medications. In the vast majority of orders, there will be only one OrderableItem within the Orderable.
+

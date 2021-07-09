@@ -1,0 +1,4 @@
+cem TrichophytonReactionWheal2DaysPost01MLTrichophytonInterpretationImpPtSkinNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			TrichophytonReactionWheal2DaysPost01MLTrichophytonInterpretationImpPtSkinNom_CODE

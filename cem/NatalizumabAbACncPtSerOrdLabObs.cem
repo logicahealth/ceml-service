@@ -1,0 +1,4 @@
+cem NatalizumabAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NatalizumabAbACncPtSerOrd_CODE

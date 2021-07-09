@@ -1,0 +1,6 @@
+cem HistoplasmaCapsulatumAbACncPtSerOrdImmuneDiffusionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HistoplasmaCapsulatumAbACncPtSerOrdImmuneDiffusion_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

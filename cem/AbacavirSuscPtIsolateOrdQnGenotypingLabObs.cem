@@ -1,0 +1,4 @@
+cem AbacavirSuscPtIsolateOrdQnGenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AbacavirSuscPtIsolateOrdQnGenotyping_CODE

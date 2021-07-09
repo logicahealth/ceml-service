@@ -1,0 +1,15 @@
+cem ChiefComplaintEval
+	kind	statement
+	base	StatementBase
+	key			ChiefComplaint_CODE
+	data		CodeableConcept
+	qual		ChiefComplaintCategory
+		id		chiefComplaintCategory
+		card	0-1
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ChiefComplaint_VSET

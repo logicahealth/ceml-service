@@ -1,0 +1,8 @@
+HealthIssueEventAssertLink is a semantic link which associates a precoordinated problem entered in the problem management 
+application with the decomposed event assertion(s).
+    HealthIssue is the source, EventAssert is the target.
+
+date: 03/02/2016
+modeler: N Davis
+change: updated model to the new CEML v2 syntax for links.
+

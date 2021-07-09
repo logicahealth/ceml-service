@@ -1,0 +1,6 @@
+BreastHemisphere is a component model that is used to identify a specific anatomical location of the breast in mammography.  Values include: Superior, Inferior, medial, lateral and central.
+
+@Author ljbuhl
+@Date 01 Dec 2016 15:23
+@Status draft
+@RequestedBy iActivity

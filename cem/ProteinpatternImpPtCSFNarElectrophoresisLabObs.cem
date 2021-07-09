@@ -1,0 +1,4 @@
+cem ProteinpatternImpPtCSFNarElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ProteinpatternImpPtCSFNarElectrophoresis_CODE

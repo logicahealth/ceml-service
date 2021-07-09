@@ -1,0 +1,8 @@
+ConditionPresenceProbablity is an iso-semantic clinical element model and is used to record the degree of certainty to which a condition exists in an individual.  
+The data value could be as simple as present, absent, and maybe, or as complex as present, absent, probably prsent, probably not present, not likely, high probablility, low probability, etc.
+This model is iso-semantic to models that assert that a specific condition is present and also provide other qualifying data such as start date, abatement date, body location, severity, course, stage, etc.
+
+@Author nrdavis1
+@Date 06 May 2021 10:25
+@Status draft
+@RequestedBy ePneumonia project

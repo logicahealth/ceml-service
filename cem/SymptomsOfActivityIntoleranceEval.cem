@@ -1,0 +1,11 @@
+
+cem SymptomsOfActivityIntoleranceEval
+	kind    	statement
+    base        StatementBase
+	key         SymptomsOfActivityIntolerance_CODE
+    data        CodeableConcept
+    constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	SymptomsOfActivityIntolerance_VSET
+   

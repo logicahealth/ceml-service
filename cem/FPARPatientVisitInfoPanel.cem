@@ -1,0 +1,13 @@
+cem FPARPatientVisitInfoPanel
+	kind    	panel
+    base        PanelBase
+	key         FPARPatientVisitInfoPanel_CODE
+	item		BloodPressurePanel
+		id		bloodPressurePanel
+		card	0-1
+    item        HeightMeas
+        id      heightMeas
+        card    0-1
+    item        BodyWeightMeas
+        id      bodyWeightMeas
+        card    0-1

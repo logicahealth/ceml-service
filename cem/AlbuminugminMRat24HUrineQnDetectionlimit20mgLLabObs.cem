@@ -1,0 +1,6 @@
+cem AlbuminugminMRat24HUrineQnDetectionlimit20mgLLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlbuminugminMRat24HUrineQnDetectionlimit20mgL_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerMinute_CODE

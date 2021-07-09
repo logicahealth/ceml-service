@@ -1,0 +1,6 @@
+cem ChromatinAbACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChromatinAbACncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		ArbitaryUnitArbitrary_CODE

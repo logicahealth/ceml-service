@@ -1,0 +1,6 @@
+cem EthanolMCncPtBldQnGCLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EthanolMCncPtBldQnGC_CODE
+	constraint		data.quantity.unit_code
+			value		MilligramsPerMilliliterMassConcentrationUnits_CODE

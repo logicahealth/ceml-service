@@ -1,0 +1,6 @@
+cem InspiratoryExpiratoryRatioSettingMeas
+	kind	statement
+	base	StatementBase
+	key			InspiratoryExpiratoryRatioSetting_CODE
+	data		Quantity
+	

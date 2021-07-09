@@ -1,0 +1,5 @@
+cem HepatitisCvirusAbSignalCutoffRelACncPtBodyfldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HepatitisCvirusAbSignalCutoffRelACncPtBodyfldQn_CODE
+	

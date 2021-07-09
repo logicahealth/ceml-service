@@ -1,0 +1,6 @@
+cem CycliccitrullinatedpeptideAbACncPtSerQnIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CycliccitrullinatedpeptideAbACncPtSerQnIA_CODE
+	constraint		data.quantity.unit_code
+			value		ArbitraryUnitsPerMilliliter_CODE

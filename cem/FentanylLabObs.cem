@@ -1,0 +1,4 @@
+cem FentanylLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			Fentanyl_CODE

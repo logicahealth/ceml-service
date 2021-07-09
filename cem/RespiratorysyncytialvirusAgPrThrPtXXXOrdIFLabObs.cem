@@ -1,0 +1,7 @@
+cem RespiratorysyncytialvirusAgPrThrPtXXXOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			RespiratorysyncytialvirusAgPrThrPtXXXOrdIF_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

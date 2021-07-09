@@ -1,0 +1,16 @@
+cem SuicidalSelfInjuriousBehaviorCSSRSEval
+
+	kind	statement
+	base	StatementBase
+    key     SuicidalSelfInjuriousBehaviorCSSRS_CODE
+	data	CodeableConcept
+    qual    TimeFrameCSSRS
+        id  timeFrameCSSRS
+        card 0-M
+
+	constraint	data.codeableConcept.strength
+	    value	CNE
+	constraint	data.codeableConcept.valueset
+	    value	SuicidalSelfInjuriousBehaviorCSSRS_VSET
+  
+

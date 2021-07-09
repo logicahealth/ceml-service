@@ -1,0 +1,8 @@
+cem DestinationAcknowledgementPattern
+	kind		component
+	key			DestinationAcknowledgementPattern_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	DestinationAcknowledgementPattern_VSET

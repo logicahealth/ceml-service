@@ -1,0 +1,6 @@
+cem SpecificGravityUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SpecificGravityUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnityUnitsOfMeasure_CODE

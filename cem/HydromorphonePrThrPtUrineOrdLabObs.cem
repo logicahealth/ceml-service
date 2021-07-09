@@ -1,0 +1,4 @@
+cem HydromorphonePrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HydromorphonePrThrPtUrineOrd_CODE

@@ -1,0 +1,10 @@
+cem ApgarScoreTenMinuteAppearanceMeas
+	kind	statement
+	base	StatementBase
+	key			ApgarScoreTenMinuteAppearance_CODE
+	data		CodeableOrdinal
+	mod 	    FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableOrdinal.valueset
+		value	ApgarScoreAppearance_VSET

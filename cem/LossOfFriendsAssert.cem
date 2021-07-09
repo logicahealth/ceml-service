@@ -1,0 +1,8 @@
+cem LossOfFriendsAssert
+	kind		statement
+	base		EventAssert
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	LossOfFriends_CODE

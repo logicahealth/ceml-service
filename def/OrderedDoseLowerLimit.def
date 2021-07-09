@@ -1,0 +1,10 @@
+OrderedDoseLowerLimit is a component model.
+This is the user-entered dose of this orderable item. It can be in terms of strength, physical dispensing forms, or unrelated to either. 
+
+        Example: if the orderable item is Motrin, the ordered dose could be 400 mg or 1 tab. 
+        Example: garamycin 0.3% Opthal Solution
+
+        This has a LowerLimit and UpperLimit to accommodate a sliding scale or dosage range. 
+        Most medication orders have just one ordered dose. In these cases, ONLY the LowerLimit is filled in.
+
+

@@ -1,0 +1,10 @@
+cem UrineOutputVolumeRate24HrMeas
+	kind		statement
+	base		OutputVolumeRateMeas
+	key			UrineOutputVolumeRate24HrMeas_CODE
+	constraint	timeDuration.data.codeableConcept.code
+		value	TwentyFourHours_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	UrineElminationDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	UrineOutputBodyLocationPrecoord_VSET

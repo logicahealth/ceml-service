@@ -1,0 +1,4 @@
+cem VaccineIdentifier
+	kind    	component
+	key         VaccineIdentifier_KEY_CODE
+    data        Identifier

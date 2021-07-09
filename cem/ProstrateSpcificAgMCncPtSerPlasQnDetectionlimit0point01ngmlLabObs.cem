@@ -1,0 +1,6 @@
+cem ProstrateSpcificAgMCncPtSerPlasQnDetectionlimit0point01ngmlLabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         ProstrateSpcificAgMCncPtSerPlasQnDetectionlimit0point01ngml_CODE
+    constraint  data.quantity.unit_code
+        value   NanogramsPerMilliliter_CODE

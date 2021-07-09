@@ -1,0 +1,14 @@
+cem MucousMembranesAppearanceEval
+	kind		statement
+    base        StatementBase
+	key			MucousMembranesAppearance_CODE
+	data		CodeableConcept
+	qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	MucousMembranesAppearance_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	MucousMembranesBodyLocationPrecoord_VSET

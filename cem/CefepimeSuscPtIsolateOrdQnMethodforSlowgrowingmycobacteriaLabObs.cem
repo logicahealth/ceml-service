@@ -1,0 +1,4 @@
+cem CefepimeSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteriaLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CefepimeSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteria_CODE

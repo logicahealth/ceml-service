@@ -1,0 +1,4 @@
+cem HistoplasmacapsulatumHAbPrThrPtSerOrdImmunediffusionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HistoplasmacapsulatumHAbPrThrPtSerOrdImmunediffusion_CODE

@@ -1,0 +1,6 @@
+AdmitDiagnos is used to capture the diagnosis assigned to the patient at the time of admission.
+
+date 12/14/2015
+modeler NDavis
+change: modified the name of this model to reflect its nature (statement, evalutation).
+

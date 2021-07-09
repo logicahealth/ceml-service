@@ -1,0 +1,6 @@
+cem NornicotineMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NornicotineMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

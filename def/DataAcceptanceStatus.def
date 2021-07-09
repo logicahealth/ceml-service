@@ -1,0 +1,4 @@
+DataAcceptanceStatus describes the status of acceptance on the data which was received from external systems. 
+		Sample values are "Need to Review," "Accepted," "Rejected."
+
+

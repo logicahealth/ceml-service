@@ -1,0 +1,6 @@
+cem Num17MinusHydroxypregnenoloneMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num17MinusHydroxypregnenoloneMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerDeciliter_CODE

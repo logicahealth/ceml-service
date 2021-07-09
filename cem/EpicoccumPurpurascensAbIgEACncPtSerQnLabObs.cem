@@ -1,0 +1,6 @@
+cem EpicoccumPurpurascensAbIgEACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EpicoccumPurpurascensAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	KilounitsPerLiter_CODE

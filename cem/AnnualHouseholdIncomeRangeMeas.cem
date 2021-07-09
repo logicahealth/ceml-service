@@ -1,0 +1,9 @@
+cem AnnualHouseholdIncomeRangeMeas
+
+	kind	statement
+	base	StatementBase
+    key     AnnualHouseholdIncomeRange_CODE
+	data	CodeableOrdinal
+
+	constraint	data.codeableOrdinal.valueset
+		value	AnnualHouseholdIncomeRange_VSET

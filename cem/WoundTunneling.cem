@@ -1,0 +1,13 @@
+cem WoundTunneling
+	kind    	component
+	key         WoundTunneling_CODE
+    data        CodeableConcept
+    qual        WoundTunnelingDirection
+        id      woundTunnelingDirection
+        card    0-1
+    qual        WoundTunnelingLength
+        id      woundTunnelingLength
+        card    0-1
+    constraint  data.codeableConcept.valueset
+        value   PresentAbsent_VSET
+    

@@ -1,0 +1,4 @@
+EmploymentAssignmentStatus is a component model. This model holds a "question" in the code and holds a coded value (CD) "answer" from the value set referred to in data.
+In the EmploymentAssignmentStatus model the question is "what is the Employment Assignment Status?" and the coded answers will be from the Employment Assignment Status value set.
+EmploymentAssignmentStatus by definition means the state of an assignment for the employee.
+

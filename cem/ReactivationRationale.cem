@@ -1,0 +1,8 @@
+cem ReactivationRationale
+	kind		component
+	key			ReactivationRationale_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ReactivationRationale_VSET

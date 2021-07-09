@@ -1,0 +1,4 @@
+cem StatementOfAdequacyImpPtCvxVagNomCytostainLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			StatementOfAdequacyImpPtCvxVagNomCytostain_CODE

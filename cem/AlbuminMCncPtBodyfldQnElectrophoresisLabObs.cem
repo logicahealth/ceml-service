@@ -1,0 +1,6 @@
+cem AlbuminMCncPtBodyfldQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlbuminMCncPtBodyfldQnElectrophoresis_CODE
+	constraint		data.quantity.unit_code
+			value		GramsPerDeciliter_CODE

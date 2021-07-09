@@ -1,0 +1,8 @@
+cem LightPerception
+	kind		component
+	key			LightPerception_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.strength
+		value	CWE
+	constraint	data.codeableOrdinal.valueset
+		value	YesNo_VSET

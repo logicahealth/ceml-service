@@ -1,0 +1,7 @@
+cem CorynebacteriumDiptheriaeIgGAbACncPtSerQnIA
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         CorynebacteriumDiptheriaeIgGAbACncPtSerQnIA_CODE
+    constraint  data.quantity.unit_code
+        value   MicrointernationalUnitsPerMilliliter_CODE
+

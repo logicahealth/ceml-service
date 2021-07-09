@@ -1,0 +1,5 @@
+cem AcylcarnitineCarnitinefreeC0SRtoPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AcylcarnitineCarnitinefreeC0SRtoPtSerPlasQn_CODE
+	

@@ -1,0 +1,5 @@
+cem MitochondriaAbTitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MitochondriaAbTitrPtSerQnIF_CODE
+	

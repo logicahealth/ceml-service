@@ -1,0 +1,2 @@
+ClinicalDocument is the data model for storing ClinicalDocument, whether it is a CDA conformed document or not.
+

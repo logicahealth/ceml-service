@@ -1,0 +1,4 @@
+cem HemoglobinpatternImpPtBldNomElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HemoglobinpatternImpPtBldNomElectrophoresis_CODE

@@ -1,0 +1,4 @@
+cem Adenovirus4041AgACncPtStoolOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			Adenovirus4041AgACncPtStoolOrdEIA_CODE

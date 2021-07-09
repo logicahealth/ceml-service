@@ -1,0 +1,8 @@
+cem BodyLocationPrecoord
+	kind		component
+	key			BodyLocationPrecoord_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	BodyLocationPrecoord_VSET

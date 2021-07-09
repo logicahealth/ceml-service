@@ -1,0 +1,9 @@
+cem GiveCondition
+	kind		component
+	key			GiveCondition_CODE
+	item		Condition
+		id		condition
+		card	1-M
+	qual		Expression
+		id		expression
+		card	0-1

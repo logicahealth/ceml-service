@@ -1,0 +1,17 @@
+fhir cem Organization
+	base definition	"http://hl7.org/fhir/us/daf/StructureDefinition/daf-organization"
+	map 	Organization.OrganizationType to Organization.type
+	map 	Organization.Telecom to Organization.telecom
+	set		Organization to Extension "http://hl7.org/fhir/StructureDefinition/organization-period"
+	map 	Organization.ParentOrganization to Organization.partOf
+	set 	Organization.name to Extension "http://fhir.org/guides/hspc/StructureDefinition/extensions-nameUse"
+		bind	Organization.name.nameUse to "http://fhir.org/guides/hspc/ValueSet/organization-organizationnameuse"
+	set		Organization.name to Extension "http://hl7.org/fhir/StructureDefinition/organization-period"
+	map 	Organization.ExternalId to Organization.identifier
+	map		Organization.ContactIndividual to Organization.contact
+	map 	Organization.ContactIndividual.Telecom to Organization.contact.telecom
+	map 	Organization.ContactIndividual.ContactReason to Organization.contact.purpose
+	map 	Organization.ContactIndividual.PersonName to Organization.contact.name
+	map 	Organization.ContactIndividual.Address to Organization.contact.address
+	map 	Organization.Address to Organization.address
+	

@@ -1,0 +1,6 @@
+AverageBloodPressure is a calculation of the mean systolic and diastolic blood pressures from a set of individual measurements, regardless of time period.  No LOINC code, it has been requested.
+
+@Author nrdavis1
+@Date 09 Jun 2020 10:45
+@Status draft
+@RequestedBy Logica

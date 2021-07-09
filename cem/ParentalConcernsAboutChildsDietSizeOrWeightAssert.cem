@@ -1,0 +1,11 @@
+cem ParentalConcernsAboutChildsDietSizeOrWeightAssert
+    kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.code
+        value	ParentalConcernsAboutChildsDietSizeOrWeight_CODE
+    constraint  bodyLocation.card
+        value   0
+    constraint  associatedSituation.card
+        value   1
+    constraint  associatedSituation.data.codeableConcept.code
+        value   Preadmission_CODE

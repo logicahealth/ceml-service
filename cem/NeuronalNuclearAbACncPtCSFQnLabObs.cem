@@ -1,0 +1,6 @@
+cem NeuronalNuclearAbACncPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NeuronalNuclearAbACncPtCSFQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

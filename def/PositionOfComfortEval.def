@@ -1,0 +1,4 @@
+PositionOfComfortEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the PositionOfComfortEval model, the question is "what is the subject's Position Of Comfort?" and the coded answers can be 'Fowler', 'Knee to chest', etc.
+"PositionOfComfortEval" by definition means an evaluation of the patient's Position Of Comfort.
+

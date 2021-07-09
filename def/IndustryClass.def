@@ -1,0 +1,4 @@
+IndustryClass is a model which represents the classification of organization based on the particular kind of business it carries out (e.g., Health Care, Agriculture, Mining, etc.) 
+		HL7 v3 recommends using the standard North American Industry Classification System (NAICS) for US realm usage.
+
+

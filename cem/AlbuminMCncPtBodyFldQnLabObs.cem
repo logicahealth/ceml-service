@@ -1,0 +1,6 @@
+cem AlbuminMCncPtBodyFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlbuminMCncPtBodyFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	GramsPerDeciliter_CODE

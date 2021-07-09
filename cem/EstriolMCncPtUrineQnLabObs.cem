@@ -1,0 +1,6 @@
+cem EstriolMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EstriolMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

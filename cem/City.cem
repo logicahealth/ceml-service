@@ -1,0 +1,4 @@
+cem City
+	kind		component
+	key			City_CODE
+	data		String

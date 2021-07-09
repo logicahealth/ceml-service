@@ -1,0 +1,4 @@
+cem HerpessimplexvirusAbIgMPrThrPtSerOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HerpessimplexvirusAbIgMPrThrPtSerOrdIF_CODE

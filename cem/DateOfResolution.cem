@@ -1,0 +1,7 @@
+cem DateOfResolution
+	kind		component
+	key			DateOfResolution_CODE
+	data		DateTime
+	qual		EstimatedInd
+		id		estimatedInd
+		card	0-1

@@ -1,0 +1,6 @@
+Episode is a component model used to identify the episode of a condition.  Values would include: new, old, first, ongoing etc.
+
+@Author ljbuhl
+@Date 17 Oct 2017 11:56
+@Status draft
+@RequestedBy S. Matney

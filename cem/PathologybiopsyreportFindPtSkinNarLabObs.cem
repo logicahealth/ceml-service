@@ -1,0 +1,4 @@
+cem PathologybiopsyreportFindPtSkinNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			PathologybiopsyreportFindPtSkinNar_CODE

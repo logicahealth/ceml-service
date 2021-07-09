@@ -1,0 +1,4 @@
+cem PatientIdentifier
+	kind		component
+	key			PatientIdentifier_CODE
+	data		Identifier

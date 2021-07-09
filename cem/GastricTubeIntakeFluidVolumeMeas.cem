@@ -1,0 +1,8 @@
+cem GastricTubeIntakeFluidVolumeMeas
+	kind		statement
+	base		IntakeFluidVolumeMeas
+	key			GastricTubeIntakeFluidVolume_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	GastricTubeDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	GastricTubeBodyLocationPrecoord_VSET

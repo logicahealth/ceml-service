@@ -1,0 +1,6 @@
+cem CoagulationReptilaseInducedTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationReptilaseInducedTimePtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

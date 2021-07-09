@@ -1,0 +1,6 @@
+cem HistidineSCncPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HistidineSCncPtCSFQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

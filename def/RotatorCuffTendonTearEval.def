@@ -1,0 +1,7 @@
+RotatorCuffTendonTearEval
+The evaluation of tears of the tendons of the shoulder (rotator cuff).  Possible values are "Positive for tear", "Negative for tear", and "Equivocal for tear".  There currently is no LOINC code for this evaluation.
+
+@Author nrdavis1
+@Date 29 Jan 2018 13:44
+@Status draft
+@RequestedBy iActivity

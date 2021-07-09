@@ -1,0 +1,5 @@
+cem NeutrophilcytoplasmicAbTitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NeutrophilcytoplasmicAbTitrPtSerQnIF_CODE
+	

@@ -1,0 +1,4 @@
+cem EBVEarlyAntigenIgGInterpretationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			EBVEarlyAntigenIgGInterpretation_CODE

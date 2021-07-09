@@ -1,0 +1,6 @@
+cem TDTPercentLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TDTPercent_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

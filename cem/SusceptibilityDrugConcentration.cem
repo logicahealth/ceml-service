@@ -1,0 +1,6 @@
+cem SusceptibilityDrugConcentration
+	kind		component
+	key			SusceptibilityDrugConcentration_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.valueset
+		value	SusceptibilityDrugConcentration_VSET

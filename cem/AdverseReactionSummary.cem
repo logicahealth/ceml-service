@@ -1,0 +1,12 @@
+cem AdverseReactionSummary
+	kind		statement
+	base		PrescribingGuidance
+	key			AdverseReactionSummary_CODE
+	data		CodeableConcept
+	qual		AdverseReactionSummaryCategory
+		id		adverseReactionSummaryCategory
+		card	1
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	AdverseReactionSummary_VSET

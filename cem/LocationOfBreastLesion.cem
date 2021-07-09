@@ -1,0 +1,23 @@
+cem LocationOfBreastLesion
+	kind    	component
+	key         LocationOfBreastLesion_CODE
+    item        BodyLocationPrecoord
+        id      bodyLocationPrecoord
+        card    0-1
+    item        BreastQuadrant
+        id      breastQuadrant
+        card    0-M
+    item        ClockFacePosition
+        id      clockFacePosition
+        card    0-1
+    item        BreastLesionAnatomicalLocation
+        id      breastLesionAnatomicalLocation
+        card    0-1
+    item        DistanceFromTheNipple
+        id      distanceFromTheNipple
+        card    0-1
+    item        BreastHemisphere
+        id      breastHemisphere
+        card    0-1
+    constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	BreastBodyLocationPrecoord_VSET 

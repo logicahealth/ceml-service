@@ -1,0 +1,4 @@
+cem PlotLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			Plot_CODE

@@ -1,0 +1,9 @@
+cem EmesisAmountMeas
+
+	kind	statement
+	base	StatementBase
+    key     EmesisAmount_CODE
+	data	CodeableOrdinal
+
+	constraint	data.codeableOrdinal.valueset
+	    value	EmesisAmount_VSET

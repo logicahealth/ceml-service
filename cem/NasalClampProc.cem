@@ -1,0 +1,8 @@
+cem NasalClampProc
+	kind		statement
+	base		Procedure
+	qual		BodySide
+		id		bodySide
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	NasalClamp_CODE

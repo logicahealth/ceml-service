@@ -1,0 +1,6 @@
+cem HydrogenIonSCncPtBldCoVQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HydrogenIonSCncPtBldCoVQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

@@ -1,0 +1,4 @@
+cem Group
+kind    component
+key     Group_CODE
+data    String

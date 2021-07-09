@@ -1,0 +1,4 @@
+cem ClostridiumDifficileToxinGenesACncPtStoolOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ClostridiumDifficileToxinGenesACncPtStoolOrdProbeAmpTar_CODE

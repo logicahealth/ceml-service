@@ -1,0 +1,4 @@
+cem FibrinDdimerFEUMCncPtPPPQnIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FibrinDdimerFEUMCncPtPPPQnIA_CODE

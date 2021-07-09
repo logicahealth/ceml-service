@@ -1,0 +1,8 @@
+cem FIMScoreTotalMeas
+	kind	statement
+	base	StatementBase
+	key			FIMScore_CODE
+	data		Quantity
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M

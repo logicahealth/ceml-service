@@ -1,0 +1,4 @@
+cem RibonucleoproteinExtractableNuclearAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			RibonucleoproteinExtractableNuclearAbACncPtSerOrd_CODE

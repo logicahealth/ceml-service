@@ -1,0 +1,9 @@
+fhir cem StandardLabObsOrdinal
+
+	map referenceRangeNar to Observation.referenceRange.text
+	bind LabNullFlavor_VALUESET_CODE to "http://hl7.org/fhir/hspc/ValueSet/LabNullFlavor"
+	bind AbnormalInterpretationNumericNom_VALUEST_CODE to "http://hl7.org/fhir/hspc/ValueSet/AbnInt-NumericNom"
+	bind DeltaFlagCodedNom_VALUESET_CODE to "http://hl7.org/fhir/hspc/ValueSet/deltaFlag-codedNom"
+	
+	property metadata.canonicalUrl = "http://hl7.org/fhir/hspc/StructureDefinition/"
+	

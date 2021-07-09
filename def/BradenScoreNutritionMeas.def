@@ -1,0 +1,5 @@
+BradenScoreNutritionMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the  BradenScoreNutritionMeas model, the question is "what is the subject's Braden nutrition score?" and the answer will be an ordinal value.
+BradenScoreNutritionMeas is an element of the braden score skin assessment tool. This section evaluates the patient's usual food intake pattern.
+Values range from 1-4 and correspond as follows: '1'corresponds to 'very poor' nutrition, '2' corresponds to 'probably inadequate' nutrition, '3' to 'Adequate' nutrition, and a '4' to 'Excellent'.
+

@@ -1,0 +1,6 @@
+cem RelatedConditionRole
+	kind	component
+	key     RelatedConditionRole_CODE
+	data	CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   RelatedConditionRole_VSET

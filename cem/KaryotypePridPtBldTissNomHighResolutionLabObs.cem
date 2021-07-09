@@ -1,0 +1,4 @@
+cem KaryotypePridPtBldTissNomHighResolutionLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			KaryotypePridPtBldTissNomHighResolution_CODE

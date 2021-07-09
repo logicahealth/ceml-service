@@ -1,0 +1,24 @@
+cem Observation
+	kind    	statement
+    base        StatementBase
+    form        abstract
+    qual        ObservationStatus
+        id      observationStatus
+        card    0-1
+    qual        ObservationUpdateStatus
+        id      observationUpdateStatus
+        card    0-1
+    qual        Method
+        id      method
+        card    0-1
+    qual        Interpretation
+        id      interpretation
+        card    0-1
+    qual        Device
+        id      device
+        card    0-1
+    mod         FocalSubject
+        id      focalSubject
+        card    0-1
+    constraint  status.card
+        value   0

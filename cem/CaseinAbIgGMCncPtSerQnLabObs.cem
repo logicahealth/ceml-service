@@ -1,0 +1,6 @@
+cem CaseinAbIgGMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CaseinAbIgGMCncPtSerQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	MassConcentrationUnits_VSET

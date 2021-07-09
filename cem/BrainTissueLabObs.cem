@@ -1,0 +1,4 @@
+cem BrainTissueLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BrainTissue_CODE

@@ -1,0 +1,6 @@
+cem Interleukin2LabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Interleukin2_CODE
+	constraint		data.quantity.unit_code
+		value	PicogramsPerMilliliter_CODE

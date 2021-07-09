@@ -1,0 +1,4 @@
+cem DischargeMedicationId
+	kind	component
+	key     DischargeMedicationId_CODE
+    data    Identifier

@@ -1,0 +1,34 @@
+cem FPARPatientInformationPanel
+	kind    	panel
+    base        PanelBase
+	key         FPARPatientInformationPanel_CODE
+    item        FPARPatient
+        id      fPARPatient
+        card    0-1
+    item        AnnualHouseholdIncomeRangeMeas
+        id      annualHouseholdIncomeRangeMeas
+        card    0-1
+    item        HouseholdSizeMeas
+        id      householdSizeMeas
+        card    0-1
+
+    item        SmokingStatusEval
+        id      smokingStatusEval
+        card    0-1
+
+    item        FPARCoverage
+        id      fPARCoverage
+        card    0-1
+
+    item        LimitedEnglishProficiencyEval
+        id      limitedEnglishProficiencyEval
+        card    0-1
+
+    constraint  fPARCoverage.insuranceCoverageType.data.codeableConcept.valueset
+        value   FPARinsuranceTypes_VSET
+
+    constraint  fPARCoverage.primaryInsuranceClassification.data.codeableConcept.valueset
+        value   FPARPayerForVisit_VSET
+
+	constraint	smokingStatusEval.data.codeableConcept.valueset
+	    value	FPARSmokingStatus_VSET

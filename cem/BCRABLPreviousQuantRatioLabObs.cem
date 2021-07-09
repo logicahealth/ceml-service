@@ -1,0 +1,5 @@
+cem BCRABLPreviousQuantRatioLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BCRABLPreviousQuantRatio_CODE
+	

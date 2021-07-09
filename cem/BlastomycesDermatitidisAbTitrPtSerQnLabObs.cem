@@ -1,0 +1,5 @@
+cem BlastomycesDermatitidisAbTitrPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BlastomycesDermatitidisAbTitrPtSerQn_CODE
+	

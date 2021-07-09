@@ -1,0 +1,26 @@
+cem FilledSubstance
+	kind		component
+	key			FilledSubstance_CODE
+	data		CodeableConcept
+	qual		Formulation
+		id		formulation
+		card	0-1
+	qual		Strength
+		id		strength
+		card	0-1
+	qual		Quantity
+		id		quantity
+		card	0-1
+	qual		ActiveIngredient
+		id		activeIngredient
+		card	0-M
+	qual		InactiveIngredient
+		id		inactiveIngredient
+		card	0-M
+	qual		VaccineSequenceId
+		id		vaccineSequenceId
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	OrderableMedication_VSET

@@ -1,0 +1,6 @@
+cem CholinesteraseCCncPtRBCQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CholinesteraseCCncPtRBCQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerMilliliter_CODE

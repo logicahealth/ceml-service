@@ -1,0 +1,4 @@
+cem LevofloxacinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LevofloxacinSuscPtIsolateOrdQnGradientstrip_CODE

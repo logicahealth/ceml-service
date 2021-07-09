@@ -1,0 +1,4 @@
+cem TobramycinSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TobramycinSuscPtIsolateOrdQnAgardiffusion_CODE

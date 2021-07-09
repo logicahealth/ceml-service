@@ -1,0 +1,14 @@
+cem SARScoronavirus2RNAPanelPtRespPrbAmpTarLabObs
+	kind    	panel
+    base        PanelBase
+	key         SARScoronavirus2RNAPanelPtRespPrbAmpTar_CODE
+
+    item        SARScoronavirus2NGenePrThrPtRespOrdPrbAmpTarLabObs
+        id      sARScoronavirus2NGenePrThrPtRespOrdPrbAmpTarLabObs
+        card    0-1
+    item        SARScoronavirus2RdRpGenePrThePtRespOrdPrbAmpTarLabObs
+        id      sARScoronavirus2RdRpGenePrThePtRespOrdPrbAmpTarLabObs
+        card    0-1
+    item        SARScoronavirus2RNAPrThrPtRespOrdPrbAmpTarLabObs
+        id      sARScoronavirus2RNAPrThrPtRespOrdPrbAmpTarLabObs
+        card    0-1

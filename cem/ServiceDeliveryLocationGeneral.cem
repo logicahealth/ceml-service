@@ -1,0 +1,4 @@
+cem ServiceDeliveryLocationGeneral
+	kind		component
+	base		ServiceDeliveryLocation
+	key			ServiceDeliveryLocationGeneral_CODE

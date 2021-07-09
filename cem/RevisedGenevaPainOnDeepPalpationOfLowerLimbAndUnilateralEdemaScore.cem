@@ -1,0 +1,7 @@
+cem RevisedGenevaPainOnDeepPalpationOfLowerLimbAndUnilateralEdemaScore
+	kind	statement
+	base	StatementBase
+	key     RevisedGenevaPainOnDeepPalpationOfLowerLimbAndUnilateralEdemaScore_CODE
+	data	CodeableOrdinal
+    constraint  data.codeableOrdinal.valueset
+        value   RevisedGenevaScorePainEdema_VSET

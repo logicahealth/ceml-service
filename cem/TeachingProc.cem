@@ -1,0 +1,23 @@
+cem TeachingProc
+	kind		statement
+	base		Procedure
+	qual		TeachingComprehension
+		id		teachingComprehension
+		card	0-M
+	qual		TeachingDoneBy
+		id		teachingDoneBy
+		card	0-M
+	qual		TeachingMethod
+		id		teachingMethod
+		card	0-M
+	qual		TeachingTopic
+		id		teachingTopic
+		card	0-M
+	qual		PersonTaught
+		id		personTaught
+		card	0-M
+	qual		ReasonsForNotReceivingTeaching
+		id		reasonsForNotReceivingTeaching
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	Teaching_CODE

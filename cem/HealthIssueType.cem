@@ -1,0 +1,8 @@
+cem HealthIssueType
+	kind		component
+	key			HealthIssueType_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	HealthIssueType_VSET

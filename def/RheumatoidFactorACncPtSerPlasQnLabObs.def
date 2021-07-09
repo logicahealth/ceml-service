@@ -1,0 +1,6 @@
+RheumatoidFactorACncPtSerPlasQnLabObs is the Clinical Element Model for standard laboratory test results/observations ordinal results. LOINC Code: 11572-5.
+LOINC name: Rheumatoid factor [Units/volume] in Serum or Plasma
+@Author nrdavis1
+@Date 24 May 2018 12:21
+@Status draft
+@RequestedBy ONC work

@@ -1,0 +1,4 @@
+BradenQScoreActivityMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the BradenQScoreActivityMeas model, the question is "what is the subject's Braden Q activity score?" and the numeric answer will be an ordinal value from: '1'corresponds to the patient being bedfast, '2' corresponds to Chairfast, '3' to Walks occasionally, and a '4' for all patients too young to ambulate OR those that walk frequently. 
+"The BradenQ Activity Score" is an element of the bradenQ score skin assessment tool. This section evaluates the newborn/pediatric patient's degree of physical activity.
+

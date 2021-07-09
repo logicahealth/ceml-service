@@ -1,0 +1,8 @@
+cem OrderRelationship
+	kind		component
+	key			OrderRelationship_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	OrderRelationship_VSET

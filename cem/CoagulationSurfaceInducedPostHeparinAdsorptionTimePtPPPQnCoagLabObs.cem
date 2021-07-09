@@ -1,0 +1,6 @@
+cem CoagulationSurfaceInducedPostHeparinAdsorptionTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationSurfaceInducedPostHeparinAdsorptionTimePtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

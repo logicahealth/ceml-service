@@ -1,0 +1,9 @@
+cem HumptyDumptyFallScaleDiagnosisMeas
+    kind	statement
+	base	StatementBase
+    key     HumptyDumptyFallScaleDiagnosis_CODE
+	data	CodeableOrdinal
+    constraint	data.codeableOrdinal.strength
+		value	CNE
+	constraint	data.codeableOrdinal.valueset
+	    value	HumptyDumptyFallScaleDiagnosis_VSET

@@ -1,0 +1,7 @@
+cem AccumulationStartDate
+	kind		component
+	key			AccumulationStartDate_CODE
+	data		DateTime
+	qual		EstimatedInd
+		id		estimatedInd
+		card	0-1

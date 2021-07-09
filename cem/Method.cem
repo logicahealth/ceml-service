@@ -1,0 +1,6 @@
+cem Method
+	kind	component
+	key     Method_CODE
+	data    CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Method_VSET

@@ -1,0 +1,5 @@
+cem NuclearAbTitrPtSerQnHep2substrateLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NuclearAbTitrPtSerQnHep2substrate_CODE
+	

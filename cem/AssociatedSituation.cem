@@ -1,0 +1,6 @@
+cem AssociatedSituation
+	kind    	component
+	key         AssociatedSituation_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   AssociatedSituation_VSET

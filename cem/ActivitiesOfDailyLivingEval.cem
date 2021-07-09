@@ -1,0 +1,14 @@
+cem ActivitiesOfDailyLivingEval
+	kind    	statement
+    base        StatementBase
+	key         ActivitiesOfDailyLiving_CODE
+    data        CodeableConcept
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+    constraint  data.codeableConcept.valueset
+        value   LevelOfAssistance_VSET
+    constraint  data.codeableConcept.strength
+        value   CNE
+
+

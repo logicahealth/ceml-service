@@ -1,0 +1,4 @@
+cem KetonesPrThrPtSerPlasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			KetonesPrThrPtSerPlasOrd_CODE

@@ -1,0 +1,15 @@
+cem Condition
+	kind		component
+	key			Condition_CODE
+	item		ConditionRule
+		id		conditionRule
+		card	1
+	item		ConditionOperator
+		id		conditionOperator
+		card	0-1
+	item		ConditionVariable
+		id		conditionVariable
+		card	0-1
+	item		ExpressionTermId
+		id		expressionTermId
+		card	0-1

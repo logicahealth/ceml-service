@@ -1,0 +1,4 @@
+ExternalIdType model is a component model. This model holds a "question" in the key and and holds a coded value (CD) value set as the "answer" in data.
+In the ExternalIdType model the question is "What is the external identifier type value set?" and the answer can be an identifier type value set such as Provider External Identifier Type Value Set,  External Identifier Type Value Set, etc.
+By definition the ExternalIdType captures the coded type of identifier from an external system, for example Medical Record Number (MRN) or Master Member Idnetifier (MMI).
+

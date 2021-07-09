@@ -1,0 +1,4 @@
+FetalHeadCircumferenceMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ) "answer" in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?" and the "answer" in data can be "100 bpm."
+In the FetalHeadCircumferenceMeas model, the question is "What is the fetal head circumference measurement?" and the numeric answer will have a unit of measure. 
+"Fetal head circumference" by definition means "the head circumference of the fetus."
+

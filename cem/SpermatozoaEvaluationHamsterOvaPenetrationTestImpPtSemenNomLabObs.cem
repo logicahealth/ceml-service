@@ -1,0 +1,4 @@
+cem SpermatozoaEvaluationHamsterOvaPenetrationTestImpPtSemenNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			SpermatozoaEvaluationHamsterOvaPenetrationTestImpPtSemenNom_CODE

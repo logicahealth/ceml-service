@@ -1,0 +1,6 @@
+cem StreptococcuspneumoniaeDanishSerotype12fIggAbmCncSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			StreptococcuspneumoniaeDanishSerotype12fIggAbmCncSerQnLabObs_CODE
+	constraint	data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

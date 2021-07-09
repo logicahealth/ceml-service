@@ -1,0 +1,7 @@
+cem HumanpapillomaVirus161831333545515256DNAPrThrPtCvxOrdProbeLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HumanpapillomaVirus161831333545515256DNAPrThrPtCvxOrdProbe_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET
+

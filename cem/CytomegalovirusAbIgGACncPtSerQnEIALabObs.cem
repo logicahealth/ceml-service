@@ -1,0 +1,4 @@
+cem CytomegalovirusAbIgGACncPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CytomegalovirusAbIgGACncPtSerQnEIA_CODE

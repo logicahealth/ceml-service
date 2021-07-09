@@ -1,0 +1,8 @@
+cem LungAerationSymmetry
+	kind    	component
+	key         LungAerationSymmetry_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	LungAerationSymmetry_VSET

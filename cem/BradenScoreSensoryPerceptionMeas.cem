@@ -1,0 +1,12 @@
+cem BradenScoreSensoryPerceptionMeas
+	kind	statement
+	base	StatementBase
+	key			BradenScoreSensoryPerception_CODE
+	data		CodeableOrdinal
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	BradenScoreSensoryPerception_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

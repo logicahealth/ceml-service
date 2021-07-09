@@ -1,0 +1,15 @@
+cem BloodTypeAndRhEval
+	kind	statement
+	base	StatementBase
+	key			BloodTypeAndRh_CODE
+	data		CodeableConcept
+	qual		Method
+		id		method
+		card	0-1
+	qual		Device
+		id		device
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	BloodTypeAndRh_VSET

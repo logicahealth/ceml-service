@@ -1,0 +1,4 @@
+cem MicroscopicexamImpPtUrineNomCytologyLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MicroscopicexamImpPtUrineNomCytology_CODE

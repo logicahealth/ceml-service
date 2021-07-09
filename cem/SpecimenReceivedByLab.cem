@@ -1,0 +1,15 @@
+cem SpecimenReceivedByLab
+	kind		attribution
+	base		Attribution
+	constraint	data.codeableConcept.code
+		value	SpecimenReceivedByLab_CODE
+    constraint  patientLocation.card
+        value   0
+    constraint  providerLocation.card
+        value   0
+    constraint  reason.card
+        value   0
+    constraint  endTime.card
+        value   0
+    constraint  actionMethod.card
+        value   0

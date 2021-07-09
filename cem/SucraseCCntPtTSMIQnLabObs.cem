@@ -1,0 +1,6 @@
+cem SucraseCCntPtTSMIQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SucraseCCntPtTSMIQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerMinutePerGramProtein_CODE

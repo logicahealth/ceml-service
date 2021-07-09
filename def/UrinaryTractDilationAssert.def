@@ -1,0 +1,14 @@
+UrinaryTractDilation 
+This model is used to indicate when a client has urinary tract dilation or enlargement of any portion of the urinary tract.
+Use the Severity modifier to indicate the level of dilation (Mild, Moderate, Severe)
+Likelihood to indicate none.
+
+UrinaryTractDilationRisk documents the risk of complications caused by dilation (Low risk or P1, Intermediate risk or P2, High risk or P3)
+
+UrinaryTractDilationFollowUpRecommendation documents the timeframe for recommended follow up. (Recommend followup ultrasound in four weeks, Recommend followup ultrasound at 12 months of age, Recommend referral to Pediatric Urology, who will order further imaging)
+
+
+@Author lpctille
+@Date 09 Dec 2016 01:04
+@Status draft
+@RequestedBy Dr. White

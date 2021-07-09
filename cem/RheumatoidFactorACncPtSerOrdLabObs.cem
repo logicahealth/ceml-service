@@ -1,0 +1,4 @@
+cem RheumatoidFactorACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			RheumatoidFactorACncPtSerOrd_CODE

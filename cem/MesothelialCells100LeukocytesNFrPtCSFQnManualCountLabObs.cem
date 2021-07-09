@@ -1,0 +1,6 @@
+cem MesothelialCells100LeukocytesNFrPtCSFQnManualCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MesothelialCells100LeukocytesNFrPtCSFQnManualCount_CODE
+	constraint	data.quantity.unit_code
+		value	PerHundred_CODE

@@ -1,0 +1,8 @@
+cem TitrationAction
+	kind		component
+	key			TitrationAction_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	TitrationAction_VSET

@@ -1,0 +1,6 @@
+cem ThreeHydroxyisovalerylcarnitineC5OHSCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThreeHydroxyisovalerylcarnitineC5OHSCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

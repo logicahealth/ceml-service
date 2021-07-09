@@ -1,0 +1,4 @@
+cem ReasonForDrugTestImpPtPatientNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ReasonForDrugTestImpPtPatientNom_CODE

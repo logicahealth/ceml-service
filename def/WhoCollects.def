@@ -1,0 +1,2 @@
+WhoCollects is for a lab order indicating the class of people responsible to collect the specimen (e.g., "lab collects" or "floor collection." In HL7, this field is referred to SpecimenActionCode (OBR-11).
+

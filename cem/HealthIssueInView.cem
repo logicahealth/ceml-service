@@ -1,0 +1,9 @@
+cem HealthIssueInView
+	kind		component
+	key			HealthIssueInView_CODE
+	item		HealthIssueId
+		id		healthIssueId
+		card	1
+	item		HealthIssueDisplayPriority
+		id		healthIssueDisplayPriority
+		card	1

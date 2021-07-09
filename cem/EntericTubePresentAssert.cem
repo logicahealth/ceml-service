@@ -1,0 +1,9 @@
+cem EntericTubePresentAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		EntericTubePlacementAppropriateness
+		id		entericTubePlacementAppropriateness
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	EntericTubePresent_CODE
+

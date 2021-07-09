@@ -1,0 +1,4 @@
+cem SuberateACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SuberateACncPtUrineOrd_CODE

@@ -1,0 +1,4 @@
+OutputVolumeRateMeas is a measurement model. 
+The "OutputVolumeRateMeas" model captures coded data values from the key domain of OutputVolumeRate_KEY_VALUESET_ECID.
+By definition Output Volume Rate Measurement is the base measurement model representing the calculation of rate of fluid output over a specific time period (can include estimated or stated amounts)
+

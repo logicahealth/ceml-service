@@ -1,0 +1,6 @@
+cem MaximumClotFirmnessLenPtBldQnThromboelastographyLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MaximumClotFirmnessLenPtBldQnThromboelastography_CODE
+	constraint		data.quantity.unit_code
+		value	Millimeters_CODE

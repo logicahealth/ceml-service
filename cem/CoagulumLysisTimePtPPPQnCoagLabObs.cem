@@ -1,0 +1,6 @@
+cem CoagulumLysisTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulumLysisTimePtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+		value	Minutes_CODE

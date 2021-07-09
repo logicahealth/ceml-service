@@ -1,0 +1,4 @@
+cem CalledPatientResultsLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			CalledPatientResults_CODE

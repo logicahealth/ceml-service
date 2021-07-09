@@ -1,0 +1,4 @@
+cem BCRABLPreviousQuant1LabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			BCRABLPreviousQuant1_CODE

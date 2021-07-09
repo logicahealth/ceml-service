@@ -1,0 +1,6 @@
+cem FatIntakeMeas
+	kind		statement
+	base		NutrientIntakeMeas
+	key			FatIntake_CODE
+	constraint	data.quantity.unit_code
+		value	Grams_CODE

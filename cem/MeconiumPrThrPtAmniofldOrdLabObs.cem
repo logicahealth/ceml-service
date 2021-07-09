@@ -1,0 +1,4 @@
+cem MeconiumPrThrPtAmniofldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MeconiumPrThrPtAmniofldOrd_CODE

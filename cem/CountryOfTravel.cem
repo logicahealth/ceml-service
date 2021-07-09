@@ -1,0 +1,8 @@
+cem CountryOfTravel
+	kind		component
+	key			CountryOfTravel_CODE
+	data		CodeableConcept
+	constraint  data.codeableConcept.strength 
+        value   CWE 
+    constraint  data.codeableConcept.valueset 
+        value   Country_VSET

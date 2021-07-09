@@ -1,0 +1,4 @@
+HygieneProvidedIndicator created on 20/Apr/2016 14:52 by B Heale
+
+HygieneProvidedIndicator is a component model used to indicate whether or not Hygiene was provided.
+As a component this must be included in a more comprehensive statement

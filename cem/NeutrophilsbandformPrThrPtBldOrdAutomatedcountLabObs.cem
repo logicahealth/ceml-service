@@ -1,0 +1,7 @@
+cem NeutrophilsbandformPrThrPtBldOrdAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeutrophilsbandformPrThrPtBldOrdAutomatedcount_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	PosNegEquiIndet_VSET

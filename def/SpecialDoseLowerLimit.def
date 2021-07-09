@@ -1,0 +1,5 @@
+SpecialDoseLowerLimit is the user-entered dose of this orderable item when it is based on patient parameters (e.g., either weight or body surface area). The dose in this field will be used to then calculate the OrderedDose fields. 
+        This has a LowerLimit and UpperLimit to accommodate a sliding scale or dosage range. 
+        Most medication orders have just one ordered dose. In these cases, ONLY the LowerLimit is filled in.
+
+

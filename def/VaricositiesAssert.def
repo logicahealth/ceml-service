@@ -1,0 +1,5 @@
+VaricositiesAssert is an assertion model that extends the ClinicalAssertion model by capturing varicosity-specific data through additional qualifiers. In an assertion model, the key is set to "Assertion_KEY_CODE", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_CODE" and a data of "AbdominalTenderness_CODE".
+In the VaricositoesAssert model, data is Varicosities_CODE.   
+By definition VaricositiesAssert asserts the existence of varicosities.
+

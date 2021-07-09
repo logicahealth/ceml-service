@@ -1,0 +1,3 @@
+AlertLogicalModuleId applies an identifier to how an alert was processed and handled once generated.  It usually identifies
+	a rule or alert protocol that was used on the alert itself.
+

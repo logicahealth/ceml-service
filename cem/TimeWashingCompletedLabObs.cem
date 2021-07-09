@@ -1,0 +1,6 @@
+cem TimeWashingCompletedLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TimeWashingCompleted_CODE
+	constraint		data.quantity.unit_code
+		value	UnityUnitsOfMeasure_CODE

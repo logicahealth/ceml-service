@@ -1,0 +1,4 @@
+cem LupusanticoagulantneutralizationdilutephospholipidPrThrPtPPPOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LupusanticoagulantneutralizationdilutephospholipidPrThrPtPPPOrd_CODE

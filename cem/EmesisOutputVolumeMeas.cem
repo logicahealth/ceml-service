@@ -1,0 +1,12 @@
+cem EmesisOutputVolumeMeas
+	kind		statement
+	base		OutputVolumeMeas
+	key			EmesisOutputVolume_CODE
+	constraint	method.card
+		value	0
+	constraint	device.card
+		value	0
+	constraint	bodyLocationPrecoord.card
+		value	0
+	constraint	sourceIdentifier.card
+		value	0

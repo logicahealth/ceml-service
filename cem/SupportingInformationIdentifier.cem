@@ -1,0 +1,4 @@
+cem SupportingInformationIdentifier
+	kind	component
+	key		SupportingInformationIdentifier_CODE
+	data	Identifier

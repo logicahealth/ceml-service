@@ -1,0 +1,4 @@
+cem MesothelialCellsACncPtBodyFldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MesothelialCellsACncPtBodyFldOrdMicroscopyLight_CODE

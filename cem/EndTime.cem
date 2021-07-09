@@ -1,0 +1,4 @@
+cem EndTime
+	kind		component
+	key			EndTime_CODE
+	data		DateTime

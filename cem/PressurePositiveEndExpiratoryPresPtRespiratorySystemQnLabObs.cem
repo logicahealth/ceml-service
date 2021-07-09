@@ -1,0 +1,6 @@
+cem PressurePositiveEndExpiratoryPresPtRespiratorySystemQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PressurePositiveEndExpiratoryPresPtRespiratorySystemQn_CODE
+	constraint		data.quantity.unit_code
+		value	CentimetersOfWater_CODE

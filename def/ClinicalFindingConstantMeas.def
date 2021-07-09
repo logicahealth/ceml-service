@@ -1,0 +1,3 @@
+ClinicalFindingConstantMeas is a model used to measure a constant that may be used in a calculation. For example, the normal dose for 
+a VQ Scan Radiation is 60 mSV. So this model will store VQ Scan Radiation average dose as the key code and 60 as the data.
+This model was made specifically for the Homer Warner center for use in the pulomonary embolism (PE) clinical decision support application.

@@ -1,0 +1,4 @@
+ClinicianHealthIssueView is an individual clinician's view of health issues of a patient.  For instance, a clinician may view all of their patients who are diabetic. It is up to the clinician's preference what criteria dictates the display.
+
+
+

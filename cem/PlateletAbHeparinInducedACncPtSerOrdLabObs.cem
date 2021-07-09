@@ -1,0 +1,6 @@
+cem PlateletAbHeparinInducedACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PlateletAbHeparinInducedACncPtSerOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

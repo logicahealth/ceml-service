@@ -1,0 +1,15 @@
+cem HistoryOfFallAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        TypeOfFall
+       id       typeOfFall
+       card     0-1
+    qual        ActivityAtFall
+       id       activityAtFall
+       card     0-1
+    qual        TimeFrame
+       id       timeFrame
+       card     0-1
+    constraint	data.codeableConcept.code
+        value	HistoryOfFall_CODE
+   

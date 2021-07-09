@@ -1,0 +1,6 @@
+cem CobaltCreatinineMCrto24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CobaltCreatinineMCrto24HUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicrogramsPerGram_CODE

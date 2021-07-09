@@ -1,0 +1,5 @@
+cem LimbInternalRotationAssert
+    kind        statement
+    base        AssertionOfPresence     
+	constraint	data.codeableConcept.code
+        value	LimbInternalRotation_CODE

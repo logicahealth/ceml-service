@@ -1,0 +1,19 @@
+cem UrinaryIncontinenceOutputPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			UrinaryIncontinenceOutputPanel_CODE
+	item		UrinaryIncontinenceOutputFluidVolumeMeas
+		id		urinaryIncontinenceOutputFluidVolumeMeas
+		card	1
+	item		UrineDescriptionEval
+		id		urineDescriptionEval
+		card	0-M
+
+	constraint	method.data.codeableConcept.valueset
+		value	UrinaryEliminationMethod_VSET
+
+    constraint	device.data.codeableConcept.valueset
+		value	UrinaryEliminationDevice_VSET
+
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	UrineOutputBodyLocationPrecoord_VSET

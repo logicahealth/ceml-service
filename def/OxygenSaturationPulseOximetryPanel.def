@@ -1,0 +1,6 @@
+OxygenSaturationPulseOximetryPanel is a collection of the measurements needed to capture the measured SPO2, the delivered O2 fraction, and the O2 flow rate.
+
+@Author nrdavis1
+@Date 15 Apr 2021 10:36
+@Status draft
+@RequestedBy Graphite

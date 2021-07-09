@@ -1,0 +1,8 @@
+cem DegreeOfBurn
+	kind		component
+	key			DegreeOfBurn_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	DegreeOfBurn_VSET

@@ -1,0 +1,4 @@
+cem LinezolidSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LinezolidSuscPtIsolateOrdQnGradientstrip_CODE

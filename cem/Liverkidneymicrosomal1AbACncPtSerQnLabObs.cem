@@ -1,0 +1,6 @@
+cem Liverkidneymicrosomal1AbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Liverkidneymicrosomal1AbACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		ArbitraryUnitsPerMilliliter_CODE

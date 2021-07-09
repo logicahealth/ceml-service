@@ -1,0 +1,4 @@
+AnorexiaNervosaAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the  AnorexiaNervosaAssert model, data is  AnorexiaNervosa_ECID which indicates the subject has a diagnosis characterized by a lack or loss of appetite, accompanied by food aversion and the inability to eat, causing severe malnutrition.
+

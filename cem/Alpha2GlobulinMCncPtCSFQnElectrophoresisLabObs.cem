@@ -1,0 +1,6 @@
+cem Alpha2GlobulinMCncPtCSFQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Alpha2GlobulinMCncPtCSFQnElectrophoresis_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

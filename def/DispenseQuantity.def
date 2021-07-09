@@ -1,0 +1,2 @@
+DispenseQuantity is dispensing information used only for ambulatory medications. It captures the total amount of doses the filler should dispense in a prescription (i.e., 30 tabs).
+

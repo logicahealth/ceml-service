@@ -1,0 +1,2 @@
+DopplerDetail
+This is the DopplerDetail clinical element model.  It is an assessment type of model with a question and answer.  The question is "what is the detail of the Doppler pulse?"  The anwer could be monophasic, biphasic, or triphasic.

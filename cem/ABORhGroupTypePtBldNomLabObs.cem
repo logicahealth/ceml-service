@@ -1,0 +1,7 @@
+cem ABORhGroupTypePtBldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ABORhGroupTypePtBldNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	BloodType_VSET
+ 

@@ -1,0 +1,4 @@
+cem UrobilinogenPrThrPtUrineOrdTeststripLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			UrobilinogenPrThrPtUrineOrdTeststrip_CODE

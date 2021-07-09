@@ -1,0 +1,7 @@
+cem JuglanssppAbIgERASTclassPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			JuglanssppAbIgERASTclassPrThrPtSerOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	RAST0to6_VSET

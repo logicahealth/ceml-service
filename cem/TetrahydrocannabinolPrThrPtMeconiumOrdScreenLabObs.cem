@@ -1,0 +1,4 @@
+cem TetrahydrocannabinolPrThrPtMeconiumOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TetrahydrocannabinolPrThrPtMeconiumOrdScreen_CODE

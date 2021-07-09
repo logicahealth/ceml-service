@@ -1,0 +1,6 @@
+cem AppearanceAperPtBodyFldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			AppearanceAperPtBodyFldNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	BodyFluidAppearance_VSET

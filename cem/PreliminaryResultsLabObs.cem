@@ -1,0 +1,4 @@
+cem PreliminaryResultsLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PreliminaryResults_CODE

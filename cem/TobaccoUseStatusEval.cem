@@ -1,0 +1,12 @@
+cem TobaccoUseStatusEval
+	kind	statement
+	base	StatementBase
+	key			TobaccoUseStatus_CODE
+	data		CodeableConcept
+	qual		TobaccoProductType
+		id		tobaccoProductType
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	TobaccoUse_VSET

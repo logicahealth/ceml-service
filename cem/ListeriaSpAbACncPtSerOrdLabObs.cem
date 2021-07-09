@@ -1,0 +1,4 @@
+cem ListeriaSpAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ListeriaSpAbACncPtSerOrd_CODE

@@ -1,0 +1,9 @@
+cem ImmunizationAdminContraindicationReasonEval
+	kind	statement
+	base	StatementBase
+	key			ImmunizationAdminContraindicationReason_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	MedicationAdminContraindicationReason_VSET

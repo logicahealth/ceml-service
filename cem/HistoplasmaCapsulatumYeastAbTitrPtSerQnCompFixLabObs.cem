@@ -1,0 +1,5 @@
+cem HistoplasmaCapsulatumYeastAbTitrPtSerQnCompFixLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HistoplasmaCapsulatumYeastAbTitrPtSerQnCompFix_CODE
+	

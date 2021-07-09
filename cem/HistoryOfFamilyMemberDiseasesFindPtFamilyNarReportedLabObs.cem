@@ -1,0 +1,4 @@
+cem HistoryOfFamilyMemberDiseasesFindPtFamilyNarReportedLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HistoryOfFamilyMemberDiseasesFindPtFamilyNarReported_CODE

@@ -1,0 +1,6 @@
+cem OxymorphoneMCncPtUrineQnConfirmLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxymorphoneMCncPtUrineQnConfirm_CODE
+	constraint		data.quantity.unit_code
+			value		NanogramsPerMilliliter_CODE

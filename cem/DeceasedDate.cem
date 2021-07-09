@@ -1,0 +1,4 @@
+cem DeceasedDate
+	kind		component
+	key			DeceasedDate_CODE
+	data		DateTime

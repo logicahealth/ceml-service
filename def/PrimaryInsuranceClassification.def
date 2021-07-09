@@ -1,0 +1,15 @@
+PrimaryInsuranceClassification is a model of a question found on instruments such as the Family Planning Annual Report (FPAR) and LOINC 76464-7 (American Physical Therapy Association Registry panel Organization).
+
+The question refers to the Primary payer for a client's encounter, using a Coded response for the catagory of primary insurance based on LOINC code 76437-3. 
+
+The intent is an answer for the description of the primary insurance without the granularity of the legal description of the primary insurance. The value set mixes types and plans. It is an implementation model.
+
+The value set has values such as Clinic covered/confidential, Medicaid, Self-pay, Private/group, Medicare, CHIP, Veteran/Military, Other public, Unavailable/Unknown
+
+@Author bsheale
+@Date 06 Apr 2017 17:20
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog, implementation, reporting-instrument
+
+

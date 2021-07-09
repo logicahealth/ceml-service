@@ -1,0 +1,4 @@
+cem HaemophilusInfluenzaeADNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HaemophilusInfluenzaeADNAACncPtXXXOrdProbeAmpTar_CODE

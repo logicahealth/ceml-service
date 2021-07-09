@@ -1,0 +1,4 @@
+cem PneumocystisJiroveciAgACncPtXXXOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PneumocystisJiroveciAgACncPtXXXOrdIF_CODE

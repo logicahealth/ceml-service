@@ -1,0 +1,6 @@
+cem Diameter
+	kind    	component
+	key         Diameter_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	CentimetersMillimeters_VSET

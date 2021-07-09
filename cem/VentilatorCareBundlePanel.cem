@@ -1,0 +1,25 @@
+cem VentilatorCareBundlePanel
+	kind	panel
+	base	PanelBase
+	key			VentilatorCareBundlePanel_CODE
+	item		SedationVacationAssert
+		id		sedationVacationAssert
+		card	0-1
+	item		RoutineOralCareProc
+		id		routineOralCareProc
+		card	1
+	item		HeadOfBedUpDegreesMeas
+		id		headOfBedUpDegreesMeas
+		card	1
+	item		SequentialCompressionDeviceAssert
+		id		sequentialCompressionDeviceAssert
+		card	0-1
+	item		DeepVeinThrombosisProphylaxisAssert
+		id		deepVeinThrombosisProphylaxisAssert
+		card	0-1
+	item		PepticUlcerProphylaxisAssert
+		id		pepticUlcerProphylaxisAssert
+		card	0-1
+	item		RespiratoryCareHeadOfBedContraindicationsEval
+		id		respiratoryCareHeadOfBedContraindicationsEval
+		card	0-M

@@ -1,0 +1,11 @@
+cem DressingApplicationProc
+	kind		statement
+	base		Procedure
+	qual		ApproachSite
+		id		approachSite
+		card	0-1
+	qual		RouteMethodDevice
+		id		routeMethodDevice
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	DressingApplication_CODE

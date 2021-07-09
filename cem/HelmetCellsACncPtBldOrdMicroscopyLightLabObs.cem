@@ -1,0 +1,4 @@
+cem HelmetCellsACncPtBldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HelmetCellsACncPtBldOrdMicroscopyLight_CODE

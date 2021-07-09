@@ -1,0 +1,6 @@
+cem ComplementC1EsteraseInhibitorFunctionalComplementC1EsteraseInhibitorTotalMFrPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ComplementC1EsteraseInhibitorFunctionalComplementC1EsteraseInhibitorTotalMFrPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

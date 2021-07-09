@@ -1,0 +1,7 @@
+cem UnderlyingAnatomicalStructure
+	kind    	component
+	key         UnderlyingAnatomicalStructure_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   UnderlyingBodyStructure_VSET
+    

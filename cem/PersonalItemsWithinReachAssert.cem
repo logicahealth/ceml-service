@@ -1,0 +1,6 @@
+
+cem PersonalItemsWithinReachAssert
+    kind        statement
+    base       	ObservationAssert
+    constraint	data.codeableConcept.code
+        value	PersonalItemsWithinReach_CODE

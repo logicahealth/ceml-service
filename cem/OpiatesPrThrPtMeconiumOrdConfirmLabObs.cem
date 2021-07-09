@@ -1,0 +1,4 @@
+cem OpiatesPrThrPtMeconiumOrdConfirmLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			OpiatesPrThrPtMeconiumOrdConfirm_CODE

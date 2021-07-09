@@ -1,0 +1,4 @@
+cem ErythromycinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythromycinSuscPtIsolateOrdQnGradientstrip_CODE

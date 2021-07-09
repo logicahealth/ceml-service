@@ -1,0 +1,6 @@
+cem HealthIssueEvolutionLink
+	kind		link
+	key			HealthIssueEvolutionLink_CODE
+    data        Identifier
+    constraint  data.identifier.key
+        value   HealthIssue_CODE

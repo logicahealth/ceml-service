@@ -1,0 +1,7 @@
+cem WoundEdgeApproximationAssert
+	kind		statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.valueset
+		value	WoundEdgeApproximation_VSET
+	constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	SkinBodyLocation_VSET

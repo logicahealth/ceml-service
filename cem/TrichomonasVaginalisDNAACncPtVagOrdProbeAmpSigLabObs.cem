@@ -1,0 +1,4 @@
+cem TrichomonasVaginalisDNAACncPtVagOrdProbeAmpSigLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TrichomonasVaginalisDNAACncPtVagOrdProbeAmpSig_CODE

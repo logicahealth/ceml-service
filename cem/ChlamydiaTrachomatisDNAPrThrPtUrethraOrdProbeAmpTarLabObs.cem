@@ -1,0 +1,6 @@
+cem ChlamydiaTrachomatisDNAPrThrPtUrethraOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChlamydiaTrachomatisDNAPrThrPtUrethraOrdProbeAmpTar_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

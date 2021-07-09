@@ -1,0 +1,6 @@
+cem PlateletsNCncPtBldQnAutomatedCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PlateletsNCncPtBldQnAutomatedCount_CODE
+	constraint	data.quantity.unit_code
+		value	ThousandsPerMicroliter_CODE

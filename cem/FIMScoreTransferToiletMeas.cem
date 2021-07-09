@@ -1,0 +1,10 @@
+cem FIMScoreTransferToiletMeas
+	kind	statement
+	base	StatementBase
+	key			FIMScoreTransferToilet_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	FIMScoreLevelOfAssistance_VSET

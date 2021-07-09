@@ -1,0 +1,4 @@
+cem CefazolinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CefazolinSuscPtIsolateOrdQnGradientstrip_CODE

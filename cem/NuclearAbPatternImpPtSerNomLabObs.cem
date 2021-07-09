@@ -1,0 +1,4 @@
+cem NuclearAbPatternImpPtSerNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			NuclearAbPatternImpPtSerNom_CODE

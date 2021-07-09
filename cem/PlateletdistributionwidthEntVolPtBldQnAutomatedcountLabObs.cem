@@ -1,0 +1,6 @@
+cem PlateletdistributionwidthEntVolPtBldQnAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PlateletdistributionwidthEntVolPtBldQnAutomatedcount_CODE
+	constraint		data.quantity.unit_code
+			value		Femtoliters_CODE

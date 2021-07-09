@@ -1,0 +1,4 @@
+cem ProteinpatternImpPtUrineNomElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ProteinpatternImpPtUrineNomElectrophoresis_CODE

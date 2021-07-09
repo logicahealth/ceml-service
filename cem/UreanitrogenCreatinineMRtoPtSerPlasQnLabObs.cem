@@ -1,0 +1,4 @@
+cem UreanitrogenCreatinineMRtoPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			UreanitrogenCreatinineMRtoPtSerPlasQn_CODE

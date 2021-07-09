@@ -1,0 +1,4 @@
+cem NewbornhearingscreenmethodTypePtEarNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			NewbornhearingscreenmethodTypePtEarNom_CODE

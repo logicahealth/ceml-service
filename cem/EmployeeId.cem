@@ -1,0 +1,4 @@
+cem EmployeeId
+	kind		component
+	key			EmployeeId_CODE
+	data		Identifier

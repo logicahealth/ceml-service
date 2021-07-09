@@ -1,0 +1,2 @@
+Frequency is a container which can hold multiple frequency definitions for the Orderable. The implied relationship between these is "AND".  Can be absent if the PRNFlag is set.  Otherwise, there must be at least one frequency.
+

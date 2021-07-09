@@ -1,0 +1,18 @@
+cem GenderInd
+	kind	statement
+	base	StatementBase
+	key			GenderInd_CODE
+	data		CodeableConcept
+	qual		StandardizedScoreWeight
+		id		standardizedScoreWeight
+		card	0-1
+	qual		StandardizedScoreName
+		id		standardizedScoreName
+		card	0-1
+	qual		SupportingInformationStringLink
+		id		supportingInformationStringLink
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	YesNo_VSET

@@ -1,0 +1,4 @@
+ClinicalAsthmaScoreObservedDyspneaMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the ClinicalAsthmaScoreObservedDyspneaMeas model, the question is "what is the subject's clinical asthma observed dyspnea score?" and the answer will be an ordinal value.
+ClinicalAsthmaScoreObservedDyspneaMeas is a model of the element of the clinical asthma score used to assess the degree of difficulty of breathing (dyspnea) in an asthmatic patient. Values range from 0-3
+

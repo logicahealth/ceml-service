@@ -1,0 +1,5 @@
+cem SmoothMuscleAbTitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SmoothMuscleAbTitrPtSerQnIF_CODE
+	

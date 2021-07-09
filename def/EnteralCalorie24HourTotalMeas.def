@@ -1,0 +1,4 @@
+EnteralCalorie24HourTotalMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) "answer" in data. 
+For example, in the EnteralCalorie24HourTotalMeas model the "question" or the "test" is "What is the Enteral Calorie 24Hour Total?" and the "answer" in data can be "X mL."
+By definition EnteralCalorie 24HourTotalMeas means the measured 24 hour total volume of daily enteral calories in the subject.
+

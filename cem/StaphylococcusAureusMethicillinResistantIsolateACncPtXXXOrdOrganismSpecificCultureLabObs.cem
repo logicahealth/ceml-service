@@ -1,0 +1,4 @@
+cem StaphylococcusAureusMethicillinResistantIsolateACncPtXXXOrdOrganismSpecificCultureLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StaphylococcusAureusMethicillinResistantIsolateACncPtXXXOrdOrganismSpecificCulture_CODE

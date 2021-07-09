@@ -1,0 +1,10 @@
+cem PleuralFluidImagingPresenceEval
+	kind	statement
+	base	StatementBase
+    key     PleuralFluidImagingPresenceEval_CODE
+	data	CodeableConcept
+	constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	PresentAbsentIndet_VSET
+

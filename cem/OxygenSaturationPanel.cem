@@ -1,0 +1,13 @@
+cem OxygenSaturationPanel
+	kind	panel
+	base	PanelBase
+	key     OxygenSaturationPanel_CODE
+	item        OxygenSaturationArterialBloodMeas
+        id      oxygenSaturationArterialBloodMeas
+        card    1
+    item        DeliveredOxygenMeas
+        id      deliveredOxygenMeas
+        card    0-1
+    item        RoomAirAssert
+        id      roomAirAssert
+        card    0-1

@@ -1,0 +1,4 @@
+cem CollectionstartdateTmStpPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CollectionstartdateTmStpPtUrineQn_CODE

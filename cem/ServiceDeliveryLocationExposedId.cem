@@ -1,0 +1,4 @@
+cem ServiceDeliveryLocationExposedId
+	kind		component
+	key			ServiceDeliveryLocationExposedId_CODE
+	data		String

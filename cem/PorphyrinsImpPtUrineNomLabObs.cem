@@ -1,0 +1,4 @@
+cem PorphyrinsImpPtUrineNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PorphyrinsImpPtUrineNom_CODE

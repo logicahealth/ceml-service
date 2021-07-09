@@ -1,0 +1,8 @@
+cem Equality
+	kind    component
+	key     Equality_CODE
+	data	CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Equality_VSET

@@ -1,0 +1,2 @@
+CardiacEctopyPatternEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD or CO) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the CardiacEctopyPatternEval model, the question is "What's the pattern of the patient's cardiac ectopy?" and the coded answers can be'frequent', 'infrequent', 'bigeminy', 'couplets', 'trigeminy', and 'triplets' etc.

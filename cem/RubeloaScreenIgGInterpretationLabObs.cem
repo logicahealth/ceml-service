@@ -1,0 +1,4 @@
+cem RubeloaScreenIgGInterpretationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			RubeloaScreenIgGInterpretation_CODE

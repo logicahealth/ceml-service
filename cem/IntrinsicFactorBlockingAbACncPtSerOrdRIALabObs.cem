@@ -1,0 +1,4 @@
+cem IntrinsicFactorBlockingAbACncPtSerOrdRIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			IntrinsicFactorBlockingAbACncPtSerOrdRIA_CODE

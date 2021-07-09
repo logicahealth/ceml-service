@@ -1,0 +1,6 @@
+cem ViscosityViscPtSemenOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ViscosityViscPtSemenOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NormAbnormIncDec_VSET

@@ -1,0 +1,6 @@
+cem HeparinLowMolecularWeightACncPtPPPQnChromoLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HeparinLowMolecularWeightACncPtPPPQnChromo_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerMilliliter_CODE

@@ -1,0 +1,4 @@
+cem GalactomannanAgACncPtSerPlasOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			GalactomannanAgACncPtSerPlasOrdEIA_CODE

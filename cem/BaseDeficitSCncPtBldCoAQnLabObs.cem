@@ -1,0 +1,6 @@
+cem BaseDeficitSCncPtBldCoAQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BaseDeficitSCncPtBldCoAQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimolesPerLiter_CODE

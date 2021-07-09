@@ -1,0 +1,10 @@
+cem HowOftenDoYouHaveProblemsRememberingAppointmentsOrObligationsEval
+
+	kind	statement
+	base	StatementBase
+    key     HowOftenDoYouHaveProblemsRememberingAppointmentsOrObligations_CODE
+	data	CodeableOrdinal
+
+	constraint	data.codeableOrdinal.valueset
+	    value	AdultAdhdSelfReportScaleASRSClinicalFrequency_VSET
+

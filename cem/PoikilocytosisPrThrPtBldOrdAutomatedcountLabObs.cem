@@ -1,0 +1,4 @@
+cem PoikilocytosisPrThrPtBldOrdAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PoikilocytosisPrThrPtBldOrdAutomatedcount_CODE

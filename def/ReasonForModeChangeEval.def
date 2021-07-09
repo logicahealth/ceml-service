@@ -1,0 +1,4 @@
+ReasonForModeChangeEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the ReasonForModeChangeEval model, the question is "what was the Reason For Mode Change?" and the coded answers can be 'Patient transport', 'Per Protocol', etc.
+"ReasonForModeChangeEval" is the reason why a mode change was made on a ventilator.
+

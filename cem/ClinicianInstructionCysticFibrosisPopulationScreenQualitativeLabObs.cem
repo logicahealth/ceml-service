@@ -1,0 +1,4 @@
+cem ClinicianInstructionCysticFibrosisPopulationScreenQualitativeLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ClinicianInstructionCysticFibrosisPopulationScreenQualitative_CODE

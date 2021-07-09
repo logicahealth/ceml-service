@@ -1,0 +1,9 @@
+cem BoneLesionDensity
+	kind    	component
+	key         BoneLesionDensity_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   BoneLesionDensity_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

@@ -1,0 +1,6 @@
+cem AdenosineMonophosphateCyclicSCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AdenosineMonophosphateCyclicSCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanomolesPerMilliliter_CODE

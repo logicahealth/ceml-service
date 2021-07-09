@@ -1,0 +1,4 @@
+cem SCLMinus70ExtractableNuclearAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SCLMinus70ExtractableNuclearAbACncPtSerOrd_CODE

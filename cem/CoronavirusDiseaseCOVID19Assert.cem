@@ -1,0 +1,10 @@
+cem CoronavirusDiseaseCOVID19Assert
+    kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.valueset
+        value	CoronavirusDiseaseCOVID19_VSET
+    constraint  bodyLocation.card
+        value   0        
+    constraint  associatedSituation.card
+        value   0
+    

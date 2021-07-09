@@ -1,0 +1,4 @@
+cem ChlamydiaTrachomatisDNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChlamydiaTrachomatisDNAACncPtXXXOrdProbeAmpTar_CODE

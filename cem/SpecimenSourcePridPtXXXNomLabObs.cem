@@ -1,0 +1,4 @@
+cem SpecimenSourcePridPtXXXNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			SpecimenSourcePridPtXXXNom_CODE

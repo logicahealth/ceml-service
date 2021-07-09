@@ -1,0 +1,27 @@
+cem EyeMovementEval
+	kind    	statement
+    base        StatementBase
+	key         EyeMovement_CODE
+    data        CodeableConcept
+	qual		ExacerbatingFactor
+		id		exacerbatingFactor
+		card	0-M
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-M
+	qual		AssociatedPrecondition 
+		id		associatedPrecondition 
+		card	0-M
+    qual        GazeDirection
+        id      gazeDirection
+        card    0-1
+    qual        GazePosition
+        id      gazePosition
+        card    0-M
+    qual        BodyLocationPrecoord
+        id      bodyLocationPrecoord
+        card    0-1
+    constraint	data.codeableConcept.valueset
+    value       EyeMovement_VSET
+    constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	EyeBodyLocationPrecoord_VSET

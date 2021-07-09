@@ -1,0 +1,6 @@
+cem ThiamineSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThiamineSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		NanomolesPerLiter_CODE

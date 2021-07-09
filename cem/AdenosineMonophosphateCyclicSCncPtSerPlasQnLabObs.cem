@@ -1,0 +1,6 @@
+cem AdenosineMonophosphateCyclicSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AdenosineMonophosphateCyclicSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	PicomolesPerMilliliter_CODE

@@ -1,0 +1,4 @@
+cem AureobasidiumPullulansAbACncPtSerOrdImmuneDiffusionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AureobasidiumPullulansAbACncPtSerOrdImmuneDiffusion_CODE

@@ -1,0 +1,12 @@
+cem TidalVolumePerKilogramMeas
+	kind	statement
+	base	StatementBase
+	key			TidalVolumePerKilogram_CODE
+	data		Quantity
+	qual		MethodDevice
+		id		methodDevice
+		card	0-1
+	constraint	methodDevice.data.codeableConcept.valueset
+		value	VentilatorMethodDevice_VSET
+	constraint		data.quantity.unit_code
+		value	MillilitersPerKilogram_CODE

@@ -1,0 +1,5 @@
+cem LymphocyticChoriomeningitisVirusAbTitrPtCSFQnCompFixLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LymphocyticChoriomeningitisVirusAbTitrPtCSFQnCompFix_CODE
+	

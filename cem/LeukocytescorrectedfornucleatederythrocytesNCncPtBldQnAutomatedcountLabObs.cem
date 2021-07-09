@@ -1,0 +1,6 @@
+cem LeukocytescorrectedfornucleatederythrocytesNCncPtBldQnAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LeukocytescorrectedfornucleatederythrocytesNCncPtBldQnAutomatedcount_CODE
+	constraint		data.quantity.unit_code
+			value		ThousandsPerMicroliter_CODE

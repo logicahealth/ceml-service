@@ -1,0 +1,5 @@
+cem ASPECTSScore
+	kind    	statement
+    base        StatementBase
+	key         ASPECTSScore_CODE
+    data        Integer

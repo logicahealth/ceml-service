@@ -1,0 +1,8 @@
+NippleBottleTypeEval created on 21/Sep/2016 13:07
+
+NippleBottleTypeEval is an evaluation type of model that asks a particular question and constrains the answers to a specific value set.  In this case the question is "what type of bottle or nipple is used when bottle feeding an infant?"  The answers could be things like Slow-flow, Regular-flow, Pigeion, Haberman, etc.
+This model was created for the iActivity project
+
+Modeler: N Davis
+version: 1.0
+status: draft

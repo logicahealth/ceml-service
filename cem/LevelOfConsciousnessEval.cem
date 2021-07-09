@@ -1,0 +1,11 @@
+cem LevelOfConsciousnessEval
+	kind    	statement
+    base        StatementBase
+	key         LevelOfConsciousness_CODE
+    data		CodeableConcept
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+    constraint	data.codeableConcept.valueset
+		value	LevelOfConsciousness_VSET 
+  

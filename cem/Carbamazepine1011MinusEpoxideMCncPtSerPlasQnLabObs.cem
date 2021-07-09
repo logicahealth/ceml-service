@@ -1,0 +1,6 @@
+cem Carbamazepine1011MinusEpoxideMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Carbamazepine1011MinusEpoxideMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

@@ -1,0 +1,7 @@
+cem OurFamilyAndFriendsAreWornOutBecauseItIsDifficultToDealWithAllOurNeedsWeAreGratefulForHelpButNotSureItWillWorkEval
+
+	kind	statement
+	base	StatementBase
+    key     OurFamilyAndFriendsAreWornOutBecauseItIsDifficultToDealWithAllOurNeedsWeAreGratefulForHelpButNotSureItWillWork_CODE
+	data	Integer
+

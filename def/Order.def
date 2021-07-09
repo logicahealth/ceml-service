@@ -1,0 +1,8 @@
+OrderContainer is a component model.
+The Order Container segments (there can be more than one) represent orders within the Order with a specific relationship as defined in the OrderModel.
+Expression field. An example is an alternating infusion order where the alternating infusion bottles are each defined in a 
+separate Order Container and the relationship between the infusion bottle Order Container is defined in the OrderModel.Expression. In the vast majority of orders, there will only be one Order Container. 
+The Order node serves as a container for multiple Order containers, or, in the traditional sense, multiple orders. 
+In the vast majority of orders, such a container would be unnecessary as most orders are not complex. 
+Most order systems fail, however, by their inability to express complex orders.
+

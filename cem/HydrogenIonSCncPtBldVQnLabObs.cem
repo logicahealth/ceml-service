@@ -1,0 +1,6 @@
+cem HydrogenIonSCncPtBldVQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HydrogenIonSCncPtBldVQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

@@ -1,0 +1,6 @@
+AverageDiastollicBloodPressure is the mean diastolic blood pressure calculated from a set of individual measurements, regardless of time period.  No LOINC code at time of CEM creation.
+
+@Author nrdavis1
+@Date 09 Jun 2020 14:18
+@Status draft
+@RequestedBy Logica

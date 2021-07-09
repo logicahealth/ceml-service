@@ -1,0 +1,4 @@
+cem ProteinpatternImpPtSerPlasNomImmunofixationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ProteinpatternImpPtSerPlasNomImmunofixation_CODE

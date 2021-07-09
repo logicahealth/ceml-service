@@ -1,0 +1,6 @@
+cem Refills
+	kind		component
+	key			Refills_CODE
+	data		Integer
+	constraint	data.integer.min
+		value	0

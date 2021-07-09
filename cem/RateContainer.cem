@@ -1,0 +1,15 @@
+cem RateContainer
+	kind		component
+	key			RateContainer_CODE
+	item		VolumeRate
+		id		volumeRate
+		card	0-1
+	item		Rate
+		id		specialRate
+		card	0-1
+	item		Titration
+		id		titration
+		card	0-1
+	item		PcaPump
+		id		pcaPump
+		card	0-1

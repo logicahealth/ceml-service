@@ -1,0 +1,5 @@
+cem StreptococcusPyogenesEnzymeAbTitrPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			StreptococcusPyogenesEnzymeAbTitrPtSerQn_CODE
+	

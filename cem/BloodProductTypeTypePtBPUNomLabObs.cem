@@ -1,0 +1,6 @@
+cem BloodProductTypeTypePtBPUNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BloodProductTypeTypePtBPUNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	BloodProduct_VSET

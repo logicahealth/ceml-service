@@ -1,0 +1,4 @@
+cem SulfatideAbACncPtSerOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SulfatideAbACncPtSerOrdQn_CODE

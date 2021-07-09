@@ -1,0 +1,4 @@
+cem MicroscopicObservationPridPtBoneMarNomMyeloperoxidaseStainLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MicroscopicObservationPridPtBoneMarNomMyeloperoxidaseStain_CODE

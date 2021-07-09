@@ -1,0 +1,10 @@
+cem LevelOfConsciousnessAssessmentCAMICUPanel
+    kind		panel
+    base        PanelBase
+	key         LevelOfConsciousnessAssessmentCAMICUPanel_CODE
+    item        RASSLevelOfConsciousnessMeas
+        id      rassSedationLevel_part1
+        card    0-1
+	item		CAMICUDeliriumPanel
+        id      deliriumAssesment_part2
+        card    0-1

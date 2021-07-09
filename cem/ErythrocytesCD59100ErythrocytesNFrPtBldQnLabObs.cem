@@ -1,0 +1,6 @@
+cem ErythrocytesCD59100ErythrocytesNFrPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocytesCD59100ErythrocytesNFrPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

@@ -1,0 +1,12 @@
+cem LearningPreferenceEval
+	kind		statement
+    base        StatementBase
+	key			LearningPreference_CODE
+	data		CodeableConcept
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	LearningPreference_VSET

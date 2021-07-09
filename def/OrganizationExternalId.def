@@ -1,0 +1,3 @@
+OrganizationExternalId is a component model
+This model captures an external identifier for the organization, normally the ID is identified in an incoming message and thereafter stored in the receiver system.
+

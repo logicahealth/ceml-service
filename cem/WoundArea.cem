@@ -1,0 +1,7 @@
+cem WoundArea
+	kind    	component
+	key         WoundArea_CODE
+    data        Quantity
+    constraint	data.quantity.unit_normal
+		value	SquareCentimeters_CODE
+

@@ -1,0 +1,16 @@
+cem PericardialDrainOutputPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			PericardialDrainOutputPanel_CODE
+	item		PericardialDrainOutputFluidVolumeMeas
+		id		pericardialDrainOutputFluidVolumeMeas
+		card	1
+	item		PericardialDrainOutputDescriptionEval
+		id		pericardialDrainOutputDescriptionEval
+		card	0-M
+	constraint	method.data.codeableConcept.valueset
+		value	PericardialDrainMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	PericardialDrainDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	PericardialDrainBodyLocationPrecoord_VSET

@@ -1,0 +1,10 @@
+cem PressurePointsExamined
+	kind    	statement
+    base        StatementBase
+	key         PressurePointsExamined_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   PressurePoints_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

@@ -1,0 +1,8 @@
+cem ServiceDeliveryLocationCondition
+	kind		component
+	key			ServiceDeliveryLocationCondition_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	ServiceDeliveryLocationCondition_VSET

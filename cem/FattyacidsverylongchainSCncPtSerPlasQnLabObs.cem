@@ -1,0 +1,6 @@
+cem FattyacidsverylongchainSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FattyacidsverylongchainSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

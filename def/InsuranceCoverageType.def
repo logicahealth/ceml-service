@@ -1,0 +1,8 @@
+InsuranceCoverageType is the client's insurance coverage type at a moment in time, such as at an encounter.
+Insurance Coverage type has values such as Uninsured, Public Insurance, Private Insurance, Unknown/Not reported
+ 
+@Author bsheale
+@Date 06 Apr 2017 13:32
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog, lab, financial

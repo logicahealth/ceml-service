@@ -1,0 +1,4 @@
+cem ChromosomeAnalysisInterphaseImpPtXXXNarFISHLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ChromosomeAnalysisInterphaseImpPtXXXNarFISH_CODE

@@ -1,0 +1,16 @@
+cem ConditionProbablityOfPresence
+	kind    	statement
+    base        Observation
+	key         ConditionProbablityOfPresence_CODE
+    data        CodeableConcept
+    qual        IdentifiedConditionCode
+        id      identifiedConditionCode
+        card    1
+    qual        DataOriginationMode
+        id      dataOriginationMode
+        card    0-1
+    constraint  data.codeableConcept.valueset
+        value   ConditionPresence_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

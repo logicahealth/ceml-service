@@ -1,0 +1,6 @@
+cem BarbituratesACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BarbituratesACncPtUrineOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

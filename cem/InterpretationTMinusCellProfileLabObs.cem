@@ -1,0 +1,4 @@
+cem InterpretationTMinusCellProfileLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationTMinusCellProfile_CODE

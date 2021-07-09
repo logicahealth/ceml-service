@@ -1,0 +1,6 @@
+cem BilirubinACncPtUrineOrdTestStripLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BilirubinACncPtUrineOrdTestStrip_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrdScaleTractToLarge_VSET

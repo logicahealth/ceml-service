@@ -1,0 +1,4 @@
+cem NeutrophilOxidativeBurstDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			NeutrophilOxidativeBurstDoc_CODE

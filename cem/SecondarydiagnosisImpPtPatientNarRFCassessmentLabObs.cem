@@ -1,0 +1,4 @@
+cem SecondarydiagnosisImpPtPatientNarRFCassessmentLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			SecondarydiagnosisImpPtPatientNarRFCassessment_CODE

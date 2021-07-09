@@ -1,0 +1,4 @@
+cem ChlamydiaSpDNAConfirmationAcncPtXxxOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChlamydiaSpDNAConfirmationAcncPtXxxOrdProbeAmpTar_CODE

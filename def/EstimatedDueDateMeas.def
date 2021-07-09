@@ -1,0 +1,4 @@
+EstimatedDueDateMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) "answer" in data. 
+For example, in the EstimatedDueDateMeas model the "question" or the "test" is "What is the Estimated Due Date?" and the "answer" in data can be a date.
+By definition EsitmatedDueDateMeas means the estimated expected date of confinement (delivery).
+

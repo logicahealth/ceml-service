@@ -1,0 +1,9 @@
+PlanSequenceNumber
+Counter for a particular instance of the identified coverage which increments upon each renewal.
+
+@Author N Davis
+@Date 12 May 2017
+@Status draft
+@RequestedBy Internal
+@Keyword coverage, insurance, financial
+        

@@ -1,0 +1,6 @@
+cem PhosphataseLeukocyteACncPtWBCQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PhosphataseLeukocyteACncPtWBCQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

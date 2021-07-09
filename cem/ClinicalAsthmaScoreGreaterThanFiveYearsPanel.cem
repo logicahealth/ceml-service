@@ -1,0 +1,25 @@
+cem ClinicalAsthmaScoreGreaterThanFiveYearsPanel
+	kind	panel
+	base	PanelBase
+	key			ClinicalAsthmaScoreGreaterThanFiveYearsPanel_CODE
+	item		ClinicalAsthmaScoreRespiratoryRateGreaterThanFiveYearsMeas
+		id		clinicalAsthmaScoreRespiratoryRateGreaterThanFiveYearsMeas
+		card	0-1
+	item		ClinicalAsthmaScoreWheezeMeas
+		id		clinicalAsthmaScoreWheezeMeas
+		card	0-1
+	item		ClinicalAsthmaScoreIndrawingMeas
+		id		clinicalAsthmaScoreIndrawingMeas
+		card	0-1
+	item		ClinicalAsthmaScoreObservedDyspneaMeas
+		id		clinicalAsthmaScoreObservedDyspneaMeas
+		card	0-1
+	item		ClinicalAsthmaScoreIERatioMeas
+		id		clinicalAsthmaScoreIERatioMeas
+		card	0-1
+	item		ClinicalAsthmaScoreTotalMeas
+		id		clinicalAsthmaScoreTotalMeas
+		card	1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M

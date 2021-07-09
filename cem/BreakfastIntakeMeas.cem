@@ -1,0 +1,12 @@
+cem BreakfastIntakeMeas
+	kind    	statement
+    base        StatementBase
+	key         BreakfastIntakeMeas_CODE
+    data        CodeableOrdinal
+    qual        FoodType
+        id      foodType
+        card    0-M
+    constraint  data.codeableOrdinal.valueset
+        value   BreakfastIntake_VSET
+
+

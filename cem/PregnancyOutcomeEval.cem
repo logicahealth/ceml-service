@@ -1,0 +1,15 @@
+cem PregnancyOutcomeEval
+	kind	statement
+	base	StatementBase
+	key			PregnancyOutcome_CODE
+	data		CodeableConcept
+	qual		TermPretermObstetricDelivery
+		id		termPretermObstetricDelivery
+		card	0-1
+	qual		DateOfOnset
+		id		dateOfOnset
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PregnancyOutcome_VSET

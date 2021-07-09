@@ -1,0 +1,7 @@
+DeltaFlag takes a value from the valueset listed in the model to indicate the data value in the containing model
+		is a change from a previous instance of the same model.
+      This model is intended to constrain values from OBX-8 in a lab result HL7 message. 
+       Because OBX-8 is overloaded to contain multiple types of data, we need a way to tell
+       which kind of code is sent (abnormal flag, delta flag, or ordinal interpretation).
+
+

@@ -1,0 +1,4 @@
+cem LegionellaSpRRNAACncPtXXXOrdProbeLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LegionellaSpRRNAACncPtXXXOrdProbe_CODE

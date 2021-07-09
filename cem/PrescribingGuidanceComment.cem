@@ -1,0 +1,7 @@
+cem PrescribingGuidanceComment
+	kind		comment
+	key			PrescribingGuidanceComment_CODE
+	data		String
+    att         Documented
+        id      documented
+        card    0-1

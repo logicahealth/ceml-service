@@ -1,0 +1,4 @@
+cem BacteriaidentifiedPridPtBldNomCultureLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BacteriaidentifiedPridPtBldNomCulture_CODE

@@ -1,0 +1,4 @@
+cem CefotaximeSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CefotaximeSuscPtIsolateOrdQn_CODE

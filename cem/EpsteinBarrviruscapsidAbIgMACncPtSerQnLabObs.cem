@@ -1,0 +1,6 @@
+cem EpsteinBarrviruscapsidAbIgMACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EpsteinBarrviruscapsidAbIgMACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		ArbitraryUnitsPerMilliliter_CODE

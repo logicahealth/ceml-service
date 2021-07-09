@@ -1,0 +1,7 @@
+cem AvgAbsorbedRadiationDoseMeas
+	kind	component
+	key     AvgAbsorbedRadiationDoseMeas_CODE
+	data	Quantity
+
+    constraint  data.quantity.unit_code
+        value   Milligray_CODE

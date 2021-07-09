@@ -1,0 +1,4 @@
+cem TreponemaPallidumAbIgGACncPtCSFOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TreponemaPallidumAbIgGACncPtCSFOrdIF_CODE

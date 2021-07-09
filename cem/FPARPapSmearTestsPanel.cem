@@ -1,0 +1,36 @@
+
+cem FPARPapSmearTestsPanel
+	kind    	panel
+    base        PanelBase
+	key         FPARPapSmearTestsPanel_CODE
+	item		MicroscopicObservationPridPtCvxNomCytostainLabObs
+		id		microscopicObservationPridPtCvxNomCytostainLabObs
+		card	0-M
+	item		MicroscopicObservationPridPtCvxNomCytostainThinPrepLabObs
+		id		microscopicObservationPridPtCvxNomCytostainThinPrepLabObs
+		card	0-M
+	item		MicroscopicObservationPridPtCvxVagNomCytostainLabObs
+		id		microscopicObservationPridPtCvxVagNomCytostainLabObs
+		card	0-M
+	item		MicroscopicObservationPridPtCvxVagNarCytostainLabObs
+		id		microscopicObservationPridPtCvxVagNarCytostainLabObs
+		card	0-M
+	item		CytologyStudyCommentImpPtCvxVagNarCytostainLabObs
+		id		cytologyStudyCommentImpPtCvxVagNarCytostainLabObs
+		card	0-M
+	item		StudyReportFindPtCvxVagDocCytologyLabObs
+		id		studyReportFindPtCvxVagDocCytologyLabObs
+		card	0-M
+	item		CytologyReportFindPtCvxVagDocCytostainThinPrepLabObs
+		id		cytologyReportFindPtCvxVagDocCytostainThinPrepLabObs
+		card	0-M
+	item		CytologyReportFindPtCvxVagDocCytostainLabObs
+		id		cytologyReportFindPtCvxVagDocCytostainLabObs
+		card	0-M
+	item		GeneralCategoriesImpPtCvxVagNomCytostainLabObs
+		id		generalCategoriesImpPtCvxVagNomCytostainLabObs
+		card	0-M
+	item		StatementOfAdequacyImpPtCvxVagNomCytostainLabObs
+		id		statementofAdequacyImpPtCvxVagNomCytostainLabObs
+		card	0-M
+

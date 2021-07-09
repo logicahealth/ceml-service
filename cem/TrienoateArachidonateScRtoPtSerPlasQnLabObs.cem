@@ -1,0 +1,6 @@
+cem TrienoateArachidonateScRtoPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TrienoateArachidonateScRtoPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

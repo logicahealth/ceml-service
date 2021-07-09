@@ -1,0 +1,9 @@
+cem ResponsibleObserver
+	kind		component
+	key			ResponsibleObserver_CODE
+	item		ProviderId
+		id		providerId
+		card	0-1
+	item		ProviderName
+		id		providerName
+		card	0-1

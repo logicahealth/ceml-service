@@ -1,0 +1,6 @@
+cem BileColorLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BileColor_CODE
+	constraint	data.codeableConcept.valueset
+		value	BileColor_VSET

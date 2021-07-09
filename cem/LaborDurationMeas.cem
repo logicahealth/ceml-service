@@ -1,0 +1,10 @@
+cem LaborDurationMeas
+	kind	statement
+	base	StatementBase
+	key			LaborDuration_CODE
+	data		Quantity
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint		data.quantity.unit_code
+		value	Minutes_CODE

@@ -1,0 +1,4 @@
+DentalNerveBlockProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes the procedure being performed.
+In the DentalNerveBlockProc model data is DentalNerveBlock_KEY_ECID, which captures information surrounding a Dental Nerve Block, which is the act of admnistering anesthetic to block a facial/cranical nerve for
+the purpose of a dental procedure.
+

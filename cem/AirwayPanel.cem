@@ -1,0 +1,22 @@
+cem AirwayPanel
+	kind	panel
+	base	PanelBase
+	key			AirwayPanel_CODE
+	item		AirwayCareProc
+		id		airwayCareProc
+		card	0-1
+	item		AirwayPatentAssert
+		id		airwayPatentAssert
+		card	0-1
+    item		AirwayCompromisedAssert
+		id		airwayCompromisedAssert
+		card	0-1
+	item		AirwaySecuredMethodEval
+		id		airwaySecuredMethodEval
+		card	0-1
+	item		IntubationTubePanel
+		id		intubationTubePanel
+		card	0-1
+	item		AirwayInterfaceTypeAssert
+		id		airwayInterfaceTypeAssert
+		card	1

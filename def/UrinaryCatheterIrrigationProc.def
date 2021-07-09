@@ -1,0 +1,5 @@
+GenitourinaryCatheterIrrigationProc is a procedure model. In a procedure model the key code is "Procedure_KEY_ECID" and data describes the procedure being performed.
+In the GenitourinaryCatheterIrrigationProc model, data is "GenitourinaryCatheterIrrigation_ECID" which means "The act of inserting a fluid into a catheter placed in the urinary system and removing the fluid either by drainage or suction".
+
+Changed name to UrinaryCatheterIrrigationProc for consistency.
+

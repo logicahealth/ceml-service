@@ -1,0 +1,5 @@
+WoundPackingRemovalProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes the
+procedure being performed.
+In the WoundPackingRemovalProc model data is WoundPackingRemoval_ECID which captures information surrounding a Wound Packing Removal
+which means the act of removing the wound packing from a patient.
+

@@ -1,0 +1,4 @@
+cem FRAXEgeneCGGrepeatsPrThrPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			FRAXEgeneCGGrepeatsPrThrPtBldTissOrdMolgen_CODE

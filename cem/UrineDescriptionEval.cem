@@ -1,0 +1,10 @@
+cem UrineDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			UrineDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	UrineDescription_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	UrineOutputBodyLocationPrecoord_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	UrineElminationDevice_VSET

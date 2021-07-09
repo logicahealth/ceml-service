@@ -1,0 +1,7 @@
+cem ChoriogonadotropinACncPtSerPlasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChoriogonadotropinACncPtSerPlasOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	PosNegEquiIndet_VSET

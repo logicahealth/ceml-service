@@ -1,0 +1,2 @@
+GuarantorId captures the unique identifier in the Guarantor reference table that will be subsequently used in the parent model, such as the Patient CEM. 
+

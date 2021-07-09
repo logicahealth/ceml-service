@@ -1,0 +1,4 @@
+cem MaternalScreeningSequentialSpecimen1DocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MaternalScreeningSequentialSpecimen1Doc_CODE

@@ -1,0 +1,10 @@
+cem ClinicalAsthmaScoreWheezeMeas
+	kind	statement
+	base	StatementBase
+	key			ClinicalAsthmaScoreWheeze_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	ClinicalAsthmaScoreWheeze_VSET

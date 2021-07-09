@@ -1,0 +1,4 @@
+cem AlternateVisitId
+	kind	component
+	key		AlternateVisitId_CODE
+    data    Identifier

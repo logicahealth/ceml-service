@@ -1,0 +1,2 @@
+SpecimenReceivedByLab is a child model of the Attribution model. It holds the who, when, where, and why information
+of the specimen being received by the lab.

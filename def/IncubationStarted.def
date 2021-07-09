@@ -1,0 +1,4 @@
+IncubationStarted is the act of starting incubation.
+IncubationStarted is a child model of the Attribution model. It holds the who, when, where, and why information
+of the incubation is started 
+

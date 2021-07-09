@@ -1,0 +1,6 @@
+cem TransferrinReceptorSolubleMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TransferrinReceptorSolubleMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerLiter_CODE

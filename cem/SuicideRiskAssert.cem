@@ -1,0 +1,12 @@
+cem SuicideRiskAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual		Method
+		id		method
+		card	0-1
+    constraint	data.codeableConcept.valueset
+        value	SuicideRisk_VSET
+    constraint	method.data.codeableConcept.valueset
+		value	SuicideRiskMethod_VSET
+    constraint  bodyLocation.card
+        value   0

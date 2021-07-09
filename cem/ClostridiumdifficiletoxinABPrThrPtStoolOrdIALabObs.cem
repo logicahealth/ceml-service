@@ -1,0 +1,4 @@
+cem ClostridiumdifficiletoxinABPrThrPtStoolOrdIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ClostridiumdifficiletoxinABPrThrPtStoolOrdIA_CODE

@@ -1,0 +1,9 @@
+
+cem UrinaryDrainageBagLocation
+	kind    	component
+	key         UrinaryDrainageBagLocation_CODE
+	data        CodeableConcept
+    constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	UrinaryDrainageBagLocation_VSET

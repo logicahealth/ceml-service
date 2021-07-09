@@ -1,0 +1,4 @@
+	ApgarScoreOneMinuteGrimaceMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the ApgarScoreOneMinuteGrimaceMeas model, the question is "what is the newborns's Apgar level of irritablity score 1 minutes after birth?" and the ordinal answer would correspond as follows: 0 (no response); 1(grimace); 2(cry, sneeze).
+The Apgar activity Score is an evaluation system to quantify the quality of activity in a newborn at certain increments following birth. It is an indicator of the health of the infant.
+

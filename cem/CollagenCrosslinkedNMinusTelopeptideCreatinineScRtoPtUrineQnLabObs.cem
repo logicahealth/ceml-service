@@ -1,0 +1,6 @@
+cem CollagenCrosslinkedNMinusTelopeptideCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CollagenCrosslinkedNMinusTelopeptideCreatinineScRtoPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	NanomolesPerGram_CODE

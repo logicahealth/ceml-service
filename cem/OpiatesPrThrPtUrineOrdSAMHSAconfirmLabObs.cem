@@ -1,0 +1,4 @@
+cem OpiatesPrThrPtUrineOrdSAMHSAconfirmLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			OpiatesPrThrPtUrineOrdSAMHSAconfirm_CODE

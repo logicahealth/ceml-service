@@ -1,0 +1,4 @@
+cem InfluenzaVirusAH3RNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			InfluenzaVirusAH3RNAACncPtXXXOrdProbeAmpTar_CODE

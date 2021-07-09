@@ -1,0 +1,8 @@
+cem DataAbsentReason
+	kind	component
+	key     DataAbsentReason_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	DataAbsentReason_VSET

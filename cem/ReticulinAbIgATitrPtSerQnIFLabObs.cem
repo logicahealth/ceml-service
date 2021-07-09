@@ -1,0 +1,5 @@
+cem ReticulinAbIgATitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ReticulinAbIgATitrPtSerQnIF_CODE
+	

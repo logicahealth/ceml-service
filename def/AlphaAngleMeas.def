@@ -1,0 +1,7 @@
+HipFemurAlphaAngleMeas 
+The measurement of the alpha angle between the hip and femur.  The value is given in degrees.  There is currently no LOINC code for the measurement.
+
+@Author nrdavis1
+@Date 29 Jan 2018 14:26
+@Status draft
+@RequestedBy iActivity

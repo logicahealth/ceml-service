@@ -1,0 +1,4 @@
+cem ABORhgroupTypePtBldnewbornNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ABORhgroupTypePtBldnewbornNom_CODE

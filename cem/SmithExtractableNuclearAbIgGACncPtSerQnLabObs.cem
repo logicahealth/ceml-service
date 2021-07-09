@@ -1,0 +1,6 @@
+cem SmithExtractableNuclearAbIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SmithExtractableNuclearAbIgGACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	AbsorbanceUnitsPerMilliliter_CODE

@@ -1,0 +1,6 @@
+cem SpermatozoaNCncPtSemenQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SpermatozoaNCncPtSemenQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillionPerMilliliter_CODE

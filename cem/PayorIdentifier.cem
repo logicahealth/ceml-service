@@ -1,0 +1,4 @@
+cem PayorIdentifier
+kind    component
+key     PayorIdentifier_CODE
+data    Identifier

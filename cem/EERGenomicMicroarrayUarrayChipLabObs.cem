@@ -1,0 +1,4 @@
+cem EERGenomicMicroarrayUarrayChipLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			EERGenomicMicroarrayUarrayChip_CODE

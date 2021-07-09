@@ -1,0 +1,6 @@
+cem ProteinMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ProteinMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	GramsPerDeciliter_CODE

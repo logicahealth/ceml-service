@@ -1,0 +1,7 @@
+cem Etiology
+	kind    	component
+	key         Etiology_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Etiology_VSET
+

@@ -1,0 +1,7 @@
+cem PressureSupportSettingMeas
+	kind	statement
+	base	StatementBase
+	key			PressureSupportSettingPresPtVentilatorQn_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	CentimetersOfWater_CODE

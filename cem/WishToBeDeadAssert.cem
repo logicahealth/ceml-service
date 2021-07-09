@@ -1,0 +1,8 @@
+cem WishToBeDeadAssert
+    kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.code
+        value	WishToBeDead_CODE
+    constraint  bodyLocation.card
+        value   0
+    

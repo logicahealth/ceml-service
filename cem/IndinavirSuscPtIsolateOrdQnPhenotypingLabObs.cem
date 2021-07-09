@@ -1,0 +1,4 @@
+cem IndinavirSuscPtIsolateOrdQnPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			IndinavirSuscPtIsolateOrdQnPhenotyping_CODE

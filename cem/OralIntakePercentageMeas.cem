@@ -1,0 +1,10 @@
+cem OralIntakePercentageMeas
+    kind        statement
+	base        StatementBase
+    key         OralIntakePercentage_CODE
+	data        Quantity
+    qual        MealType
+        id      mealType
+        card    0-M
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

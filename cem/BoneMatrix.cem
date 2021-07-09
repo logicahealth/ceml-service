@@ -1,0 +1,9 @@
+cem BoneMatrix
+	kind    	component
+	key         BoneMatrix_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   BoneMatrix_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

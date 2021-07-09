@@ -1,0 +1,5 @@
+cem CytologyReportFindPtCvxVagDocCytostainLabObs 
+	kind		statement
+	base		StandardLabObsDocument
+	key			CytologyReportFindPtCvxVagDocCytostain_CODE
+

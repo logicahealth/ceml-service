@@ -1,0 +1,4 @@
+cem DeviceName
+	kind		component
+	key			DeviceName_CODE
+	data		String

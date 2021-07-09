@@ -1,0 +1,12 @@
+cem AffectEval
+
+	kind	statement
+	base	StatementBase
+    key     Affect_CODE
+	data	CodeableConcept
+
+	constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	Affect_VSET
+

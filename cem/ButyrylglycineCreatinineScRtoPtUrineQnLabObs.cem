@@ -1,0 +1,5 @@
+cem ButyrylglycineCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ButyrylglycineCreatinineScRtoPtUrineQn_CODE
+	

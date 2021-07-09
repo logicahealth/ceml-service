@@ -1,0 +1,8 @@
+cem RecoveryStatusAssert
+	kind		statement
+	base		ObservationAssert
+	qual		Comment
+		id		comments
+		card	0-M
+	constraint	data.codeableConcept.valueset
+		value	RecoveryStatus_VSET

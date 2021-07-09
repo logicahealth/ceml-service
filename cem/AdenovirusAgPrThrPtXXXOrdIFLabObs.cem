@@ -1,0 +1,4 @@
+cem AdenovirusAgPrThrPtXXXOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AdenovirusAgPrThrPtXXXOrdIF_CODE

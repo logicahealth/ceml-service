@@ -1,0 +1,4 @@
+cem AcetaminophenPrThrPtUrineOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AcetaminophenPrThrPtUrineOrdScreen_CODE

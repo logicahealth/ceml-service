@@ -1,0 +1,8 @@
+cem TeachingMethod
+	kind		component
+	key			TeachingMethod_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	TeachingMethod_VSET

@@ -1,0 +1,4 @@
+cem FlowCytometryExtraMarkerLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			FlowCytometryExtraMarker_CODE

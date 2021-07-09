@@ -1,0 +1,9 @@
+cem ExposedToCareEval
+	kind	statement
+	base	StatementBase
+	key			ExposedToCare_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ExposedToCare_VSET

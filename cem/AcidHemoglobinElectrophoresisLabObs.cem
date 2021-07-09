@@ -1,0 +1,4 @@
+cem AcidHemoglobinElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			AcidHemoglobinElectrophoresis_CODE

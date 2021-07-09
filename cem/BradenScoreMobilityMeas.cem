@@ -1,0 +1,12 @@
+cem BradenScoreMobilityMeas
+	kind	statement
+	base	StatementBase
+	key			BradenScoreMobility_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	BradenScoreMobility_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

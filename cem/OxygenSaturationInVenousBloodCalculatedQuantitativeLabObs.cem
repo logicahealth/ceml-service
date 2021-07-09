@@ -1,0 +1,6 @@
+cem OxygenSaturationInVenousBloodCalculatedQuantitativeLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxygenSaturationInVenousBloodCalculatedQuantitative_CODE
+	constraint	data.quantity.unit_valueset
+		value	GeneralFractionUnits_VSET

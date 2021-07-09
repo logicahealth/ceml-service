@@ -1,0 +1,6 @@
+cem GlucoseMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GlucoseMCncPtSerPlasQn_CODE
+	constraint	data.quantity.unit_code
+		value	GramsPerDeciliter_CODE

@@ -1,0 +1,23 @@
+
+cem SupportPersonPanel
+	kind    	panel
+    base        PanelBase
+	key         SupportPersonPanel_CODE
+    item        SupportPersonInformation
+        id      supportPersonInformation
+        card    0-1
+    item        SupportPersonAvailabilityEval
+        id      supportPersonAvailabilityEval
+        card    0-1
+    item        SupportPersonLevelOfInvolvementEval
+        id      supportPersonLevelOfInvolvementEval
+        card    0-1
+    item        AbilityToCopeEval
+        id      abilityToCopeEval
+        card    0-1
+    item        InteractionWithCareTeamEval
+        id      interactionWithCareTeamEval
+        card    0-1
+    constraint  abilityToCopeEval.data.codeableConcept.code
+        value   SupportPerson_CODE
+

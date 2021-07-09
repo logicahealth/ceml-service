@@ -1,0 +1,7 @@
+cem CyanosisTypeEval
+    kind        statement
+    base       	StatementBase
+    key         CyanosisType_CODE
+    data        CodeableConcept
+    constraint	data.codeableConcept.valueset
+        value	CyanosisType_VSET

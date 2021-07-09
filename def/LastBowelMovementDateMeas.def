@@ -1,0 +1,9 @@
+LastBowelMovementDateMeas created on 15/Apr/2016 10:28 by BHeale
+
+Proposed 
+
+LastBowelMovementDateMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the LastBowelMovementDateMeas model, the question is "what was the date of the last bowel movement?" "LastBowelMovementDateMeas" is the date/time of the last bowel movement
+
+note: patterned after DisclosureDateMeas
+

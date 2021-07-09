@@ -1,0 +1,2 @@
+Citizenship contains the code that identifies the insured's citizenship.  HL7 recommends using ISO table 3166 as the suggested values.
+        

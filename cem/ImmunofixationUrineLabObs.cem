@@ -1,0 +1,4 @@
+cem ImmunofixationUrineLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ImmunofixationUrine_CODE

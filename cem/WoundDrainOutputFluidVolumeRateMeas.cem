@@ -1,0 +1,8 @@
+cem WoundDrainOutputFluidVolumeRateMeas
+	kind		statement
+	base		OutputVolumeRateMeas
+	key			WoundDrainOutputFluidVolumeRate_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	WoundDrainOutputDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	WoundDrainOutputBodyLocationPrecoord_VSET

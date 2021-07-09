@@ -1,0 +1,4 @@
+cem HEXAgenetargetedmutationanalysisPridPtBldTissNomMolgenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HEXAgenetargetedmutationanalysisPridPtBldTissNomMolgen_CODE

@@ -1,0 +1,6 @@
+cem MicroResultTextPanel
+	kind		panel
+	base		MicroResultPanel
+	item		MicroText
+		id		microText
+		card	1

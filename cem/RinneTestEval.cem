@@ -1,0 +1,15 @@
+cem RinneTestEval
+	kind	statement
+	base	PhysicalObs
+	key         RinneTest_CODE
+	data        CodeableConcept
+    constraint	data.codeableConcept.strength
+		value	CWE
+    constraint	data.codeableConcept.valueset
+		value	RinneTest_VSET
+    constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	EarBodyLocationPrecoord_VSET
+    constraint  method.card
+        value   0
+    constraint  device.card
+        value   0    

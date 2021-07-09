@@ -1,0 +1,4 @@
+cem Num2MinusMethylbutyrylglycineACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			Num2MinusMethylbutyrylglycineACncPtUrineOrd_CODE

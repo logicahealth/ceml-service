@@ -1,0 +1,8 @@
+cem AdministrativeOccupation
+	kind		component
+	key			AdministrativeOccupation_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	AdministrativeOccupation_VSET

@@ -1,0 +1,2 @@
+PeriodicFrequencyUpperLimit such as q4h and q6h. If q4h, then put "q" for the CodedFrequency and "4h" in PeriodicFrequencyLowerLimit. For ranges (e.g., "q 4 to 6 hours"), use both the LowerLimit and the UpperLimit. For a single value (e.g., "q 4 hours"), put into the LowerLimit.
+

@@ -1,0 +1,6 @@
+cem PhosphatidylinositolAbIgMACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PhosphatidylinositolAbIgMACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerMilliliter_CODE

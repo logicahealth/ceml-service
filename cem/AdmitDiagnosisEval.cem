@@ -1,0 +1,15 @@
+cem AdmitDiagnosisEval
+	kind	statement
+	base	StatementBase
+	key			AdmitDiagnosisEval_CODE
+	data		CodeableConcept
+	qual		Confidentiality
+		id		confidentiality
+		card	0-1
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	AdmitDiagnosisEval_VSET

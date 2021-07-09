@@ -1,0 +1,5 @@
+CervicalDilationDescriptionEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the CervicalDilationDescriptionEval model, the question is "what is the descripton of the subject's cervical dilation?" and the coded answers can be 'dialated','mostly dilated', etc.
+CervicalDilationDescriptionEval describes how dilated a cervix is during pregnancy. This 
+differs from an exact measurement of the cervix which is addressed in CervicalDilationMeas.
+

@@ -1,0 +1,6 @@
+cem Two1DeoxycortisolMCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Two1DeoxycortisolMCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerDeciliter_CODE

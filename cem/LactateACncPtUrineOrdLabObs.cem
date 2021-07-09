@@ -1,0 +1,4 @@
+cem LactateACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LactateACncPtUrineOrd_CODE

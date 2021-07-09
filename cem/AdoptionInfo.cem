@@ -1,0 +1,8 @@
+cem AdoptionInfo
+	kind		statement
+    base        AdministrativeObservation
+	key			AdoptionInfo_CODE
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	AdoptionInfo_VSET

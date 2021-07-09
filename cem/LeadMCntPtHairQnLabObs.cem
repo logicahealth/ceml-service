@@ -1,0 +1,6 @@
+cem LeadMCntPtHairQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LeadMCntPtHairQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerGram_CODE

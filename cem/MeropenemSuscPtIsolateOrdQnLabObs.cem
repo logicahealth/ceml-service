@@ -1,0 +1,4 @@
+cem MeropenemSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MeropenemSuscPtIsolateOrdQn_CODE

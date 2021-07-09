@@ -1,0 +1,4 @@
+cem OxygenInhaledMechanismTypePtDoseNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			OxygenInhaledMechanismTypePtDoseNom_CODE

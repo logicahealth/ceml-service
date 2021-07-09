@@ -1,0 +1,6 @@
+cem AmphetaminesMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmphetaminesMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerLiter_CODE

@@ -1,0 +1,6 @@
+cem CardiolipinAbIgAACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CardiolipinAbIgAACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	IgAPhospholipidUnits_CODE

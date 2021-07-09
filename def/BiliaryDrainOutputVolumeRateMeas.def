@@ -1,0 +1,5 @@
+BiliaryDrainOutputVolumeRateMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the BiliaryDrainOutputVolumeRateMeas model, the question is "what is the subject's rate of fluid output from a biliary drain?" and the numeric answer will be expressed in mililiters per time period, i.e. per hour. 
+
+BiliaryDrainOutputVolumeRateMeas is a measurement model representing rate of Biliary Drain output over a period of time (for example 4 hours)
+

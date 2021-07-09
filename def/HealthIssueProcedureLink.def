@@ -1,0 +1,6 @@
+HealthIssueProcedureLink is a semantic link which associates a precoordinated problem entered in the problem management 
+application with the decomposed procedure(s).
+
+date: 03/02/2016
+modeler: N Davis
+change: updated model to the CEML v2 syntax for links.

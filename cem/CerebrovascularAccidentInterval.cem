@@ -1,0 +1,8 @@
+cem CerebrovascularAccidentInterval
+	kind		component
+	key			CerebrovascularAccidentInterval_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	TwoWeekInterval_VSET

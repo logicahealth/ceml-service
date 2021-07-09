@@ -1,0 +1,5 @@
+cem ChimerismNumberOfInformativeMarkersQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChimerismNumberOfInformativeMarkersQn_CODE
+	

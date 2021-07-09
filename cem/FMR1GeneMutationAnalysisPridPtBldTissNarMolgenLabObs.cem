@@ -1,0 +1,4 @@
+cem FMR1GeneMutationAnalysisPridPtBldTissNarMolgenLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			FMR1GeneMutationAnalysisPridPtBldTissNarMolgen_CODE

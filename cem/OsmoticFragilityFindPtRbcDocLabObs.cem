@@ -1,0 +1,4 @@
+cem OsmoticFragilityFindPtRbcDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			OsmoticFragilityFindPtRbcDoc_CODE

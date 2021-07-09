@@ -1,0 +1,18 @@
+cem WoundGradationPanel
+	kind    	panel
+	key         WoundGradationPanel_CODE
+    item        NPUAPWoundGrade
+        id      nPUAPWoundGrade
+        card    0-1
+    item        WagnerWoundGrade
+        id      wagnerWoundGrade
+        card    0-1
+    item        UniversityOfTexasWoundGrade
+        id      universityOfTexasWoundGrade
+        card    0-1
+    item        PEDISWoundGradeTotalScore
+        id      pEDISWoundGradeTotalScore
+        card    0-1
+    item        SINBADWoundGradeTotalScore
+        id      sINBADWoundGradeTotalScore
+        card    0-1

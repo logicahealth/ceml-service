@@ -1,0 +1,10 @@
+cem ReintubationAssociatedWithAnExtubationWithinTheLastTwentyFourHrsAssert
+	kind		statement
+	base		ObservationAssert
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.code
+		value	ReintubationAssociatedWithAnExtubationWithinTheLastTwentyFourHrs_CODE

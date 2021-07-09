@@ -1,0 +1,4 @@
+cem SocialSecurityId
+	kind		component
+	key			SocialSecurityId_CODE
+	data		String

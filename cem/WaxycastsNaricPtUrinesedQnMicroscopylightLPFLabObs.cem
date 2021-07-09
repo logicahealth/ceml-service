@@ -1,0 +1,6 @@
+cem WaxycastsNaricPtUrinesedQnMicroscopylightLPFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			WaxycastsNaricPtUrinesedQnMicroscopylightLPF_CODE
+	constraint		data.quantity.unit_code
+			value		PerLowPowerField_CODE

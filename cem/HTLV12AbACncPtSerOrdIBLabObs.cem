@@ -1,0 +1,6 @@
+cem HTLV12AbACncPtSerOrdIBLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HTLV12AbACncPtSerOrdIB_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

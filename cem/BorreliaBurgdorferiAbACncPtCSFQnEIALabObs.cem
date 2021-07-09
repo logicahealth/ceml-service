@@ -1,0 +1,6 @@
+cem BorreliaBurgdorferiAbACncPtCSFQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BorreliaBurgdorferiAbACncPtCSFQnEIA_CODE
+	constraint		data.quantity.unit_code
+		value	LymeIndexValue_CODE

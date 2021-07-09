@@ -1,0 +1,4 @@
+cem ZalcitabineSuscPtIsolateOrdQnPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ZalcitabineSuscPtIsolateOrdQnPhenotyping_CODE

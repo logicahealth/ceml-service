@@ -1,0 +1,5 @@
+cem TemperatureDiscriminationAssert
+	kind		statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.code
+		value	TemperatureDiscrimination_CODE

@@ -1,0 +1,6 @@
+cem SARSCoV2AgRespQlIArapidLabObs
+	kind    	statement
+    base        StandardLabObsOrdinal
+	key         SARSCoV2AgRespQlIArapid_CODE
+    constraint  data.codeableOrdinal.valueset
+        value   DetectedNotDectedEqIn_VSET

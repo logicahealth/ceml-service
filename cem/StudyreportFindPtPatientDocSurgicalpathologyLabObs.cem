@@ -1,0 +1,4 @@
+cem StudyreportFindPtPatientDocSurgicalpathologyLabObs
+	kind		statement
+	base		StandardLabObsDocument
+	key			StudyreportFindPtPatientDocSurgicalpathology_CODE

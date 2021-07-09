@@ -1,0 +1,4 @@
+SpecimenCollected signifies that the needed sample was collected.
+SpecimenCollected is a child model of the Attribution model. It holds the who, when, where, and why information
+of the specimen collection.
+

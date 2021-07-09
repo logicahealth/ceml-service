@@ -1,0 +1,3 @@
+OrderedDosageContainer is a component model.
+A model exists solely for Order application screen generator. It is the container for dosage screen which is a sub-screen to an order item screen.
+

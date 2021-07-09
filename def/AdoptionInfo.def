@@ -1,0 +1,6 @@
+AdoptionInfo captures information regarding patient adoption.  Sample values are "Adopted Birth Record" and "Adopted Patient Record".  Business logic
+		needs this information to determine access to the record.  If the value is "Adopted Birth Record", the record is for the infant prior to adoption,
+		and hence sensitive information may be contained and access is tightly controlled.  If the value is "Adopted Patient Record", the record is
+		for the patient after adoption, and its information, along with any information from prior to the adoption is accessible upon an executed
+		Release of Information.
+

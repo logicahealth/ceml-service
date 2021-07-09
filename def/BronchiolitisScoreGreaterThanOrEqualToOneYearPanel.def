@@ -1,0 +1,3 @@
+BronchiolitisScoreGreaterThanOrEqualToOneYearPanel is a model to capture the Bronchiolitis Score of a pediatric respiratory patient greater than or equal to one year old. 
+It is a summation of three sub-category scores that reflect respiratory rate, wheezing, and retractions.
+

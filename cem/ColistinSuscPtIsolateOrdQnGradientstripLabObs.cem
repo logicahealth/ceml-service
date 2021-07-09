@@ -1,0 +1,4 @@
+cem ColistinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ColistinSuscPtIsolateOrdQnGradientstrip_CODE

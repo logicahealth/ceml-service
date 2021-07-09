@@ -1,0 +1,4 @@
+cem SonographerCertificationLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			SonographerCertification_CODE

@@ -1,0 +1,4 @@
+cem HepatitisCvirusAbbandpatternImpPtSerNomIBLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HepatitisCvirusAbbandpatternImpPtSerNomIB_CODE

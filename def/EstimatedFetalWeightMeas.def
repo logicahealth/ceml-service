@@ -1,0 +1,4 @@
+EstimatedFetalWeightMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) "answer" in data. 
+For example, in the EstimatedFetalWeightMeas model the "question" or the "test" is "What is the Estimated Fetal Weight?" and the "answer" in data can be "X ounces" or "X grams" (pounds or kilograms).
+By definition EstimatedFetalWeight means the estimated weight of the fetus.
+

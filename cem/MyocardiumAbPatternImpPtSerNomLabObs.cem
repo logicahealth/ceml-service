@@ -1,0 +1,4 @@
+cem MyocardiumAbPatternImpPtSerNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MyocardiumAbPatternImpPtSerNom_CODE

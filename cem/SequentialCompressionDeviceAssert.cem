@@ -1,0 +1,5 @@
+cem SequentialCompressionDeviceAssert
+	kind		statement
+	base		ObservationAssert
+	constraint	data.codeableConcept.code
+		value	SequentialCompressionDevice_CODE

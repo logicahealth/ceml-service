@@ -1,0 +1,6 @@
+cem LymphocytesLambda100LymphocytesNFrPtXXXQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LymphocytesLambda100LymphocytesNFrPtXXXQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

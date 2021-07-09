@@ -1,0 +1,4 @@
+cem ParvovirusB19DNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ParvovirusB19DNAACncPtXXXOrdProbeAmpTar_CODE

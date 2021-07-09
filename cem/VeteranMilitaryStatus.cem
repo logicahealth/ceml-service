@@ -1,0 +1,6 @@
+cem VeteranMilitaryStatus
+	kind		statement
+    base        AdministrativeObservation
+	key			VeteranMilitaryStatus_CODE
+	constraint	data.codeableConcept.valueset
+		value	VeteranMilitaryStatus_VSET

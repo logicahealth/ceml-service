@@ -1,0 +1,14 @@
+cem CAMICUAttentionScreeningExamScoreMeas
+	kind    	statement
+    base        StatementBase
+	key         CAMICUAttentionScreeningExamScore_CODE
+	data        Integer
+	qual		AssociatedPrecondition 
+		id		associatedPrecondition 
+		card	0-M
+	qual		Method
+		id		method
+		card	0-1
+	
+    constraint method.data.codeableConcept.valueset
+        value  AttentionScreeningExamMethod_VSET

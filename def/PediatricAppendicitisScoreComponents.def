@@ -1,0 +1,6 @@
+PediatricAppendicitisScoreComponents is a component model that has a codeable Concept for the data type. The valueset contains the features and associated scores of the components for the Pediatric Appendicitis Score (PAS).
+
+@Author ljbuhl
+@Date 16 Nov 2016 12:15
+@Status draft
+@RequestedBy iActivity

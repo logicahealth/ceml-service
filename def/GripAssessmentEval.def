@@ -1,0 +1,6 @@
+GripAssessmentEval model is an impression model. An impression model holds a "question" in the key and holds a coded value (CD) of "normal", "abnormal" or "unremarkable" in data. For example, in the ExtremityExaminationImp model, the "question" is "What is the impression of the extremity examination?", and the "answer" in data can be "Normal", "Abnormal", or "Unremarkable".
+In the GripAssessmentEva model, the question is "what is the impression of subject's grip strength?".
+
+You may be thinking that having a blood pressure cuff (sphygmomanometer) in a grip strength value set is an error, but it is legit:
+The Sphygmomanometer
+The sphygmomanometer is usually used to measure blood pressure but is also commonly used to measure grip strength especially for people who find it painful to use to hydraulic or vigorimeter measurements.  The sphygmomanometer measures force in mmHgs, and is typically performed with the cuff rolled for a more relaxed hand grip position for the client (11). Picture credit (12) 

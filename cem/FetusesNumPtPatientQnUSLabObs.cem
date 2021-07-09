@@ -1,0 +1,5 @@
+cem FetusesNumPtPatientQnUSLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FetusesNumPtPatientQnUS_CODE
+	

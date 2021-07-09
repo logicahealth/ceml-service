@@ -1,0 +1,5 @@
+cem LastMenstrualPeriodMeas
+	kind	statement
+	base	StatementBase
+	key			LastMenstrualPeriod_CODE
+	data		DateTime

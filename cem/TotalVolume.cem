@@ -1,0 +1,8 @@
+cem TotalVolume
+	kind		component
+	key			TotalVolume_CODE
+	data		Quantity
+	constraint	data.quantity.unit_code
+		value	Milliliters_CODE
+	constraint	data.quantity.unit_valueset
+		value	SIVolumeUnits_VSET

@@ -1,0 +1,14 @@
+MessageAssociatedInfoProperty
+This is the MessageAssociatedInfoProperty CEM. 
+			name value pairs of data to be substituted into messageText.
+			e.g., in the messageText "Patient has HIGH {} ({})", the MessageAssociatedProperties might be:
+			indexNumber = 1
+			value = "Potassium Lab" (CS)
+			indexNumber = 2
+			value = "4.5 mEq/L" (PQ)
+			
+			A MessageAssociatedInfoProperty is a Property with an "indexNumber" qualifier.	
+			
+			There are five wrapper data items in the model, only one is selected to be used when a MessageAssociatedInfoProperty is 
+			instantiated. So the program needs to loop through all the five items and check the one that is not null to find the actual data.
+		

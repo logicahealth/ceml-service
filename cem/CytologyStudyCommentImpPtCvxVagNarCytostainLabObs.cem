@@ -1,0 +1,4 @@
+cem CytologyStudyCommentImpPtCvxVagNarCytostainLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			CytologyStudyCommentImpPtCvxVagNarCytostain_CODE

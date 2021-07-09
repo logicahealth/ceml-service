@@ -1,0 +1,4 @@
+cem GuarantorId
+	kind		component
+	key			GuarantorId_CODE
+	data		Identifier

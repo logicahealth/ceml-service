@@ -1,0 +1,4 @@
+cem TubenumberIDPtCSFNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			TubenumberIDPtCSFNom_CODE

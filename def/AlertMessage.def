@@ -1,0 +1,5 @@
+AlertMessage refers to the messages sent as a result of the alert. Message type always has the value 
+of "Message," and the key has the concept that defines the message meaning. For example, Glucose Protocol 
+alert has GlucoseProtocolAlert_KEY_ECID in Alert key, but will have IncreaseInsulin_KEY_ECID in the message key. 
+Alert has CE type of "Alert" and Message has CE type of "Message."  
+

@@ -1,0 +1,4 @@
+cem AnisocytosisPrThrPtBldOrdAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AnisocytosisPrThrPtBldOrdAutomatedcount_CODE

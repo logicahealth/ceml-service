@@ -1,0 +1,16 @@
+cem SexualMaturityPediatricRatingScaleFemalePanel
+	kind	panel
+	base	PanelBase
+	key			SexualMaturityPediatricRatingScaleFemalePanel_CODE
+	item		SexualMaturityPediatricRatingScaleFemaleBreastMeas
+		id		sexualMaturityPediatricRatingScaleFemaleBreastMeas
+		card	0-1
+	item		SexualMaturityPediatricRatingScaleFemalePubicHairMeas
+		id		sexualMaturityPediatricRatingScaleFemalePubicHairMeas
+		card	0-1
+	item		SexualMaturityPediatricRatingScaleFemaleMilestoneEval
+		id		sexualMaturityPediatricRatingScaleFemaleMilestoneEval
+		card	0-1
+	item		SexualMaturityPediatricRatingScaleFemaleTotalScoreMeas
+		id		sexualMaturityPediatricRatingScaleFemaleTotalScoreMeas
+		card	1

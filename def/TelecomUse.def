@@ -1,0 +1,5 @@
+This is the TelecomUse CEM. 
+One or more codes advising a system or user which telecommunication address in a set of like addresses to select for a given telecommunication need.
+Some values from HL7 are primary home, vacation home, work place, etc.
+		
+

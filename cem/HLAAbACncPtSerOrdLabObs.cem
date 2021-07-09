@@ -1,0 +1,4 @@
+cem HLAAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HLAAbACncPtSerOrd_CODE

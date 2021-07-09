@@ -1,0 +1,6 @@
+cem HepzymeTreatedProthrombinTimeLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HepzymeTreatedProthrombinTime_CODE
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

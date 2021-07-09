@@ -1,0 +1,4 @@
+cem T1517PMLRARAGeneTranslocationArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			T1517PMLRARAGeneTranslocationArbPtBldTissOrdMolgen_CODE

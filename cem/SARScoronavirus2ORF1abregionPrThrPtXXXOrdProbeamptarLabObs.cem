@@ -1,0 +1,7 @@
+cem SARScoronavirus2ORF1abregionPrThrPtXXXOrdProbeamptarLabObs
+	kind    	statement
+    base        StandardLabObsOrdinal
+	key         SARScoronavirus2ORF1abregionPrThrPtXXXOrdProbeamptar_CODE
+    constraint  data.codeableOrdinal.valueset
+        value   DetectedNotDectedEqIn_VSET
+

@@ -1,0 +1,29 @@
+cem CAMICUDisorganizedThinkingMeas
+	kind    	statement
+    base        StatementBase
+	key         CAMICUDisorganizedThinking_CODE
+	data        Integer
+	qual		AssociatedPrecondition 
+		id		associatedPrecondition 
+		card	0-M
+	qual		Method
+		id		method
+		card	0-1
+	
+    constraint  observed.providerLocation.card
+        value   0
+    constraint  observed.reason.card
+        value   0
+    constraint  observed.actionMethod.card
+        value   0
+    constraint  observed.patientLocation.card
+        value   0
+
+    constraint  reportedReceived.providerLocation.card
+        value   0
+    constraint  reportedReceived.reason.card
+        value   0
+    constraint  reportedReceived.actionMethod.card
+        value   0
+    constraint  reportedReceived.patientLocation.card
+        value   0

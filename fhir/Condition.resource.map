@@ -1,0 +1,22 @@
+fhir resource Condition
+	map type to Condition
+	map data.value to Condition.code
+	map dateOfOnset to Condition.onset
+	map historicalInd
+		extension "http://hl7.org/fhir/hspc/StructureDefinition/historicalInd"
+	map bodyLocationPrecoord to Condition.bodySite
+	map associatedPrecondition
+		extension "http://hl7.org/fhir/hspc/StructureDefinition/associatedPrecondition"
+	map associatedSignAndSymptom
+		extension "http://hl7.org/fhir/hspc/StructureDefinition/associatedSignAndSymptom"
+	map dataAbsentReason
+		extension "http://hl7.org/fhir/hspc/StructureDefinition/dataAbsentReason"
+	map clinicalStatus to Condition.clinicalStatus
+	map verificationStatus to Condition.verificationStatus
+	map focalSubject 
+		modifierExtension "http://hl7.org/fhir/hspc/StructureDefinition/focalSubject"
+	map likelihood
+		modifierExtension "http://hl7.org/fhir/hspc/StructureDefinition/likelihood"
+	map riskForInd
+		modifierExtension "http://hl7.org/fhir/hspc/StructureDefinition/riskForInd"
+	

@@ -1,0 +1,8 @@
+TobaccoUseStatusEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value
+(CD or CO) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?",
+and the "answer" in data can be "White".
+In the TobaccoUseStatusEval model, the question is "what is the subject's Tobacco Use Status?" and the coded answers can be
+'Former tobacco user; quit more than 1 year ago','Patient has never used tobacco products', etc.
+"TobaccoUseStatusEval" by definition means the status of the subjects current tobacco usage.
+
+

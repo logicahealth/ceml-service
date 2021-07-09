@@ -1,0 +1,6 @@
+cem NeutrophilsbandformNCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NeutrophilsbandformNCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+			value		ThousandsPerMicroliter_CODE

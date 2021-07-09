@@ -1,0 +1,5 @@
+cem RespiratorySyncytialVirusAbIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RespiratorySyncytialVirusAbIgGACncPtSerQn_CODE
+	

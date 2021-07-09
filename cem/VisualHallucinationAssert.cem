@@ -1,0 +1,5 @@
+cem VisualHallucinationAssert
+	kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.code
+        value	VisualHallucination_CODE

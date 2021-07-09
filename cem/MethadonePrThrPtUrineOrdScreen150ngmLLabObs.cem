@@ -1,0 +1,4 @@
+cem MethadonePrThrPtUrineOrdScreen150ngmLLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MethadonePrThrPtUrineOrdScreen150ngmL_CODE

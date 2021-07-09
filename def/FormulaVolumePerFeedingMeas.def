@@ -1,0 +1,7 @@
+FormulaVolumePerFeedingMeas created on 21/Sep/2016 13:01
+
+FormulaVolumePerFeedingMeas is a measurement model that stores a quantity with a unit of measure.  In this case it stores the average volume of formula given to an infant per feeding.
+
+modeler: N Davis
+version: 1.0
+status: draft

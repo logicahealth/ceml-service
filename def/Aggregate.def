@@ -1,0 +1,3 @@
+Aggregate is a CEM model used to capture what was originally sent from an application. Represents the whole model instance-the values of 
+all the components, etc.
+

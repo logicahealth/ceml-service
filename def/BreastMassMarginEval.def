@@ -1,0 +1,5 @@
+BreastMassMarginEval created on 19/Apr/2016 12:02  by L.Buhl for iActivity project. 
+
+BreastMassMarginEval is a model that is used to describe the margin of masses identified in a mammography procedure.  Values include: Circumscribed, Obscured, Microlobulated, Indistinct, or spiculated.
+
+

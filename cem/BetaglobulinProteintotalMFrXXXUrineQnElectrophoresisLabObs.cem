@@ -1,0 +1,6 @@
+cem BetaglobulinProteintotalMFrXXXUrineQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BetaglobulinProteintotalMFrXXXUrineQnElectrophoresis_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

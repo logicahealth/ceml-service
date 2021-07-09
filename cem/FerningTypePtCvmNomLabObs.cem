@@ -1,0 +1,4 @@
+cem FerningTypePtCvmNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			FerningTypePtCvmNom_CODE

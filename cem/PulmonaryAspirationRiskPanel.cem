@@ -1,0 +1,24 @@
+cem PulmonaryAspirationRiskPanel
+	kind	panel
+    base    PanelBase
+	key     PulmonaryAspirationRiskPanel_CODE
+    item    PulmonaryAspirationAssert
+        id  pulmonaryAspirationAssert    
+        card    0-1
+    item    CoughAssert
+        id      coughAssert
+        card    0-M
+    item    EffectiveInClearingSecretionsAssert
+        id  effectiveInClearingSecretionsAssert
+        card    0-1
+    item    DifficultySwallowingAssert
+        id  difficultySwallowingAssert
+        card    0-M
+    item    WetVoiceAssert
+        id      wetVoiceAssert
+        card    0-1
+    
+   
+    
+
+

@@ -1,0 +1,6 @@
+cem CD3CollectionTotalNCntPtXXXQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CD3CollectionTotalNCntPtXXXQn_CODE
+	constraint		data.quantity.unit_code
+		value	OneHundredMillionPerKilogram_CODE

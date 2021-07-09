@@ -1,0 +1,6 @@
+MorseFallScaleSecondaryDiagnosisMeas created on 03/Sep/2016 13:44 by CCT
+
+Chart "Yes", if the patient has more than one medical diagnosis.
+
+
+ Secondary diagnosis: This is scored as 15 if more than one medical diagnosis is listed on the patient’s chart; if not, score 0. 

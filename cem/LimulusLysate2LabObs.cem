@@ -1,0 +1,4 @@
+cem LimulusLysate2LabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			LimulusLysate2_CODE

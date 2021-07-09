@@ -1,0 +1,6 @@
+fhir resource Base
+	property metadata.publisher = "Healthcare Services Platform Consortium"
+	property element.idbase = "hspc"
+	property metadata.canonicalUrl = "http://hl7.org/fhir/hspc/StructureDefinition/"
+	property base.definition = "http://hl7.org/fhir/StructureDefinition/CEBase"
+	

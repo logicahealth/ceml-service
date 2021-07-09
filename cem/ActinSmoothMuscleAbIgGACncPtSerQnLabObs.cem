@@ -1,0 +1,6 @@
+cem ActinSmoothMuscleAbIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ActinSmoothMuscleAbIgGACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	Units_CODE

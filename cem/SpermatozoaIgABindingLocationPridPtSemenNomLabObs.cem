@@ -1,0 +1,4 @@
+cem SpermatozoaIgABindingLocationPridPtSemenNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			SpermatozoaIgABindingLocationPridPtSemenNom_CODE

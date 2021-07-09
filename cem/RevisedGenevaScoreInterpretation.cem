@@ -1,0 +1,7 @@
+cem RevisedGenevaScoreInterpretation
+	kind	statement
+	base	StatementBase
+	key     RevisedGenevaScoreInterpretation_CODE
+	data	CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   RevisedGenevaScoreInterpretation_VSET

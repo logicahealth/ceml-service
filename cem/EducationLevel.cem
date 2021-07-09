@@ -1,0 +1,8 @@
+cem EducationLevel
+	kind		component
+	key			EducationLevel_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	EducationLevel_VSET

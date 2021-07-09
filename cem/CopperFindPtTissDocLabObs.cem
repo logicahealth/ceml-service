@@ -1,0 +1,4 @@
+cem CopperFindPtTissDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			CopperFindPtTissDoc_CODE

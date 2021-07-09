@@ -1,0 +1,3 @@
+SmokingStatusEval created by L.Buhl on 09/Aug/2016 10:14 for iActivity project.
+
+SmokingStatusEval is used to identify a person's smoking status.  Values include: 'Current Smoker', 'Former Smoker', 'Never a Smoker', 'Smoker', 'Current Smoking Status Unknown', and 'Unknown if Ever Smoked'.  Values are from the Lung Cancer Screening Registry.

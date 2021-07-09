@@ -1,0 +1,4 @@
+cem PlateletsGiantACncPtBldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PlateletsGiantACncPtBldOrdMicroscopyLight_CODE

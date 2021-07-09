@@ -1,0 +1,4 @@
+cem BloodproductsourceTypePtBPUNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BloodproductsourceTypePtBPUNom_CODE

@@ -1,0 +1,4 @@
+cem AlphaKetoglutarateACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AlphaKetoglutarateACncPtUrineOrd_CODE

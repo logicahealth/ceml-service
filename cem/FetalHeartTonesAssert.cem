@@ -1,0 +1,12 @@
+cem FetalHeartTonesAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		Device
+		id		device
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	FetalHeartTones_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	FetalMonitorDevice_VSET
+	constraint	dateOfOnset.card
+		value	0

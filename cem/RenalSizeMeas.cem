@@ -1,0 +1,21 @@
+cem RenalSizeMeas
+	kind	statement
+	base	StatementBase
+    key     RenalSize_CODE
+	data	Quantity
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    qual        Modality
+        id      modality
+        card    0-1
+    qual        BodyLocationPrecoord
+        id      bodyLocationPrecoord
+        card    0-1
+    link        ImageLink
+        id      imageLink
+        card    0-M
+	constraint	data.quantity.unit_code
+	    value	Centimeters_CODE
+    constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	RenalBodyLocationPrecoord_VSET

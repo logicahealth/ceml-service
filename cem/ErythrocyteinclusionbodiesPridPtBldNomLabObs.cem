@@ -1,0 +1,4 @@
+cem ErythrocyteinclusionbodiesPridPtBldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ErythrocyteinclusionbodiesPridPtBldNom_CODE

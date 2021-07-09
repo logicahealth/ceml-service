@@ -1,0 +1,7 @@
+cem LimbExternalRotationAssert
+    kind        statement
+    base        AssertionOfPresence
+    constraint  bodyLocation.card
+        value   0        
+	constraint	data.codeableConcept.code
+        value	LimbExternalRotation_CODE

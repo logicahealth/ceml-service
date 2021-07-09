@@ -1,0 +1,5 @@
+cem AlbuminGlobulinMRtoPtSerPlasQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlbuminGlobulinMRtoPtSerPlasQnElectrophoresis_CODE
+	

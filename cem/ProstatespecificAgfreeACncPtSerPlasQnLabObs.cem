@@ -1,0 +1,6 @@
+cem ProstatespecificAgfreeACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ProstatespecificAgfreeACncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		InternationalUnitsPerLiter_CODE

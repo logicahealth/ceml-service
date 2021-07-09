@@ -1,0 +1,4 @@
+cem ClindamycinSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ClindamycinSuscPtIsolateOrdQn_CODE

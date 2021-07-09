@@ -1,0 +1,6 @@
+cem VanillylmandelateCreatineMCrtoXXXUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			VanillylmandelateCreatineMCrtoXXXUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerGram_CODE

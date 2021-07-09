@@ -1,0 +1,18 @@
+cem CranialNerveVIIEvaluationPanel
+	kind	panel
+	base	PanelBase
+	key         CranialNerveVIIEvaluationPanel_CODE
+    item        FacialExpressionEval
+        id      facialExpressionEval
+        card    0-1
+    item        FacialMovementSymmetryEval
+        id      facialMovementSymmetryEval
+        card    0-1
+    item        FacialSymmetryEval
+        id      facialSymmetryEval
+        card    0-1
+    qual		DataAbsentReason
+		id		dataAbsentReason
+		card	0-1
+constraint      facialSymmetryEval.data.codeableConcept.code
+    value       Drooping_CODE

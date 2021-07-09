@@ -1,0 +1,6 @@
+cem GenericProcedure
+	kind		statement
+	base		Procedure
+	qual		DueDate
+		id		dueDate
+		card	0-1

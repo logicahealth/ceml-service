@@ -1,0 +1,2 @@
+DiscreteStrength captures only strength units for construction of a post coordinated unit. Discrete Strength is used to hold the mass units portion of the strength, like grams or milligrams.
+For example, in an order which states 10mg/5mL, the discrete strength would be 10mg and the discrete volume would be 5 ml (see DiscreteVolume).

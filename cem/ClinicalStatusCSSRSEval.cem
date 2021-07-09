@@ -1,0 +1,17 @@
+cem ClinicalStatusCSSRSEval
+
+	kind	statement
+	base	StatementBase
+    key     ClinicalStatusCSSRS_CODE
+	data	CodeableConcept
+    qual    TimeFrameCSSRS
+     id     timeFrameCSSRS
+     card   1
+
+	constraint	data.codeableConcept.strength
+	    value	CNE
+	constraint	data.codeableConcept.valueset
+	    value	ClinicalStatusCSSRS_VSET
+    constraint	timeFrameCSSRS.data.codeableConcept.code
+		value	Recent_CODE
+

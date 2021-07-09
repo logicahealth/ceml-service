@@ -1,0 +1,20 @@
+cem ReferenceRange
+	kind	component
+	key     ReferenceRange_CODE	
+    item		LowBound
+		id		lowBound
+		card	0-1
+    item		HighBound
+		id		highBound
+		card	0-1
+    item		ReferenceRangeNar
+		id		aggregate
+		card	0-1
+	qual		ReferenceRangeMeaning
+		id		referenceRangeMeaning
+		card	0-1
+    qual		AgeMeasQualifier
+		id		ageMeasQualifier
+		card	0-1
+    
+

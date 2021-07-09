@@ -1,0 +1,7 @@
+cem TestosteroneFreeMCncPtSerPlasQnDetectionlimit1point0ngperdLLabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         TestosteroneFreeMCncPtSerPlasQnDetectionlimit1point0ngperdL_CODE
+    constraint  data.quantity.unit_code
+        value   PicogramsPerMilliliter_CODE
+

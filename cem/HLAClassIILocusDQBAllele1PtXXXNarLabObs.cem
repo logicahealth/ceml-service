@@ -1,0 +1,4 @@
+cem HLAClassIILocusDQBAllele1PtXXXNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HLAClassIILocusDQBAllele1PtXXXNar_CODE

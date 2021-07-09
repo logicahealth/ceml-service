@@ -1,0 +1,5 @@
+ExpirationTime model is a component model. 
+The ExpirationTime model holds a "question" in the key and a Time Stamp (TS) as the answer in data.  
+In the ExpirationTime model the question is "when does this expire?" and the answer in data is a time stamp value.
+Expiration Time by definition means the date and time (if needed) that something expires, i.e. expiration time of credentials.
+

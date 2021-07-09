@@ -1,0 +1,6 @@
+cem ProstateSpecificAgFreeProstateSpecificAgTotalMFrPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ProstateSpecificAgFreeProstateSpecificAgTotalMFrPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

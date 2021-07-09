@@ -1,0 +1,4 @@
+cem PatientStatedGoal
+	kind		component
+	key			PatientStatedGoal_CODE
+	data		Decimal

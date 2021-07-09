@@ -1,0 +1,4 @@
+ChestTubeOutputVolumeRateMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the ChestTubeOutputVolumeRateMeas model, the question is "what is the subject's rate of chest tube fluid output?" and the numeric answer will have a unit of measure. 
+ChestTubeOutputVolumeRateMeas is a measurement model representing rate of Chest Tube output over a period of time (for example 4 hours)
+

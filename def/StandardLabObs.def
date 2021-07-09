@@ -1,0 +1,2 @@
+StandardLabObs is the base CDL Model for standard laboratory test results/observations such as hematology, chemistry, coagulation, serology and blood bank.  This model will not be used for microbiology, and anatomic pathology data. 
+

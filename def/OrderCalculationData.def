@@ -1,0 +1,15 @@
+OrderCalculationData is a component model.
+This model is used to store the data used to calculate the order.  Some examples of this are:  weight, height, BSA or Serum Creatinine.
+This data is distinct from a regular observation in that a real weight taken during the associated event (i.e. admission) could be used to populate this field.
+So the question is should this be a link or IREF to the data in the patient record.  Considerations:  First, this really is a legal requirement to 
+retrace the thought process of the order.  In this case the weight will already be stored and all that is happening here is that the order is making the data part of
+itself.  The risk (real or imagined) of using IREF is that the referenced model would be lost or unavailable or changed (although there is probably a provision to prevent this).
+It seems more secure to include the data that was used to create the order in the order itself.  This should not effect data mining efforts because it is not technically a true weight.  
+We are not capturing "patient weight" here we are capturing "the weight used to calculate the order."  
+Second, this weight may or may not truly reflect the patient's own weight, but be a reasoned amount necessary to create the proper dose.  And so to create a store "weight"
+instance based on data used here could actually corrupt the true meaning of "weight", by throwing in a new type of weight "weight estimated for purposed of medication or order administration."
+So if it seems improper to create the data here, at least it is certain that 1) We are not creating an alternate storage modality 
+for patient weight.  2) We are making the order more self contained and self sufficient.  3)  It seems practical to keep all data necessary for order comprehension in one place.
+
+	Values for the domain will be Weight, Height, Body Surface Area or Serum Creatinine.
+

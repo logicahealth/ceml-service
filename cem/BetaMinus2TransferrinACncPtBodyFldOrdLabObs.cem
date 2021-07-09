@@ -1,0 +1,4 @@
+cem BetaMinus2TransferrinACncPtBodyFldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BetaMinus2TransferrinACncPtBodyFldOrd_CODE

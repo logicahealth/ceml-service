@@ -1,0 +1,4 @@
+cem BetalactamaseorganismidentifiedPridPtIsolateNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BetalactamaseorganismidentifiedPridPtIsolateNom_CODE

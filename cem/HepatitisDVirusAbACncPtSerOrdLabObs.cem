@@ -1,0 +1,4 @@
+cem HepatitisDVirusAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HepatitisDVirusAbACncPtSerOrd_CODE

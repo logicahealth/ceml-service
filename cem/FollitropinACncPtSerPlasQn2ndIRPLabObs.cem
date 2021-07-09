@@ -1,0 +1,6 @@
+cem FollitropinACncPtSerPlasQn2ndIRPLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FollitropinACncPtSerPlasQn2ndIRP_CODE
+	constraint		data.quantity.unit_code
+			value		MilliinternationalUnitsPerMilliliterArbitraryConcentrationUnits_CODE

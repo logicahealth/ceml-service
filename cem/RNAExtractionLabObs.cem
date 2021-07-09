@@ -1,0 +1,4 @@
+cem RNAExtractionLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			RNAExtraction_CODE

@@ -1,0 +1,4 @@
+cem PlanSequenceNumber
+kind    component
+key     PlanSequenceNumber_CODE
+data    String

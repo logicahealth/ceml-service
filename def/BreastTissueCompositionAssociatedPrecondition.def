@@ -1,0 +1,6 @@
+BreastTissueCompositionAssociatedPrecondition is a component model that is used to identify associated conditions that are applicable to the evaluation.  Values include Mastectomy and breast implants. 
+
+@Author ljbuhl
+@Date 02 Dec 2016 11:43
+@Status draft
+@RequestedBy iActivity

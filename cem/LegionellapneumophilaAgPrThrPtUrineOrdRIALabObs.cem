@@ -1,0 +1,4 @@
+cem LegionellapneumophilaAgPrThrPtUrineOrdRIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LegionellapneumophilaAgPrThrPtUrineOrdRIA_CODE

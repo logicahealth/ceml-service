@@ -1,0 +1,2 @@
+Rate represents the amount of something per a given unit of time.  Items using Rate can constrain to a specific kind of rate if they wish.
+

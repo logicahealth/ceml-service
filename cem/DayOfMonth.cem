@@ -1,0 +1,8 @@
+cem DayOfMonth
+	kind		component
+	key			DayOfMonth_CODE
+	data		Integer
+	constraint	data.integer.min
+		value	1
+	constraint	data.integer.max
+		value	31

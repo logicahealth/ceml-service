@@ -1,0 +1,3 @@
+DeliveredOxygenMeas
+DeliveredOxygenMeas is a measurement type model that records the amount of oxygen delivered to a patient, measured in either liters per minute or as a fraction of total (%).
+This model was created to support the PE, CAP, and Sepsis applications.

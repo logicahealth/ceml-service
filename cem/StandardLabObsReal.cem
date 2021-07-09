@@ -1,0 +1,12 @@
+cem StandardLabObsReal
+	kind		statement
+	base		StandardLabObs
+	key			StandardLabObsReal_VSET
+	data		Decimal
+	qual		ReferenceRangeNom
+		id		referenceRangeNom
+		card	0-1
+	constraint	data.nullFlavor.valueset
+		value	LabNullFlavor_VSET
+	constraint	interpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationNumericNom_VSET

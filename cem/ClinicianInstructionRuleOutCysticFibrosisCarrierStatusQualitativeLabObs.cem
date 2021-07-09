@@ -1,0 +1,4 @@
+cem ClinicianInstructionRuleOutCysticFibrosisCarrierStatusQualitativeLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ClinicianInstructionRuleOutCysticFibrosisCarrierStatusQualitative_CODE

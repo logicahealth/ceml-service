@@ -1,0 +1,19 @@
+cem ContactParty
+	kind		component
+	form		abstract
+	key			ContactParty_VSET
+	item		ContactPartyCategory
+		id		contactPartyCategory
+		card	0-1
+	item		StartTime
+		id		startTime
+		card	0-1
+	item		EndTime
+		id		endTime
+		card	0-1
+	item		Address
+		id		address
+		card	0-M
+	item		Telecom
+		id		telecom
+		card	0-M

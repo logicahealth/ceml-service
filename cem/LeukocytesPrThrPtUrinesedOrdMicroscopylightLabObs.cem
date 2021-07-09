@@ -1,0 +1,4 @@
+cem LeukocytesPrThrPtUrinesedOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LeukocytesPrThrPtUrinesedOrdMicroscopylight_CODE

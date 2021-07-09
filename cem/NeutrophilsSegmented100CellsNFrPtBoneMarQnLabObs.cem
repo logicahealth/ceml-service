@@ -1,0 +1,6 @@
+cem NeutrophilsSegmented100CellsNFrPtBoneMarQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NeutrophilsSegmented100CellsNFrPtBoneMarQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

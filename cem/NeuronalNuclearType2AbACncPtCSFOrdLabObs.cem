@@ -1,0 +1,4 @@
+cem NeuronalNuclearType2AbACncPtCSFOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeuronalNuclearType2AbACncPtCSFOrd_CODE

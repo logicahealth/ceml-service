@@ -1,0 +1,4 @@
+cem DrugsidentifiedPridPtUrineNomConfirmLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			DrugsidentifiedPridPtUrineNomConfirm_CODE

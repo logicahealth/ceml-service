@@ -1,0 +1,6 @@
+cem SodiumIntakeMeas
+	kind		statement
+	base		NutrientIntakeMeas
+	key			SodiumIntake_CODE
+	constraint	data.quantity.unit_code
+		value	Milligrams_CODE

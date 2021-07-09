@@ -1,0 +1,5 @@
+cem RelevantHistoryIdentifier
+	kind    	component
+	key         RelevantHistoryIdentifier_CODE
+    data        Identifier
+

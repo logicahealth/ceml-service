@@ -1,0 +1,4 @@
+ExacerbatingFactor model is a component model. This model holds a "question" in the code and holds a coded value (CD) "answer" from the value set referred to in data. 
+For example, in the ExacerbatingFactor model the question is "What is the exacerbating factor?" and the coded answer from the ExacerbatingFactor VALUESET set can be  "activity," etc.
+ExacerbatingFactor by definition means an action, object, or something that makes a condition or problem worse.
+

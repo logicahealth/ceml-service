@@ -1,0 +1,4 @@
+cem CollectedByLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CollectedBy_CODE

@@ -1,0 +1,4 @@
+cem NeutrophilsPrThrPtStoolOrdWrightstainLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeutrophilsPrThrPtStoolOrdWrightstain_CODE

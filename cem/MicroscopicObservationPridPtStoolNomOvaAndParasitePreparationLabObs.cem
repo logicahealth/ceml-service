@@ -1,0 +1,4 @@
+cem MicroscopicObservationPridPtStoolNomOvaAndParasitePreparationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MicroscopicObservationPridPtStoolNomOvaAndParasitePreparation_CODE

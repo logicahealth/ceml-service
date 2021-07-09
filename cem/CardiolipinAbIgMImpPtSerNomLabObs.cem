@@ -1,0 +1,4 @@
+cem CardiolipinAbIgMImpPtSerNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CardiolipinAbIgMImpPtSerNom_CODE

@@ -1,0 +1,4 @@
+CurrentParticipatingLocation is the actual location of the patient, it may differ from the location to which
+		the patient is assigned (AssignedParticipatingLocation).
+
+

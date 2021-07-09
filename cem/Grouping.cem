@@ -1,0 +1,39 @@
+cem Grouping
+kind    component
+key     Grouping_CODE
+item        Group
+    id      group
+    card    0-1
+item        GroupDisplay
+    id      groupDisplay
+    card    0-1
+item        SubGroup
+    id      subGroup
+    card    0-1
+item        SubGroupDisplay
+    id      subGroupDisplay
+    card    0-1
+item        Plan    
+    id      plan
+    card    0-1
+item        PlanDisplay
+    id      planDisplay
+    card    0-1
+item        SubPlan
+    id      subPlan
+    card    0-1
+item        SubPlanDisplay
+    id      subPlanDisplay
+    card    0-1
+item        Class
+    id      class
+    card    0-1
+item        ClassDisplay
+    id      clasDisplay
+    card    0-1
+item        SubClass
+    id      subClass
+    card    0-1
+item        SubClassDisplay
+    id      subClassDisplay
+    card    0-1

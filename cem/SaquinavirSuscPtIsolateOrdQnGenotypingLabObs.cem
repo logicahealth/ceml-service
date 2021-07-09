@@ -1,0 +1,4 @@
+cem SaquinavirSuscPtIsolateOrdQnGenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SaquinavirSuscPtIsolateOrdQnGenotyping_CODE

@@ -1,0 +1,9 @@
+cem EffectivenessOfTreatment
+	kind    	component
+	key         EffectivenessOfTreatment_CODE
+    data        CodeableConcept
+    constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	YesNo_VSET
+

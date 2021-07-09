@@ -1,0 +1,4 @@
+cem HumanPapillomavirusSampleMediumLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HumanPapillomavirusSampleMedium_CODE

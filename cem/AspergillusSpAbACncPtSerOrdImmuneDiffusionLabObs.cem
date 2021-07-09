@@ -1,0 +1,6 @@
+cem AspergillusSpAbACncPtSerOrdImmuneDiffusionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AspergillusSpAbACncPtSerOrdImmuneDiffusion_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

@@ -1,0 +1,15 @@
+cem MicroOrganismEval
+	kind	statement
+	base	StatementBase
+	key			MicroOrganism_CODE
+	data		CodeableConcept
+	qual		MicroOrganismQuantitative
+		id		microOrganismQuantitative
+		card	0-M
+	qual		MicroOrganismQualitative
+		id		microOrganismQualitative
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	MicroOrganism_VSET

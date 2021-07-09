@@ -1,0 +1,8 @@
+cem RuleProductionStatus
+	kind		component
+	key			RuleProductionStatus_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	RuleProductionStatus_VSET

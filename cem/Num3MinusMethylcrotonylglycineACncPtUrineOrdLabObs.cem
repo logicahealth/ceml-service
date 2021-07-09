@@ -1,0 +1,4 @@
+cem Num3MinusMethylcrotonylglycineACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			Num3MinusMethylcrotonylglycineACncPtUrineOrd_CODE

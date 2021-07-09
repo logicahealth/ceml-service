@@ -1,0 +1,4 @@
+cem BaselinePlateletFunctionPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BaselinePlateletFunctionPtBldQn_CODE

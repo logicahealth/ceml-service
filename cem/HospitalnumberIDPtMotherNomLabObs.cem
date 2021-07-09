@@ -1,0 +1,4 @@
+cem HospitalnumberIDPtMotherNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HospitalnumberIDPtMotherNom_CODE

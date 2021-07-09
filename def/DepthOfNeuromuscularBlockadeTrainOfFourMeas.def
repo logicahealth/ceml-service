@@ -1,0 +1,15 @@
+cem DepthOfNeuromuscularBlockadeTrainOfFourMeas
+status proposed
+author unknown
+editor DMM
+Previously name DepthOfNeuromuscularBlockageEval
+
+DepthOfNeuromuscularBlockadeTrainOfFourMeas captures the number of successive electrical impulses that elicit a twitch reaction in a patient 
+currently using a neuromuscular blocking agent.  The scale ranges from zero to four twitches observed out of four successive 
+impulses received. The value is used to assess effectiveness of neuromuscular blocking agents on ventilated patients.
+
+Model renamed to reflect original intent of the mode, which wasl to capture depth of blockade using Train of Four method.  Other methods are different enough that 
+this couldn't be accomplished using the method qualifier.
+
+preParalyticCurrentLevelMeas is intended to hold the current required to elicit the expected response before the paralytics were administered, ie. the baseline current.  
+

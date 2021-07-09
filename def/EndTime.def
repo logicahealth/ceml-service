@@ -1,0 +1,4 @@
+EndTime is a component model.
+The EndTime model captures the key code of EndTime_KEY_ECID.
+By definition EndTime is the timestamp when an act ends (e.g., the time that an event ended). 
+

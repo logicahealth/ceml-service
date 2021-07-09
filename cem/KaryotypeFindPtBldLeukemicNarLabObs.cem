@@ -1,0 +1,4 @@
+cem KaryotypeFindPtBldLeukemicNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			KaryotypeFindPtBldLeukemicNar_CODE

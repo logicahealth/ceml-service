@@ -1,0 +1,26 @@
+cem BodyLength
+	kind	statement
+    base    ClinicalObs
+	key     BodyLength_CODE
+	data	Quantity
+    qual        ReferenceRangeNar
+        id      referenceRangeNar
+        card    0-1
+    constraint  device.data.codeableConcept.valueset
+        value   HeightMeasDevice_VSET
+    constraint  interpretation.data.codeableConcept.valueset
+        value   AbnormalInterpretationNumericNom_VSET
+    constraint  data.quantity.unit_valueset
+        value   SILengthUnits_VSET
+    constraint	data.quantity.unit_code
+        value   Centimeters_CODE
+    constraint  observed.providerLocation.card
+        value   0
+    constraint  observed.reason.card
+        value   0
+    constraint  observed.actionMethod.card
+        value   0
+    constraint  observed.patientLocation.card
+        value   0
+    constraint  updated.card
+        value   0

@@ -1,0 +1,9 @@
+cem LocationOfExpiredBodyEval
+	kind	statement
+	base	StatementBase
+	key			LocationOfExpiredBody_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	LocationOfExpiredBody_VSET

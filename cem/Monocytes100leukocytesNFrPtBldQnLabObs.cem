@@ -1,0 +1,6 @@
+cem Monocytes100leukocytesNFrPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Monocytes100leukocytesNFrPtBldQn_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

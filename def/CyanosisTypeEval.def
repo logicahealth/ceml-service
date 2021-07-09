@@ -1,0 +1,7 @@
+CyanosisType created on 16/May/2016 15:17
+CyanosisType is an eval model. In an eval model, the key is set to the real world "thing" being evaluated, measured, or assessed, and data is the result of the assessment, evaluation, or measurement and can be coded data, quantifiable data, etc. 
+For example, the CyanosisTypeEval model the "thing" being assessed is "what is the type of cyanosis observed?"  The answsers could be Acrocyanosis, Central cyanosis, Circumoral cyanosis, Cyanosis of lower extremities.
+
+moder: N Davis
+version:1.0
+status: draft

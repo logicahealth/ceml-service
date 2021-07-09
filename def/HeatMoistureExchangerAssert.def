@@ -1,0 +1,4 @@
+HeatMoistureExchangerAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the HeatMoistureExchangerAssert model, data is "HeatMoistureExchanger_ECID" which means "heart moisture exchanger is present".
+

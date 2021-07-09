@@ -1,0 +1,4 @@
+cem Cyp2c92AllelePridPtBldNomMolgenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			Cyp2c92AllelePridPtBldNomMolgen_CODE

@@ -1,0 +1,16 @@
+cem EdemaScaleMeas
+	kind		statement
+    base        StatementBase
+	key			EdemaScale_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition 
+		id		associatedPrecondition 
+		card	0-M
+    qual        BodyLocationPrecoord
+         id     bodyLocationPrecoord
+         card   0-M 
+	constraint	data.codeableOrdinal.valueset
+            value	EdemaScale_VSET
+    constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	EdemaBodyLocationPrecoord_VSET
+  

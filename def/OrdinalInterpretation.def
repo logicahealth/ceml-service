@@ -1,0 +1,9 @@
+OrdinalInterpretation is a component model that captures an ordinal categorical assessment of the observation value.
+OrdinalInterpretation constrains a value to the valueset listed in the model to indicate ordinal interpretation 
+    (1+, 2+, 3+, small, moderate, large, etc.) of the data value (typically some flavor of PQ) of the containing model.
+      This model is intended to constrain values from OBX-8 in a lab result HL7 message. 
+       because OBX-8 is overloaded to contain multiple types of data, we need a way to tell
+       which kind of code is sent (abnormal flag, delta flag, or ordinal interpretation).
+
+
+

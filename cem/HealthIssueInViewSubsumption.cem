@@ -1,0 +1,9 @@
+cem HealthIssueInViewSubsumption
+	kind		component
+	key			HealthIssueInViewSubsumption_CODE
+	item		HealthIssueInView
+		id		parentHealthIssue
+		card	1
+	item		HealthIssueInView
+		id		childHealthIssue
+		card	1-M

@@ -1,0 +1,6 @@
+cem TriamtereneHydrochlorothiazideMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TriamtereneHydrochlorothiazideMCncPtSerPlasQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

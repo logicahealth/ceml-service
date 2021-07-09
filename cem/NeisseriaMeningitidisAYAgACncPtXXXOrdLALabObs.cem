@@ -1,0 +1,4 @@
+cem NeisseriaMeningitidisAYAgACncPtXXXOrdLALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeisseriaMeningitidisAYAgACncPtXXXOrdLA_CODE

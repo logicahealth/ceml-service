@@ -1,0 +1,8 @@
+cem UrinaryCatheterResidualProc
+	kind		statement
+	base		Procedure
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	UrinaryCatheterResidual_CODE

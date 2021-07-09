@@ -1,0 +1,4 @@
+cem MicroscopicobservationPridPtEndocervicalbrushNomCytostainLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MicroscopicobservationPridPtEndocervicalbrushNomCytostain_CODE

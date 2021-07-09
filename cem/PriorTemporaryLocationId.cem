@@ -1,0 +1,5 @@
+cem PriorTemporaryLocationId
+	kind	statement
+	base	StatementBase
+	key			PriorTemporaryLocationId_CODE
+	data		Identifier

@@ -1,0 +1,4 @@
+cem GALTGeneMutationAnalysisPridAlelleOnePtBldTissNomMolgenLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			GALTGeneMutationAnalysisPridAlelleOnePtBldTissNomMolgenLabObs_CODE

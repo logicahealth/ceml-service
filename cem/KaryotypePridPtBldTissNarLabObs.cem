@@ -1,0 +1,4 @@
+cem KaryotypePridPtBldTissNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			KaryotypePridPtBldTissNar_CODE

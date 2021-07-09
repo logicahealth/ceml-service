@@ -1,0 +1,10 @@
+cem EarInterventionProc
+	kind		statement
+	base		Procedure
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.code
+		value	EarIntervention_CODE

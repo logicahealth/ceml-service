@@ -1,0 +1,17 @@
+cem Participant
+	kind		component
+	key			Participant_CODE
+	data		CodeableConcept
+	qual		Role
+		id		role
+		card	0-M
+	qual		PersonIdentifier
+		id		personIdentifier
+		card	0-1
+    qual        SimpleName
+        id      simpleName
+        card    0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ParticipationType_VSET

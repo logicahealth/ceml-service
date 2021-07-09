@@ -1,0 +1,8 @@
+cem CrossSectionalImagingPlanes
+	kind    	component
+	key         CrossSectionalImagingPlanes_CODE
+	data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   CrossSectionalImagingPlanes_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE

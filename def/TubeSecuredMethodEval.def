@@ -1,0 +1,7 @@
+TubeSecuredMethodEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) 
+answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be 
+"White".
+In the TubeSecuredMethodEval model, the question is "what is the subject's Tube Secured Method?" and the coded answers 
+can be 'bite block','adhesive tape', etc.
+"Tube Secured Method" by definition means the method by which the tube was secured in place.
+

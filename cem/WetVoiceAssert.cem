@@ -1,0 +1,6 @@
+cem WetVoiceAssert
+	kind	    statement
+    base        AssertionOfPresence
+	constraint	data.codeableConcept.code
+		value	WetVoice_CODE
+    

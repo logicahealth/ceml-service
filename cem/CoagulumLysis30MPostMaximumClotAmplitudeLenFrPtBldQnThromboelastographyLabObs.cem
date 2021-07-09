@@ -1,0 +1,6 @@
+cem CoagulumLysis30MPostMaximumClotAmplitudeLenFrPtBldQnThromboelastographyLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulumLysis30MPostMaximumClotAmplitudeLenFrPtBldQnThromboelastography_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

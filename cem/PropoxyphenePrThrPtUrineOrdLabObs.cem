@@ -1,0 +1,4 @@
+cem PropoxyphenePrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PropoxyphenePrThrPtUrineOrd_CODE

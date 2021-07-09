@@ -1,0 +1,6 @@
+cem TrypanosomaCruziAbIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TrypanosomaCruziAbIgGACncPtSerQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

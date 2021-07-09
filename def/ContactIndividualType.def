@@ -1,0 +1,6 @@
+ContactIndividualType model is a value further specifying the type of relationship a 
+contact has to the focal person. Values are drawn from the ContactRoleType domain. The current values are 
+"next of kin" and "emergency contact."  
+        
+
+

@@ -1,0 +1,16 @@
+cem OralIntakePanel
+	kind    	panel
+    base        PanelBase
+	key         OralIntakePanel_CODE
+    item        OralIntakePercentageMeas
+        id      oralIntakePercentageMeas
+        card    0-1
+    item        CarbohydrateIntakeMeas
+        id      carbohydrateIntakeMeas
+        card    0-1
+    qual		Aggregate
+		id		aggregate
+		card	0-1
+    qual        DataAbsentReason
+        id      dataAbsentReason
+        card    0-1

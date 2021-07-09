@@ -1,0 +1,4 @@
+cem MeaslesvirusAbIgGPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MeaslesvirusAbIgGPrThrPtSerOrd_CODE

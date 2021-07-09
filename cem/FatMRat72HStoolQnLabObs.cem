@@ -1,0 +1,6 @@
+cem FatMRat72HStoolQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FatMRat72HStoolQn_CODE
+	constraint		data.quantity.unit_code
+		value	GramsPerDay_CODE

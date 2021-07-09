@@ -1,0 +1,6 @@
+ProtectionInd CEM identifies the guarantor's protection, which determines whether or not access to information about this enrollee should be restricted from users who do not have adequate authority.
+        	Y restrict access
+			N do not restrict access
+        
+
+

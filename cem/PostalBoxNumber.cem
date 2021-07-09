@@ -1,0 +1,4 @@
+cem PostalBoxNumber
+	kind		component
+	key			PostalBoxNumber_CODE
+	data		String

@@ -1,0 +1,4 @@
+cem AcetaminophenPrThrPtSerPlasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AcetaminophenPrThrPtSerPlasOrd_CODE

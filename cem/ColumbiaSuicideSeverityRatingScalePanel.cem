@@ -1,0 +1,30 @@
+
+cem ColumbiaSuicideSeverityRatingScalePanel
+	kind    	panel
+    base        PanelBase
+	key         ColumbiaSuicideSeverityRatingScalePanel_CODE
+    item        ColumbiaSuicideSeverityRatingScaleWishToBeDeadMeas
+        id      columbiaSuicideSeverityRatingScaleWishToBeDeadMeas
+        card    0-1
+    item        ColumbiaSuicideSeverityRatingScaleSuicidalThoughtsMeas
+        id      columbiaSuicideSeverityRatingScaleSuicidalThoughtsMeas
+        card    0-1
+    item        ColumbiaSuicideSeverityRatingScaleSuicidalIdeationAnyMethodWithoutIntentMeas
+        id      columbiaSuicideSeverityRatingScaleSuicidalIdeationAnyMethodWithoutIntentMeas
+        card    0-1
+    item        ColumbiaSuicideSeverityRatingScaleSuicidalIdeationWithIntentWithoutPlanMeas
+        id      columbiaSuicideSeverityRatingScaleSuicidalIdeationWithIntentWithoutPlanMeas
+        card    0-1
+    item        ColumbiaSuicideSeverityRatingScaleSuicidalIdeationWithPlanAndIntentMeas
+        id      columbiaSuicideSeverityRatingScaleSuicidalIdeationWithPlanAndIntentMeas
+        card    0-1
+    item        ColumbiaSuicideSeverityRatingScaleSuicidalBehaviorMeas
+        id      columbiaSuicideSeverityRatingScaleSuicidalBehaviorMeas
+        card    1
+    qual        Method
+        id      method
+        card    1
+    constraint  method.data.codeableConcept.code
+        value   ColumbiaSuicideSeverityRatingScale_CODE
+  
+  

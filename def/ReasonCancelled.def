@@ -1,0 +1,20 @@
+This is the ReasonCancelled clinical element model.  It is used to capture the reasons why an individual has cancelled their encounter.
+The value set that the data is constrained to is comprised of values from the HL7 v3 ActReason code set
+
+BLK  Unexpected Block (of Schedule)
+DEC  Patient Deceased
+FIN  No Financial Backing
+MED  Medical Status Altered
+ALTD  altered decision
+
+as well as SNOMED codes
+
+89925002  Canceled (qualifier value)
+385647007  Rejected by performer (qualifier value)
+385648002  Rejected by recipient (qualifier value)
+410528005  Not wanted (qualifier value)
+410529002  Not needed (qualifier value)
+410530007  Not offered (qualifier value)
+441889009  Denied (qualifier value)
+443390004  Refused (qualifier value)
+609589008  Refused by parents of subject (qualifier value)

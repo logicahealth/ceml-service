@@ -1,0 +1,6 @@
+cem LeukocytesNCncPtBodyfldQnAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LeukocytesNCncPtBodyfldQnAutomatedcount_CODE
+	constraint		data.quantity.unit_code
+			value		ThousandsPerMicroliter_CODE

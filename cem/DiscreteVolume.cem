@@ -1,0 +1,6 @@
+cem DiscreteVolume
+	kind		component
+	key			DiscreteVolume_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	VolumeUnits_VSET

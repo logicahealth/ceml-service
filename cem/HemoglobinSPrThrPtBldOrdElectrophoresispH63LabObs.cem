@@ -1,0 +1,4 @@
+cem HemoglobinSPrThrPtBldOrdElectrophoresispH63LabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HemoglobinSPrThrPtBldOrdElectrophoresispH63_CODE

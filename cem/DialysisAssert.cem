@@ -1,0 +1,5 @@
+cem DialysisAssert
+	kind		statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.valueset
+		value	DialysisType_VSET

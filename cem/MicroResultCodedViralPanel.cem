@@ -1,0 +1,7 @@
+cem MicroResultCodedViralPanel
+	kind		panel
+	base		MicroResultCodedPanel
+	key			MicroResultCodedViralPanel_VSET
+	item		ViralIsolatePanel
+		id		viralIsolatePanel
+		card	0-M

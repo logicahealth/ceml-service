@@ -1,0 +1,4 @@
+cem RubellavirusAbPrThrPtSerOrdIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			RubellavirusAbPrThrPtSerOrdIA_CODE

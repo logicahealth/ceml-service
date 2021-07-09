@@ -1,0 +1,9 @@
+cem BoneLesionMargin
+	kind    	component
+	key         BoneLesionMargin_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   BoneLesionMargin_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

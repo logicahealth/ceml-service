@@ -1,0 +1,3 @@
+TypeOfMilkConsumedEval created on 01/Jul/2016 11:47 by Jael Lindblom for ABD.
+
+This model is used to describe the type of milk consumed prior to admission, i.e. nonfat, 1%, 2% and whole milk. If there is a need in the future for more associated preconditions to be added, the code constraint to Preadmission_CODE should be changed to a valueset constraint.

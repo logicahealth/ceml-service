@@ -1,0 +1,9 @@
+cem GeographicalLocation
+	kind		component
+	key			GeographicalLocation_CODE
+	item		City
+		id      city
+		card	0-1
+	item		Country
+		id		country
+		card	0-1

@@ -1,0 +1,15 @@
+cem PhysicalActivityLevelEval
+	kind	statement
+	base	StatementBase
+	key			PhysicalActivityLevel_CODE
+	data		CodeableConcept
+	qual		Duration
+		id		duration
+		card	0-1
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PhysicalActivityLevel_VSET

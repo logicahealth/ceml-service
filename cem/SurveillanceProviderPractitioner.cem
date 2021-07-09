@@ -1,0 +1,25 @@
+cem SurveillanceProviderPractitioner
+	kind    	statement
+    base        ProviderPractitioner
+	key         SurveillanceProviderPractitioner_CODE
+	constraint  languageCommunication.card
+        value   0
+    constraint  administrativeGender.card
+        value   0
+    constraint  birthDate.card
+        value   0
+    constraint  educationDegree.card
+        value   0
+    constraint  professionalLicense.card
+        value   0
+    constraint  professionalCertificate.card
+        value   0
+    constraint  credentialEligibilityInd.card
+        value   0
+    constraint  providerExternalId.card
+        value   0
+    constraint  administrativeAffiliation.card
+        value   0
+    constraint  providerRole.data.codeableConcept.code
+        value   Interviewer_CODE
+

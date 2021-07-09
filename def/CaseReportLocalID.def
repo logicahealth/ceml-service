@@ -1,0 +1,6 @@
+CaseReportLocalID is the model to record a local-use ID assigned by the state or local health department if desired for patient tracking or matching.
+
+@Author lpnzhuo
+@Date 01 Apr 2020 13:35
+@Status draft
+@RequestedBy Logica

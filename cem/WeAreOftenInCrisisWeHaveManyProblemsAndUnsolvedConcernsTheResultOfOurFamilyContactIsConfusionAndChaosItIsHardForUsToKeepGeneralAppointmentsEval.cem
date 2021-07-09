@@ -1,0 +1,6 @@
+cem WeAreOftenInCrisisWeHaveManyProblemsAndUnsolvedConcernsTheResultOfOurFamilyContactIsConfusionAndChaosItIsHardForUsToKeepGeneralAppointmentsEval
+
+	kind	statement
+	base	StatementBase
+    key     WeAreOftenInCrisisWeHaveManyProblemsAndUnsolvedConcernsTheResultOfOurFamilyContactIsConfusionAndChaosItIsHardForUsToKeepGeneralAppointments_CODE
+	data	Integer	

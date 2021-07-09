@@ -1,0 +1,4 @@
+cem HLAMinusDROligotypingByPCRLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HLAMinusDROligotypingByPCR_CODE

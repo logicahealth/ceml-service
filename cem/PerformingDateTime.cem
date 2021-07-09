@@ -1,0 +1,4 @@
+cem PerformingDateTime
+	kind		component
+	key			PerformingDateTime_CODE
+	data		DateTime

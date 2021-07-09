@@ -1,0 +1,6 @@
+OralIntakeFluidVolumeMeas is a measurement model that restricts the "IntakeFluidVolumeMeas" model (i.e., this model "constrains" the qualifiers in the IntakeFluidVolumeMeas" model to oral intake-specific body locations, methods and devices and fluid types). A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. 
+For example, in the OralIntakeFluidVolumeMeas model the "question" or the "test" is "What is the Orall Intake Fluid Volume?", and the "answer" in data can be "X mL"."
+By definition "Oral Intake Fluid Volume Measurement" means the measurement of the volume of Oral Fluid Intake.
+
+
+06/21/2016 in discussion it was decided that the constraint on intakeFluidType caused too much confusion. Thus, we simplified the definition of intakeFluidType

@@ -1,0 +1,4 @@
+cem CrenatedRBCSLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CrenatedRBCS_CODE

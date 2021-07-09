@@ -1,0 +1,6 @@
+cem CancerAg125ACncPtSerPlasQnDilutionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CancerAg125ACncPtSerPlasQnDilution_CODE
+	constraint		data.quantity.unit_code
+			value		ArbitraryUnitsPerMilliliter_CODE

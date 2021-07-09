@@ -1,0 +1,13 @@
+MammographyManagementAndFollowUpEval created by L.Buhl on 29/Jun/2016 12:32 for iActivity project.
+
+
+MammographyManagementAndFollowUpEval is the radiologist's recommendations for managment and follow up regarding a patient's mammography screening. 
+
+ Values include:
+	Recall for additional imaging
+	Comparison with prior examination needed
+	Routine mammography screening
+	Short-interval 6mo follow up
+	Continued surveillance mammography
+	Tissue diagnosis
+	Surgical excision

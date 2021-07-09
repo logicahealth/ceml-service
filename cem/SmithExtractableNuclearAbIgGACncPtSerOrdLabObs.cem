@@ -1,0 +1,4 @@
+cem SmithExtractableNuclearAbIgGACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SmithExtractableNuclearAbIgGACncPtSerOrd_CODE

@@ -1,0 +1,4 @@
+cem TobramycinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TobramycinSuscPtIsolateOrdQnGradientstrip_CODE

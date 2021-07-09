@@ -1,0 +1,16 @@
+cem ThoracentesisOutputPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			ThoracentesisOutputPanel_CODE
+	item		ThoracentesisOutputFluidVolumeMeas
+		id		thoracentesisOutputFluidVolumeMeas
+		card	1
+	item		ThoracentesisOutputFluidDescriptionEval
+		id		thoracentesisOutputFluidDescriptionEval
+		card	0-M
+
+
+	constraint	device.data.codeableConcept.valueset
+		value	ThoracentesisOutputDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	ThoracentesisBodyLocationPrecoord_VSET

@@ -1,0 +1,4 @@
+PlateauPressureSettingMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the PlateauPressureSettingMeas model, the question is "what is the Plateau Pressure Setting?" and the numeric answer will have a unit of measure. 
+"PlateauPressureSettingMeas" by definition means a numeric setting on a ventilator where the airway pressure is set to zero inspiratory flow.
+

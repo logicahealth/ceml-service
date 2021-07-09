@@ -1,0 +1,6 @@
+cem EpinephrineCreatinineMCrtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EpinephrineCreatinineMCrtoPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicrogramsPerGram_CODE

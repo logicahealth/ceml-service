@@ -1,0 +1,6 @@
+cem OrderJustificationLink
+	kind		link
+	key			OrderJustificationLink_CODE
+    data        Identifier
+    constraint  data.identifier.type
+        value   HealthIssue

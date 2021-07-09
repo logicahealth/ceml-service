@@ -1,0 +1,4 @@
+cem Hemoglobingastrointestinal1stspecimenPrThrPtStoolOrdImmLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			Hemoglobingastrointestinal1stspecimenPrThrPtStoolOrdImm_CODE

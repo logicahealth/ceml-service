@@ -1,0 +1,22 @@
+.DS_Store
+.byebug_history
+
+# Various output type directories
+ckr/
+fsd/
+fsh/
+jsoncf/
+mindmap/
+ssd/
+xcem/
+xcemc/
+xcemcf/
+zip/
+
+# Other generated output
+report/
+logs/
+tmp/
+
+**.jar
+**.zip

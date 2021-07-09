@@ -1,0 +1,6 @@
+cem ComplementC1EsteraseInhibitorMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ComplementC1EsteraseInhibitorMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

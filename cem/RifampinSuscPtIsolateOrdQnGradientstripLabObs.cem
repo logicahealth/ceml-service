@@ -1,0 +1,4 @@
+cem RifampinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RifampinSuscPtIsolateOrdQnGradientstrip_CODE

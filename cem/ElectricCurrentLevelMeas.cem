@@ -1,0 +1,10 @@
+
+cem ElectricCurrentLevelMeas
+	kind    	component
+	key         ElectricCurrentLevel_CODE
+	data        Quantity
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+    constraint  data.quantity.unit_valueset
+        value   ElectricalCurrentUnits_VSET

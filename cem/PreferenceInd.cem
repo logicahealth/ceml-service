@@ -1,0 +1,6 @@
+cem PreferenceInd
+	kind		component
+	key			PreferenceInd_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	YesNo_VSET

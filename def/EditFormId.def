@@ -1,0 +1,4 @@
+EditFormId is a component model.
+The "EditFormId" model holds a "question" in the key and holds a coded value (CD) answer of EditFormId (EditFormId_KEY_ECID) in data.
+"EditFormId" by definition means an identifier that is used to link back an order instance with the form to collect/edit the information. Should be a coded value.
+

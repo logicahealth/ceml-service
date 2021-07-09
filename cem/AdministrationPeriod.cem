@@ -1,0 +1,8 @@
+cem AdministrationPeriod
+	kind		component
+	key			AdministrationPeriod_CODE
+	data		Quantity
+	constraint	data.quantity.unit_code
+		value	Minutes_CODE
+	constraint	data.quantity.unit_valueset
+		value	TimeUnits_VSET

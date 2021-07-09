@@ -1,0 +1,6 @@
+cem AssociatedAssertion
+	kind		component
+	key			AssociatedAssertion_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	Assertion_VSET

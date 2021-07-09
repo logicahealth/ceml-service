@@ -1,0 +1,13 @@
+cem InguinalHerniaAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        AlleviatingFactor
+       id       alleviatingFactor
+       card     0-M
+    qual        ExacerbatingFactor 
+       id       exacerbatingFactor
+       card     0-M
+    constraint	data.codeableConcept.code
+        value	InguinalHernia_CODE
+    constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	InguinalHerniaBodyLocationPrecoord_VSET

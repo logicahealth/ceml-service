@@ -1,0 +1,8 @@
+cem TimeFrame
+	kind    	component
+	key         TimeFrame_CODE
+	data        CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+    constraint  data.codeableConcept.valueset
+        value   TimeFrame_VSET

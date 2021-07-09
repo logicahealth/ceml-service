@@ -1,0 +1,5 @@
+AdvancedDirectiveEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD or CO) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the AdvancedDirectiveEval model, the question is "what kind of advanced directive does a subject have?" and the coded answers can be 'living will','durable power of attorney',etc.
+"AdvancedDirective" by definition means a set of noterized instructions a subject creates beforehand, which states what actions they wish to have done or not pertaining to their medical care when they are unable to express these due to illness or injury.
+
+

@@ -1,0 +1,12 @@
+cem PressureDetectionAbilityEval
+	kind	statement
+	base	StatementBase
+	key			PressureDetectionAbility_CODE
+	data		CodeableConcept
+    qual		DataAbsentReason
+		id		dataAbsentReason
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PressureDetectionAbility_VSET

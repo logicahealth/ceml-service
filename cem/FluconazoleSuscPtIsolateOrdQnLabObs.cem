@@ -1,0 +1,4 @@
+cem FluconazoleSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FluconazoleSuscPtIsolateOrdQn_CODE

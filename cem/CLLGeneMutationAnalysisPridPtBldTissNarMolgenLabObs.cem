@@ -1,0 +1,4 @@
+cem CLLGeneMutationAnalysisPridPtBldTissNarMolgenLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			CLLGeneMutationAnalysisPridPtBldTissNarMolgen_CODE

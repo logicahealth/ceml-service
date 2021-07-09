@@ -1,0 +1,13 @@
+cem CalculatedControlledRespiratoryRateMeas
+	kind	statement
+	base	StatementBase
+	key			CalculatedControlledRespiratoryRate_CODE
+	data		Quantity
+	qual		Device
+		id		device
+		card	0-1
+	constraint	data.quantity.unit_code
+		value	PerMinute_CODE
+
+	constraint	device.data.codeableConcept.valueset
+		value	VentilatorDevice_VSET

@@ -1,0 +1,5 @@
+cem EchinococcusSpAbIgGACncPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EchinococcusSpAbIgGACncPtSerQnEIA_CODE
+	

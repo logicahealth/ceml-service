@@ -1,0 +1,6 @@
+cem ArsenicOrganicUrineLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ArsenicOrganicUrine_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

@@ -1,0 +1,19 @@
+cem PleuralThickeningAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        Severity
+        id      severity
+        card    0-1
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    qual        Image
+        id      image
+        card    0-M
+    qual        Modality
+        id      modality
+        card    0-1
+    constraint	data.codeableConcept.code
+        value	PleuralThickening_CODE
+    constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	PleuraBodyLocationPrecoord_VSET

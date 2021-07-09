@@ -1,0 +1,4 @@
+cem HLAMinusBTypeAlleleOnePtBldNomLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HLAMinusBTypeAlleleOnePtBldNom_CODE

@@ -1,0 +1,12 @@
+cem BreastLesionAnatomicalLocation
+	kind    	component
+	key         BreastLesionAnatomicalLocation_CODE
+    data        CodeableConcept
+    qual        AreolaRegion
+        id      areolaRegion
+        card    0-1
+    constraint  data.codeableConcept.valueset
+        value   BreastLesionAnatomicalLocation_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

@@ -1,0 +1,6 @@
+cem GammaglobulinProteintotalMFr24HUrineQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GammaglobulinProteintotalMFr24HUrineQnElectrophoresis_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

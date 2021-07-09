@@ -1,0 +1,4 @@
+DailyDoseCount is the number of doses of a substance given daily, and data type is integer. For example, if TID is the CodedFrequency, then the daily dose count is 3. 
+This is set by the CEM Orders Service from data stored with the CodedFrequency definitions. The purpose is to support 
+decision support activities. If this is based on a variable frequency, it is the maximum expected doses in a 24-hour period.
+

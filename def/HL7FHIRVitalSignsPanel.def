@@ -1,0 +1,4 @@
+HL7FHIRVitalSignsPanel is model for patient's vital signs defined by HL7 FHIR (Fast Healthcare Interoperability Resources) Vital Signs Profile: http://www.hl7.org/implement/standards/fhir/observation-vitalsigns.html 
+
+The LOINC code for the panel is 85353-1 (Vital signs, weight, height, head circumference, oxygen saturation & BMI panel )
+

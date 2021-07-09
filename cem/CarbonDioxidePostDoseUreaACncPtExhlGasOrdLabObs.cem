@@ -1,0 +1,4 @@
+cem CarbonDioxidePostDoseUreaACncPtExhlGasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CarbonDioxidePostDoseUreaACncPtExhlGasOrd_CODE

@@ -1,0 +1,4 @@
+cem CFTRgenetargetedmutationanalysisPridPtBldTissNomMolgenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CFTRgenetargetedmutationanalysisPridPtBldTissNomMolgen_CODE

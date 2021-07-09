@@ -1,0 +1,9 @@
+cem WoundBed
+	kind    	component
+	key         WoundBed_CODE
+    item        WoundBedAppearance
+        id      woundBedAppearance
+        card    0-M
+    item        WoundBedColor
+        id      woundBedColor
+        card    0-M

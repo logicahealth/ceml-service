@@ -1,0 +1,4 @@
+cem LeukocytesACncPtBilFldOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LeukocytesACncPtBilFldOrdMicroscopyLight_CODE

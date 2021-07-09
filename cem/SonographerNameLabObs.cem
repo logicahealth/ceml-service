@@ -1,0 +1,4 @@
+cem SonographerNameLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			SonographerName_CODE

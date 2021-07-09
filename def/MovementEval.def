@@ -1,0 +1,4 @@
+MovementEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the MovementEval model, the question is "what is the subject's movement?" and the coded answers can be "Active movement against resistance", "Active movement with decreased strength", and "Involuntary movement" etc.
+"Movement" by definition means "The patient's ability to move".
+

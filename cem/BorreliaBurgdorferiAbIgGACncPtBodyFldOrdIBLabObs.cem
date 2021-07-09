@@ -1,0 +1,4 @@
+cem BorreliaBurgdorferiAbIgGACncPtBodyFldOrdIBLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BorreliaBurgdorferiAbIgGACncPtBodyFldOrdIB_CODE

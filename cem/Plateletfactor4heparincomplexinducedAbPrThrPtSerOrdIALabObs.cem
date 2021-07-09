@@ -1,0 +1,4 @@
+cem Plateletfactor4heparincomplexinducedAbPrThrPtSerOrdIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			Plateletfactor4heparincomplexinducedAbPrThrPtSerOrdIA_CODE

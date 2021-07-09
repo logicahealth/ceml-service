@@ -1,0 +1,3 @@
+HumptyDumptyFallScaleMedicationUsageMeas created by L.Buhl on 09/Sep/2016 10:10 for ABD project.
+
+HumptyDumptyFallScaleMedicationUsageMeas is part of the Humpty Dumpty Fall Scale Panel.  This model is used to evaluate the pediatric patient's fall risk based on the medication usage of the patient.  Values include "Multiple usage of: Sedatives (excluding ICU patients sedated and paralyzed), Hypnotics, Barbiturates, Phenthiazines, Antidepressants, Laxatives/Diuretics, and Narcotics", "One of the listed medications", or "Other Medications/None".  Each are associated with an ordinal value for the score.

@@ -1,0 +1,4 @@
+cem PostalCode
+	kind		component
+	key			PostalCode_CODE
+	data		String

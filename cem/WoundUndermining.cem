@@ -1,0 +1,13 @@
+cem WoundUndermining
+	kind    	component
+	key         WoundUndermining_CODE
+    data        CodeableConcept
+    qual        WoundUnderminingDirection
+        id      woundUnderminingDirection
+        card    0-1
+    qual        WoundUnderminingLength
+        id      woundUnderminingLength
+        card    0-1
+    constraint  data.codeableConcept.valueset
+        value   PresentAbsent_VSET
+

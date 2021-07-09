@@ -1,0 +1,5 @@
+RinneTestEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the RinneTestEval model, the question is "what are the findings from performing a Rinne test?" and the coded answers can be "positive Rinne" or "negative Rinne".  A "Rinne Test" tests bone conduction and air conduction using a tuning fork and placing it on the mastoid process until the sound is no longer heard, then moving it in front of the ear to see if the patient can hear the sound.  A normal finding- or a positive Rinne, is when air conduction is better than bone conduction and the patient can hear the sound once placed near the ear. An abnormal finding- or a negative Rinne, the patient does not hear the sound after it is moved from the mastoid process and placed near the ear.
+
+Modeler: L. Buhl
+Date created: 03/23/2016

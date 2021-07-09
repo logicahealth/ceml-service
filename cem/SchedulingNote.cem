@@ -1,0 +1,4 @@
+cem SchedulingNote
+	kind		component
+	key			SchedulingNote_CODE
+	data		String

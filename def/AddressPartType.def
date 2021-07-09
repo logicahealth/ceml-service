@@ -1,0 +1,3 @@
+AddressPartType is used to capture the description of what a portion
+of an address actually is (i.e., unit identifier, direction, street name, precinct, etc.)  
+

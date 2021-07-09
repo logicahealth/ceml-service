@@ -1,0 +1,6 @@
+cem AlphaMinus1MinusAcidGlycoproteinMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlphaMinus1MinusAcidGlycoproteinMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

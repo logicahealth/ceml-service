@@ -1,0 +1,4 @@
+cem PathologybiopsyreportFindPtMuscleNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			PathologybiopsyreportFindPtMuscleNar_CODE

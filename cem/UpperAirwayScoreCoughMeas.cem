@@ -1,0 +1,10 @@
+cem UpperAirwayScoreCoughMeas
+	kind	statement
+	base	StatementBase
+	key			UpperAirwayScoreCough_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	UpperAirwayScoreCough_VSET

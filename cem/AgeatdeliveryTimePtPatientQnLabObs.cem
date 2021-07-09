@@ -1,0 +1,6 @@
+cem AgeatdeliveryTimePtPatientQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AgeatdeliveryTimePtPatientQn_CODE
+	constraint		data.quantity.unit_code
+			value		Years_CODE

@@ -1,0 +1,6 @@
+cem CoagulationDiluteRussellViperVenomInducedTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationDiluteRussellViperVenomInducedTimePtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

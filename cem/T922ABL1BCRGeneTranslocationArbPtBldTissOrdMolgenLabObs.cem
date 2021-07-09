@@ -1,0 +1,6 @@
+cem T922ABL1BCRGeneTranslocationArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			T922ABL1BCRGeneTranslocationArbPtBldTissOrdMolgen_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	DetectNotDetectPosNegOrdLabResult_VSET

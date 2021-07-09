@@ -1,0 +1,4 @@
+EpiduralIntakeFluidVolumeMeas is a measurement model that restricts the IntakeFluidVolumeMeas model (i.e., this model "constrains" the qualifiers in the IntakeFluidVolumeMeas" model to epidural intake-specific body locations, methods and devices and fluid types). A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) "answer" in data. 
+For example, in the EpiduralIntakeFluidVolumeMeas model the "question" or the "test" is "What is the Epidural Intake Fluid Volume?" and the "answer" in data can be "X mL."
+By definition EpiduralIntakeFluidVolumeMeas means the measurement of the volume of epidural fluid intake. 
+

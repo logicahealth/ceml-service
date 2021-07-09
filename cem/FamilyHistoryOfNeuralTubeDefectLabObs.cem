@@ -1,0 +1,4 @@
+cem FamilyHistoryOfNeuralTubeDefectLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			FamilyHistoryOfNeuralTubeDefect_CODE

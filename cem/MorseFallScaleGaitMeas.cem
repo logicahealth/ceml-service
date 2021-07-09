@@ -1,0 +1,12 @@
+cem MorseFallScaleGaitMeas
+
+	kind	statement
+	base	StatementBase
+    key     MorseFallScaleGait_CODE
+	data	CodeableOrdinal
+
+	constraint	data.codeableOrdinal.strength
+	    value	CNE
+	constraint	data.codeableOrdinal.valueset
+	    value	MorseFallScaleGait_VSET
+

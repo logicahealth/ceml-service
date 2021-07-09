@@ -1,0 +1,2 @@
+This is the OxygenSaturationPanel.  Its purpose is to record an SpO2, the flow rate of delivered O2, and whether or not the patient is on room air.
+It was created to support vital signs for the Community Acquired Pneumonia, Sepsis, and Pulmonary Embolism applications.

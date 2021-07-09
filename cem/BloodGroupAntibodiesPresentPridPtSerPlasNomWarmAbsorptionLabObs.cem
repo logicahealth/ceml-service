@@ -1,0 +1,6 @@
+cem BloodGroupAntibodiesPresentPridPtSerPlasNomWarmAbsorptionLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BloodGroupAntibodiesPresentPridPtSerPlasNomWarmAbsorption_CODE
+	constraint	data.codeableConcept.valueset
+		value	AntibodyID_VSET

@@ -1,0 +1,6 @@
+
+cem MobilitySupportItemsReadilyAvailableAssert
+    kind        statement
+    base       	ObservationAssert
+    constraint	data.codeableConcept.code
+        value	MobilitySupportItemsReadilyAvailable_CODE

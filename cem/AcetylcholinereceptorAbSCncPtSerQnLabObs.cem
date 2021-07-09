@@ -1,0 +1,6 @@
+cem AcetylcholinereceptorAbSCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AcetylcholinereceptorAbSCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		NanomolesPerLiter_CODE

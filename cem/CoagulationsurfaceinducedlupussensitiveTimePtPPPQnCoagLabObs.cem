@@ -1,0 +1,6 @@
+cem CoagulationsurfaceinducedlupussensitiveTimePtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationsurfaceinducedlupussensitiveTimePtPPPQnCoag_CODE
+	constraint		data.quantity.unit_code
+			value		Seconds_CODE

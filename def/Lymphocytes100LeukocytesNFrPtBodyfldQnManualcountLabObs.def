@@ -1,0 +1,7 @@
+Lymphocytes100LeukocytesNFrPtBodyfldQnManualcountLabObs is the Clinical Element Model for standard laboratory test results/observations numeric results. LOINC Code: 13941-0.
+LOINC name: Lymphocytes/100 leukocytes in Body fluid by Manual count
+
+@Author nrdavis1
+@Date 24 May 2018 11:28
+@Status draft
+@RequestedBy ONC work

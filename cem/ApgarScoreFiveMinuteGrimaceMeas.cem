@@ -1,0 +1,10 @@
+cem ApgarScoreFiveMinuteGrimaceMeas
+	kind	statement
+	base	StatementBase
+	key			ApgarScoreFiveMinuteGrimace_CODE
+	data		CodeableOrdinal
+	mod 	    FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableOrdinal.valueset
+		value	ApgarScoreGrimace_VSET

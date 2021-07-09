@@ -1,0 +1,8 @@
+cem UseFuzzyFrequency
+	kind		component
+	key			UseFuzzyFrequency_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	UseFuzzyFrequency_VSET

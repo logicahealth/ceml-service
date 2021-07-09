@@ -1,0 +1,4 @@
+cem TuberculosisReactionInduration48HoursPridSkinNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			TuberculosisReactionInduration48HoursPridSkinNom_CODE

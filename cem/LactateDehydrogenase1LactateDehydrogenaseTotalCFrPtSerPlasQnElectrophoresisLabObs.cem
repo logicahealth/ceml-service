@@ -1,0 +1,6 @@
+cem LactateDehydrogenase1LactateDehydrogenaseTotalCFrPtSerPlasQnElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LactateDehydrogenase1LactateDehydrogenaseTotalCFrPtSerPlasQnElectrophoresis_CODE
+	constraint	data.quantity.unit_code
+		value	Percent_CODE

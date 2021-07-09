@@ -1,0 +1,3 @@
+MicroOrganismQuantitative captures the quantitative information about the isolated bacteria, such as the number of colony forming units, titer results, etc.
+This model will most likely change to a PQ data type.  Waiting for more information.
+

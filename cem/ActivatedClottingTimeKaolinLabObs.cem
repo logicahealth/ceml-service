@@ -1,0 +1,6 @@
+cem ActivatedClottingTimeKaolinLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ActivatedClottingTimeKaolin_CODE
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

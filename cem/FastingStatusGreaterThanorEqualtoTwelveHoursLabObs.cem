@@ -1,0 +1,6 @@
+cem FastingStatusGreaterThanorEqualtoTwelveHoursLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			FastingStatusGreaterThanorEqualtoTwelveHours_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	YesNoUnknown_VSET

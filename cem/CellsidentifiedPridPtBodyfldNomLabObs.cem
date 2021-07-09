@@ -1,0 +1,4 @@
+cem CellsidentifiedPridPtBodyfldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CellsidentifiedPridPtBodyfldNom_CODE

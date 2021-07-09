@@ -1,0 +1,4 @@
+cem BilirubinPrThrPtUrineOrdTeststripautomatedLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BilirubinPrThrPtUrineOrdTeststripautomated_CODE

@@ -1,0 +1,6 @@
+cem AmylaseSalivaryAmylaseTotalCFrPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmylaseSalivaryAmylaseTotalCFrPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerLiter_CODE

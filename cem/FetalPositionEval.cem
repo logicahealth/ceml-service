@@ -1,0 +1,24 @@
+cem FetalPositionEval
+	kind	statement
+	base	StatementBase
+	key			FetalPosition_CODE
+	data		CodeableConcept
+	qual		Method
+		id		method
+		card	0-1
+	qual		Device
+		id		device
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	qual		AssociatedSignAndSymptom
+		id		associatedSignAndSymptom
+		card	0-M
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	FetalPosition_VSET

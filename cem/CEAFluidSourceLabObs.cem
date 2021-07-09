@@ -1,0 +1,4 @@
+cem CEAFluidSourceLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CEAFluidSource_CODE

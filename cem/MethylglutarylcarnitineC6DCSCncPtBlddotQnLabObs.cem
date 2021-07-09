@@ -1,0 +1,6 @@
+cem MethylglutarylcarnitineC6DCSCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethylglutarylcarnitineC6DCSCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

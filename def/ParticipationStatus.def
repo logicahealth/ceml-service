@@ -1,0 +1,2 @@
+ParticipationStatus is the state of participation, such as pending, active, complete and cancelled. This is really equivalent to ManagedParticipationStatus in HL7.
+

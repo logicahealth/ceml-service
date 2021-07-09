@@ -1,0 +1,6 @@
+cem TestosteroneMCncPtSerPlasQnDetectionLimit10NgDLLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TestosteroneMCncPtSerPlasQnDetectionLimit10NgDL_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerDeciliter_CODE

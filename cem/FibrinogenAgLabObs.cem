@@ -1,0 +1,6 @@
+cem FibrinogenAgLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FibrinogenAg_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

@@ -1,0 +1,6 @@
+cem Disability
+	kind		statement
+    base        AdministrativeObservation
+	key			Disability_CODE
+	constraint	data.codeableConcept.valueset
+		value	Disability_VSET

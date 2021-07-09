@@ -1,0 +1,4 @@
+cem SpecificgravityRdenPtUrineQnTeststripautomatedLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SpecificgravityRdenPtUrineQnTeststripautomated_CODE

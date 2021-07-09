@@ -1,0 +1,6 @@
+cem SpinTimeLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SpinTime_CODE
+	constraint		data.quantity.unit_code
+		value	Minutes_CODE

@@ -1,0 +1,4 @@
+cem HepatitisDvirusAbACncPtSerQnRIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HepatitisDvirusAbACncPtSerQnRIA_CODE

@@ -1,0 +1,4 @@
+cem CoxsackievirusA9AbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CoxsackievirusA9AbACncPtSerOrd_CODE

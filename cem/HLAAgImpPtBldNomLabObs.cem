@@ -1,0 +1,4 @@
+cem HLAAgImpPtBldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HLAAgImpPtBldNom_CODE

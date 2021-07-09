@@ -1,0 +1,8 @@
+cem DoseLengthProductMeas
+    kind	statement
+	base	StatementBase
+    key     DoseLengthProduct_CODE
+	data	Quantity
+    constraint	data.quantity.unit_code
+	    value	MilligrayCentimeter_CODE
+	

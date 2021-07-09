@@ -1,0 +1,6 @@
+cem RabiesVirusAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RabiesVirusAbACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	EhrlichUnitsPerMilliliter_CODE

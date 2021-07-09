@@ -1,0 +1,6 @@
+cem ThyrotropinACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThyrotropinACncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrointernationalUnitsPerMilliliter_CODE

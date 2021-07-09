@@ -1,0 +1,5 @@
+cem HumptyDumptyFallScaleTotalScoreMeas
+    kind	statement
+	base	StatementBase
+    key     HumptyDumptyFallScaleTotalScore_CODE
+	data	Integer

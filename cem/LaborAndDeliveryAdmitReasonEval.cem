@@ -1,0 +1,12 @@
+cem LaborAndDeliveryAdmitReasonEval
+	kind	statement
+	base	StatementBase
+	key			LaborAndDeliveryAdmitReason_CODE
+	data		CodeableConcept
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	LaborAndDeliveryAdmitReason_VSET

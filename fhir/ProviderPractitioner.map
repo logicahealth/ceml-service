@@ -1,0 +1,57 @@
+fhir cem ProviderPractitioner
+	base definition	"http://hl7.org/fhir/us/daf/StructureDefinition/daf-pract"
+	map		ProviderPractitioner.ProviderType to Practitioner.practitionerRole.role
+	set		Practitioner to Extension name=providerClassification "http://fhir.org/guides/hspc/StructureDefinition/extensions-providerClassification"
+		bind	Practitioner.providerClassification to "http://fhir.org/guides/hspc/ValueSet/"
+	map		ProviderPractitioner.ProviderSpecialty to Practitioner.practitionerRole.specialty
+	set		Practitioner to Extension name=PrimaryIndicator "http://fhir.org/guides/hspc/StructureDefinition/extensions-primaryIndicator"
+	map		ProviderPractitioner.EffectiveTime to Practitioner.practitionerRole.period.start
+	map		ProviderPractitioner.ExpirationTime to Practitioner.practitionerRole.period.end
+	map 	ProviderPractitioner.PersonName.FamilyName to Practitioner.name.family
+	map		ProviderPractitioner.PersonName.GivenName to Practitioner.name.given
+	map		ProviderPractitioner.PersonName.MiddleName to Practitioner.name.given
+	map		ProviderPractitioner.PersonName.PrefixName to Practitioner.name.prefix
+	map		ProviderPractitioner.PersonName.SuffixName to Practitioner.name.suffix
+	map		ProviderPractitioner.PersonName.PersonNameUse to Practitioner.name.use
+	map		ProviderPractitioner.PersonName.StartTime to Practitioner.name.period.start
+	map		ProviderPractitioner.PersonName.EndTime to Practitioner.name.period.end
+	map		ProviderPractitioner.BirthDate to Practitioner.birthDate
+	map		ProviderPractitioner.AdministrativeGender to Practitioner.gender
+	map		ProviderPractitioner.Address.AddressUse to Practitioner.address.use
+		bind Practitioner.address.use to "http://fhir.org/guides/hspc/ValueSet/practitioner-addressUse"
+	map		ProviderPractitioner.Address.AddressText to Practitioner.address.text
+	map		ProviderPractitioner.Address.AddressLine to Practitioner.address.line
+	map		ProviderPractitioner.Address.City to Practitioner.address.city
+	map		ProviderPractitioner.Address.State to Practitioner.address.state
+	map		ProviderPractitioner.Address.PostalCode to Practitioner.address.postalCode
+	map		ProviderPractitioner.Address.Country to Practitioner.address.country
+	map		ProviderPractitioner.Address.Period to Practitioner.address.period
+	map		ProviderPractitioner.Address.AddressType to Practitioner.address.type
+	set		ProviderPractitioner.address to Extension name = PrimaryIndicator "http://fhir.org/guides/hspc/StructureDefinition/extensions-primaryIndicator"
+	map		ProviderPractitioner.Telecom.data to Practitioner.telecom.value
+	map		ProviderPractitioner.Telecom.TelecomSystem to Practitioner.telecom.system
+		bind	Practitioner.telecom.system to "http://fhir.org/guides/hspc/ValueSet/practitioner-telecomSystem"
+	map		ProviderPractitioner.Telecom.TelecomUse to Practitioner.telecom.use
+		bind	Practitioner.telecom.use to "http://fhir.org/guides/hspc/ValueSet/practitioner-telecomUse"
+	map		ProviderPractitioner.Telecom.Period to Practitioner.telecom.period
+//	map		ProviderPractitioner.Telecom.PreferenceInd to Practitioner.telecom.iso21090-preferred //need to figure out rank vs preferenceInd
+	map		ProviderPractitioner.LanguageCommunication.data to Patient.communication.language
+		set		Practitioner.communication to Extension name="CommunicationMode" "http://fhir.org/guides/hspc/StructureDefinition/extensions-communicationMode"
+		bind	Practitioner.communication.CommunicationMode to "http://fhir.org/guides/hspc/ValueSet/practitioner-communicationMode"
+	map		ProviderPractitioner.BirthDate to Practitioner.birthDate
+	map		ProviderPractitioner.ProviderExternalId to Practitioner.identifier.value
+	map		ProviderPractitioner.EducationDegree to Practitioner.qualification.code.text
+	set		Practitioner to Extension name=CredentialEligibilityInd "http://fhir.org/guides/hspc/StructureDefinition/extensions-credentialEligibilityInd"
+	map		ProviderPractitioner.AdministrativeAffiliation to Practitioner.practitionerRole
+	map		ProviderPractitioner.AdministrativeAffiliation.StartTime to Practitioner.practitionerRole.period.start
+	map		ProviderPractitioner.AdministrativeAffiliation.EndTime to Practitioner.practitionerRole.period.end
+	map		ProviderPractitioner.AdministrativeAffiliation.OrganizationId to Practitioner.managingOrganization.identifier.value
+	map		ProviderPractitioner.PracticeAffiliation to Practitioner.practitionerRole
+	set		Practitioner.practitionerRole to Extension name="PracticeAffiliationType" "http://fhir.org/guides/hspc/StructureDefinition/extensions-practiceAffiliationType"
+		bind	Practitioner.practitionerRole.PracticeAffiliationType to "http://fhir.org/guides/hspc/ValueSet/practitioner-practiceAffiliationType"
+    set		Practitioner.practitionerRole to Extension name="PractitionerPrivilege" "http://fhir.org/guides/hspc/StructureDefinition/extensions-practitionerPrivilege"
+		bind	Practitioner.practitionerRole.PractitionerPrivilege to "http://fhir.org/guides/hspc/ValueSet/practitioner-privilege"
+	map		ProviderPractitioner.PracticeAffiliation.StartTime to Practitioner.practitionerRole.period.start
+	map		ProviderPractitioner.PracticeAffiliation.EndTime to Practitioner.practitionerRole.period.end
+	map		ProviderPractitioner.PracticeAffiliation.OganizationId to Practitioner.managingOrganization.identifier.value
+	

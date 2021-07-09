@@ -1,0 +1,7 @@
+cem CocainePrThrPtMeconiumOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CocainePrThrPtMeconiumOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	PosNegEquiIndet_VSET

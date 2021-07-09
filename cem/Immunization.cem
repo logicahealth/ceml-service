@@ -1,0 +1,4 @@
+cem Immunization
+	kind    	statement
+    base        StatementBase
+	key         Immunization_CODE

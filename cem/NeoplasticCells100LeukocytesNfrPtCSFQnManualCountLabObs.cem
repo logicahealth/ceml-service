@@ -1,0 +1,6 @@
+cem NeoplasticCells100LeukocytesNfrPtCSFQnManualCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NeoplasticCells100LeukocytesNfrPtCSFQnManualCount_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

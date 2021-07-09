@@ -1,0 +1,6 @@
+cem MethemoglobinHemoglobinTotalInArterialCordBloodQuantitativeLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethemoglobinHemoglobinTotalInArterialCordBloodQuantitative_CODE
+	constraint	data.quantity.unit_valueset
+		value	GeneralFractionUnits_VSET

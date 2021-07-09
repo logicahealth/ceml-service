@@ -1,0 +1,8 @@
+cem IntrathecalIntakeFluidVolumeMeas
+	kind		statement
+	base		IntakeFluidVolumeMeas
+	key			IntrathecalIntakeFluidVolume_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	IntrathecalDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	IntrathecalBodyLocationPrecoord_VSET

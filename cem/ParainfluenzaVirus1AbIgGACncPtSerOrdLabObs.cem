@@ -1,0 +1,4 @@
+cem ParainfluenzaVirus1AbIgGACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ParainfluenzaVirus1AbIgGACncPtSerOrd_CODE

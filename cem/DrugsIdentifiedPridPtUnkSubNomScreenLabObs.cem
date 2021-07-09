@@ -1,0 +1,4 @@
+cem DrugsIdentifiedPridPtUnkSubNomScreenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			DrugsIdentifiedPridPtUnkSubNomScreen_CODE

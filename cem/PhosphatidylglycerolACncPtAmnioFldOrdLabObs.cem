@@ -1,0 +1,4 @@
+cem PhosphatidylglycerolACncPtAmnioFldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PhosphatidylglycerolACncPtAmnioFldOrd_CODE

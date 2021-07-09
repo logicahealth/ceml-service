@@ -1,0 +1,6 @@
+Condition is a coded condition that can be used as a start, stop or give condition
+Condition Rule consists of a coded value such as "Temperature" an optional operator such as "greater than" and/or "equal to"
+and a Variable that while coded will probably be a REAL or text most of the time.  Such as "101".
+The expression term id is assigned so that on the level above this condition (in such models as start condition or stop condition)
+the id can be used to fabricate an expression such as (A or B), A and B being the expression ids.
+

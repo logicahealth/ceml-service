@@ -1,0 +1,7 @@
+cem MPVComment
+	kind		comment
+	key			MPVComment_CODE
+	data		String
+	att			Documented
+		id		documented
+		card	0-1

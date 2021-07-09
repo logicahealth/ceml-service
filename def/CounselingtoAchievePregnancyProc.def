@@ -1,0 +1,10 @@
+CounselingtoAchievePregnancyProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes the procedure
+being performed.
+
+Counseling to achieve pregnancy is an interaction in which a provider spends time during an encounter discussing any services and/or provides counseling provided related either to achieving pregnancy or addressing infertility
+
+@Author bsheale
+@Date 07 Apr 2017 19:19
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog

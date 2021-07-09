@@ -1,0 +1,11 @@
+cem UnitLOSPeriod
+	kind	statement
+	base	StatementBase
+	key			UnitLOSPeriod_CODE
+    data        Period
+	att			Inferred
+		id		inferred
+		card	0-M
+	att			Updated
+		id		updated
+		card	0-1

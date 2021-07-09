@@ -1,0 +1,7 @@
+cem SARScoronavirus2AbIgMPrThrPtSerPlasOrdIALabObs
+	kind    	statement
+    base        StandardLabObsOrdinal
+	key         SARScoronavirus2AbIgMPrThrPtSerPlasOrdIA_CODE
+    constraint  data.codeableOrdinal.valueset
+        value   DetectedNotDectedEqIn_VSET
+

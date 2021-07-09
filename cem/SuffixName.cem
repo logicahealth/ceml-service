@@ -1,0 +1,4 @@
+cem SuffixName
+	kind		component
+	key			SuffixName_CODE
+	data		String

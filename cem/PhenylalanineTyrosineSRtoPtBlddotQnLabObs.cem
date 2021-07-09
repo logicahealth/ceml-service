@@ -1,0 +1,5 @@
+cem PhenylalanineTyrosineSRtoPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PhenylalanineTyrosineSRtoPtBlddotQn_CODE
+	

@@ -1,0 +1,37 @@
+cem BodyTemperatureMeas
+	kind		statement
+	base		ClinicalObs
+	key			BodyTemperature_CODE
+	data		Quantity
+	qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-1
+	qual		ReferenceRange
+		id		referenceRange
+		card	0-1
+	qual		AssociatedSituation
+		id		associatedSituation
+		card	0-M
+	constraint	device.data.codeableConcept.valueset
+		value	BodyTemperatureMeasRouteMethodDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	BodyTemperatureMeasBodyLocationPrecoord_VSET
+	constraint	interpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationNumericNom_VSET
+	constraint	data.quantity.unit_code
+		value	DegreesCelsius_CODE
+    constraint  associatedSituation.data.codeableConcept.valueset
+        value   BodyTempAssociatedPrecondition_VSET
+	constraint  observed.participant.data.codeableConcept.code
+        value   Performer_CODE
+    constraint  observed.patientLocation.card
+        value   0
+    constraint  observed.providerLocation.card
+        value   0
+    constraint  observed.reason.card
+        value   0
+    constraint  observed.actionMethod.card
+        value   0
+    constraint  updated.card
+        value   0
+    

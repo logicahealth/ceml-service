@@ -1,0 +1,13 @@
+cem CranialNerveVSensoryEvaluationPanel
+	kind	panel
+	base	PanelBase
+	key         CranialNerveVSensoryTestingPanel_CODE
+    item        CornealReflexEval
+        id      cornealReflexEval
+        card    0-1
+    item        FacialSensationEval
+        id      facialSensationEval
+        card    0-1
+    qual		DataAbsentReason
+		id		dataAbsentReason
+		card	0-1

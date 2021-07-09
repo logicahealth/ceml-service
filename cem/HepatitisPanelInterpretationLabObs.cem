@@ -1,0 +1,4 @@
+cem HepatitisPanelInterpretationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HepatitisPanelInterpretation_CODE

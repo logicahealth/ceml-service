@@ -1,0 +1,4 @@
+cem PerformingLocation
+	kind		component
+	key			PerformingLocation_CODE
+	data		Identifier

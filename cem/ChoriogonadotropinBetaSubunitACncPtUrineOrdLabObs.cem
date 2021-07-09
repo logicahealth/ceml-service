@@ -1,0 +1,4 @@
+cem ChoriogonadotropinBetaSubunitACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChoriogonadotropinBetaSubunitACncPtUrineOrd_CODE

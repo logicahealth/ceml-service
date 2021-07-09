@@ -1,0 +1,4 @@
+cem InterpretationACYINTLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationACYINT_CODE

@@ -1,0 +1,4 @@
+cem CareOf
+	kind		component
+	key			CareOf_CODE
+	data		String

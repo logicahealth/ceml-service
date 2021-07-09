@@ -1,0 +1,4 @@
+cem LysosomalEnzymesLeucocyteLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			LysosomalEnzymesLeucocyte_CODE

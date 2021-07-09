@@ -1,0 +1,4 @@
+cem PatientLocation
+	kind		component
+	key			PatientLocation_CODE
+	data		String

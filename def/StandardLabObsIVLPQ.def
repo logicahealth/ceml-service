@@ -1,0 +1,2 @@
+StandardLabObsIVLPQ is the Clinical Element Model for standard laboratory test results/observations such as hematology, chemistry, coagulation, and serology.  This model will not be used for microbiology or anatomic pathology. The result is an IVLPQ value.
+

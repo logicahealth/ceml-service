@@ -1,0 +1,6 @@
+cem CreatinineRenalClearance173SqMVRatXXXUrineSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CreatinineRenalClearance173SqMVRatXXXUrineSerPlasQn_CODE
+	constraint	data.quantity.unit_code
+		value	MillilitersPerMinute_CODE

@@ -1,0 +1,5 @@
+cem TransferrinCarbohydrateDeficientMonosialoFractionTransferrinCarbohydrateDeficientDisialoFractionMCrtoPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TransferrinCarbohydrateDeficientMonosialoFractionTransferrinCarbohydrateDeficientDisialoFractionMCrtoPtSerPlasQn_CODE
+	

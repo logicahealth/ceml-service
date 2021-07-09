@@ -1,0 +1,6 @@
+cem CorticotropinMCncPtPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CorticotropinMCncPtPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	PicogramsPerMilliliter_CODE

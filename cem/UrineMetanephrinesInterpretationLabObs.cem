@@ -1,0 +1,4 @@
+cem UrineMetanephrinesInterpretationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			UrineMetanephrinesInterpretation_CODE

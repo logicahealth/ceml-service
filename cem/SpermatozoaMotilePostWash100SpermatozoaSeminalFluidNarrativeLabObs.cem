@@ -1,0 +1,4 @@
+cem SpermatozoaMotilePostWash100SpermatozoaSeminalFluidNarrativeLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			SpermatozoaMotilePostWash100SpermatozoaSeminalFluidNarrative_CODE

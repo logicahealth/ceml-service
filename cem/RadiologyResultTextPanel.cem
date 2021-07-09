@@ -1,0 +1,23 @@
+cem RadiologyResultTextPanel
+	kind		panel
+	base		RadiologyResultPanel
+    key         RadiologyResultTextPanel_CODE
+	item		RadiologyText
+		id		radiologyText
+		card	1
+    constraint  interpreted.endTime.card
+        value   0     
+    constraint  interpreted.patientLocation.card
+        value   0
+    constraint  interpreted.providerLocation.card
+        value   0
+    constraint  transcribed.endTime.card
+        value   0
+    constraint  transcribed.patientLocation.card
+        value   0
+    constraint  transcribed.providerLocation.card
+        value   0
+    constraint  transcribed.reason.card
+        value   0
+    constraint  transcribed.actionMethod.card
+        value   0      

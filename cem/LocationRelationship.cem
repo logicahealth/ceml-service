@@ -1,0 +1,13 @@
+cem LocationRelationship
+	kind	statement
+	base	StatementBase
+	key			LocationRelationship_CODE
+	item		ServiceDeliveryLocation
+		id		sourceLocation
+		card	1
+	item		ServiceDeliveryLocation
+		id		targetLocation
+		card	1
+	att			Documented
+		id		documented
+		card	0-1

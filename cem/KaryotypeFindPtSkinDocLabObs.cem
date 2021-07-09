@@ -1,0 +1,4 @@
+cem KaryotypeFindPtSkinDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			KaryotypeFindPtSkinDoc_CODE

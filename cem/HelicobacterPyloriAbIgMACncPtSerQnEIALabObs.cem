@@ -1,0 +1,6 @@
+cem HelicobacterPyloriAbIgMACncPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HelicobacterPyloriAbIgMACncPtSerQnEIA_CODE
+	constraint		data.quantity.unit_code
+		value	ElisaValue_CODE

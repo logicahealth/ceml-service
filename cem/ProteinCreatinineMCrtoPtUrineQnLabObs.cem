@@ -1,0 +1,6 @@
+cem ProteinCreatinineMCrtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ProteinCreatinineMCrtoPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MilligramsPerMilligrams_CODE

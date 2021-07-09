@@ -1,0 +1,21 @@
+cem VisualAcuityFindingEval
+	kind	statement
+	base	StatementBase
+	key			VisualAcuityFinding_CODE
+	data		CodeableConcept
+	qual		BodySide
+		id		bodySide
+		card	0-1
+	qual		Method
+		id		method
+		card	0-1
+	qual		Device
+		id		device
+		card	0-1
+	qual		AbnormalInterpretation
+		id		abnormalInterpretation
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	VisualAcuityFinding_VSET

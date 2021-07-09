@@ -1,0 +1,6 @@
+cem PlateletsReticulated100PlateletsNFrPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PlateletsReticulated100PlateletsNFrPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

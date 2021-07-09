@@ -1,0 +1,6 @@
+cem FattycastsNaricPtUrinesedQnMicroscopylightLPFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FattycastsNaricPtUrinesedQnMicroscopylightLPF_CODE
+	constraint		data.quantity.unit_code
+			value		PerLowPowerField_CODE

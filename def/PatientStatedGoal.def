@@ -1,0 +1,2 @@
+PatientStatedGoal is the model for documenting the level at which a patient would like pain to be at after therapy. The scale will be from 0-10 with no definitions for any of the numbers other than the higher the number the greater the pain.  The data type is real to allow the use of numbers between integers, e.g. 7.5.
+

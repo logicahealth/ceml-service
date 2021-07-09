@@ -1,0 +1,4 @@
+cem HIV1AbbandpatternImpPtSerNomIBLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HIV1AbbandpatternImpPtSerNomIB_CODE

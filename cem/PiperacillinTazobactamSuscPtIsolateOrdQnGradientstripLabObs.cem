@@ -1,0 +1,4 @@
+cem PiperacillinTazobactamSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PiperacillinTazobactamSuscPtIsolateOrdQnGradientstrip_CODE

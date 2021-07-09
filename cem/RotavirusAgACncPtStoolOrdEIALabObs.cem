@@ -1,0 +1,6 @@
+cem RotavirusAgACncPtStoolOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			RotavirusAgACncPtStoolOrdEIA_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

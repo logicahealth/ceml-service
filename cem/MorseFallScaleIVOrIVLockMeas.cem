@@ -1,0 +1,10 @@
+
+cem MorseFallScaleIVOrIVLockMeas
+	kind    	statement
+    base        StatementBase
+	key         MorseFallScaleIVOrIVLock_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.strength
+		value	CNE
+	constraint	data.codeableOrdinal.valueset
+		value	MorseFallScaleIVOrIVLockYesNo_VSET

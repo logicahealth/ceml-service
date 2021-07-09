@@ -1,0 +1,6 @@
+cem OrderedDoseLowerLimit
+	kind		component
+	key			OrderedDoseLowerLimit_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	DoseQuantityUnitOfMeasure_VSET

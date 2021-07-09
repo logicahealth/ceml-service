@@ -1,0 +1,5 @@
+cem HeterophileAbTitrPtSerQnLALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HeterophileAbTitrPtSerQnLA_CODE
+	

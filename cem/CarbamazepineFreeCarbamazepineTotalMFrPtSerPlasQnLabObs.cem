@@ -1,0 +1,6 @@
+cem CarbamazepineFreeCarbamazepineTotalMFrPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CarbamazepineFreeCarbamazepineTotalMFrPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

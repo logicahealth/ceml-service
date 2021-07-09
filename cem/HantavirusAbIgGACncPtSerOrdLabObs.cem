@@ -1,0 +1,4 @@
+cem HantavirusAbIgGACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HantavirusAbIgGACncPtSerOrd_CODE

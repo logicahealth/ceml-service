@@ -1,0 +1,6 @@
+cem Basophils100leukocytesNFrPtCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Basophils100leukocytesNFrPtCSFQn_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

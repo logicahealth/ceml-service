@@ -1,0 +1,7 @@
+cem HealthIssueClinicalAssertLink
+	kind		link
+	key			HealthIssueClinicalAssertLink_CODE
+    data        Identifier
+
+    constraint  data.identifier.key
+        value   ClinicalAssert_CODE

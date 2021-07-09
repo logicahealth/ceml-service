@@ -1,0 +1,4 @@
+cem F2genetargetedmutationanalysisPridPtBldTissNomMolgenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			F2genetargetedmutationanalysisPridPtBldTissNomMolgen_CODE

@@ -1,0 +1,6 @@
+cem EpithelialCastsUrineSedimentLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EpithelialCastsUrineSediment_CODE
+	constraint		data.quantity.unit_code
+		value	PerLowPowerField_CODE

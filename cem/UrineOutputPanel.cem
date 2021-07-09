@@ -1,0 +1,36 @@
+cem UrineOutputPanel
+	kind		panel
+    base        OutputFluidPanel
+	key			UrineOutputPanel_CODE
+
+	item		UrineOutputVolumeMeas
+		id		urineOutputVolumeMeas
+		card	1
+
+	item		UrineOutputVolumeRateMeas
+		id		urineOutputVolumeRateMeas
+		card	0-M
+
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+    qual        SpecimenSentToLab
+        id      specimenSentToLab
+        card    0-1
+
+    constraint  bodyLocationPrecoord.card
+        value   0
+
+	constraint	method.data.codeableConcept.valueset
+		value	UrinaryEliminationMethod_VSET
+
+    constraint	device.data.codeableConcept.valueset
+		value	UrinaryEliminationDevice_VSET
+
+    constraint  fluidDescriptionEval.type
+        value   UrineDescriptionEval
+
+
+
+
+

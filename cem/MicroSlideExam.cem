@@ -1,0 +1,16 @@
+cem MicroSlideExam
+	kind	panel
+	base	PanelBase
+	key			MicroSlideExam_VSET
+	item		MicroSlideEval
+		id		microSlideEval
+		card	0-M
+	qual		ObservationStatus
+		id		resultStatus
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	att			Resulted
+		id		resulted
+		card	0-1

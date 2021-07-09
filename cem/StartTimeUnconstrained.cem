@@ -1,0 +1,9 @@
+
+cem StartTimeUnconstrained
+	kind	component
+	key     StartTimeUnconstrained_CODE
+	data	Period
+
+    qual        EstimatedInd
+        id      estimated
+        card    0-1

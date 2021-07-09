@@ -1,0 +1,6 @@
+ObservationStatus is a component model used specifically for observations to capture the state of an observation.
+
+@Author nrdavis1
+@Date 19 Jan 2021 08:44
+@Status draft
+@RequestedBy Graphite

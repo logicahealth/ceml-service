@@ -1,0 +1,9 @@
+cem ClinicianHealthIssueView
+	kind		component
+	base		HealthIssueView
+	key			ClinicianHealthIssueView_CODE
+	qual		Participant
+		id		participant
+		card	1
+	constraint	participant.role.data.codeableConcept.code
+		value	Clinician_CODE

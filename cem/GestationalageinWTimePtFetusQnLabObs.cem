@@ -1,0 +1,6 @@
+cem GestationalageinWTimePtFetusQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GestationalageinWTimePtFetusQn_CODE
+	constraint		data.quantity.unit_code
+			value		Weeks_CODE

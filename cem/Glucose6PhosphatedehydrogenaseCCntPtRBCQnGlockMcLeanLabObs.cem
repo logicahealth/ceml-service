@@ -1,0 +1,7 @@
+cem Glucose6PhosphatedehydrogenaseCCntPtRBCQnGlockMcLeanLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Glucose6PhosphatedehydrogenaseCCntPtRBCQnGlockMcLean_CODE
+	constraint	data.quantity.unit_code
+		value	UnitsPerGram_CODE
+

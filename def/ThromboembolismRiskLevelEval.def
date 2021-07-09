@@ -1,0 +1,8 @@
+ThromboembolismRiskLevelEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value
+(CD or CO) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the
+"answer" in data can be "White".
+In the ThromboembolismRiskLevelEval model, the question is, "What is the subject's Thromboembolism Risk Level?" and the coded answers
+can be "high risk," "medium risk," and "low risk."
+"ThromboembolismRiskLevelEval" by definition means the subject is at high, medium, or low risk for thromboembolism.  Thromboembolism
+is a blood vessel clot.
+

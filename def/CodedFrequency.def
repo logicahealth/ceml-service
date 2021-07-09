@@ -1,0 +1,4 @@
+CodedFrequency is a specific named frequency, such as BID, TID, etc. If PeriodicFrequency is instantiated, the value of this field will be "every" or "q=". 
+In that case, it is not clear whether choosing "every" as the frequency causes the collection of PeriodicFrequency, or if collection of PeriodicFrequencyLowerLimit
+causes an automatic set of this field to "every".
+

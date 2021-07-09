@@ -1,0 +1,4 @@
+cem RepeatSpecimenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			RepeatSpecimen_CODE

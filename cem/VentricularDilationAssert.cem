@@ -1,0 +1,25 @@
+cem VentricularDilationAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        Severity
+        id      severity
+        card    0-1
+    qual        ComparativeChangeInImagingFindings
+        id      comparativeChangeInImagingFindings
+        card    0-1
+    qual        Modality
+        id      modality
+        card    0-1 
+    link        ImageLink
+        id      imageLink
+        card    0-M
+    constraint	data.codeableConcept.code
+        value	VentricularDilation_CODE
+    constraint	certaintyOfPresence.data.codeableConcept.valueset
+		value	ProbabilityOfDiagnosisLikelihood_VSET
+    constraint  bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+        value   VentricleBodyLocationPrecoord_VSET
+    constraint  reportedReceived.card
+        value   0
+    constraint  verified.card
+        value   0

@@ -1,0 +1,9 @@
+cem Frequency
+	kind		component
+	key			Frequency_CODE
+	item		FrequencyItem
+		id		frequencyItem
+		card	1-M
+	qual		Expression
+		id		expression
+		card	0-1

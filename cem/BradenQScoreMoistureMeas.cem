@@ -1,0 +1,9 @@
+cem BradenQScoreMoistureMeas
+	kind		statement
+    base        StatementBase
+	key			BradenQScoreMoisture_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.valueset
+		value	BradenQScoreMoisture_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

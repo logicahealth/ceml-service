@@ -1,0 +1,4 @@
+cem CollectionmethodTypePtSemenNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CollectionmethodTypePtSemenNom_CODE

@@ -1,0 +1,6 @@
+MucousMembraneIntegrityEval created on 09/Jun/2016 07:45
+MucousMembraneIntegrityEval is an evaluation type that holds a "question" in the key and holds a coded value (CD or CO) answer in data.  For MucousMembraneIntegrityEval the question is "Is the mucous membrane integrity intact?" (LOINC code 80347-8).  The answers are "Intact" and "Not intact"  (LOINC answers LA18951-6 and LA25376-7).
+
+modeler: N Davis
+status: draft
+version: 1.0

@@ -1,0 +1,42 @@
+cem FailedTherapy
+	kind		statement
+	base		PrescribingGuidance
+	key			FailedTherapy_CODE
+	item		Substance
+		id		substance
+		card	1
+	item		TherapeuticIndication
+		id		therapeuticIndication
+		card	0-M
+	qual		DoseQuantity
+		id		doseQuantity
+		card	0-1
+	qual		DoseFrequency
+		id		doseFrequency
+		card	0-1
+	qual		RouteMethodDevice
+		id		routeMethodDevice
+		card	0-1
+	qual		DoseForm
+		id		doseForm
+		card	0-1
+	qual		GuidanceStatus
+		id		guidanceStatus
+		card	1
+	qual		Severity
+		id		severity
+		card	0-1
+	qual		DateOfLastOccurrence
+		id		dateOfLastOccurrence
+		card	0-1
+	qual		DateOfResolution
+		id		dateOfResolution
+		card	0-1
+	qual		PatientInformedInd
+		id		patientInformedInd
+		card	0-1
+	qual		CauseOfDeathInd
+		id		causeOfDeathInd
+		card	0-1
+	 
+		 

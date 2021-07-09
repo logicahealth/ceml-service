@@ -1,0 +1,4 @@
+BreathsPerMinuteSynchronizedIntermittentMandatoryVentilationSettingMeas model is a setting measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the BreathsPerMinuteSynchronizedIntermittentMandatoryVentilationSettingMeas model, the question is "what is the Breaths per minute synchronized intermittent mandatory ventilation setting of the subject's mechanical ventilator'?" and the numeric answer will have a unit of measure. 
+BreathsPerMinuteSynchronizedIntermittentMandatoryVentilation means the Synchronized (timed equally) Intermittent Mandatory (given by machine) Ventilation breaths per minute setting.
+

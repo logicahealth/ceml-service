@@ -1,0 +1,4 @@
+ChiefComplaintEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the  ChiefComplaintEval model, the question is "what is the subject's chief complaint?" and the coded answers can be 'eye irrigation','arm swelling', and 'fever' etc.
+Chief complaint by definition means the medical condition or concern which brings a subject to a healthcare facility for treatment.  
+

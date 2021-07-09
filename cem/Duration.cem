@@ -1,0 +1,6 @@
+cem Duration
+	kind		component
+	key			Duration_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	TimeUnits_VSET

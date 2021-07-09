@@ -1,0 +1,4 @@
+cem CFTRGenePR117H5TVariantArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CFTRGenePR117H5TVariantArbPtBldTissOrdMolgen_CODE

@@ -1,0 +1,4 @@
+cem InterpretationLUPINTLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			InterpretationLUPINT_CODE

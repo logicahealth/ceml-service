@@ -1,0 +1,23 @@
+cem ArrivedByTransportation
+	kind		component
+	key			ArrivedByTransportation_CODE
+	data		CodeableConcept
+	qual		Confidentiality
+		id		confidentiality
+		card	0-1
+	qual		TransportationDescription
+		id		transportationDescription
+		card	0-1
+	qual		Priority
+		id		priority
+		card	0-1
+	qual		StartTime
+		id		startTime
+		card	0-1
+	qual		EndTime
+		id		endTime
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ArrivalTransportMode_VSET

@@ -1,0 +1,7 @@
+cem MuscleSymmetryAssert
+	kind		statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.valueset
+		value	SymmetricalAsymmetrical_VSET
+	constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	MusculoskeletalBodyLocation_VSET

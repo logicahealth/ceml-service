@@ -1,0 +1,5 @@
+ChestAppearanceEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the ChestAppearanceEval model, the question is "what is the appearance of the subject's chest?" and the coded answers can be 'barrel chest','sternal defect', and 'scoliosis' etc.
+ChestAppearanceEval records how a subject's external chest area appears upon inspection  
+ Made in addition to skin assessmentdue to inclusion of terms like 'barrel chest' in addition to skin evaluation.
+

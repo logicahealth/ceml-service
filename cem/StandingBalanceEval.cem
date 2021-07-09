@@ -1,0 +1,17 @@
+cem StandingBalanceEval
+	kind	statement
+	base	StatementBase
+	key     StandingBalance_CODE
+	data	CodeableConcept
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+	qual        AssociatedPrecondition
+        id      neuromuscularAssociatedPrecondition
+        card    0-M
+    constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	StandingBalance_VSET
+    constraint  neuromuscularAssociatedPrecondition.data.codeableConcept.valueset
+        value   NeuromuscularAssociatedPrecondition_VSET

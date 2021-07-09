@@ -1,0 +1,4 @@
+cem RaceTypePtMotherNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			RaceTypePtMotherNom_CODE

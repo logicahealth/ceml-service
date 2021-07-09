@@ -1,0 +1,9 @@
+cem Modality
+	kind    	component
+	key         Modality_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Modality_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

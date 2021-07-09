@@ -1,0 +1,13 @@
+cem PregnancyStatusEval
+	kind	statement
+	base	StatementBase
+	key			PregnancyStatus_CODE
+	data		CodeableConcept
+
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	PregnancyStatus_VSET
+
+    constraint	performed.card
+	    value	0

@@ -1,0 +1,8 @@
+cem EnemaIntakeFluidVolumeMeas
+	kind		statement
+	base		IntakeFluidVolumeMeas
+	key			EnemaIntakeFluidVolume_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	EnemaIntakeDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	EnemaIntakeBodyLocationPrecoord_VSET

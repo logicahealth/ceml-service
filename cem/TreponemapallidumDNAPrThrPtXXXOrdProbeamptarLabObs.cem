@@ -1,0 +1,4 @@
+cem TreponemapallidumDNAPrThrPtXXXOrdProbeamptarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TreponemapallidumDNAPrThrPtXXXOrdProbeamptar_CODE

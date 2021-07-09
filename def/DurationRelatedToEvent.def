@@ -1,0 +1,3 @@
+DurationRelatedToEvent is used to describe the frequency of administration or execution of an action related to an order
+Based on a patient related event, such as surgery.  This allows constructs such as Days 1, 3 and 7 post op. 
+

@@ -1,0 +1,10 @@
+cem TriggerData
+	kind	statement
+	base	StatementBase
+	key			TriggerData_CODE
+	item		TriggerDataItem
+		id		triggerDataItem
+		card	0-M
+	item		Role
+		id		role
+		card	0-1

@@ -1,0 +1,9 @@
+cem OrderingProvider
+	kind		component
+	key			OrderingProvider_CODE
+	item		ProviderId
+		id		providerId
+		card	0-1
+	item		ProviderName
+		id		providerName
+		card	0-1

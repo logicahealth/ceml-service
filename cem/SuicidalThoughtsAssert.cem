@@ -1,0 +1,8 @@
+cem SuicidalThoughtsAssert
+    kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.code
+        value	SuicidalThoughts_CODE
+     constraint bodyLocation.card
+        value   0
+ 

@@ -1,0 +1,4 @@
+cem ReactiveLymphocytesLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ReactiveLymphocytes_CODE

@@ -1,0 +1,4 @@
+cem EpsteinBarrVirusEarlyAbIgGACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			EpsteinBarrVirusEarlyAbIgGACncPtSerOrd_CODE

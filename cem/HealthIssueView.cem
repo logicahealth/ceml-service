@@ -1,0 +1,19 @@
+cem HealthIssueView
+	kind		component
+	form		abstract
+	key			HealthIssueView_VSET
+	item		HealthIssueInView
+		id		healthIssueInView
+		card	0-M
+	item		HealthIssueInViewSubsumption
+		id		healthIssueInViewSubsumption
+		card	0-M
+	qual		HealthIssueViewPersistenceDuration
+		id		healthIssueViewPersistenceDuration
+		card	0-1
+	qual		PatientIdentifier
+		id		patientIdentifier
+		card	1
+	qual		HealthIssueViewName
+		id		healthIssueViewName
+		card	1

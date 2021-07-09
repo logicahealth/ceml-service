@@ -1,0 +1,6 @@
+cem ThreeHydroxystearoylcarnitineC18OHSCncPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThreeHydroxystearoylcarnitineC18OHSCncPtBlddotQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicromolesPerLiter_CODE

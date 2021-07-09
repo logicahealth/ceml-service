@@ -1,0 +1,6 @@
+cem MethylmalonateCreatinineScRto24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethylmalonateCreatinineScRto24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimolesPerMoleCreatinine_CODE

@@ -1,0 +1,5 @@
+cem HSVType2AbIgGGlycoproteinGCSFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HSVType2AbIgGGlycoproteinGCSF_CODE
+	

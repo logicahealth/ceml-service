@@ -1,0 +1,17 @@
+cem TravelHistory
+	kind		statement
+	base		StatementBase
+	key			TravelHistory_CODE
+
+	item		Date
+		id		dateOfTravel
+		card  	0-1
+	item		CountryOfTravel
+		id		country
+		card  	0-M
+	item		StateOfTravel
+		id		state
+		card  	0-M
+	item		CityOfTravel
+		id		city
+		card  	0-M

@@ -1,0 +1,4 @@
+ExhaledMinuteVolumeLowAlarmSettingMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) "answer" in data. 
+For example, in the ExhaledMinuteVolumeLowAlarmSettingMeas model the "question" or the "test" is "What is the Exhaled Minute Volume Low Alarm Setting measurement?" and the "answer" in data can be "X L/min."
+ExhaledMinuteVolumeLowAlarmSettingMeas by definition means a ventilator setting that sets a low ventilation alarm sensitivity.
+

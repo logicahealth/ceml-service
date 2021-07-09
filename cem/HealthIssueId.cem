@@ -1,0 +1,4 @@
+cem HealthIssueId
+	kind		component
+	key			HealthIssueId_CODE
+	data		Identifier

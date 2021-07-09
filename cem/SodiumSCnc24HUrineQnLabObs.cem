@@ -1,0 +1,6 @@
+cem SodiumSCnc24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SodiumSCnc24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+			value		MolesPerLiter_CODE

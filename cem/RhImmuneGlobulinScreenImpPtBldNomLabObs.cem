@@ -1,0 +1,4 @@
+cem RhImmuneGlobulinScreenImpPtBldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			RhImmuneGlobulinScreenImpPtBldNom_CODE

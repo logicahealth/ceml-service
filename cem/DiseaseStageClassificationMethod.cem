@@ -1,0 +1,7 @@
+cem DiseaseStageClassificationMethod
+	kind    	component
+	key         DiseaseStageClassificationMethod_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Valuesetname_VSET
+

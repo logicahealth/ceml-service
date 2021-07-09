@@ -1,0 +1,10 @@
+cem WoundExudateVolume
+	kind    	component
+	key         WoundExudateVolume_CODE
+    data        Quantity
+    qual		EstimatedInd
+		id		estimatedInd
+		card	0-1
+    constraint	data.quantity.unit_normal
+		value	Milliliters_CODE
+

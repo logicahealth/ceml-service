@@ -1,0 +1,9 @@
+cem DischargeToCareOfEval
+	kind	statement
+	base	StatementBase
+	key			DischargeToCareOf_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Relationship_VSET

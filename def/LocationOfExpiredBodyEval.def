@@ -1,0 +1,4 @@
+LocationOfExpiredBodyEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the LocationOfExpiredBodyEval model, the question is "what is the subject's location of expired body?" and the coded answers can be "Morgue", and "Mortuary" etc.
+"Location of expired body" by definition means "A place where an expired body resides", e.g. Morgue, Mortuary.
+

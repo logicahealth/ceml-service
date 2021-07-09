@@ -1,0 +1,4 @@
+cem HIV12AbImpPtSerNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HIV12AbImpPtSerNar_CODE

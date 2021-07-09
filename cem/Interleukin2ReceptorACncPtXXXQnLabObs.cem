@@ -1,0 +1,6 @@
+cem Interleukin2ReceptorACncPtXXXQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Interleukin2ReceptorACncPtXXXQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerMilliliter_CODE

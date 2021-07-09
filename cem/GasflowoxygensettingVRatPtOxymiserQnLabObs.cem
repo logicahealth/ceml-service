@@ -1,0 +1,6 @@
+cem GasflowoxygensettingVRatPtOxymiserQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GasflowoxygensettingVRatPtOxymiserQn_CODE
+	constraint		data.quantity.unit_code
+			value		LitersPerMinute_CODE

@@ -1,0 +1,17 @@
+BowelFunctionPanel is a panel that contains evaluations describing a patients usual bowel patterns.
+
+added by B Heale on 02/05/2016
+    item        LastBowelMovementDateMeas
+        id      lastBowelMovementDateMeas
+        card    0-1
+    item        PassingFlatusEval
+        id      passingFlatusEval
+        card    0-1
+    item        NumberOfBowelAccidentsMeas
+        id      numberOfBowelAccidentsMeas
+        card    0-1
+    item        BowelEliminationDescriptionEval
+        id      bowelEliminationDescriptionEval
+        card    0-1
+
+changed by B Heale on May 5/10/2016

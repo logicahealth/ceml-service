@@ -1,0 +1,10 @@
+cem BishopsScorePositionMeas
+	kind	statement
+	base	StatementBase
+	key			BishopsScorePosition_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	BishopsScorePosition_VSET

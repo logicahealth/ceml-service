@@ -1,0 +1,6 @@
+VisionChangesPresentAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition
+being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the VisionChangesPresentAssert model, data is VisionChanges_ECID which means there have been recent vision changes, without
+capturing what those vision changes are. 
+

@@ -1,0 +1,6 @@
+ConsistencyOfStoolEval ConsistencyOfStoolEval created on 09/May/2016 15:02
+
+ConsistencyOfStoolEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the ConsistencyOfStoolEval model, the question is "what is the consistency of the subject's stool?" and the coded answers could be from a set such as LA 11029-6 ("Normal", "Soft", "Dry"...)
+"ConsistencyOfStoolEval" by definition means a description of the stool consistency.
+

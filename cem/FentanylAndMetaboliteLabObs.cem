@@ -1,0 +1,4 @@
+cem FentanylAndMetaboliteLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			FentanylAndMetabolite_CODE

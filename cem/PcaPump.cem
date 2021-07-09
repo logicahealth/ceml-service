@@ -1,0 +1,15 @@
+cem PcaPump
+	kind		component
+	key			PcaPump_CODE
+	item		Rate
+		id		basalRate
+		card	1
+	item		Bolus
+		id		bolus
+		card	1
+	item		LockOutInterval
+		id		lockOutInterval
+		card	1
+	item		DosePerPush
+		id		dosePerPush
+		card	1

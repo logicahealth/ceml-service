@@ -1,0 +1,5 @@
+cem EstriolUnconjugatedMoMPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EstriolUnconjugatedMoMPtSerPlasQn_CODE
+	

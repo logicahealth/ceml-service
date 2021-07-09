@@ -1,0 +1,4 @@
+cem BetaGlobulinACnc24HUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BetaGlobulinACnc24HUrineOrd_CODE

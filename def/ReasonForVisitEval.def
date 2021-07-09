@@ -1,0 +1,4 @@
+ReasonForVisitEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the ReasonForVisitEval model, the question is "what is the subject's Reason For Visit?" and the coded answers can be 'ASthma exam', 'Follow up', etc.
+"ReasonForVisitEval" by definition means the reason which leads to the subject's visit to the clinical setting.
+

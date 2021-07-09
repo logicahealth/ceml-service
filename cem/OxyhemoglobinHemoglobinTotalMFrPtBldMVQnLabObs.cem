@@ -1,0 +1,6 @@
+cem OxyhemoglobinHemoglobinTotalMFrPtBldMVQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxyhemoglobinHemoglobinTotalMFrPtBldMVQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	GeneralFractionUnits_VSET

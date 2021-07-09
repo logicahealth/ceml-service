@@ -1,0 +1,4 @@
+cem DiluentLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			Diluent_CODE

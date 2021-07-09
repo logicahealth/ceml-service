@@ -1,0 +1,6 @@
+cem HIV1AbACncPtSerOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HIV1AbACncPtSerOrdEIA_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	ReactNonReactIndet_VSET

@@ -1,0 +1,4 @@
+cem ToxoplasmaGondiiAbIgMACncPtSerPlasOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ToxoplasmaGondiiAbIgMACncPtSerPlasOrdIF_CODE

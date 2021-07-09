@@ -1,0 +1,15 @@
+cem WeightGainMoreThanFivePoundsAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        TimeFrame
+        id      timeFrame
+        card    0-1
+    qual        Intent
+        id      intent
+        card    0-1
+	constraint	timeFrame.data.codeableConcept.code
+		value	WithinLastWeek_CODE
+	constraint	intent.data.codeableConcept.code
+		value	Unintentional_CODE        
+	constraint	data.codeableConcept.code
+		value	WeightGainMoreThanFivePounds_CODE

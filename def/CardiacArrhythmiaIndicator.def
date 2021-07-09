@@ -1,0 +1,6 @@
+CardiacArrhythmiaIndicator is a qualifier CEM used to indicate that a cardiac arrhythmia is present or absent which could affect the measurement of a heart rate or blood pressure.
+
+@Author nrdavis1
+@Date 26 Apr 2021 07:55
+@Status draft
+@RequestedBy Graphite

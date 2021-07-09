@@ -1,0 +1,6 @@
+cem Num11MinusDeoxycorticosteroneMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num11MinusDeoxycorticosteroneMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerDeciliter_CODE

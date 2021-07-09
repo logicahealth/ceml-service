@@ -1,0 +1,6 @@
+TAxisByEKGMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric
+value (PQ, IVLPQ, REAL, INT, CO)  answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate
+measurement?", and the "answer" in data can be "100 bpm".
+In the TAxisByEKGMeas model, the question is "what is the subject's T Axis By EKG?" and the numeric answer will have a unit of measure. 
+"TAxisByEKGMeas" by definition means the angle of the T Axis as shown on an EKG.  It is equivalent to LOINC TWaveAxisAnglePatientHeartEkg.
+

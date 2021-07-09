@@ -1,0 +1,6 @@
+cem Largeunstainedcells100leukocytesNFrPtBldQnAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Largeunstainedcells100leukocytesNFrPtBldQnAutomatedcount_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

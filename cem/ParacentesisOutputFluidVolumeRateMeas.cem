@@ -1,0 +1,8 @@
+cem ParacentesisOutputFluidVolumeRateMeas
+	kind		statement
+	base		OutputVolumeRateMeas
+	key			ParacentesisOutputFluidVolumeRate_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	ParacentesisDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	ParacentesisBodyLocationPrecoord_VSET

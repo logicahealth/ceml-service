@@ -1,0 +1,6 @@
+WoundUnderminingDirection is a component model to indicate the clock face position of the direction of the wound undermining. 12 o' clock is towards the head, 6 o' clock is towards the feet.
+
+@Author ljbuhl
+@Date 14 Sep 2017 13:42
+@Status draft
+@RequestedBy S. Matney

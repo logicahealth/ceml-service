@@ -1,0 +1,16 @@
+cem ParacentesisOutputPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			ParacentesisOutputPanel_CODE
+	item		ParacentesisOutputFluidVolumeMeas
+		id		paracentesisOutputFluidVolumeMeas
+		card	1
+	item		ParacentesisOutputDescriptionEval
+		id		paracentesisOutputDescriptionEval
+		card	0-M
+	constraint	method.data.codeableConcept.valueset
+		value	ParacentesisMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	ParacentesisDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	ParacentesisBodyLocationPrecoord_VSET

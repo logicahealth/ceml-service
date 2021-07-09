@@ -1,0 +1,4 @@
+cem CandidaAlbicansReactionWhealDiamPtSkinOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CandidaAlbicansReactionWhealDiamPtSkinOrd_CODE

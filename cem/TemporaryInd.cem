@@ -1,0 +1,8 @@
+cem TemporaryInd
+	kind		component
+	key			TemporaryInd_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	YesNo_VSET

@@ -1,0 +1,10 @@
+VirginalStatusEval is a model of a question found on instruments such as the Family Planning Annual Report (FPAR).
+e.g. Client self-report of ever being sexually active "Have you ever had sexual intercourse?"
+ 
+The value set has values such as "Non-virginal state" and "Never been sexually acitve."
+
+@Author bsheale 
+@Date 06 Apr 2017 17:20
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog, reporting-instrument

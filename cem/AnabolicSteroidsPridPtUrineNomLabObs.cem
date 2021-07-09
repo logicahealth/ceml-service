@@ -1,0 +1,4 @@
+cem AnabolicSteroidsPridPtUrineNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			AnabolicSteroidsPridPtUrineNom_CODE

@@ -1,0 +1,6 @@
+VolumeExpiredDuringOneSecondOfForcedExpirationVolPtRespQn is a clinical element model for recording the volume of expired air in one second of forced expiration.  LOINC code 20150-9
+
+@Author nrdavis1
+@Date 27 Mar 2019 12:41
+@Status draft
+@RequestedBy Dr. Morris

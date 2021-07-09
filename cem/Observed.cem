@@ -1,0 +1,12 @@
+cem Observed
+	kind		attribution
+	base		Attribution
+    qual		ObservationSetting
+		id		observationSetting
+		card	0-1  	
+    constraint	data.codeableConcept.code
+		value	Observed_CODE
+    constraint  participant.data.codeableConcept.code
+        value   Observer_CODE
+      
+    

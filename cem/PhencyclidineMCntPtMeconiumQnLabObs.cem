@@ -1,0 +1,6 @@
+cem PhencyclidineMCntPtMeconiumQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PhencyclidineMCntPtMeconiumQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerGram_CODE

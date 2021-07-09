@@ -1,0 +1,6 @@
+cem AlphaMinus2MinusMacroglobulinMCncPtXXXQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlphaMinus2MinusMacroglobulinMCncPtXXXQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

@@ -1,0 +1,3 @@
+FacialSensationEval is used to evaluate the sensory portion of Cranial Nerve V (trigeminal nerve), except for the corneal reflex which has the separate model CornealReflexEval.
+
+Built by Jael Lindblom on 3/31/16 for ABD.

@@ -1,0 +1,19 @@
+cem SwellingAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-M
+	qual		AlleviatingFactor
+		id		alleviatingFactor
+		card	0-M
+	qual		ExacerbatingFactor
+		id		exacerbatingFactor
+		card	0-M
+	qual		Course
+		id		course
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	Swelling_CODE
+	constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	MusculoskeletalBodyLocation_VSET

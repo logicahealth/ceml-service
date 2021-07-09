@@ -1,0 +1,6 @@
+InvokeEventProcessId is the invoke event process ID, a unique identifier that starts the alert by data 
+drive or time drive triggering events. One invoke event can ripple into multiple alert event processes. Technically one 
+InvokeEventProcessId has one-to-many relationship to AlertEventProcessId. This InvokeEventProcessId links to many rules that are 
+applicable to this event.  In most cases, no alerts are fired. But when alerts are fired, each alert will be subsequently assigned 
+InvokeEventProcessId, which is stored in the alert CEM instance. 
+

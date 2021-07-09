@@ -1,0 +1,6 @@
+cem MajorCrossmatchImpPtSerPlasNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MajorCrossmatchImpPtSerPlasNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	CrossMatchCompatibility_VSET

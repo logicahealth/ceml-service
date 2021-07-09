@@ -1,0 +1,6 @@
+cem CarcinoembryonicAgMCncPtBodyFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CarcinoembryonicAgMCncPtBodyFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

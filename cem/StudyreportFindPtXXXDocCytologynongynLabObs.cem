@@ -1,0 +1,4 @@
+cem StudyreportFindPtXXXDocCytologynongynLabObs
+	kind		statement
+	base		StandardLabObsDocument
+	key			StudyreportFindPtXXXDocCytologynongyn_CODE

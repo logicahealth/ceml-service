@@ -1,0 +1,6 @@
+cem AminocaproatecutoffMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AminocaproatecutoffMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerMilliliter_CODE

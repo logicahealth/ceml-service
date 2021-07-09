@@ -1,0 +1,4 @@
+cem PhosphatidylserineAbIgGPrThrPtSerOrdIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PhosphatidylserineAbIgGPrThrPtSerOrdIA_CODE

@@ -1,0 +1,8 @@
+cem NationalAssignedIdentifierType
+	kind		component
+	key			NationalAssignedIdentifierType_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	NationalAssignedIdentifierType_VSET

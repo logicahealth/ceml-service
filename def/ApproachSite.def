@@ -1,0 +1,10 @@
+ApproachSite is a component model used to identify the site through wich a Direct Site is accessed.  For example,
+the Cardiac Artery would be the Direct Site that an angioplasty would be performed on and the approach site could
+be the Femoral Artery.  Originaly BodyLocation was going to be used for this purpose but was too ambiguous.
+ApproachSite has a more explicit meaning in this context.
+The ApproachSite value set is the same as the HL7 Body Site value set which derives its values from SNOMED CT
+Anatomical Structure (91723000) hierarchy or Acquired body structure (body structure) (280115004) or 
+Anatomical site notations for tumor staging (body structure) (258331007) or Body structure, altered from its 
+original anatomical structure (morphologic abnormality) (118956008) or Physical anatomical entity 
+(body structure) (91722005)
+

@@ -1,0 +1,6 @@
+cem ErythrocyteSedimentationRateVelPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocyteSedimentationRateVelPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimetersPerHour_CODE

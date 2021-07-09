@@ -1,0 +1,6 @@
+cem RelativeCardiovascularRiskLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RelativeCardiovascularRisk_CODE
+	constraint		data.quantity.unit_code
+		value	UnityUnitsOfMeasure_CODE

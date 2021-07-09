@@ -1,0 +1,4 @@
+cem ZalcitabineSuscPtIsolateOrdQnGenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ZalcitabineSuscPtIsolateOrdQnGenotyping_CODE

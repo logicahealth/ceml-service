@@ -1,0 +1,6 @@
+cem SpermatozoaMotile100SpermatozoaPreWashingNFrPtSemenQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SpermatozoaMotile100SpermatozoaPreWashingNFrPtSemenQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

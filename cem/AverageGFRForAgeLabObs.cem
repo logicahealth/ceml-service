@@ -1,0 +1,6 @@
+cem AverageGFRForAgeLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AverageGFRForAge_CODE
+	constraint	data.quantity.unit_code
+		value	MillilitersPerMinute_CODE

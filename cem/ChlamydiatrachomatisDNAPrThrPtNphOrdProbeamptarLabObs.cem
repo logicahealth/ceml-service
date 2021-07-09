@@ -1,0 +1,4 @@
+cem ChlamydiatrachomatisDNAPrThrPtNphOrdProbeamptarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChlamydiatrachomatisDNAPrThrPtNphOrdProbeamptar_CODE

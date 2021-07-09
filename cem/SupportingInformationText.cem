@@ -1,0 +1,4 @@
+cem SupportingInformationText
+	kind	component
+	key		SupportingInformationText_CODE
+	data	String

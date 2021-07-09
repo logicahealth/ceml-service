@@ -1,0 +1,6 @@
+cem WidthtranslucencyLenPtNecksofttissuefetusQnUSmeasuredLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			WidthtranslucencyLenPtNecksofttissuefetusQnUSmeasured_CODE
+	constraint		data.quantity.unit_code
+			value		Millimeters_CODE

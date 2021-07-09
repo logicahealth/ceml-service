@@ -1,0 +1,23 @@
+cem MammographyMassesPanel
+	kind    	panel
+    base        PanelBase
+	key         MammographyMassesPanel_CODE
+    item        BreastMassAssert
+        id      breastMassAssert
+        card    0-1
+    item        BreastMassShapeEval
+        id      breastMassShapeEval
+        card    0-1
+    item        BreastMassDensityEval
+        id      breastMassDensityEval
+        card    0-1
+    item        BreastMassMarginEval
+        id      breastMassMarginEval
+        card    0-1
+    item        BreastMassSizeMeas
+        id      breastMassSizeMeas
+        card    0-1
+    qual        MassIdentifier
+        id      massIdentifier
+        card    0-1
+    

@@ -1,0 +1,4 @@
+cem CryofibrinogenPrThrPtPlasOrd1WcoldincubationLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CryofibrinogenPrThrPtPlasOrd1Wcoldincubation_CODE

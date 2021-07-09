@@ -1,0 +1,6 @@
+cem AcetylcholineReceptorModulationAbAcetylcholineAbTotalSFrPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AcetylcholineReceptorModulationAbAcetylcholineAbTotalSFrPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

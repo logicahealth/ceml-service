@@ -1,0 +1,8 @@
+cem AdministrativeGender
+	kind		component
+	key			AdministrativeGender_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	AdministrativeGender_VSET

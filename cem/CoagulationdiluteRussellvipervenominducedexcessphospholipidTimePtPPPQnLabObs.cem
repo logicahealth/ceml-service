@@ -1,0 +1,6 @@
+cem CoagulationdiluteRussellvipervenominducedexcessphospholipidTimePtPPPQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationdiluteRussellvipervenominducedexcessphospholipidTimePtPPPQn_CODE
+	constraint		data.quantity.unit_code
+			value		Seconds_CODE

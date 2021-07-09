@@ -1,0 +1,6 @@
+cem StreptolysinOAbACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			StreptolysinOAbACncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		InternationalUnitsPerMilliliterArbitraryConcentrationUnits_CODE

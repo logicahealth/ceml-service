@@ -1,0 +1,6 @@
+cem ErythrocytesNCncPtUrineQnAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocytesNCncPtUrineQnAutomatedcount_CODE
+	constraint		data.quantity.unit_code
+			value		PerMicroliter_CODE

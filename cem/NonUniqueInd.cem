@@ -1,0 +1,8 @@
+cem NonUniqueInd
+	kind		component
+	key			NonUniqueInd_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	YesNo_VSET

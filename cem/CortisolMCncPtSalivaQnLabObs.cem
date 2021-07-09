@@ -1,0 +1,6 @@
+cem CortisolMCncPtSalivaQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CortisolMCncPtSalivaQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerDeciliter_CODE

@@ -1,0 +1,16 @@
+cem CervicalConsistencyEval
+	kind	statement
+	base	PhysicalObs
+	key			CervicalConsistency_CODE
+	data		CodeableConcept
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	CervicalConsistency_VSET
+    constraint  method.card
+        value   0
+    constraint  device.card
+        value   0

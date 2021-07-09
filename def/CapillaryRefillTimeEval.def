@@ -1,0 +1,5 @@
+CapillaryRefillTimeEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the CapillaryRefillTimeEval model, the question is "what is the subject's capillary refill time?" and the coded answers can be 'Capillary Refill Time 2-3 Seconds','Capillary Refill Time Prolonged'.'
+The model describes the time in seconds it takes for normal color to return to a digit, or over the sternum, once blood flow is blocked for a short amount of time.
+It is an indicator of the health of a persons blood circulation.
+

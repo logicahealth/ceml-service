@@ -1,0 +1,6 @@
+cem HIV1AbPrThrPtSerPlasBldOrdIARapidLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HIV1AbPrThrPtSerPlasBldOrdIARapid_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	FPARHIVAbReactiveNonReactive_VSET

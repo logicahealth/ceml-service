@@ -1,0 +1,7 @@
+cem PositiveEndExpiratoryPressureSettingMeas
+	kind	statement
+	base	StatementBase
+	key			PositiveEndExpiratoryPressureSetting_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	CentimetersOfWater_CODE

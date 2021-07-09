@@ -1,0 +1,6 @@
+cem LeukocyteEsteraseACncPtUrineOrdTestStripLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LeukocyteEsteraseACncPtUrineOrdTestStrip_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrdScaleTractToLarge_VSET

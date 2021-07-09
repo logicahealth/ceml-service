@@ -1,0 +1,4 @@
+cem LymphocyteCorrectionLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			LymphocyteCorrection_CODE

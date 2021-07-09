@@ -1,0 +1,4 @@
+cem PyruvateACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PyruvateACncPtUrineOrd_CODE

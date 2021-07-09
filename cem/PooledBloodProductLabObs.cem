@@ -1,0 +1,4 @@
+cem PooledBloodProductLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			PooledBloodProduct_CODE

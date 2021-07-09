@@ -1,0 +1,6 @@
+cem AztreonamSuscPtIsolateOrdQnMICLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AztreonamSuscPtIsolateOrdQnMIC_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerMilliliter_CODE

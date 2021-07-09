@@ -1,0 +1,9 @@
+cem ImagingNStageOfRectalTumor
+	kind    	statement
+    base        StatementBase
+	key         ImagingNStageOfRectalTumor_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   RectalTumorNStage_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE

@@ -1,0 +1,14 @@
+cem FocalSubject
+	kind		modifier
+	key			FocalSubject_CODE
+	data		CodeableConcept
+	qual		PersonIdentifier
+		id		personIdentifier
+		card	0-M
+    qual        SimpleName
+        id      simpleName
+        card    0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	FocalSubject_VSET

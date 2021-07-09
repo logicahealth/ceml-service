@@ -1,0 +1,4 @@
+cem CefuroximeSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CefuroximeSuscPtIsolateOrdQnAgardiffusion_CODE

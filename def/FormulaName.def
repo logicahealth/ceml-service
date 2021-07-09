@@ -1,0 +1,12 @@
+FormulaName created on 19/Jul/2016 13:28
+
+FormulaName is an eval type of model that asks the question "What named formula is being fed to the identified individual?"  Answers are brand names, often with added ingredients (such as iron).
+
+modeler: C Riches
+version: 1.0
+status: draft
+
+Changes:
+Modeler: N Davis
+date: 9/22/2016
+change: swithced from a component model to a statement, used StatementBase as the base.

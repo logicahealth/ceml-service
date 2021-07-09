@@ -1,0 +1,6 @@
+cem MumpsReactionWheal2DPost01MLMumpsIDDiamPtSkinQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MumpsReactionWheal2DPost01MLMumpsIDDiamPtSkinQn_CODE
+	constraint		data.quantity.unit_code
+		value	Millimeters_CODE

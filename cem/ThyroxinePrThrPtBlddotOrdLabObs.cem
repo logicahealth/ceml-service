@@ -1,0 +1,4 @@
+cem ThyroxinePrThrPtBlddotOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ThyroxinePrThrPtBlddotOrd_CODE

@@ -1,0 +1,1 @@
+HealthIssueLink is a link to a HealthIssue.  Created for use by HealthIssueComments, but could be used by any model that needs to link to a HealthIssue.

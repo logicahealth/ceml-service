@@ -1,0 +1,4 @@
+cem NeoGenInbornErrorMetabolicScreenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			NeoGenInbornErrorMetabolicScreen_CODE

@@ -1,0 +1,4 @@
+cem NationalMarrowDonorProgramPanelResultsLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			NationalMarrowDonorProgramPanelResults_CODE

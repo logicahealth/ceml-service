@@ -1,0 +1,4 @@
+cem ABOgroupTypePtBldBPUNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ABOgroupTypePtBldBPUNom_CODE

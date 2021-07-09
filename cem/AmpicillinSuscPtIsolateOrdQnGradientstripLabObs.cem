@@ -1,0 +1,4 @@
+cem AmpicillinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmpicillinSuscPtIsolateOrdQnGradientstrip_CODE

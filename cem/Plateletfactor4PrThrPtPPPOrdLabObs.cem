@@ -1,0 +1,7 @@
+cem Plateletfactor4PrThrPtPPPOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			Plateletfactor4PrThrPtPPPOrd_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	PosNegEquiIndet_VSET

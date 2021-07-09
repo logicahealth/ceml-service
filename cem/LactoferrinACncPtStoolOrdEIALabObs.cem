@@ -1,0 +1,4 @@
+cem LactoferrinACncPtStoolOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LactoferrinACncPtStoolOrdEIA_CODE

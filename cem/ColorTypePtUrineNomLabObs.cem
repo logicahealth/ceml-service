@@ -1,0 +1,6 @@
+cem ColorTypePtUrineNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ColorTypePtUrineNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	UrineColor_VSET

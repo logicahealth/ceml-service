@@ -1,0 +1,4 @@
+HumptyDumptyFallScaleResponseToSurgerySedationAnesthesiaMeas created on 08/Sep/2016 22:04 by Jael Lindblom for ABD.
+
+This model is part of the HumptyDumptyFallScalePanel. It evaluates the time frame in which the patient had surgery, sedation or anesthesia. The values are "Within 24 hours", "Within 48 hours" and "More than 48 hours" and are each associated with an ordinal value for the score.
+

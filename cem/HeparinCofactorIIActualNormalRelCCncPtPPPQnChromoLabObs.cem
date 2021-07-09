@@ -1,0 +1,6 @@
+cem HeparinCofactorIIActualNormalRelCCncPtPPPQnChromoLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HeparinCofactorIIActualNormalRelCCncPtPPPQnChromo_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

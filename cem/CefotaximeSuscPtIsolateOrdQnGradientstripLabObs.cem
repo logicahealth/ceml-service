@@ -1,0 +1,4 @@
+cem CefotaximeSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CefotaximeSuscPtIsolateOrdQnGradientstrip_CODE

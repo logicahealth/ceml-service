@@ -1,0 +1,15 @@
+cem EndTidalCarbonDioxideMeas
+	kind	statement
+	base	StatementBase
+	key			EndTidalCarbonDioxide_CODE
+	data		Quantity
+	qual		MethodDevice
+		id		methodDevice
+		card	0-1
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	constraint	methodDevice.data.codeableConcept.valueset
+		value	VentilatorMethodDevice_VSET
+	constraint	data.quantity.unit_code
+		value	MillimetersOfMercury_CODE

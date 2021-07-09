@@ -1,0 +1,3 @@
+WeightGainMoreThanFivePoundsAssert created on 14/Jul/2016 11:03 by Jael Lindblom for ABD.
+
+This model is used to assert that a person has gained more than 5 pounds of body weight, with the options to state that the weight change has happened unintentionally and within the last week. If in the future there is a need to state a different time period than the last week, the code constraint to WithinLastWeek_CODE should be deleted and TimeFrame instead be constrained to a valueset with the value of Within Last Week and the new value/s in it.

@@ -1,0 +1,8 @@
+FPARPatientVisitInfoPanel is model for patient information populated at time of the Family Practice Encounter for FPAR
+
+@Author bsheale
+@Date 05 Apr 2017 16:49
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog, lab, implementation
+

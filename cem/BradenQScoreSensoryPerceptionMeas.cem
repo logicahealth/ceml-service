@@ -1,0 +1,9 @@
+cem BradenQScoreSensoryPerceptionMeas
+	kind		statement
+    base        StatementBase
+	key			BradenQScoreSensoryPerception_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.valueset
+		value	BradenQScoreSensoryPerception_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

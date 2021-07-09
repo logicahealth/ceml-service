@@ -1,0 +1,5 @@
+cem BleedingAssert
+    kind        statement
+    base        AssertionOfPresence
+    constraint	data.codeableConcept.code
+        value	Bleeding_CODE

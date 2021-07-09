@@ -1,0 +1,4 @@
+cem GenomicMicroarrayPanelConstitutionalAndComprehensiveCoverageLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			GenomicMicroarrayPanelConstitutionalAndComprehensiveCoverage_CODE

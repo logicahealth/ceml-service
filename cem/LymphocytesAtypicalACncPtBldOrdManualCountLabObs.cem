@@ -1,0 +1,4 @@
+cem LymphocytesAtypicalACncPtBldOrdManualCountLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LymphocytesAtypicalACncPtBldOrdManualCount_CODE

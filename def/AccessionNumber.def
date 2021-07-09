@@ -1,0 +1,4 @@
+AccessionNumber identifies an order uniquely among all orders from a particular ordering application.
+For lab orders, this number typically corresponds to all tests performed on a particular specimen.
+
+

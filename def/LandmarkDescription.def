@@ -1,0 +1,6 @@
+LandmarkDescription is a component type of clinical element model.  It is part of the BodyLandmarkOrientation model and used to describe the kind of landmark used as an observation point of reference.
+
+@Author nrdavis1
+@Date 25 Feb 2019 11:57
+@Status draft
+@RequestedBy CIMI Skin and Wound

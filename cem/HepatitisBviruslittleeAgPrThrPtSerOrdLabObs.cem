@@ -1,0 +1,4 @@
+cem HepatitisBviruslittleeAgPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HepatitisBviruslittleeAgPrThrPtSerOrd_CODE

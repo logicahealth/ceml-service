@@ -1,0 +1,5 @@
+<<<<<<< .mine
+This is the AlertSeverity CEM. It is only for information purposes.  It provides information about
+the level of severity, such as high, medium, low. It should not be confused with severityIndex that determines routing for this alert. 
+
+

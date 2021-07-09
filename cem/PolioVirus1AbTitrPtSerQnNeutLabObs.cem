@@ -1,0 +1,5 @@
+cem PolioVirus1AbTitrPtSerQnNeutLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PolioVirus1AbTitrPtSerQnNeut_CODE
+	

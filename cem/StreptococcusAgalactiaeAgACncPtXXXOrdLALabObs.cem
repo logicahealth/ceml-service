@@ -1,0 +1,4 @@
+cem StreptococcusAgalactiaeAgACncPtXXXOrdLALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StreptococcusAgalactiaeAgACncPtXXXOrdLA_CODE

@@ -1,0 +1,6 @@
+cem TriticumAestivumAbIgGMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TriticumAestivumAbIgGMCncPtSerQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	MassConcentrationUnits_VSET

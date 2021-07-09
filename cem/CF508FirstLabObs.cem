@@ -1,0 +1,4 @@
+cem CF508FirstLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CF508First_CODE

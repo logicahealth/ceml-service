@@ -1,0 +1,12 @@
+cem PatientVoidedWithUnknownAmountCountMeas
+	kind	statement
+	base	StatementBase
+	key     PatientVoidedWithUnknownAmountCount_CODE
+	data		Quantity
+	qual		IncontinentInd
+		id		incontinentInd
+		card	0-1
+    constraint	data.quantity.unit_valueset
+		value	VoidingNumberRateUnits_VSET
+	constraint	data.quantity.unit_code
+		value	PerDay_CODE

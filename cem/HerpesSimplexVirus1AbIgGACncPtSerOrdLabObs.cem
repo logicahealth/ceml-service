@@ -1,0 +1,6 @@
+cem HerpesSimplexVirus1AbIgGACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HerpesSimplexVirus1AbIgGACncPtSerOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

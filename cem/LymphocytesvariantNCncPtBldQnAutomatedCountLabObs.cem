@@ -1,0 +1,8 @@
+cem LymphocytesvariantNCncPtBldQnAutomatedCountLabObs
+	kind    	statement
+    base        StatementBase
+	key         LymphocytesvariantNCncPtBldQnAutomatedCountLabObs_CODE
+    data        Quantity
+    constraint  data.quantity.unit_code       
+        value   ThousandsPerMicroliter_CODE    
+

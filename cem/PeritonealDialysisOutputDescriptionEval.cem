@@ -1,0 +1,10 @@
+cem PeritonealDialysisOutputDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			PeritonealDialysisOutputDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	PeritonealDialysisOutputDescription_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	PeritonealDialysisDevice_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	PeritonealDialysisBodyLocationPrecoord_VSET

@@ -1,0 +1,4 @@
+cem NevirapineSuscPtIsolateOrdQnPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NevirapineSuscPtIsolateOrdQnPhenotyping_CODE

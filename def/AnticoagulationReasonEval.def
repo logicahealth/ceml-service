@@ -1,0 +1,4 @@
+AnticoagulationReasonEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the  AnticoagulationReasonEval model, the question is "what is the reason for the subject being on anitcoagulation therapy?" and the coded answers can be 'Aortic valve prosthesis','Pulmonary embolus', and 'Recurrent deep vein thrombosis' etc.
+"Anticoagulation" by definition means "administering some type of therapy, usually medication to interrupt the clotting process in the blood, making the blood 'thinner''".
+

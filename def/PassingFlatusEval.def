@@ -1,0 +1,7 @@
+PassingFlatusEval created on 15/Apr/2016 13:04
+status: proposed
+Author: B Heale
+
+PassingFlatusEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the PassingFlatusEval model, the question is, "Is the patient exhibiting a bowel movement as flatulence?" Yes, no and unknown are the answers.
+"PassingFlatusEval" by definition means an evaluation to determine if the patient is exhibiting a bowel movement as flatulence.

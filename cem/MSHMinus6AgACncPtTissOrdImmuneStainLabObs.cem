@@ -1,0 +1,4 @@
+cem MSHMinus6AgACncPtTissOrdImmuneStainLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MSHMinus6AgACncPtTissOrdImmuneStain_CODE

@@ -1,0 +1,6 @@
+cem YeastACncPtXXXOrdWetPreparationLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			YeastACncPtXXXOrdWetPreparation_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	ObservNeg_VSET

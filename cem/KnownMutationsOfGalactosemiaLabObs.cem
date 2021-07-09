@@ -1,0 +1,4 @@
+cem KnownMutationsOfGalactosemiaLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			KnownMutationsOfGalactosemia_CODE

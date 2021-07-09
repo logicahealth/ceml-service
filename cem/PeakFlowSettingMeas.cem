@@ -1,0 +1,7 @@
+cem PeakFlowSettingMeas
+	kind	statement
+	base	StatementBase
+	key		PeakFlowSetting_CODE
+	data	Quantity
+	constraint	data.quantity.unit_code
+		value	LitersPerMinute_CODE

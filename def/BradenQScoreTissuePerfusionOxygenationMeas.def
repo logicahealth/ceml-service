@@ -1,0 +1,5 @@
+BradenQScoreTissuePerfusionOxygenationMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ)or ordinal value (CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the BradenQScoreTissuePerfusionOxygenationMeas model, the question is "what is the subject's Braden Q tissue perfusion oxygenation score?" and the answer will be an ordinal value.
+BradenQScoreTissuePerfusionOxygenationMeas is an element of the bradenQ score skin assessment tool. This section evaluates the newborn/pediatric patient's skin perfusion and oxygen saturation.
+Values range from 1-4 and correspond as follows: '1'corresponds to 'Extremely Compromised', '2' corresponds to 'Compromised', '3' to 'Adequate', and a '4' to 'Excellent'.
+

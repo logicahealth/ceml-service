@@ -1,0 +1,5 @@
+cem ImmatureToTotalNeutrophilRatioLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ImmatureToTotalNeutrophilRatio_CODE
+	

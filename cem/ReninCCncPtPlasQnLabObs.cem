@@ -1,0 +1,6 @@
+cem ReninCCncPtPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ReninCCncPtPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliterPerHour_CODE

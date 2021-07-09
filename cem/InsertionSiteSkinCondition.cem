@@ -1,0 +1,8 @@
+cem InsertionSiteSkinCondition
+	kind		component
+	key			InsertionSiteSkinCondition_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	InsertionSiteSkinCondition_VSET

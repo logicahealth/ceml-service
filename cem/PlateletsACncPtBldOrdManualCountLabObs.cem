@@ -1,0 +1,6 @@
+cem PlateletsACncPtBldOrdManualCountLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PlateletsACncPtBldOrdManualCount_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	PlateletEstimate_VSET

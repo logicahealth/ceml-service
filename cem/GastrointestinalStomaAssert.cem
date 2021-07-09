@@ -1,0 +1,7 @@
+cem GastrointestinalStomaAssert
+	kind		statement
+	base		TubeDrainStomaAssert
+	constraint	data.codeableConcept.valueset
+		value	GastrointestinalStoma_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	AbdominalBodyLocation_VSET

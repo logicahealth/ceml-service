@@ -1,0 +1,5 @@
+cem StagingSystem
+	kind    	component
+	key         StagingSystem_CODE
+    data        CodeableConcept
+

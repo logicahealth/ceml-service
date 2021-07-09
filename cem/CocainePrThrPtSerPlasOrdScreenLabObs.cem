@@ -1,0 +1,4 @@
+cem CocainePrThrPtSerPlasOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CocainePrThrPtSerPlasOrdScreen_CODE

@@ -1,0 +1,6 @@
+cem BaseExcessSCncPtBldVQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BaseExcessSCncPtBldVQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimolesPerLiter_CODE

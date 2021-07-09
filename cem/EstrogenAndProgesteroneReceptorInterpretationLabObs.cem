@@ -1,0 +1,4 @@
+cem EstrogenAndProgesteroneReceptorInterpretationLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			EstrogenAndProgesteroneReceptorInterpretation_CODE

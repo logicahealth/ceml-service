@@ -1,0 +1,6 @@
+cem InsulinMinusLikeGrowthFactorMinusIMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			InsulinMinusLikeGrowthFactorMinusIMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

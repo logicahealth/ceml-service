@@ -1,0 +1,3 @@
+HealthIssueViewPersistenceDuration is the length of time that a Health Issue View remains relevant after the 
+patient is transferred, discharged or has switched PCP.
+

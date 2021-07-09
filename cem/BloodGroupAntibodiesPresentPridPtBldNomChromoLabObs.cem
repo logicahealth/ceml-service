@@ -1,0 +1,6 @@
+cem BloodGroupAntibodiesPresentPridPtBldNomChromoLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BloodGroupAntibodiesPresentPridPtBldNomChromo_CODE
+	constraint	data.codeableConcept.valueset
+		value	AntibodyID_VSET

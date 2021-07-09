@@ -1,0 +1,4 @@
+cem ColoradoTickFeverVirusAbIgGACncPtSerOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ColoradoTickFeverVirusAbIgGACncPtSerOrdIF_CODE

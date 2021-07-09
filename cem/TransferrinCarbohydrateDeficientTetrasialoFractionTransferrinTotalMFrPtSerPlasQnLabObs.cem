@@ -1,0 +1,6 @@
+cem TransferrinCarbohydrateDeficientTetrasialoFractionTransferrinTotalMFrPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TransferrinCarbohydrateDeficientTetrasialoFractionTransferrinTotalMFrPtSerPlasQn_CODE
+	constraint	data.quantity.unit_code
+		value	Percent_CODE

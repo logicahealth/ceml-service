@@ -1,0 +1,7 @@
+cem DistanceFromLandmark
+	kind    	component
+	key         DistanceFromLandmark_CODE
+    data        Quantity
+    constraint  data.quantity.unit_code
+        value   Centimeters_CODE
+

@@ -1,0 +1,10 @@
+cem AmbulationAssistanceEval
+	kind    	statement
+    base        StatementBase
+	key         AmbulationAssistance_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   AmbulationLevelOfAssistance_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

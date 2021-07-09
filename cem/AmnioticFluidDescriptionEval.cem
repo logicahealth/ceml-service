@@ -1,0 +1,11 @@
+cem AmnioticFluidDescriptionEval
+	kind	statement
+	base	FluidDescriptionEval
+	key			AmnioticFluidDescription_CODE
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	AmnioticFluidDescription_VSET
+    constraint  bodyLocation.card
+        value   0
+    

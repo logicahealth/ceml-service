@@ -1,0 +1,4 @@
+cem SalicylatesPrThrPtSerPlasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SalicylatesPrThrPtSerPlasOrd_CODE

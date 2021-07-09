@@ -1,0 +1,4 @@
+cem ProviderInstruction
+	kind		component
+	key			ProviderInstruction_CODE
+	data		String

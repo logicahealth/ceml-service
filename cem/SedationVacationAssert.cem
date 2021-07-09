@@ -1,0 +1,5 @@
+cem SedationVacationAssert
+	kind		statement
+	base		ObservationAssert
+	constraint	data.codeableConcept.code
+		value	SedationVacation_CODE

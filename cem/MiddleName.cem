@@ -1,0 +1,4 @@
+cem MiddleName
+	kind		component
+	key			MiddleName_CODE
+	data		String

@@ -1,0 +1,4 @@
+DirectSite is a component model used mostly in procedure models to identify the primary site that a procedure is being performed on.
+Sample values from the direct site value set include: Tricuspid valve, nose, meniscus of the knee. This is a broad value set which 
+can be further narrowed by constraints in a particular model to a subset of appropriate values.
+

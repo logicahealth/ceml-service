@@ -1,0 +1,18 @@
+cem SensationAbilityEval
+	kind		statement
+    base        StatementBase
+	key			SensationAbility_CODE
+	data		CodeableConcept
+	qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+    qual        DistalToInjuryIndicator
+        id      distalToInjuryIndicator
+        card    0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	SensationAbility_VSET

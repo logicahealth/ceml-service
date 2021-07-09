@@ -1,0 +1,6 @@
+cem PhosphorusBodyWeight24hUrineLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PhosphorusBodyWeight24hUrine_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerKilogramPerDay_CODE

@@ -1,0 +1,6 @@
+cem Insulin30MPost75GGlucosePOMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Insulin30MPost75GGlucosePOMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrointernationalUnitsPerMilliliter_CODE

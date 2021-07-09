@@ -1,0 +1,4 @@
+cem SicklecellanemiaImpPtBlddotOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SicklecellanemiaImpPtBlddotOrd_CODE

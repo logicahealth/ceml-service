@@ -1,0 +1,9 @@
+cem PulmonaryEmbolismSeverityIndexInterpretation
+	kind	statement
+	base	StatementBase
+	key			PulmonaryEmbolismSeverityIndexInterpretation_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	PulmonaryEmbolismSeverityIndexInterpretation_VSET

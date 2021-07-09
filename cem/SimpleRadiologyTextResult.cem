@@ -1,0 +1,15 @@
+cem SimpleRadiologyTextResult
+	kind	statement
+	base	StatementBase
+	form		abstract
+	key			SimpleRadiologyText_CODE
+	data		String
+	qual		SupportingInformationPointerLink
+		id		supportingInformationPointerLink
+		card	0-1
+	qual		SupportingInformationStringLink
+		id		supportingInformationStringLink
+		card	0-1
+	qual		DateOfOnset
+		id		dateOfOnset
+		card	0-1

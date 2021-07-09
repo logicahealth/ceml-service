@@ -1,0 +1,4 @@
+cem Alpha1FetoproteinAgPrThrPtTissOrdImmunestainLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			Alpha1FetoproteinAgPrThrPtTissOrdImmunestain_CODE

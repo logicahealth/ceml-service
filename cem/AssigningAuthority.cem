@@ -1,0 +1,4 @@
+cem AssigningAuthority
+	kind		component
+	key			AssigningAuthority_CODE
+	data		String

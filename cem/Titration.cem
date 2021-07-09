@@ -1,0 +1,18 @@
+cem Titration
+	kind		component
+	key			Titration_CODE
+	item		TitrationAction
+		id		titrationAction
+		card	1
+	item		Rate
+		id		startingRate
+		card	1
+	item		IncrementalDosageChange
+		id		incrementalDosageChange
+		card	0-1
+	item		Rate
+		id		maxRate
+		card	1
+	item		GiveCondition
+		id		giveCondition
+		card	1

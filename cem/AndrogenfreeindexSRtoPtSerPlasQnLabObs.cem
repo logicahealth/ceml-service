@@ -1,0 +1,6 @@
+cem AndrogenfreeindexSRtoPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AndrogenfreeindexSRtoPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

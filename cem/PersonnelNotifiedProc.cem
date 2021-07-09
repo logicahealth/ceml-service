@@ -1,0 +1,11 @@
+cem PersonnelNotifiedProc
+	kind		statement
+	base		Procedure
+	qual		RouteMethodDevice
+		id		routeMethodDevice
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	PersonnelNotified_CODE

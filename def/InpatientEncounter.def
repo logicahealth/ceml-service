@@ -1,0 +1,6 @@
+InpatientEncounter
+This is the InpatientEncounter clinical element model.  It is used to capture data about only an inpatient type of encounter only.
+
+modeler: NDavis
+date: 12/17/2015
+change: removed Comorbidity due to its similarity with RelatedCondition.

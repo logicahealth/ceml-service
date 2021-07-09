@@ -1,0 +1,10 @@
+cem BedMobilityAssistanceEval
+	kind    	statement
+    base        StatementBase
+	key         BedMobilityAssistance_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   BedMobilityLevelOfAssistance_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

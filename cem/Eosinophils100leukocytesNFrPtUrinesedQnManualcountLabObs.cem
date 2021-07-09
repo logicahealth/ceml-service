@@ -1,0 +1,6 @@
+cem Eosinophils100leukocytesNFrPtUrinesedQnManualcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Eosinophils100leukocytesNFrPtUrinesedQnManualcount_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

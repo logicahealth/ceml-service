@@ -1,0 +1,6 @@
+cem HemoglobinCHemoglobinTotalMFrPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HemoglobinCHemoglobinTotalMFrPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	GramsPerDeciliter_CODE

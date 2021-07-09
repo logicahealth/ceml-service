@@ -1,0 +1,6 @@
+cem CucumisMeloSppAbIgEAcncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CucumisMeloSppAbIgEACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	KilounitsPerLiter_CODE

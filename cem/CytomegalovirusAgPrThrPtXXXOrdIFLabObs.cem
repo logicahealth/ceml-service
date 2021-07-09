@@ -1,0 +1,4 @@
+cem CytomegalovirusAgPrThrPtXXXOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CytomegalovirusAgPrThrPtXXXOrdIF_CODE

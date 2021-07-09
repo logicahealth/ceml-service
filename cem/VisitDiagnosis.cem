@@ -1,0 +1,7 @@
+cem VisitDiagnosis
+	kind	component
+	key     VisitDiagnosis_CODE
+	data	CodeableConcept
+	qual		PrimaryInd
+		id		primaryind
+		card	0-1

@@ -1,0 +1,4 @@
+cem LeukocytesACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LeukocytesACncPtUrineOrd_CODE

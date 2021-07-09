@@ -1,0 +1,4 @@
+cem BacteriaidentifiedPridPtGenitalNomAerobiccultureLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BacteriaidentifiedPridPtGenitalNomAerobicculture_CODE

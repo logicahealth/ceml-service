@@ -1,0 +1,7 @@
+cem PlateauPressureSettingMeas
+	kind	statement
+	base	StatementBase
+	key			PlateauPressureSetting_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	Centimeters_CODE

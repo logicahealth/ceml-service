@@ -1,0 +1,6 @@
+cem OxalateMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxalateMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerMilliliter_CODE

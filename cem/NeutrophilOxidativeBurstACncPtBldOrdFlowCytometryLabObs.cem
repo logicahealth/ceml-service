@@ -1,0 +1,4 @@
+cem NeutrophilOxidativeBurstACncPtBldOrdFlowCytometryLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeutrophilOxidativeBurstACncPtBldOrdFlowCytometry_CODE

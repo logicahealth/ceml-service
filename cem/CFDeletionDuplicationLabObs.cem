@@ -1,0 +1,4 @@
+cem CFDeletionDuplicationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CFDeletionDuplication_CODE

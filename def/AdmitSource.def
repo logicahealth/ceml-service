@@ -1,0 +1,4 @@
+AdmitSource indicates where the patient was admitted from. Sample values from HL7 2.x are: Physician referral, Clinic referral, HMO referral,
+Transfer from a hospital, Transfer from a skilled nursing facility, Transfer from another health care 
+facility, Emergency room, Court/law enforcement, Information not available. 
+

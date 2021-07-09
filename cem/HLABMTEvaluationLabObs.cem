@@ -1,0 +1,4 @@
+cem HLABMTEvaluationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HLABMTEvaluation_CODE

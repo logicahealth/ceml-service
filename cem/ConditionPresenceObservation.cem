@@ -1,0 +1,28 @@
+cem ConditionPresenceObservation
+	kind    statement
+    base    Observation
+	key     ConditionPresenceObservation_CODE
+    data    CodeableConcept
+
+    qual        ConditionIdentity
+        id      conditionIdentity
+        card    1
+    qual        DataOriginationMode
+        id      dataOriginationMode
+        card    0-1
+    constraint  data.codeableConcept.valueset
+        value   PresentAbsent_VSET
+    constraint  dataOriginationMode.data.codeableConcept.valueset
+        value   ConditionPresenceObsDataOriginationMode_VSET
+    constraint  dataOriginationMode.data.codeableConcept.strength
+        value   CWE
+    constraint  method.card
+        value   0
+    constraint  interpretation.card
+        value   0
+    constraint  device.card
+        value   0
+    constraint  focalSubject.card
+        value   0
+
+   

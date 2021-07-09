@@ -1,0 +1,7 @@
+FPARPatient subtype of Patient for the FPAR report to include LimitedEnglishProficiencyInd.
+
+@Author bsheale
+@Date 11 May 2017 18:01
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog, implementation

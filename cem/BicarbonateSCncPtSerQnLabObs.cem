@@ -1,0 +1,6 @@
+cem BicarbonateSCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BicarbonateSCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimolesPerLiter_CODE

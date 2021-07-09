@@ -1,0 +1,5 @@
+cem Ordered
+	kind		attribution
+	base		Attribution
+	constraint	data.codeableConcept.code
+		value	Ordered_CODE

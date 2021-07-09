@@ -1,0 +1,4 @@
+cem PathreportsupplementalreportsFindPtSpecimenNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			PathreportsupplementalreportsFindPtSpecimenNar_CODE

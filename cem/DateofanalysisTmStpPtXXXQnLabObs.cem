@@ -1,0 +1,4 @@
+cem DateofanalysisTmStpPtXXXQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DateofanalysisTmStpPtXXXQn_CODE

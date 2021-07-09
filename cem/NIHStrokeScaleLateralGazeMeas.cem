@@ -1,0 +1,14 @@
+cem NIHStrokeScaleLateralGazeMeas
+	kind	statement
+	base	StatementBase
+	key         NIHStrokeScaleLateralGaze_CODE
+	data        CodeableOrdinal
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M
+    constraint  data.codeableOrdinal.valueset
+        value   NIHStrokeScaleLateralGaze_VSET
+    constraint  associatedPrecondition.data.codeableConcept.valueset
+        value   NIHStrokeScaleAssociatedPrecondition_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

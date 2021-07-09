@@ -1,0 +1,4 @@
+cem BarbituratesPrThrPtUrineOrdScreen200ngmLLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BarbituratesPrThrPtUrineOrdScreen200ngmL_CODE

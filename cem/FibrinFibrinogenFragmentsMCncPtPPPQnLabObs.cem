@@ -1,0 +1,6 @@
+cem FibrinFibrinogenFragmentsMCncPtPPPQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FibrinFibrinogenFragmentsMCncPtPPPQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

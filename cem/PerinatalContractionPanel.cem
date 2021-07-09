@@ -1,0 +1,19 @@
+cem PerinatalContractionPanel
+	kind	panel
+	base	PanelBase
+	key			PerinatalContractionPanel_CODE
+	item		MonitoredUterineContractionStrengthToneMeas
+		id		monitoredUterineContractionStrengthToneMeas
+		card	0-1
+	item		UterineContractionStrengthSubjectiveEval
+		id		uterineContractionStrengthSubjectiveEval
+		card	0-1
+	item		UterineContractionDurationMeas
+		id		uterineContractionDurationMeas
+		card	0-1
+	item		UterineContractionFrequencyMeas
+		id		uterineContractionFrequencyMeas
+		card	0-1
+	item		UterineContractionPerHourFrequencyMeas
+		id		uterineContractionPerHourFrequencyMeas
+		card	0-1

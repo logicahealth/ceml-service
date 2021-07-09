@@ -1,0 +1,3 @@
+UrineCountMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the UrineCountMeas model, the question is "what is the number of times that the subject voided over a specified amount of time, usually per shift." and the numeric answer will be experessed in counts per day. 
+"UrineCountMeas" measures the total number of subject's urination over a specified amount of time.

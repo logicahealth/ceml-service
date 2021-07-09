@@ -1,0 +1,7 @@
+cem TrichomonasvaginalisPrThrPtXXXOrdWetpreparationLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TrichomonasvaginalisPrThrPtXXXOrdWetpreparation_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	NoneRareFewModMany_VSET

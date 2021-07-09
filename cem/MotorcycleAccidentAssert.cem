@@ -1,0 +1,11 @@
+cem MotorcycleAccidentAssert
+	kind		statement
+	base		EventAssert
+	qual		MotorcycleHelmetUsed
+		id		motorcycleHelmetUsed
+		card	0-1
+	qual		AirbagDeployed
+		id		airbagDeployed
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	MotorcycleAccident_CODE

@@ -1,0 +1,4 @@
+cem VisitSchedule
+	kind		component
+	key			VisitSchedule_CODE
+	data		CodeableConcept

@@ -1,0 +1,4 @@
+cem FungifilamentousPrThrPtUrineOrdComputerassistedLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			FungifilamentousPrThrPtUrineOrdComputerassisted_CODE

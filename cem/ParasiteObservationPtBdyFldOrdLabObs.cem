@@ -1,0 +1,4 @@
+cem ParasiteObservationPtBdyFldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ParasiteObservationPtBdyFldOrd_CODE

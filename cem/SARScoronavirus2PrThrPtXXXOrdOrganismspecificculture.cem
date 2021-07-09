@@ -1,0 +1,7 @@
+cem SARScoronavirus2PrThrPtXXXOrdOrganismspecificculture
+	kind    	statement
+    base        StandardLabObsOrdinal
+	key         SARScoronavirus2PrThrPtXXXOrdOrganismspecificculture_CODE
+    constraint  data.codeableOrdinal.valueset
+        value   IsolatedNotIsolated_VSET
+

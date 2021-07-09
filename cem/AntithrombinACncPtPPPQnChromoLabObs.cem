@@ -1,0 +1,6 @@
+cem AntithrombinACncPtPPPQnChromoLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AntithrombinACncPtPPPQnChromo_CODE
+	constraint		data.quantity.unit_code
+			value		InternationalUnitsPerMilliliterArbitraryConcentrationUnits_CODE

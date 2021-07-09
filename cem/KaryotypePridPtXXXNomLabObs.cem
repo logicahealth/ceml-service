@@ -1,0 +1,4 @@
+cem KaryotypePridPtXXXNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			KaryotypePridPtXXXNom_CODE

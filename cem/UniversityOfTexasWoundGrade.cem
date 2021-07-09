@@ -1,0 +1,14 @@
+cem UniversityOfTexasWoundGrade
+	kind    	panel
+    base        PanelBase
+	key         UniversityOfTexasWoundGrade_CODE
+    item        GradeValue
+        id      gradeValue
+        card    1
+    item        StageValue
+        id      stageValue
+        card    1
+    constraint  gradeValue.data.codeableConcept.valueset
+        value   UOfTWoundGrade_VSET
+    constraint  stageValue.data.codeableConcept.valueset
+        value   UOfTWoundStage_VSET

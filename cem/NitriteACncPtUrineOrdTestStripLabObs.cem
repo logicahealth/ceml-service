@@ -1,0 +1,6 @@
+cem NitriteACncPtUrineOrdTestStripLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NitriteACncPtUrineOrdTestStrip_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

@@ -1,0 +1,7 @@
+cem CoccidioidesimmitisAbIgMPrThrPtSerOrdIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CoccidioidesimmitisAbIgMPrThrPtSerOrdIA_CODE
+
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

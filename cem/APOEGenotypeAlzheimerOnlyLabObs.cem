@@ -1,0 +1,4 @@
+cem APOEGenotypeAlzheimerOnlyLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			APOEGenotypeAlzheimerOnly_CODE

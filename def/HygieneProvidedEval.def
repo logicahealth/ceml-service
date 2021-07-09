@@ -1,0 +1,8 @@
+HygieneProvidedEval created on 20/Apr/2016 14:40
+status: proposed
+Author: B Heale
+
+HygieneProvidedEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the HygieneProvidedEval model, the question is, "What form of hygiene has been provided?"
+"HygieneProvidedEval" by definition is the statement of what form of hygiene has been provided, if any, to a person (typically a patient).
+Thy types of hygiene can be things like  'shampoo,' 'shave,' 'back rub.'

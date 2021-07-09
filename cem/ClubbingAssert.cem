@@ -1,0 +1,8 @@
+cem ClubbingAssert
+	kind	    statement
+	base        AssertionOfPresence
+    constraint  data.codeableConcept.code
+        value   Clubbing_CODE
+    constraint  bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+        value   ClubbingBodyLocationPrecoord_VSET
+	

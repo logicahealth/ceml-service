@@ -1,0 +1,4 @@
+cem NeuronalNuclearAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeuronalNuclearAbACncPtSerOrd_CODE

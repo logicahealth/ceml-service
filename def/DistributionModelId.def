@@ -1,0 +1,2 @@
+DistributionModelId is the pointer to a different table that stores destination information for this alert, and these destinations are managed by users.
+

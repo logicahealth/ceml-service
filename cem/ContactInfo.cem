@@ -1,0 +1,4 @@
+cem ContactInfo
+	kind		component
+	key			ContactInfo_CODE
+	data		String

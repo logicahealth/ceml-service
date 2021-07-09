@@ -1,0 +1,4 @@
+cem GALTGeneMutationAnalysisPridAlleleTwoPtBldTissNomMolgenLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			GALTGeneMutationAnalysisPridAlleleTwoPtBldTissNomMolgenLabObs_CODE

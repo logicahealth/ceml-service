@@ -1,0 +1,4 @@
+cem ReducingsubstancesPrThrPtStoolOrdPosthydrolysisLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ReducingsubstancesPrThrPtStoolOrdPosthydrolysis_CODE

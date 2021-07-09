@@ -1,0 +1,4 @@
+cem CoccidioidesimmitisAbPrThrPtSerOrdImmunediffusionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CoccidioidesimmitisAbPrThrPtSerOrdImmunediffusion_CODE

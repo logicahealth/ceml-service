@@ -1,0 +1,6 @@
+cem LargeHDLParticleNumberMolesvolumePtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LargeHDLParticleNumberMolesvolumePtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

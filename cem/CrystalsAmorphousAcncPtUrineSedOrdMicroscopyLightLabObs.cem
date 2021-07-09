@@ -1,0 +1,4 @@
+cem CrystalsAmorphousAcncPtUrineSedOrdMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CrystalsAmorphousAcncPtUrineSedOrdMicroscopyLight_CODE

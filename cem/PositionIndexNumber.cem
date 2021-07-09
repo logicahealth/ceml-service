@@ -1,0 +1,4 @@
+cem PositionIndexNumber
+	kind		component
+	key			PositionIndexNumber_CODE
+	data		Integer

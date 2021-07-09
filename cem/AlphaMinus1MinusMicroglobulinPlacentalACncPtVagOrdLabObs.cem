@@ -1,0 +1,4 @@
+cem AlphaMinus1MinusMicroglobulinPlacentalACncPtVagOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AlphaMinus1MinusMicroglobulinPlacentalACncPtVagOrd_CODE

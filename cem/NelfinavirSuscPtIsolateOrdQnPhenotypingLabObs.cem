@@ -1,0 +1,4 @@
+cem NelfinavirSuscPtIsolateOrdQnPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NelfinavirSuscPtIsolateOrdQnPhenotyping_CODE

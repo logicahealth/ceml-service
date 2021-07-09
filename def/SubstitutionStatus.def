@@ -1,0 +1,2 @@
+SubstitutionStatus indicates whether this orderable can be substituted by a generic brand or must be dispensed as written. Is used in ambulatory medication orders. May be use in acute care if physician resolves to a particular product because of inactive ingredients.
+

@@ -1,0 +1,5 @@
+cem InhibitionLevelTiterPatientSerumQnSerologyLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			InhibitionLevelTiterPatientSerumQnSerology_CODE
+	

@@ -1,0 +1,14 @@
+cem GlasgowComaScoreEyeOpeningMeas
+	kind		statement
+    base        StatementBase
+	key			GlasgowComaScoreEyeOpening_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.strength
+	    value	CNE
+	constraint	data.codeableOrdinal.valueset
+		value	GlasgowComaScoreEyeOpening_VSET
+    constraint	associatedPrecondition.data.codeableConcept.valueset
+		value	GlasgowComaScoreAssociatedPrecondition_VSET

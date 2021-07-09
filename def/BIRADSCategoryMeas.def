@@ -1,0 +1,3 @@
+BIRADSCategoryMeas created by L.Buhl on 28/Jun/2016 15:25 for the iActivity project.
+
+BIRADSCategoryMeas is a measurement model.  BIRADSCategoryMeas (Breast Imaging Reporting And Data System) is the final assessment portion of the Evaluation.  Values include: Category 0: Incomplete, Category 1: Negative, Category 2: Benign, Category 3: Probably Benign, Category 4: Suspicious, Category 4A: low suspicion for malignancy, Category 4B: moderate suspicion for malignancy, Category 4C: high suspicion for malignancy, Category 5: highly suggestive of malignancy, and Category 6: known biopsy proven malignancy.

@@ -1,0 +1,4 @@
+cem HeterophileAbPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HeterophileAbPrThrPtSerOrd_CODE

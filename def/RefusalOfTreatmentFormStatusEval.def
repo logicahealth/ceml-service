@@ -1,0 +1,4 @@
+RefusalOfTreatmentFormStatusEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the RefusalOfTreatmentFormStatusEval model, the question is "what is the Refusal Of Treatment Form Status?" and the coded answers can be 'Form Signed', 'Read form, but refused to sign', etc.
+"RefusalOfTreatmentFormStatusEval" documents if the refusal of treatment form was signed.
+

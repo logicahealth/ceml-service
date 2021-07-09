@@ -1,0 +1,6 @@
+cem BloodGroupAntigensPresentPridPtBldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BloodGroupAntigensPresentPridPtBldNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	RedCellAntigens_VSET

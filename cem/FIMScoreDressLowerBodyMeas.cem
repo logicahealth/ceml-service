@@ -1,0 +1,10 @@
+cem FIMScoreDressLowerBodyMeas
+	kind	statement
+	base	StatementBase
+	key			FIMScoreDressLowerBody_CODE
+	data		CodeableOrdinal
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	FIMScoreLevelOfAssistance_VSET

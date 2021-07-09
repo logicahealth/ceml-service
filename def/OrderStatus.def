@@ -1,0 +1,4 @@
+OrderStatus is a component model. Its purpose is to support workflow. The domain for this qualifier is the same across all orders, but may be a constrained domain in each subtype (e.g., the workflow on a lab
+order may be different from the workflow for medication orders).
+Need to get HL7's State Diagrams for orders to inform values for this domain. (Version 3)
+        

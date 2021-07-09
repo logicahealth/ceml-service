@@ -1,0 +1,4 @@
+cem HealthIssueViewName
+	kind		component
+	key			HealthIssueViewName_CODE
+	data		String

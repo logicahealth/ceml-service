@@ -1,0 +1,5 @@
+cem SeptalMyectomyProc
+	kind		statement
+	base		Procedure
+	constraint	data.codeableConcept.code
+		value	SeptalMyectomy_CODE

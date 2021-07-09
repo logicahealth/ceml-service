@@ -1,0 +1,6 @@
+cem MumpsVirusAbIgGACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MumpsVirusAbIgGACncPtSerOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	ImmuneNotImmune_VSET

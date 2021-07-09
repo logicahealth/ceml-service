@@ -1,0 +1,15 @@
+cem AssignedParticipatingLocation
+	kind		component
+	key			AssignedParticipatingLocation_CODE
+	item		EndTime
+		id		endTime
+		card	0-1
+	item		StartTime
+		id		startTime
+		card	0-1
+	item		PatientArrivalStatus
+		id		patientArrivalStatus
+		card	0-1
+	item		LocationId
+		id		locationId
+		card	1

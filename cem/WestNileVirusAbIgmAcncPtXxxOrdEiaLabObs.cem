@@ -1,0 +1,4 @@
+cem WestNileVirusAbIgmAcncPtXxxOrdEiaLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			WestNileVirusAbIgmAcncPtXxxOrdEia_CODE

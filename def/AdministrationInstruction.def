@@ -1,0 +1,3 @@
+AdministrationInstruction field contains the pharmacy or treatment supplier's provider-generated special instructions to the provider dispensing or administering an order. (RXE-21 definition) 
+This should be visible to all clinicians, but not to the patient. Examples of values for the data would include instructions like: "run over 30 minutes" or "administer centrally."
+

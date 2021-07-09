@@ -1,0 +1,2 @@
+MPVComment model captures any comment information associated in an MPV. This comment is different from comment component, in that it can stand alone.
+

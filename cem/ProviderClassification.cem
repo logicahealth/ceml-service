@@ -1,0 +1,8 @@
+cem ProviderClassification
+	kind		component
+	key			ProviderClassification_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ProviderClassification_VSET

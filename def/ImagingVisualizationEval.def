@@ -1,0 +1,6 @@
+ImagingVisualizationEval is an evaluation model. It is used to identify if a targeted area, organ, or part of an imaging study was visualized.  The values include: 'completely visualized', 'partially visible', and 'not visualized'.
+
+@Author ljbuhl
+@Date 20 Dec 2016 11:57
+@Status draft
+@RequestedBy iActivity

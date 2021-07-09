@@ -1,0 +1,2 @@
+Created is an attribution describing information regarding the establishment or formation of some thing.
+ Created is a child model of the Attribution model. It holds the who, when, where, and why information regarding the creation.

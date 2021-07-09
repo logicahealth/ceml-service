@@ -1,0 +1,34 @@
+status: proposed
+ Author: Bret Heale
+initatedDate: 02/26/2016
+
+Models the Richmond Agitation-Sedation Scale (RASS), which is an ordinal scale implying a level of consciousness from combatitive to comatose. Often used to inidcate sedation.
+The data value is a score based on the following scale:
+
+Richmond Agitation-Sedation Scale
+(RASS)
++4 Combative Combative, violent,
+immediate dangerto staff
++3 Very agitated Pulls or removes tube(s)
+or catheter(s); aggressive
++2 Agitated Frequent nonpurposefulmovement, fights
+ventilator
++1 Restless Anxious, apprehensive but
+movements are not aggressive or
+vigorous
+0 Alert and calm
+-1 Drowsy Not fully alert, but has sustained awakening to voice (eye opening &
+contact > 10 sec)
+-2 Light sedation Briefly awakens to voice (eye opening &
+contact < 10 sec)
+-3 Moderate
+sedation
+Movementor eye opening
+to voice (but no eye contact)
+-4 Deep sedation No response to voice, but movementor
+eye opening to physical stimulation
+-5 Unarousable No response to voice or
+physical stimulation
+
+Sessler, et al.,AmJ Repir Crit CareMed 2002, 166: 1338-1344
+Ely, et al., JAMA 2003; 286, 2983-2991

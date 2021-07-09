@@ -1,0 +1,13 @@
+cem RangeOfMotionPanel
+	kind	panel
+	base	PanelBase
+	key			RangeOfMotionPanel_CODE
+	item		RangeOfMotionDescriptionEval
+		id		rangeOfMotionDescriptionEval
+		card	1
+	item		RangeOfMotionDegreeEval
+		id		rangeOfMotionDegreeEval
+		card	0-M
+	item		FullRangeOfMotionAssert
+		id		fullRangeOfMotionAssert
+		card	0-1

@@ -1,0 +1,4 @@
+cem LeukocytesleftshiftPrThrPtBldOrdAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			LeukocytesleftshiftPrThrPtBldOrdAutomatedcount_CODE

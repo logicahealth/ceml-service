@@ -1,0 +1,4 @@
+cem SuberylglycineACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SuberylglycineACncPtUrineOrd_CODE

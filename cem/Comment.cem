@@ -1,0 +1,4 @@
+cem Comment
+	kind		component
+	key			Comment_CODE
+	data		String

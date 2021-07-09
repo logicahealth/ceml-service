@@ -1,0 +1,6 @@
+cem OxygenSaturationCordBloodArterialLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxygenSaturationCordBloodArterial_CODE
+	constraint	data.quantity.unit_valueset
+		value	GeneralFractionUnits_VSET

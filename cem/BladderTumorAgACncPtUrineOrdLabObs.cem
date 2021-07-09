@@ -1,0 +1,4 @@
+cem BladderTumorAgACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BladderTumorAgACncPtUrineOrd_CODE

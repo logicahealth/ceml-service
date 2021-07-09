@@ -1,0 +1,4 @@
+cem HIV1RNAPrThrPtSerPlasOrdProbeamptarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HIV1RNAPrThrPtSerPlasOrdProbeamptar_CODE

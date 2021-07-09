@@ -1,0 +1,6 @@
+cem NordiazepamMCncPtSerPlasQnScreenLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NordiazepamMCncPtSerPlasQnScreen_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

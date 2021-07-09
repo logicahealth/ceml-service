@@ -1,0 +1,8 @@
+cem WagnerWoundGrade
+	kind    	statement
+    base        StatementBase
+	key         WagnerWoundGrade_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   WagnerWoundGrade_VSET
+

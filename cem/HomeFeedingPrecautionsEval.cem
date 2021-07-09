@@ -1,0 +1,14 @@
+cem HomeFeedingPrecautionsEval
+
+	kind        statement
+	base        StatementBase
+    key         HomeFeedingPrecautions_CODE
+	data        CodeableConcept
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    0-M 
+	constraint	associatedPrecondition.data.codeableConcept.valueset
+	    value	HomeFeedingPrecautionsAssociatedPrecondition_VSET
+	constraint	data.codeableConcept.valueset
+	    value	HomeFeedingPrecautions_VSET
+

@@ -1,0 +1,6 @@
+cem TypeOfTransplantLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			TypeOfTransplant_CODE
+	constraint	data.codeableConcept.valueset
+		value	TypeofTransplant_VSET

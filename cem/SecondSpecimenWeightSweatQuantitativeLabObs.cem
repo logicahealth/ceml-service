@@ -1,0 +1,6 @@
+cem SecondSpecimenWeightSweatQuantitativeLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SecondSpecimenWeightSweatQuantitative_CODE
+	constraint		data.quantity.unit_code
+		value	Milligrams_CODE

@@ -1,0 +1,14 @@
+cem PneumoniaAssert
+	kind    	statement
+    base        StatementBase
+	key         PneumoniaAssert_CODE
+    data        CodeableConcept
+    qual        DataOriginationMode
+        id      dataOriginationMode
+        card    0-1
+    constraint  data.codeableConcept.code
+        value   Pneumonia_CODE
+    constraint  data.codeableConcept.strength
+        value   CWE
+    constraint  dataOriginationMode.data.codeableConcept.valueset
+        value   PneumoniaDataOrigiantionMode_VSET

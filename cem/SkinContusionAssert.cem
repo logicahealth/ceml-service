@@ -1,0 +1,19 @@
+cem SkinContusionAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		ForeignBody
+		id		foreignBody
+		card	0-M
+	qual		DrainageFluidDescription
+		id		drainageFluidDescription
+		card	0-M
+	qual		Hemostatic
+		id		hemostatic
+		card	0-M
+	qual		MechanismOfInjury
+		id		mechanismOfInjury
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	SkinContusion_CODE
+	constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	SkinBodyLocationPrecoord_VSET

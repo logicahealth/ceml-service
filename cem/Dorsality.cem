@@ -1,0 +1,9 @@
+cem Dorsality
+	kind    	component
+	key         Dorsality_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Dorsality_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

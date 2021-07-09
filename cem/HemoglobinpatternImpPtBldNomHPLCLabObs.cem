@@ -1,0 +1,4 @@
+cem HemoglobinpatternImpPtBldNomHPLCLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HemoglobinpatternImpPtBldNomHPLC_CODE

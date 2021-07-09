@@ -1,0 +1,6 @@
+cem Ubiquinone10MCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Ubiquinone10MCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerMilliliter_CODE

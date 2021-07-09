@@ -1,0 +1,6 @@
+cem PercentPNHCellsCellsWithDecreasedCD55AndCD59100CellsLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PercentPNHCellsCellsWithDecreasedCD55AndCD59100Cells_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

@@ -1,0 +1,4 @@
+cem HIV1RNAImpPtSerNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HIV1RNAImpPtSerNom_CODE

@@ -1,0 +1,4 @@
+PatientPrecondition is the condition, state, or problem that the patient is in or has prior to a therapy or procedure.
+
+//obsolete.  Use AssociatedPrecondition
+

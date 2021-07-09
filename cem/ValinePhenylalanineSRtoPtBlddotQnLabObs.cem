@@ -1,0 +1,5 @@
+cem ValinePhenylalanineSRtoPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ValinePhenylalanineSRtoPtBlddotQn_CODE
+	

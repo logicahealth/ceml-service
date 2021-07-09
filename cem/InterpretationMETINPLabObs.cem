@@ -1,0 +1,4 @@
+cem InterpretationMETINPLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationMETINP_CODE

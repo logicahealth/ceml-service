@@ -1,0 +1,9 @@
+GazeDeviationAssert is an assertion model that extends the ClinicalAssertion model by capturing Gaze Deviation-specific data through additional qualifiers. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the GazeDeviationAssert model, data is GazeDeviation_ECID.   
+By definition GazeDeviationAssert asserts the existence of Gaze Deviation, or the horizontal deviation or drift of an eye either to the left or right, it could be in one or both of the eyes.
+
+
+
+Modeler: L. Buhl
+Date created: 02/05/2016

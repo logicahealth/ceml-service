@@ -1,0 +1,4 @@
+cem CalciumphosphatecrystalsPrThrPtCalculusOrdInfraredspectroscopyLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CalciumphosphatecrystalsPrThrPtCalculusOrdInfraredspectroscopy_CODE

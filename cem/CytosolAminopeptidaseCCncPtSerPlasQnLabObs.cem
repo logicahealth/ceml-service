@@ -1,0 +1,6 @@
+cem CytosolAminopeptidaseCCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CytosolAminopeptidaseCCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerMilliliter_CODE

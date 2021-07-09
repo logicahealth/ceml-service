@@ -1,0 +1,4 @@
+cem VancomycinSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			VancomycinSuscPtIsolateOrdQnAgardiffusion_CODE

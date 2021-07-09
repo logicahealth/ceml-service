@@ -1,0 +1,4 @@
+cem MyocardiumAbIgGACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MyocardiumAbIgGACncPtSerOrd_CODE

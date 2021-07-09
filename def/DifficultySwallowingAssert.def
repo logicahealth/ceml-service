@@ -1,0 +1,16 @@
+DifficultySwallowingAssert
+status:  proposed
+Author: DMM
+
+DifficultySwallowingAssert is based on SNOMED SCTID: 288939007. In SNOMED, dysphagia(disorder) is different than difficulty swallowing(finding).
+In this SNOMED domain are the specific items that are difficult to swallow:
+
+Difficulty Swallowing (finding) SCTID: 288939007, and descendants
+   Difficulty swallowing food
+      Difficulty swallowing soft foods
+      Difficulty swallowing solids
+   Difficulty swallowing fluid
+      Difficulty swallowing saliva
+      Difficulty swallowing thickened fluid
+
+This model Asserts difficulty swallowing, and uses those values to be more specific.  To this list we will add "difficulty swallowing pills".  

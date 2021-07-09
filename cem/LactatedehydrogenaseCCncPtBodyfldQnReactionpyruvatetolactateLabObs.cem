@@ -1,0 +1,6 @@
+cem LactatedehydrogenaseCCncPtBodyfldQnReactionpyruvatetolactateLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LactatedehydrogenaseCCncPtBodyfldQnReactionpyruvatetolactate_CODE
+	constraint		data.quantity.unit_code
+			value		UnitsPerLiter_CODE

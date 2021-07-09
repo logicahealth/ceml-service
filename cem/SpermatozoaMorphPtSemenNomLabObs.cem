@@ -1,0 +1,4 @@
+cem SpermatozoaMorphPtSemenNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			SpermatozoaMorphPtSemenNom_CODE

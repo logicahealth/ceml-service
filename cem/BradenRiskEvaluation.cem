@@ -1,0 +1,8 @@
+cem BradenRiskEvaluation
+	kind    	statement
+    base        StatementBase
+	key         BradenRiskEvaluation_CODE
+    data        CodeableConcept
+
+    constraint  data.codeableConcept.valueset
+        value   BradenRiskEvaluation_VSET

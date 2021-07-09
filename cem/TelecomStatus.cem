@@ -1,0 +1,8 @@
+cem TelecomStatus
+	kind		component
+	key			TelecomStatus_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	EntityStatus_VSET

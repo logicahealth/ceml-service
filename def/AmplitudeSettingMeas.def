@@ -1,0 +1,4 @@
+AmplitudeSettingMeas model is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the AmplitudeSettingMeas model, the question is "what is the mechanical ventilator's amplitude setting?" and the numeric answer will be expressed in centimeters of water. 
+"Amplitude Setting" by definition means "the difference between maximum and minimum airway pressure for high frequency jet ventilation.".
+

@@ -1,0 +1,6 @@
+cem GestationalageTimePtFetusQnClinicalestimatedfrompriorassessmentLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GestationalageTimePtFetusQnClinicalestimatedfrompriorassessment_CODE
+	constraint		data.quantity.unit_code
+			value		Days_CODE

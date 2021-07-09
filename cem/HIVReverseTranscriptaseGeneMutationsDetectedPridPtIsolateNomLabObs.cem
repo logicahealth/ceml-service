@@ -1,0 +1,4 @@
+cem HIVReverseTranscriptaseGeneMutationsDetectedPridPtIsolateNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HIVReverseTranscriptaseGeneMutationsDetectedPridPtIsolateNom_CODE

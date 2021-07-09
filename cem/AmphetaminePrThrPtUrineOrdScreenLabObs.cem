@@ -1,0 +1,4 @@
+cem AmphetaminePrThrPtUrineOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AmphetaminePrThrPtUrineOrdScreen_CODE

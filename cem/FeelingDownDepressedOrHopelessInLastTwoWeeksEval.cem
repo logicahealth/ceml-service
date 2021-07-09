@@ -1,0 +1,9 @@
+cem FeelingDownDepressedOrHopelessInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     FeelingDownDepressedOrHopelessInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET

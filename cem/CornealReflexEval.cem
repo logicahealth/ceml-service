@@ -1,0 +1,17 @@
+cem CornealReflexEval
+	kind	statement
+	base	StatementBase
+	key         CornealReflex_CODE
+	data        CodeableConcept
+    qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-M    
+	qual		AssociatedPrecondition
+		id		neuromuscularAssociatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.valueset
+		value	CornealReflex_VSET
+    constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	EyeBodyLocationPrecoord_VSET
+    constraint  neuromuscularAssociatedPrecondition.data.codeableConcept.valueset
+        value   NeuromuscularAssociatedPrecondition_VSET

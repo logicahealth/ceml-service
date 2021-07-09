@@ -1,0 +1,4 @@
+cem XXXmicroorganismDNAPrThrPtXXXOrdProbeamptarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			XXXmicroorganismDNAPrThrPtXXXOrdProbeamptar_CODE

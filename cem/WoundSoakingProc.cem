@@ -1,0 +1,11 @@
+cem WoundSoakingProc
+	kind		statement
+	base		Procedure
+	qual		ApproachSite
+		id		approachSite
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	WoundSoaking_CODE

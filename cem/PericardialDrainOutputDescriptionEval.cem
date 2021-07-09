@@ -1,0 +1,10 @@
+cem PericardialDrainOutputDescriptionEval
+	kind		statement
+	base		FluidDescriptionEval
+	key			PericardialDrainOutputDescription_CODE
+	constraint	data.codeableConcept.valueset
+		value	PericardialDrainOutputDescription_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	PericardialDrainDevice_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	PericardialDrainBodyLocationPrecoord_VSET

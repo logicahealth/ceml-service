@@ -1,0 +1,4 @@
+cem SmoothMuscleAbIgGACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SmoothMuscleAbIgGACncPtSerOrd_CODE

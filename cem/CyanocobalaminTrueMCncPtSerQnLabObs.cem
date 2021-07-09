@@ -1,0 +1,6 @@
+cem CyanocobalaminTrueMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CyanocobalaminTrueMCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	PicogramsPerMilliliter_CODE

@@ -1,0 +1,4 @@
+cem TrimethoprimSulfamethoxazoleSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteriaLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TrimethoprimSulfamethoxazoleSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteria_CODE

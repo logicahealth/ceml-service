@@ -1,0 +1,6 @@
+cem PotassiumSRat24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PotassiumSRat24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimolesPerDay_CODE

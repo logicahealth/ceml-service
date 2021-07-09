@@ -1,0 +1,6 @@
+cem SuccinylacetoneCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SuccinylacetoneCreatinineScRtoPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

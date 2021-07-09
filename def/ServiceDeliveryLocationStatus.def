@@ -1,0 +1,2 @@
+ServiceDeliveryLocationStatus is the state of a ServiceDeliveryLocation (e.g., active, terminated).
+

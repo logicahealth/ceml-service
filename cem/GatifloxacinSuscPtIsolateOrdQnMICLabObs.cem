@@ -1,0 +1,4 @@
+cem GatifloxacinSuscPtIsolateOrdQnMICLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GatifloxacinSuscPtIsolateOrdQnMIC_CODE

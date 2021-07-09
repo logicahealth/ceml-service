@@ -1,0 +1,10 @@
+cem ThoughtsThatYouWouldBeBetterOffDeadOrOfHurtingYourselfInSomeWayInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     ThoughtsThatYouWouldBeBetterOffDeadOrOfHurtingYourselfInSomeWayInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET
+

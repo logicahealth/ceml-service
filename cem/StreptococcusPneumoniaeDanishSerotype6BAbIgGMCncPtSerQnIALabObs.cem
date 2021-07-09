@@ -1,0 +1,7 @@
+cem StreptococcusPneumoniaeDanishSerotype6BAbIgGMCncPtSerQnIALabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         StreptococcusPneumoniaeDanishSerotype6BAbIgGMCncPtSerQnIA_CODE
+    constraint  data.quantity.unit_code
+        value   MicrogramsPerMilliliter_CODE
+

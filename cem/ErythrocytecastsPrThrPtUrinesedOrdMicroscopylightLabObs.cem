@@ -1,0 +1,4 @@
+cem ErythrocytecastsPrThrPtUrinesedOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ErythrocytecastsPrThrPtUrinesedOrdMicroscopylight_CODE

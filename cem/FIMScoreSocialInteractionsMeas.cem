@@ -1,0 +1,10 @@
+cem FIMScoreSocialInteractionsMeas
+	kind	statement
+	base	StatementBase
+	key			FIMScoreSocialInteractions_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	FIMScoreLevelOfAssistance_VSET

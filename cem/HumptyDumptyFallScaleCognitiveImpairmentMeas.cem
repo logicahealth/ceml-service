@@ -1,0 +1,10 @@
+cem HumptyDumptyFallScaleCognitiveImpairmentMeas
+	kind	statement
+	base	StatementBase
+    key     HumptyDumptyFallScaleCognitiveImpairment_CODE
+	data	CodeableOrdinal
+	constraint	data.codeableOrdinal.strength
+	    value	CNE
+	constraint	data.codeableOrdinal.valueset
+	    value	HumptyDumptyFallScaleCognitiveImpairment_VSET
+

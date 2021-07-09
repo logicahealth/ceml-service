@@ -1,0 +1,9 @@
+cem BradenQScoreTissuePerfusionOxygenationMeas
+	kind		statement
+    base        StatementBase
+	key			BradenQScoreTissuePerfusionOxygenation_CODE
+	data		CodeableOrdinal
+	constraint	data.codeableOrdinal.valueset
+		value	BradenQScoreTissuePerfusionOxygenation_VSET
+    constraint  data.codeableOrdinal.strength
+        value   CNE

@@ -1,0 +1,16 @@
+cem BodyLocationDimensionsMeas
+	kind    	statement
+    base        StatementBase
+	key         BodyLocationDimensions_CODE
+    data        Quantity
+    qual        BodyLocationPrecoord
+        id      bodyLocationPrecoord
+        card    1
+    qual        DimensionType
+        id      dimensionType
+        card    1
+    constraint	data.quantity.unit_valueset
+		value	SILengthUnits_VSET
+    constraint  bodyLocationPrecoord.data.codeableConcept.valueset
+        value   DimensionsBodyLocationPrecoord_VSET
+    

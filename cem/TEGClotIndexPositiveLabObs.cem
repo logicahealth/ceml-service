@@ -1,0 +1,6 @@
+cem TEGClotIndexPositiveLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TEGClotIndexPositive_CODE
+	constraint		data.quantity.unit_code
+		value	UnityUnitsOfMeasure_CODE

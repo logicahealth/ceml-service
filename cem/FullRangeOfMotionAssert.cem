@@ -1,0 +1,21 @@
+cem FullRangeOfMotionAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		AlleviatingFactor
+		id		alleviatingFactor
+		card	0-M
+	qual		ExacerbatingFactor
+		id		exacerbatingFactor
+		card	0-M
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-M
+	qual        AssociatedPrecondition
+        id      neuromuscularAssociatedPrecondition
+        card    0-M
+    constraint	data.codeableConcept.code
+		value	FullRangeOfMotion_CODE
+	constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	MovementBodyLocation_VSET
+    constraint  neuromuscularAssociatedPrecondition.data.codeableConcept.valueset
+        value   NeuromuscularAssociatedPrecondition_VSET

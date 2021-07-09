@@ -1,0 +1,6 @@
+cem LymphocytesNCncPtBldQnFlowCytometryLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LymphocytesNCncPtBldQnFlowCytometry_CODE
+	constraint	data.quantity.unit_code
+		value	PerMicroliter_CODE

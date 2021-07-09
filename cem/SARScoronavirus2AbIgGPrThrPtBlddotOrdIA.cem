@@ -1,0 +1,6 @@
+cem SARScoronavirus2AbIgGPrThrPtBlddotOrdIA
+	kind    	statement
+    base        StandardLabObsOrdinal
+	key         SARScoronavirus2AbIgGPrThrPtBlddotOrdIA_CODE
+    constraint  data.codeableOrdinal.valueset
+        value   PosNegEquiIndet_VSET

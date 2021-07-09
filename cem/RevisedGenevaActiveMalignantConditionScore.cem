@@ -1,0 +1,7 @@
+cem RevisedGenevaActiveMalignantConditionScore
+	kind	statement
+	base	StatementBase
+	key     RevisedGenevaActiveMalignantConditionScore_CODE
+	data	CodeableOrdinal
+    constraint  data.codeableOrdinal.valueset
+        value   RevisedGenevaScoreActiveCancer_VSET

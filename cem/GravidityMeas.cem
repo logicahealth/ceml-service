@@ -1,0 +1,12 @@
+cem GravidityMeas 
+	kind	statement
+	base	StatementBase
+	key			Gravidity_CODE
+    data		Quantity
+	constraint	data.quantity.unit_code
+		value	UnityUnitsOfMeasure_CODE
+    constraint	verified.card
+	    value	0
+    constraint	performed.card
+	    value	0
+

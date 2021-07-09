@@ -1,0 +1,6 @@
+cem MyelocytesNCncPtBldQnManualCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MyelocytesNCncPtBldQnManualCount_CODE
+	constraint		data.quantity.unit_code
+		value	ThousandsPerMicroliter_CODE

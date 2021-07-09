@@ -1,0 +1,4 @@
+cem DocumentDataEnterer
+	kind		component
+	key			DocumentDataEnterer_CODE
+	data		String

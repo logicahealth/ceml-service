@@ -1,0 +1,8 @@
+SkinAssessmentInterpretation created on 05/May/2016 07:40
+
+This is a statement type model which holds a "question" in the key and hold a coded value(CD) answer in the data.  In this case the "question" is "what is the clinician's impression of the overall skin assessment?".  The answer will be a CodeableConcept.
+This model was created for the ABD project as requested by Susan M.
+
+modeler: NDavis
+version: 1.0
+status: draft

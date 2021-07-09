@@ -1,0 +1,6 @@
+cem OvalFatBodiesGlobulesNaricPtUrineSedQnMicroscopyLightHPFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OvalFatBodiesGlobulesNaricPtUrineSedQnMicroscopyLightHPF_CODE
+	constraint		data.quantity.unit_code
+		value	PerHighPowerField_CODE

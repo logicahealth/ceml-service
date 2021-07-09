@@ -1,0 +1,7 @@
+ContrastMediaPresent 
+A component model to state the presense of contrast media upon examination or other assessment.  The response is boolean (true/false).  There currently is no LOINC code for this.
+
+@Author nrdavis1
+@Date 29 Jan 2018 15:11
+@Status draft
+@RequestedBy iActivity

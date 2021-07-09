@@ -1,0 +1,6 @@
+cem HelicobacterPyloriAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HelicobacterPyloriAbACncPtSerOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

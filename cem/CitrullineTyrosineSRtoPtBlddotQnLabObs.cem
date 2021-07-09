@@ -1,0 +1,5 @@
+cem CitrullineTyrosineSRtoPtBlddotQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CitrullineTyrosineSRtoPtBlddotQn_CODE
+	

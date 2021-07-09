@@ -1,0 +1,4 @@
+cem FattyAcidsProfileInterpretationNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			FattyAcidsProfileInterpretationNar_CODE

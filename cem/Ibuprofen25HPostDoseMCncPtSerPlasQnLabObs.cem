@@ -1,0 +1,6 @@
+cem Ibuprofen25HPostDoseMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Ibuprofen25HPostDoseMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

@@ -1,0 +1,6 @@
+cem ColorTypePtBodyFldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ColorTypePtBodyFldNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	BodyFluidColor_VSET

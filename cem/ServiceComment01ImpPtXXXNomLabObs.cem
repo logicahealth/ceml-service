@@ -1,0 +1,4 @@
+cem ServiceComment01ImpPtXXXNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ServiceComment01ImpPtXXXNom_CODE

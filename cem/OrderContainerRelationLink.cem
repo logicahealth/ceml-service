@@ -1,0 +1,6 @@
+cem OrderContainerRelationLink
+	kind		link
+	key			OrderContainerRelationLink_CODE
+    data        Identifier
+    constraint  data.identifier.key
+        value   OrderContainer_VSET

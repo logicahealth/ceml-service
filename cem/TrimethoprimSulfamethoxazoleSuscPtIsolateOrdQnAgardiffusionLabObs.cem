@@ -1,0 +1,4 @@
+cem TrimethoprimSulfamethoxazoleSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TrimethoprimSulfamethoxazoleSuscPtIsolateOrdQnAgardiffusion_CODE

@@ -1,0 +1,6 @@
+cem UreanitrogenMCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			UreanitrogenMCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+			value		MilligramsPerDeciliter_CODE

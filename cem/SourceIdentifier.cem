@@ -1,0 +1,4 @@
+cem SourceIdentifier
+	kind		component
+	key			SourceIdentifier_CODE
+	data		String

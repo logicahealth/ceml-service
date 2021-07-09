@@ -1,0 +1,8 @@
+cem PressureUlcerAssociation
+	kind    	component
+	key         PressureUlcerAssociation_CODE
+	data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   PressureUlcerAssociation_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE

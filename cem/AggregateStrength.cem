@@ -1,0 +1,6 @@
+cem AggregateStrength
+	kind		component
+	key			AggregateStrength_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	DoseQuantityUnitOfMeasure_VSET

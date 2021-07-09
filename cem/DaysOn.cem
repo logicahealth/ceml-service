@@ -1,0 +1,4 @@
+cem DaysOn
+	kind		component
+	key			DaysOn_CODE
+	data		Integer

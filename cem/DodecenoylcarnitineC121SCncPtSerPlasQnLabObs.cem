@@ -1,0 +1,6 @@
+cem DodecenoylcarnitineC121SCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DodecenoylcarnitineC121SCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

@@ -1,0 +1,6 @@
+cem AlphaKetoglutarateCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlphaKetoglutarateCreatinineScRtoPtUrineQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

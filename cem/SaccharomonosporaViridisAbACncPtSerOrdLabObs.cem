@@ -1,0 +1,4 @@
+cem SaccharomonosporaViridisAbACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SaccharomonosporaViridisAbACncPtSerOrd_CODE

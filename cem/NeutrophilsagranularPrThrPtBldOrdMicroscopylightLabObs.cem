@@ -1,0 +1,4 @@
+cem NeutrophilsagranularPrThrPtBldOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeutrophilsagranularPrThrPtBldOrdMicroscopylight_CODE

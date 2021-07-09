@@ -1,0 +1,9 @@
+cem MammographyImagingView
+	kind    	component
+	key         MammographyImagingView_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   MammographyImagingView_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

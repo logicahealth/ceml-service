@@ -1,0 +1,4 @@
+cem AspergillusflavusAbPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AspergillusflavusAbPrThrPtSerOrd_CODE

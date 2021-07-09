@@ -1,0 +1,6 @@
+cem BloodProductDispositionTypePtBPUNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BloodProductDispositionTypePtBPUNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	BloodProductStatusCodedValues_VSET

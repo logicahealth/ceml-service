@@ -1,0 +1,4 @@
+cem LevofloxacinSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteriaLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LevofloxacinSuscPtIsolateOrdQnMethodforSlowgrowingmycobacteria_CODE

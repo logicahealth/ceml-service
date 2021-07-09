@@ -1,0 +1,6 @@
+cem ABOGroupTypePtBldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ABOGroupTypePtBldNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	ABOType_VSET

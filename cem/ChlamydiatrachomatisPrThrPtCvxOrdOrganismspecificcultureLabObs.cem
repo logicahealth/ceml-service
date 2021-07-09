@@ -1,0 +1,4 @@
+cem ChlamydiatrachomatisPrThrPtCvxOrdOrganismspecificcultureLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ChlamydiatrachomatisPrThrPtCvxOrdOrganismspecificculture_CODE

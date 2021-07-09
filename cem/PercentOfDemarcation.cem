@@ -1,0 +1,6 @@
+cem PercentOfDemarcation
+	kind    	component
+	key         PercentOfDemarcation_CODE
+	data        Quantity
+    constraint	data.quantity.unit_code
+		value	Percent_CODE

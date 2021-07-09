@@ -1,0 +1,5 @@
+cem SleepProblemSeverityScale
+	kind    	component
+	key         SleepProblemSeverityScale_CODE
+    data		Integer
+

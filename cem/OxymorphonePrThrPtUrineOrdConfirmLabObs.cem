@@ -1,0 +1,4 @@
+cem OxymorphonePrThrPtUrineOrdConfirmLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			OxymorphonePrThrPtUrineOrdConfirm_CODE

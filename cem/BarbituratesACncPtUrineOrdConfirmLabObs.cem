@@ -1,0 +1,4 @@
+cem BarbituratesACncPtUrineOrdConfirmLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BarbituratesACncPtUrineOrdConfirm_CODE

@@ -1,0 +1,4 @@
+cem DocumentAuthor
+	kind		component
+	key			DocumentAuthor_CODE
+	data		String

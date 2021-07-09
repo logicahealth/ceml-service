@@ -1,0 +1,15 @@
+cem AdmitProcedure
+	kind	statement
+	base	StatementBase
+	key			AdmitProcedure_CODE
+	data		CodeableConcept
+	att			Documented
+		id		documented
+		card	0-1
+	att			Updated
+		id		updated
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Procedure_VSET

@@ -1,0 +1,5 @@
+cem CoagulationsurfaceinducedlupussensitiveCoagulationsurfaceinducedlupussensitiveexcessphospholipidRatioPtPPPQnCoagLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoagulationsurfaceinducedlupussensitiveCoagulationsurfaceinducedlupussensitiveexcessphospholipidRatioPtPPPQnCoag_CODE
+	

@@ -1,0 +1,8 @@
+PlanDisplay
+This is a component model used to capture the textual representation for a given insurance plan.
+
+@Author N Davis
+@Date 12 May 2017
+@Status draft
+@RequestedBy Internal
+@Keyword coverage, insurance, financial

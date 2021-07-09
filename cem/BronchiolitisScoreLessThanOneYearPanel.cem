@@ -1,0 +1,19 @@
+cem BronchiolitisScoreLessThanOneYearPanel
+	kind	panel
+	base	PanelBase
+	key			BronchiolitisScoreLessThanOneYearPanel_CODE
+	item		BronchiolitisScoreRespiratoryRateLessThanOneYearMeas
+		id		bronchiolitisScoreRespiratoryRateLessThanOneYearMeas
+		card	0-1
+	item		BronchiolitisScoreWheezeMeas
+		id		bronchiolitisScoreWheezeMeas
+		card	0-1
+	item		BronchiolitisScoreRetractionsMeas
+		id		bronchiolitisScoreRetractionsMeas
+		card	0-1
+	item		BronchiolitisScoreTotalMeas
+		id		bronchiolitisScoreTotalMeas
+		card	1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M

@@ -1,0 +1,4 @@
+cem MycoplasmahominisDNAPrThrPtBldOrdProbeamptarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MycoplasmahominisDNAPrThrPtBldOrdProbeamptar_CODE

@@ -1,0 +1,10 @@
+cem RASSLevelOfConsciousnessMeas
+	kind    	statement  
+    base        StatementBase 
+	key         RASSLevelOfConsciousness_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition 
+		id		associatedPrecondition 
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	RASSLevelOfConsciousnessMeas_VSET

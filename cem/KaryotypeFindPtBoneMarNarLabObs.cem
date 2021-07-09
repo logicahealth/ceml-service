@@ -1,0 +1,4 @@
+cem KaryotypeFindPtBoneMarNarLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			KaryotypeFindPtBoneMarNar_CODE

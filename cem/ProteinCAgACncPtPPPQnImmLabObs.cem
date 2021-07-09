@@ -1,0 +1,6 @@
+cem ProteinCAgACncPtPPPQnImmLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ProteinCAgACncPtPPPQnImm_CODE
+	constraint		data.quantity.unit_code
+			value		InternationalUnitsPerMilliliterArbitraryConcentrationUnits_CODE

@@ -1,0 +1,6 @@
+cem OxygenSaturationSFrPtBldMVQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxygenSaturationSFrPtBldMVQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	GeneralFractionUnits_VSET

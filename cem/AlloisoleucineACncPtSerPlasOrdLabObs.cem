@@ -1,0 +1,4 @@
+cem AlloisoleucineACncPtSerPlasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AlloisoleucineACncPtSerPlasOrd_CODE

@@ -1,0 +1,8 @@
+cem PediatricPatientIndicator
+	kind    	component
+	key         PediatricPatientIndicator_CODE
+    data        CodeableConcept
+    constraint	data.codeableConcept.valueset
+		value	YesNo_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE

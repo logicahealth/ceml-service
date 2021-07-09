@@ -1,0 +1,16 @@
+cem UterineContractionPerHourFrequencyMeas
+	kind	statement
+	base	StatementBase
+	key			UterineContractionPerHourFrequency_CODE
+	data		Quantity
+	qual		Method
+		id		method
+		card	0-1
+	qual		Device
+		id		device
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint		data.quantity.unit_code
+		value	PerMinute_CODE

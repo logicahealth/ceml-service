@@ -1,0 +1,8 @@
+cem FullTermBirthsAmountMeas
+	kind	statement
+	base	StatementBase
+	key			FullTermBirthsAmount_CODE
+	data		Integer
+	mod 	    FocalSubject
+		id		focalSubject
+		card	0-1

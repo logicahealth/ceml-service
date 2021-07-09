@@ -1,0 +1,6 @@
+cem CadmiumMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CadmiumMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

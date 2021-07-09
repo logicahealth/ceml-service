@@ -1,0 +1,14 @@
+
+cem LiftingAssistanceDeviceEval
+	kind    	statement
+    base        StatementBase
+	key         LiftingAssistanceDeviceEval_CODE
+    data        CodeableConcept    
+    constraint  data.codeableConcept.valueset         
+        value   LiftingAssistanceDevice_VSET 
+    constraint  data.codeableConcept.strength
+        value   CWE
+	
+			
+			
+

@@ -1,0 +1,7 @@
+cem LengthOfSleep
+	kind    	component
+	key         LengthOfSleep_CODE
+    data		Quantity
+    constraint	data.quantity.unit_code
+		value	Hours_CODE
+

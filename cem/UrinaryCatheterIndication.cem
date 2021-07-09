@@ -1,0 +1,9 @@
+cem UrinaryCatheterIndication
+	kind    	component
+	key         UrinaryCatheterIndication_CODE
+    data        CodeableConcept
+    constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	UrinaryCatheterIndication_VSET
+

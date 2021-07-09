@@ -1,0 +1,12 @@
+cem SuicidePreventionActionPlanEval
+
+	kind	statement
+	base	StatementBase
+    key     SuicidePreventionActionPlan_CODE
+	data	CodeableConcept
+
+	constraint	data.codeableConcept.strength
+	    value	CNE
+	constraint	data.codeableConcept.valueset
+	    value	SuicidePreventionActionPlan_VSET
+

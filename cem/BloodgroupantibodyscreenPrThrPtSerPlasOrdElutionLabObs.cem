@@ -1,0 +1,4 @@
+cem BloodgroupantibodyscreenPrThrPtSerPlasOrdElutionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BloodgroupantibodyscreenPrThrPtSerPlasOrdElution_CODE

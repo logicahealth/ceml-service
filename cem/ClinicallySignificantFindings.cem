@@ -1,0 +1,9 @@
+cem ClinicallySignificantFindings
+	kind    	component
+	key         ClinicallySignificantFindings_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   YesNo_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

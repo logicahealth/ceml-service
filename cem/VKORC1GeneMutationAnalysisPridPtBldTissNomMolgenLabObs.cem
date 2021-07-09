@@ -1,0 +1,4 @@
+cem VKORC1GeneMutationAnalysisPridPtBldTissNomMolgenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			VKORC1GeneMutationAnalysisPridPtBldTissNomMolgen_CODE

@@ -1,0 +1,25 @@
+cem GaitPanel
+	kind	panel
+	base	PanelBase
+	key         GaitPanel_CODE
+    item        GaitEval
+        id      gaitEval
+        card    0-1
+    item        RequiresMobilityAssistiveDeviceAssert
+        id      requiresMobilityAssistiveDeviceAssert
+        card    0-1
+    qual		DataAbsentReason
+		id		dataAbsentReason
+		card	0-1
+	qual		AssociatedPrecondition 
+		id		associatedPrecondition 
+		card	0-M
+    qual		DateOfOnset
+		id		dateOfOnset
+		card	0-1
+	qual		HistoricalInd
+		id		historicalInd
+		card	0-1
+    qual		AssociatedSignAndSymptom
+		id		associatedSignAndSymptom
+		card	0-M

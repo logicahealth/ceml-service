@@ -1,0 +1,6 @@
+cem AntithrombinAgACncPtPPPQnImmLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AntithrombinAgACncPtPPPQnImm_CODE
+	constraint		data.quantity.unit_code
+			value		ArbitraryUnitsPerMilliliter_CODE

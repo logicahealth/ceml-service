@@ -1,0 +1,4 @@
+cem GlucoseACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			GlucoseACncPtUrineOrd_CODE

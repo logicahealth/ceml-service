@@ -1,0 +1,5 @@
+cem EpsteinBarrvirusnuclearAbTitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EpsteinBarrvirusnuclearAbTitrPtSerQnIF_CODE
+	

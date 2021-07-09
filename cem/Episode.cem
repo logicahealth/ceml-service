@@ -1,0 +1,10 @@
+cem Episode
+	kind    	component
+	key         Episode_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Episode_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+
+

@@ -1,0 +1,8 @@
+ConusTerminationLevel
+
+This component model states the level where the conus medullaris terminates, as seen on an ultrasound examination. The possible values are "L1", "L1-L2", "L2", "L2-L3" and "L3 or below".
+
+@Author jlindblo
+@Date 02 Dec 2016 09:45
+@Status draft
+@RequestedBy iActivity

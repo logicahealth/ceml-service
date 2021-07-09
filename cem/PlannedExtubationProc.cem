@@ -1,0 +1,8 @@
+cem PlannedExtubationProc
+	kind		statement
+	base		Procedure
+	qual		Duration
+		id		duration
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	PlannedExtubation_CODE

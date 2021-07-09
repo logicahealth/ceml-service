@@ -1,0 +1,7 @@
+cem ForeignBodyAssert
+	kind		statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.code
+		value	ForeignBody_CODE
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	SkinBodyLocation_VSET

@@ -1,0 +1,6 @@
+cem MethylmalonateCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MethylmalonateCreatinineScRtoPtUrineQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

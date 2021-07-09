@@ -1,0 +1,4 @@
+cem HLAMinusDQBOligotypeLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HLAMinusDQBOligotype_CODE

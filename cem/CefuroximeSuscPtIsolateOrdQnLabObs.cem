@@ -1,0 +1,4 @@
+cem CefuroximeSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CefuroximeSuscPtIsolateOrdQn_CODE

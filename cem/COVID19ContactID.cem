@@ -1,0 +1,6 @@
+cem COVID19ContactID
+	kind    	component
+	key         COVID19ContactID_CODE
+    data        Identifier
+
+

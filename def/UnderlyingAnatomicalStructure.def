@@ -1,0 +1,6 @@
+UnderlyingAnatomicalStructure is a component type of clinical element model.  It is used to describe the anatomical structure that is directly beneath a point on the body about which an obesrvation is made.
+
+@Author nrdavis1
+@Date 25 Feb 2019 11:54
+@Status draft
+@RequestedBy CIMI Skin and Wound

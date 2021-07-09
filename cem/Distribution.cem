@@ -1,0 +1,9 @@
+cem Distribution
+	kind    	component
+	key         Distribution_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   Distribution_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

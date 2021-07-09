@@ -1,0 +1,9 @@
+cem ClinicalObs
+	kind	statement
+	base	Observation
+	form		abstract
+	key			ClinicalObs_VSET
+	att			Updated
+		id		updated
+		card	0-1
+    

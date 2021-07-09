@@ -1,0 +1,8 @@
+cem MorseFallScaleTotalScoreMeas
+
+	kind	statement
+	base	StatementBase
+    key     MorseFallScaleTotalScore_CODE
+	data	Integer
+
+

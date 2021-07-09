@@ -1,0 +1,6 @@
+cem MercuryMCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MercuryMCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

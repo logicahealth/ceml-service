@@ -1,0 +1,4 @@
+cem MethadoneAndMetaboliteMeconiumLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			MethadoneAndMetaboliteMeconium_CODE

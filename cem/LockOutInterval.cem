@@ -1,0 +1,6 @@
+cem LockOutInterval
+	kind		component
+	key			LockOutInterval_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	TimeUnits_VSET

@@ -1,0 +1,6 @@
+cem PercentOfMarginObscured
+	kind    	component
+	key         PercentOfMarginObscured_CODE
+	data        Quantity
+    constraint	data.quantity.unit_code
+		value	Percent_CODE

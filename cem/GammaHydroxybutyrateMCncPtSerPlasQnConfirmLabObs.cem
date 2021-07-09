@@ -1,0 +1,6 @@
+cem GammaHydroxybutyrateMCncPtSerPlasQnConfirmLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GammaHydroxybutyrateMCncPtSerPlasQnConfirm_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

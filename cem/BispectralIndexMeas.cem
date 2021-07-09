@@ -1,0 +1,20 @@
+
+cem BispectralIndexMeas
+	kind	statement
+    base    StatementBase
+	key			BispectralIndex_CODE
+	data		Integer
+	qual		AbnormalInterpretation
+		id		abnormalInterpretation
+		card	0-1
+	qual		DeltaFlag
+		id		deltaFlag
+		card	0-1
+	qual		ReferenceRangeNar
+		id		referenceRangeNar
+		card	0-1
+    constraint	abnormalInterpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationNumericNom_VSET
+	constraint	deltaFlag.data.codeableConcept.valueset
+		value	DeltaFlagNumericNom_VSET
+	

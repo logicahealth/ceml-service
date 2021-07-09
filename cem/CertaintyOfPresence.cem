@@ -1,0 +1,10 @@
+cem CertaintyOfPresence
+	kind    	modifier
+	key         CertaintyOfPresence_CODE
+    data        CodeableConcept
+    qual        ReasonUnknown
+        id      reasonUnknown
+        card    0-1
+    constraint  data.codeableConcept.valueset
+        value   CertaintyOfPresence_VSET
+

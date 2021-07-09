@@ -1,0 +1,9 @@
+cem RectalTumorLocation
+	kind    	statement
+    base        StatementBase
+	key         RectalTumorLocation_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   RectalTumorLocation_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE

@@ -1,0 +1,8 @@
+RequestedService component model for the service(s) that is/are requested to be provided to the patient. For example: cardiac pacemaker insertion.
+
+@Author bsheale
+@Date 24 May 2017 09:52
+@Status draft
+@RequestedBy ACOG
+@Keyword referral, ACOG
+

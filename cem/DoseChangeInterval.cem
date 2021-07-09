@@ -1,0 +1,6 @@
+cem DoseChangeInterval
+	kind		component
+	key			DoseChangeInterval_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	TimeUnits_VSET

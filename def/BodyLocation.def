@@ -1,0 +1,3 @@
+BodyLocation captures the particular place in a body that the action or event is associated with.  For example, in the HeartRateMeas model body location is used to indicate
+where the heart rate was obtained from, like over the apex of the heart.
+

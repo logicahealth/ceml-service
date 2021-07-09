@@ -1,0 +1,12 @@
+cem NumberOfSnacksMeas
+	kind        statement
+	base        StatementBase
+    key         NumberOfSnacks_CODE
+	data        Quantity
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    1
+	constraint	data.quantity.unit_code
+	    value	PerDay_CODE
+    constraint  associatedPrecondition.data.codeableConcept.code
+        value   Preadmission_CODE

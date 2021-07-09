@@ -1,0 +1,7 @@
+FPARProviderPractitioner is a subtype of ProviderPractitioner with Role of Most Senior Clinican.
+ 
+@Author bsheale
+@Date 27 Apr 2017 11:31
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog, implementation

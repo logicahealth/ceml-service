@@ -1,0 +1,17 @@
+cem GeneralTrunkSensationAbilityEval
+	kind	statement
+	base	StatementBase
+	key			GeneralTrunkSensationAbility_CODE
+	data		CodeableConcept
+	qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	GeneralTrunkSensationAbility_VSET
+    constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	GeneralTrunkSensationBodyLocationPrecoord_VSET

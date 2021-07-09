@@ -1,0 +1,4 @@
+cem PiperacillinSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PiperacillinSuscPtIsolateOrdQnAgardiffusion_CODE

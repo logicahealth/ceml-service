@@ -1,0 +1,4 @@
+cem BloodgroupantibodiesidentifiedPridPtSerPlasBPUNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BloodgroupantibodiesidentifiedPridPtSerPlasBPUNom_CODE

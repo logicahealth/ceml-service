@@ -1,0 +1,6 @@
+cem LeukocyteCastUrineLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LeukocyteCastUrine_CODE
+	constraint		data.quantity.unit_code
+		value	PerLowPowerField_CODE

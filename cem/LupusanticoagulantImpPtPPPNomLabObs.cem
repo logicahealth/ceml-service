@@ -1,0 +1,4 @@
+cem LupusanticoagulantImpPtPPPNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			LupusanticoagulantImpPtPPPNom_CODE

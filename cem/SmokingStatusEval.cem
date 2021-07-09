@@ -1,0 +1,10 @@
+cem SmokingStatusEval
+    kind	statement
+	base	StatementBase
+    key     SmokingStatus_CODE
+	data	CodeableConcept
+    constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	SmokingStatus_VSET
+

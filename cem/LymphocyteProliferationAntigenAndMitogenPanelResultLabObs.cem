@@ -1,0 +1,4 @@
+cem LymphocyteProliferationAntigenAndMitogenPanelResultLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			LymphocyteProliferationAntigenAndMitogenPanelResult_CODE

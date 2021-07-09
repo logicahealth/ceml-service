@@ -1,0 +1,4 @@
+AmnioticFluidDescriptionEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD or CO) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the AmnioticFluidDescriptionEval model, the question is "what is the subject's Amniotic Fluid Description?" and the coded answers can be 'black','meconium', and 'pink' etc.
+"Amniotic Fluid Description" by definition describes the characteristics of the amniotic fluid surrounding a fetus, or expelled with a newborn at birth.
+

@@ -1,0 +1,7 @@
+cem SARScoronavirus2AbImpPtSerPlasNomLabObs
+	kind    	statement
+    base        StandardLabObsCoded
+	key         SARScoronavirus2AbImpPtSerPlasNom_CODE
+    constraint  data.codeableConcept.valueset
+        value   PosNeg_VSET
+

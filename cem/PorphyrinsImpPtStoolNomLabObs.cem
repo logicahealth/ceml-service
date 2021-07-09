@@ -1,0 +1,4 @@
+cem PorphyrinsImpPtStoolNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PorphyrinsImpPtStoolNom_CODE

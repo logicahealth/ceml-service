@@ -1,0 +1,4 @@
+ActionMethod is an abstract model for Method. This component captures what method used in Attribution models. 
+   For instance, in Verified, it captures how verification is achieved (verbal, written, telephone, etc.).
+
+

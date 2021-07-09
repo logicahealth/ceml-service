@@ -1,0 +1,6 @@
+cem GentamicinSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GentamicinSuscPtIsolateOrdQnAgardiffusion_CODE
+	constraint		data.quantity.unit_code
+			value		Millimeters_CODE

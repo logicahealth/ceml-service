@@ -1,0 +1,4 @@
+cem ReticulinAbIgAACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ReticulinAbIgAACncPtSerOrd_CODE

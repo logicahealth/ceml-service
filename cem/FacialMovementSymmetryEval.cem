@@ -1,0 +1,13 @@
+cem FacialMovementSymmetryEval
+	kind	statement
+	base	StatementBase
+	key         FacialMovementSymmetry_CODE
+	data        CodeableConcept    
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+    qual        DataAbsentReason
+        id      dataAbsentReason
+        card    0-M
+	constraint	data.codeableConcept.valueset
+		value	SymmetricalAsymmetrical_VSET

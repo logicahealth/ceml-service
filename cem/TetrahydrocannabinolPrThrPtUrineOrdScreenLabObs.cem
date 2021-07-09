@@ -1,0 +1,4 @@
+cem TetrahydrocannabinolPrThrPtUrineOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TetrahydrocannabinolPrThrPtUrineOrdScreen_CODE

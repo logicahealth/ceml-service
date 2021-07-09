@@ -1,0 +1,4 @@
+cem LegionellaSpAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LegionellaSpAbACncPtSerQn_CODE

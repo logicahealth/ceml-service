@@ -1,0 +1,4 @@
+cem ChloramphenicolSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChloramphenicolSuscPtIsolateOrdQn_CODE

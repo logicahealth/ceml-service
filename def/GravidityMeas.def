@@ -1,0 +1,15 @@
+GravidityMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+ In the GravidityMeas model, the question is "what is the subject's gravidity measure?" and the numeric answer will have a unit of measure. "Gravidity measure" by definitions means "The number of pregnancies a woman has had, complete or incomplete".
+ I.e. The number of pregnancies, current and past, regardless of pregnancy outcome.
+
+LOINC CODE 11996-6
+
+@Author bsheale
+@Date 07 Apr 2017 13:27
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog
+@Change 
+	I removed focal subject and added LOINC code to def file
+    @Author bsheale
+    @Date 07 Apr 2017

@@ -1,0 +1,4 @@
+cem TestAddedLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			TestAdded_CODE

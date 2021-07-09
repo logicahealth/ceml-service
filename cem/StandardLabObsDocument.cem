@@ -1,0 +1,9 @@
+cem StandardLabObsDocument
+	kind		statement
+	base		StandardLabObs
+	key         StandardLabObsDocument_VSET
+    data        Attachment
+	constraint	data.nullFlavor.valueset
+		value	LabNullFlavor_VSET
+	constraint	interpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationCodedNom_VSET

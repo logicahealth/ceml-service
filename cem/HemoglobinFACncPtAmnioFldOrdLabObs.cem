@@ -1,0 +1,4 @@
+cem HemoglobinFACncPtAmnioFldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HemoglobinFACncPtAmnioFldOrd_CODE

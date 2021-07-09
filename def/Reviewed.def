@@ -1,0 +1,4 @@
+Reviewed is an indication that data in the chart was reviewed. The who/what/when where and why are included.
+This is similar to Attribution, except it is instantiated after the instance it annotates has been stored.
+
+

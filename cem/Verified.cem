@@ -1,0 +1,9 @@
+cem Verified
+	kind		attribution
+	base		Attribution
+	constraint	data.codeableConcept.code
+		value	Verified_CODE
+	constraint	actionMethod.data.codeableConcept.valueset
+		value	VerifiedMethod_VSET
+    constraint  participant.data.codeableConcept.code
+        value   Verifier_CODE

@@ -1,0 +1,4 @@
+cem SusceptibilityMethodPridPtXXXNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			SusceptibilityMethodPridPtXXXNom_CODE

@@ -1,0 +1,4 @@
+cem NidusPrThrPtCalculusOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NidusPrThrPtCalculusOrd_CODE

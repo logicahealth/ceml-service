@@ -1,0 +1,5 @@
+cem ApolipoproteinAIApolipoproteinBMRtoPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ApolipoproteinAIApolipoproteinBMRtoPtSerPlasQn_CODE
+	

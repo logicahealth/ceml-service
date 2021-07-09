@@ -1,0 +1,10 @@
+cem TobaccoUseAssessmentPanel
+	kind	panel
+	base	PanelBase
+	key			TobaccoUseAssessmentPanel_CODE
+	item		TobaccoUseStatusEval
+		id		tobaccoUseStatusEval
+		card	1
+	item		TobaccoUseTeachingProc
+		id		tobaccoUseTeachingProc
+		card	0-M

@@ -1,0 +1,4 @@
+cem TimeStampData
+	kind		component
+	key			TimeStampData_CODE
+	data		DateTime

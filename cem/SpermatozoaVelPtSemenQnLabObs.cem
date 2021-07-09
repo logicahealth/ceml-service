@@ -1,0 +1,4 @@
+cem SpermatozoaVelPtSemenQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SpermatozoaVelPtSemenQn_CODE

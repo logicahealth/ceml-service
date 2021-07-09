@@ -1,0 +1,4 @@
+cem HepatitisBvirussurfaceAgPrThrPtSerPlasOrdConfirmLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HepatitisBvirussurfaceAgPrThrPtSerPlasOrdConfirm_CODE

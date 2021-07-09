@@ -1,0 +1,5 @@
+cem HSVTypeIIICombinedAbIgMLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HSVTypeIIICombinedAbIgM_CODE
+	

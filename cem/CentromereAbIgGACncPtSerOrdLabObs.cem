@@ -1,0 +1,4 @@
+cem CentromereAbIgGACncPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CentromereAbIgGACncPtSerOrd_CODE

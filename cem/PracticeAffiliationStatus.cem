@@ -1,0 +1,8 @@
+cem PracticeAffiliationStatus
+	kind		component
+	key			PracticeAffiliationStatus_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	PracticeAffiliationStatus_VSET

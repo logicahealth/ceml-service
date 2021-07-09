@@ -1,0 +1,17 @@
+cem DevicePresentObservation
+	kind    	statement
+    base        Observation
+	key         DevicePresentObservation_KEY_CODE
+    data        CodeableConcept
+
+    constraint  data.codeableConcept.valueset
+        value   PresentAbsent_VSET
+    constraint  device.card
+        value   1
+    constraint  method.card
+        value   0
+    constraint  focalSubject.card
+        value   0
+    constraint  interpretation.card
+        value   0
+

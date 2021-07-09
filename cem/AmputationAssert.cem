@@ -1,0 +1,19 @@
+cem AmputationAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		ForeignBody
+		id		foreignBody
+		card	0-M
+	qual		DrainageFluidDescription
+		id		drainageFluidDescription
+		card	0-M
+	qual		Hemostatic
+		id		hemostatic
+		card	0-M
+	qual		MechanismOfInjury
+		id		mechanismOfInjury
+		card	0-M
+	constraint	data.codeableConcept.code
+		value	Amputation_CODE
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	AmputationBodyLocation_VSET

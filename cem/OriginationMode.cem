@@ -1,0 +1,8 @@
+cem OriginationMode
+	kind		component
+	key			OriginationMode_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	OriginationMode_VSET

@@ -1,0 +1,4 @@
+cem SequenceNumber
+	kind		component
+	key			SequenceNumber_CODE
+	data		Integer

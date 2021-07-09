@@ -1,0 +1,4 @@
+cem HerpesSimplexVirus2AbPatternImpPtSerNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HerpesSimplexVirus2AbPatternImpPtSerNom_CODE

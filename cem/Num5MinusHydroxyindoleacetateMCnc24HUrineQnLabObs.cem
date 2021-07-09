@@ -1,0 +1,6 @@
+cem Num5MinusHydroxyindoleacetateMCnc24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num5MinusHydroxyindoleacetateMCnc24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerLiter_CODE

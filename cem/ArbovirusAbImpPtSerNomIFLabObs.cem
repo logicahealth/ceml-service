@@ -1,0 +1,4 @@
+cem ArbovirusAbImpPtSerNomIFLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ArbovirusAbImpPtSerNomIF_CODE

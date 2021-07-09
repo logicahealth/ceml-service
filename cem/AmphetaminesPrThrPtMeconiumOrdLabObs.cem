@@ -1,0 +1,4 @@
+cem AmphetaminesPrThrPtMeconiumOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AmphetaminesPrThrPtMeconiumOrd_CODE

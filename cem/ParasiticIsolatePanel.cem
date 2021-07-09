@@ -1,0 +1,10 @@
+cem ParasiticIsolatePanel
+	kind		panel
+	base		MicroIsolatePanel
+	key			ParasiticIsolatePanel_CODE
+	constraint	microOrganismEval.data.codeableConcept.valueset
+		value	ParasiticMicroOrganism_VSET
+	constraint	microOrganismEval.microOrganismQuantitative.data.codeableConcept.valueset
+		value	ParasiticMicroGrowthQuantitative_VSET
+	constraint	microOrganismEval.microOrganismQualitative.data.codeableConcept.valueset
+		value	ParasiticMicroObsQualitative_VSET

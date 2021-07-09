@@ -1,0 +1,4 @@
+cem TCRGGeneRearrangementsArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TCRGGeneRearrangementsArbPtBldTissOrdMolgen_CODE

@@ -1,0 +1,4 @@
+CultureObtainingProc model is a procedure model. In a procedure model the key code is Procedure_KEY_ECID and data describes the procedure being performed.
+In the CultureObtainingProc model data is CultureObtaining_ECID which captures information surrounding the procedure of collecting a specimen to be cultured by a microbiology lab
+
+

@@ -1,0 +1,9 @@
+Network
+This is a component type of model used for the insurer-specific identifier for the insurer-defined network of providers to which the beneficiary may seek treatment which will be covered at the 'in-network' rate, otherwise 'out of network' terms and conditions apply.
+
+@Author N Davis
+@Date 12 May 2017
+@Status draft
+@RequestedBy Internal
+@Keyword coverage, insurance, financial
+        

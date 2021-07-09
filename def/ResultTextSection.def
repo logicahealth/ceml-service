@@ -1,0 +1,2 @@
+ResultTextSection is a domain driven key in which the key will describe a possible type of text being recived (i.e., Impression, and the data will be the text from the OBX 5 segment).
+

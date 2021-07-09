@@ -1,0 +1,6 @@
+cem CadmiumCreatinineMCrto24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CadmiumCreatinineMCrto24HUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicrogramsPerGram_CODE

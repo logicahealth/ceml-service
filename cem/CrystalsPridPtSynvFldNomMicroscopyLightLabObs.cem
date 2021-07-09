@@ -1,0 +1,6 @@
+cem CrystalsPridPtSynvFldNomMicroscopyLightLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CrystalsPridPtSynvFldNomMicroscopyLight_CODE
+	constraint	data.codeableConcept.valueset
+		value	FluidAndTissueCrystalID_VSET

@@ -1,0 +1,1 @@
+TakenDoseUpperLimit is the larger dose an individual is allowed to take when a range of doses it prescribed, e.g. if the prescirption is "Take one to two tablets every 4 hours" and the patient took 2 tabelts one time and 1 tablet another, the taken upper limit is 2 tablets.

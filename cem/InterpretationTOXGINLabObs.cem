@@ -1,0 +1,4 @@
+cem InterpretationTOXGINLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationTOXGIN_CODE

@@ -1,0 +1,6 @@
+cem EnolaseNeuronSpecificMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EnolaseNeuronSpecificMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerLiter_CODE

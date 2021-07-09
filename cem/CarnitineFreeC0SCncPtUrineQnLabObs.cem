@@ -1,0 +1,6 @@
+cem CarnitineFreeC0SCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CarnitineFreeC0SCncPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	MicromolesPerGram_CODE

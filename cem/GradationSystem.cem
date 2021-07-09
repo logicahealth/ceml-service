@@ -1,0 +1,7 @@
+cem GradationSystem
+	kind    	component
+	key         GradationSystem_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   GradationSystem_VSET
+

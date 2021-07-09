@@ -1,0 +1,6 @@
+cem CadavericDonorInd
+	kind		statement
+    base        AdministrativeObservation
+	key			CadavericDonorInd_CODE
+	constraint	data.codeableConcept.valueset
+		value	YesNo_VSET

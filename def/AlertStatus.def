@@ -1,0 +1,4 @@
+AlertStatus captures the state of alert, featuring the possible values as new, acknowledged, reviewed, active, obsoleted, etc.
+			The history of the statuses are kept in StatusTracking instances. This is the overall status for the alert, and each destination delivery will have its own status (i.e., whether it is acknowledged or not). 
+
+

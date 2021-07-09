@@ -1,0 +1,4 @@
+EmesisDescriptionEval is an evaluation model that restricts (i.e., constrains) the FluidDescriptionEval model to emesis-specific fluid description values. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the EmesisDescriptionEval, the question is "what is the description of the emesis fluid?" and the coded answers can be "coffee grounds," "white," and "undigested food."
+"EmesisDescription" by definition means the description (characteristics) of emesis.
+

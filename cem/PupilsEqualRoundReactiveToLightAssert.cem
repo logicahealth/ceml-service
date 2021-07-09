@@ -1,0 +1,10 @@
+cem PupilsEqualRoundReactiveToLightAssert
+	kind		statement
+	base        AssertionOfPresence
+    constraint	data.codeableConcept.code
+		value	PupilsEqualRoundReactiveToLight_CODE
+    constraint  bodyLocation.card
+        value   0
+   
+	
+    

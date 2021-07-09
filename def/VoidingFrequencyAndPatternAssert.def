@@ -1,0 +1,5 @@
+VoidingFrequencyAndPatternAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the VoidingFrequencyAndPatternAssert model, data is VoidingFrequencyAndPattern_VALUESET_ECID which means the patient's voiding status is one of
+the assertions in the set
+

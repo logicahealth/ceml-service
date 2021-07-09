@@ -1,0 +1,4 @@
+cem AdministrationTime
+	kind		component
+	key			AdministrationTime_CODE
+	data		DateTime

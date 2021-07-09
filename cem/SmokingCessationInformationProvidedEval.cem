@@ -1,0 +1,10 @@
+cem SmokingCessationInformationProvidedEval
+    kind	statement
+	base	StatementBase
+    key     SmokingCessationInformationProvided_CODE
+	data	CodeableConcept
+    constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	YesNoUnknown_VSET
+

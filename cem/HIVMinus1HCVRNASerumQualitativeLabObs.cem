@@ -1,0 +1,4 @@
+cem HIVMinus1HCVRNASerumQualitativeLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HIVMinus1HCVRNASerumQualitative_CODE

@@ -1,0 +1,24 @@
+cem TongueProtrusionEval
+	kind	statement
+	base	PhysicalObs
+	key         TongueProtrusion_CODE
+	data        CodeableConcept
+    constraint	data.codeableConcept.strength
+		value	CWE
+    constraint	data.codeableConcept.valueset
+		value	TongueProtrusion_VSET
+    constraint  bodyLocation.aggregate.card
+        value   0
+    constraint  bodyLocation.bodySide.card
+        value   0
+    constraint  bodyLocation.bodyLocationQualifier.card
+        value   0
+    constraint  bodyLocation.bodySite.card
+        value   0
+    constraint  bodyLocation.underlyingAnatomicalStructure.card
+        value   0
+    constraint  bodyLocation.bodyLandmarkOrientation.card
+        value   0
+    constraint  bodyLocation.bodyLocationPrecoord.card
+        value   0    
+        

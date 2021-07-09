@@ -1,0 +1,6 @@
+SINBADWoundGrade is the model for the diabetic foot ulcer classification system of Site, Ischemia, Neuropathy, Bacterial infection, and Depth (SINBAD). It rates the condition of each of these areas and uses these ratings to calculate a total score.
+
+@Author nrdavis1
+@Date 03 Feb 2020 12:15
+@Status draft
+@RequestedBy Logica wound project

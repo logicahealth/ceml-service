@@ -1,0 +1,22 @@
+cem Person
+	kind	statement
+	base	StatementBase
+    key			Person_CODE
+	item		PersonName
+		id		personName
+		card	1-M
+	item		BirthDate
+		id		birthDate
+		card	0-1
+	item		AdministrativeGender
+		id		administrativeGender
+		card	0-1
+	item		Address
+		id		address
+		card	0-M
+	item		Telecom
+		id		telecom
+		card	0-M
+    item        EmergencyContact
+        id      emergencyContact
+        card    0-M

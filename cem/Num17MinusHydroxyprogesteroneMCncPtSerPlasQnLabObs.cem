@@ -1,0 +1,6 @@
+cem Num17MinusHydroxyprogesteroneMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num17MinusHydroxyprogesteroneMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerDeciliter_CODE

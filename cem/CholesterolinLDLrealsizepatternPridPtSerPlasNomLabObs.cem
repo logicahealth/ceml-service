@@ -1,0 +1,4 @@
+cem CholesterolinLDLrealsizepatternPridPtSerPlasNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CholesterolinLDLrealsizepatternPridPtSerPlasNom_CODE

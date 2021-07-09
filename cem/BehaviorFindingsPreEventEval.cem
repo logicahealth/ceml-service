@@ -1,0 +1,22 @@
+cem BehaviorFindingsPreEventEval
+	kind	statement
+	base	StatementBase
+	key			BehaviorFindingsPreEvent_CODE
+	data		CodeableConcept
+	qual		AbnormalInterpretation
+		id		abnormalInterpretation
+		card	0-1
+	qual		DeltaFlag
+		id		deltaFlag
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	BehaviorFindings_VSET
+	constraint	abnormalInterpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationCodedNom_VSET
+	constraint	deltaFlag.data.codeableConcept.valueset
+		value	DeltaFlagCodedNom_VSET

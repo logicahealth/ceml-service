@@ -1,0 +1,4 @@
+cem ProteinFractionsOligoclonalBandsACncPtCSFOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ProteinFractionsOligoclonalBandsACncPtCSFOrd_CODE

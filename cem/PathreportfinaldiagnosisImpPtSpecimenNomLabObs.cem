@@ -1,0 +1,4 @@
+cem PathreportfinaldiagnosisImpPtSpecimenNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PathreportfinaldiagnosisImpPtSpecimenNom_CODE

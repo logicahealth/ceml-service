@@ -1,0 +1,2 @@
+LocationPlaced created on 05/May/2016 17:55
+This model is used to document where an action occured if it happened prior to the current location. For example, an IV or Urinary Catheter is placed in a location other than the current location, this is to chart the fact that it was done in another location.

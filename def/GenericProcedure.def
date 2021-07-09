@@ -1,0 +1,4 @@
+GenericProcedure refers to any procedure which is performed or is planned to be performed on a patient. 
+This model is used to stored a procedure if the specific procedure model for it 
+hasn't been created yet.
+

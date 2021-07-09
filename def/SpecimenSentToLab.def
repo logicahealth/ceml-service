@@ -1,0 +1,11 @@
+original responsible person: Bret Heale on 02/05/2016
+SpecimenSentToLab is a Yes/No/Unknown model which is used to state weather a specimen of the assoicted type has been sent.
+For example, StoolAssesmentPanel uses this componenent to record that a stool sample has been sent. Note: one could make a StoolSpecimenSentToLab model instead.
+Important: as it is, this component does not indicate a lab order was made. SpecimenSentToLab is just a very basic statement that a lab was sent.
+
+Note: not connected to the lab order. could be through a semantic link
+//    link SpecimenSentToLabOrderLink links not allowed in Components
+//         id labOrderForSpecimen
+//         card 0-1
+
+//semantic link could be used to connect this to an OrderLab instance

@@ -1,0 +1,4 @@
+cem BilirubinACncPtAmnioFldOrdDirectSpectrophotometryLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BilirubinACncPtAmnioFldOrdDirectSpectrophotometry_CODE

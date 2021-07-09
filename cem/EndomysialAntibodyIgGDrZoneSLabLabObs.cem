@@ -1,0 +1,4 @@
+cem EndomysialAntibodyIgGDrZoneSLabLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			EndomysialAntibodyIgGDrZoneSLab_CODE

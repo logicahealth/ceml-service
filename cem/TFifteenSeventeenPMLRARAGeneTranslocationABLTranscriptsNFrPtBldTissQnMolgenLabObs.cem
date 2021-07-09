@@ -1,0 +1,6 @@
+cem TFifteenSeventeenPMLRARAGeneTranslocationABLTranscriptsNFrPtBldTissQnMolgenLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TFifteenSeventeenPMLRARAGeneTranslocationABLTranscriptsNFrPtBldTissQnMolgen_CODE
+	constraint		data.quantity.unit_code
+		value	UnityUnitsOfMeasure_CODE

@@ -1,0 +1,10 @@
+AirwayInterfaceTypeAssert is an assertion group model. In an assertion group model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted selected from a value set of similar assertions.  
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the AirwayInterfaceTypeAssert model, data is a type of airway interface_ECID such as TrachealTube_ECID which means various airways and airway interfaces, 
+both artificial and natural, which aid in respiration. This model is used in other models to specifically capture
+both a type of ventilator and the type of airway the ventilation is administered through.
+ 
+Airway interface type assert group captures various airways and airway interfaces, 
+both artificial and natural, which aid in respiration. This model is used to specifically capture
+both a type of ventilator and the type of airway the ventilation is administered through.
+

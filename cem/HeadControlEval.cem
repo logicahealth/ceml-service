@@ -1,0 +1,21 @@
+cem HeadControlEval
+	kind	statement
+    base    StatementBase
+	key     HeadControl_CODE
+	data		CodeableConcept
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+    qual        AssociatedPrecondition
+        id      neuromuscularAssociatedPrecondition
+        card    0-M
+    constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	HeadControl_VSET
+    constraint  neuromuscularAssociatedPrecondition.data.codeableConcept.valueset
+        value   NeuromuscularAssociatedPrecondition_VSET
+

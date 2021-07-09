@@ -1,0 +1,4 @@
+cem YeastPrThrPtXXXOrdOrganismspecificcultureLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			YeastPrThrPtXXXOrdOrganismspecificculture_CODE

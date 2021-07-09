@@ -1,0 +1,7 @@
+cem DrainageFluidColor
+	kind    	component
+	key         DrainageFluidColor_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset    
+        value   DrainageFluidColor_VSET
+    

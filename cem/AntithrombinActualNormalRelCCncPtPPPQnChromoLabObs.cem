@@ -1,0 +1,6 @@
+cem AntithrombinActualNormalRelCCncPtPPPQnChromoLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AntithrombinActualNormalRelCCncPtPPPQnChromo_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

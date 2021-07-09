@@ -1,0 +1,6 @@
+cem CalciumionizedMCncPtSerPlasQnISELabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CalciumionizedMCncPtSerPlasQnISE_CODE
+	constraint		data.quantity.unit_code
+			value		MilligramsPerDeciliter_CODE

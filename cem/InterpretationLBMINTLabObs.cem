@@ -1,0 +1,4 @@
+cem InterpretationLBMINTLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			InterpretationLBMINT_CODE

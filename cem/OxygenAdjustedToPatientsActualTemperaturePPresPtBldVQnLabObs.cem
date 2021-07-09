@@ -1,0 +1,6 @@
+cem OxygenAdjustedToPatientsActualTemperaturePPresPtBldVQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			OxygenAdjustedToPatientsActualTemperaturePPresPtBldVQn_CODE
+	constraint		data.quantity.unit_code
+		value	MillimetersOfMercury_CODE

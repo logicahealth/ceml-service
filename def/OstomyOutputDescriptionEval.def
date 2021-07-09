@@ -1,0 +1,4 @@
+OstomyOutputDescriptionEval is an evaluation model that restricts (i.e., constrains) the FluidDescriptionEval model to ostomy output-specific fluid description values. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the "OstomyOutputDescriptionEval" model, the question is "what is the description of the ostomy output fluid?" and the coded answers can be 'melena',or 'Clay'.
+"Ostomy Output Description" by definition means the description (characteristics) of ostomy output.
+

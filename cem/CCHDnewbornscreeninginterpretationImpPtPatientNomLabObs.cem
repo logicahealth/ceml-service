@@ -1,0 +1,4 @@
+cem CCHDnewbornscreeninginterpretationImpPtPatientNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CCHDnewbornscreeninginterpretationImpPtPatientNom_CODE

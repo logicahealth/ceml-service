@@ -1,0 +1,3 @@
+FrequencyItem is the choice of ways to express a frequency.  It is part of a more complex frequency that can contain multiple frequency items.
+An example of a FrequencyItem would be "QAM" as one frequency item and "QPM" as another frequency item in the order to take one tablet QAM 
+	and 2 tablets QPM.   

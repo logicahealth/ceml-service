@@ -1,0 +1,5 @@
+cem Plateletfactor4ACncPtPPPQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Plateletfactor4ACncPtPPPQn_CODE
+	

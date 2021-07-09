@@ -1,0 +1,6 @@
+cem HumanpapillomaVirus161831333539455152565866DNAPrThrPtTissOrdProbeLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HumanpapillomaVirus161831333539455152565866DNAPrThrPtTissOrdProbe_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

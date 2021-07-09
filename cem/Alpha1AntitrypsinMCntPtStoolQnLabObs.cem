@@ -1,0 +1,6 @@
+cem Alpha1AntitrypsinMCntPtStoolQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Alpha1AntitrypsinMCntPtStoolQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerGram_CODE

@@ -1,0 +1,18 @@
+cem CardiacRhythmEval
+	kind		statement
+    base        PhysicalObs
+	key			CardiacRhythm_CODE
+	data		CodeableConcept
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	CardiacRhythm_VSET
+	constraint	method.data.codeableConcept.valueset
+		value	CardiacRhythmMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	CardiacRhythmDevice_VSET
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	CardiacRhythmBodyLocationPrecoord_VSET

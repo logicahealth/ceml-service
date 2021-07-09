@@ -1,0 +1,4 @@
+cem InterpretationSpecialChemLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationSpecialChem_CODE

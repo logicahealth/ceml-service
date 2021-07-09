@@ -1,0 +1,8 @@
+cem TransportMode
+	kind		component
+	key			TransportMode_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	TransportMode_VSET

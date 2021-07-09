@@ -1,0 +1,6 @@
+cem Num10MinusHydroxycarbazepineMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Num10MinusHydroxycarbazepineMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

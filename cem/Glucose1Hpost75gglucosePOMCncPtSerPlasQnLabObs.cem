@@ -1,0 +1,6 @@
+cem Glucose1Hpost75gglucosePOMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Glucose1Hpost75gglucosePOMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		MilligramsPerDeciliter_CODE

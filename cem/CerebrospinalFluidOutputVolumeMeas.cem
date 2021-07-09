@@ -1,0 +1,10 @@
+cem CerebrospinalFluidOutputVolumeMeas
+	kind		statement
+	base		OutputVolumeMeas
+	key			CerebrospinalFluidOutputVolume_CODE
+	constraint	method.data.codeableConcept.valueset
+		value	CerebrospinalFluidOutputMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	CerebrospinalFluidOutputDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	CerebrospinalFluidOutputBodyLocationPrecoord_VSET

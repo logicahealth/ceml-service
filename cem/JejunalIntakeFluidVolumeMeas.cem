@@ -1,0 +1,8 @@
+cem JejunalIntakeFluidVolumeMeas
+	kind		statement
+	base		IntakeFluidVolumeMeas
+	key			JejunalIntakeFluidVolume_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	JejunalTubeIntakeDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	JejunalTubeBodyLocationPrecoord_VSET

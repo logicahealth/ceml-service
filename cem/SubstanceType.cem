@@ -1,0 +1,6 @@
+cem SubstanceType
+	kind		component
+	key			SubstanceType_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.valueset
+		value	SubstanceType_VSET

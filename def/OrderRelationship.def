@@ -1,0 +1,5 @@
+OrderablesRelationship is a component model.
+The values of order model include 1)Simple 2)Or 3)Alternating 4)Then 5)Complex. (The default is ""Simple"").The purpose of OrderModel is to simplify implementation, instead of dealing with the complexity of implementing a string expression. For example, if the order model is Or, then the relationship among all the orderables of this order is OR.
+If the clinician wants to get more complex, then the string choice is used for storage of the relationship string created by the clinician (e.g. ""(A and B) or C"")."
+
+

@@ -1,0 +1,2 @@
+Route is a component base model that records the course in the body through which an administration was made, a procedure was performed, or specimens were obtained.
+For example, medications may be administered orally, intravenously, intramuscularly, etc.

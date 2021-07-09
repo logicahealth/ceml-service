@@ -1,0 +1,4 @@
+cem LeukemiaLymphomaSurfaceMarkersNumPtXXXQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LeukemiaLymphomaSurfaceMarkersNumPtXXXQn_CODE

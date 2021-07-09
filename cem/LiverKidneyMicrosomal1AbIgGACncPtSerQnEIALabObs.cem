@@ -1,0 +1,6 @@
+cem LiverKidneyMicrosomal1AbIgGACncPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LiverKidneyMicrosomal1AbIgGACncPtSerQnEIA_CODE
+	constraint		data.quantity.unit_code
+		value	Units_CODE

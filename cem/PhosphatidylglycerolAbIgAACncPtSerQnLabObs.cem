@@ -1,0 +1,6 @@
+cem PhosphatidylglycerolAbIgAACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PhosphatidylglycerolAbIgAACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerMilliliter_CODE

@@ -1,0 +1,4 @@
+cem AntibioticXXXSuscPtIsolateOrdQnMLCLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AntibioticXXXSuscPtIsolateOrdQnMLC_CODE

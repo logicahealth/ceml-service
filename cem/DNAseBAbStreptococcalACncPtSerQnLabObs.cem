@@ -1,0 +1,6 @@
+cem DNAseBAbStreptococcalACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DNAseBAbStreptococcalACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerMilliliter_CODE

@@ -1,0 +1,4 @@
+cem GliadinPeptideAbIgAACncPtSerOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			GliadinPeptideAbIgAACncPtSerOrdEIA_CODE

@@ -1,0 +1,6 @@
+cem HematocritVFrPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HematocritVFrPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

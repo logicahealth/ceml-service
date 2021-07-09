@@ -1,0 +1,4 @@
+cem PromazineACncPtSerPlasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PromazineACncPtSerPlasOrd_CODE

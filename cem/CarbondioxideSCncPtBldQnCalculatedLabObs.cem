@@ -1,0 +1,6 @@
+cem CarbondioxideSCncPtBldQnCalculatedLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CarbondioxideSCncPtBldQnCalculated_CODE
+	constraint		data.quantity.unit_code
+			value		MillimolesPerLiter_CODE

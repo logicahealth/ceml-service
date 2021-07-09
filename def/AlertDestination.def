@@ -1,0 +1,10 @@
+AlertDestination indicates to whom, where, how, and when an alert is sent 
+(e.g., John Smith, pager). AlertDestination can be categorized into two kinds: 
+1) General destination (destinationType).
+General destination has values such as ordering physician, calling program, specific user, attending physician, 
+attending nurse, bedside nurse, bedside terminal, department, nursing division, tracking board, printer nearest 
+patient, specific printer, alert table, patient CDR, JMS queue, table, process. 
+2) Specific destination (specific instances), which is string. In the case where the 
+alert is stored in CDR, specific destination is not required and its cardality can be 0. For the same reason, 
+no deliverymethod is needed when it is stored in CDR. 
+

@@ -1,0 +1,4 @@
+cem ThiopurineMethyltransferaseEnzymeActivityLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ThiopurineMethyltransferaseEnzymeActivity_CODE

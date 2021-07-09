@@ -1,0 +1,18 @@
+cem EncounterProvider
+	kind		component
+	key			EncounterProvider_CODE
+	data		CodeableConcept
+	qual		ProviderName
+		id		providerName
+		card	0-1
+	qual		ProviderParticipationType
+		id		providerParticipationType
+		card	0-1
+	qual		ProviderService
+		id		providerService
+		card	0-1
+	qual		ProviderId
+		id		providerId
+		card	0-1
+	constraint	data.codeableConcept.strength
+		value	CWE

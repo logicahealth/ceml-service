@@ -1,0 +1,9 @@
+AddressType is a component model which describes the use classification of the 
+MAILING ADDRESS entity in the dimension of its representation type. 
+			The value set of this coded attribute is taken from the HL7 V3 Address Use code set with CDM extension:
+			-   ABC: Alphabetic text of address
+			-   SYL: Syllabic text of address
+			-   IDE: Ideographic text of address
+		
+
+

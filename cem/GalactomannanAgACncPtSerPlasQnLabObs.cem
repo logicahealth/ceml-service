@@ -1,0 +1,5 @@
+cem GalactomannanAgACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GalactomannanAgACncPtSerPlasQn_CODE
+	

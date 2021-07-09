@@ -1,0 +1,5 @@
+cem Category
+	kind    	component
+	key         Category_CODE
+    data        CodeableConcept
+

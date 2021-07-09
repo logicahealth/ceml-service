@@ -1,0 +1,5 @@
+cem CoxsackievirusB4AbTitrPtSerQnNeutLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoxsackievirusB4AbTitrPtSerQnNeut_CODE
+	

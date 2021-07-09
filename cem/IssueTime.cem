@@ -1,0 +1,4 @@
+cem IssueTime
+	kind		component
+	key			IssueTime_CODE
+	data		DateTime

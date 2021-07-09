@@ -1,0 +1,16 @@
+cem BodyReleasedTo
+	kind	statement
+	base	StatementBase
+	key			BodyReleasedTo_CODE
+	item		PersonName
+		id		personName
+		card	1-M
+	item		MultipleBirthInd
+		id		multipleBirthInd
+		card	0-1
+	item		Address
+		id		address
+		card	0-M
+	item		Telecom
+		id		telecom
+		card	0-M

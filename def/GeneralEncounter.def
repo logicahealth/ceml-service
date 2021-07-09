@@ -1,0 +1,9 @@
+GeneralEncounter is the model used to capture patient data linked to a set encounter.
+
+modeler: NDavis
+date: 12/8/2015
+change:  Updated model to be a child of the Encounter base model.  GeneralEncounter is now an iso-semantic model to the other descendents of Encounter, InpatientEncounter, OutpatientEncounter, EmergecnyEncounter, and VirtualEncounter.
+
+modeler: NDavis
+date: 12/17/2015
+change:  Removed Comorbidity due to its similarity to RelatedCondition.

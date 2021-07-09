@@ -1,0 +1,4 @@
+cem AssociatedOrderTermId
+	kind		component
+	key			AssociatedOrderTermId_CODE
+	data		String

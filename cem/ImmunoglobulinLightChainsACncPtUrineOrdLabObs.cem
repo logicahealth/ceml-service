@@ -1,0 +1,4 @@
+cem ImmunoglobulinLightChainsACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ImmunoglobulinLightChainsACncPtUrineOrd_CODE

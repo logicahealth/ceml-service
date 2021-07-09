@@ -1,0 +1,8 @@
+cem PeritonealDialysisOutputVolumeRateMeas
+	kind		statement
+	base		OutputVolumeRateMeas
+	key			PeritonealDialysisOutputVolumeRate_CODE
+	constraint	device.data.codeableConcept.valueset
+		value	PeritonealDialysisDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	PeritonealDialysisBodyLocationPrecoord_VSET

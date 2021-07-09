@@ -1,0 +1,4 @@
+cem CoccidioidesReactionWhealReferenceRangeFindXXXLabTestNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CoccidioidesReactionWhealReferenceRangeFindXXXLabTestNom_CODE

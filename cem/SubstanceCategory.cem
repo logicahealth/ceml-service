@@ -1,0 +1,8 @@
+cem SubstanceCategory
+	kind		component
+	key			SubstanceCategory_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	SubstanceCategory_VSET

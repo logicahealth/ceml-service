@@ -1,0 +1,5 @@
+cem XXXbloodgroupAbTitrPtSerPlasQnAntihumanglobulinLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			XXXbloodgroupAbTitrPtSerPlasQnAntihumanglobulin_CODE
+	

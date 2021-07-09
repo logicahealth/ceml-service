@@ -1,0 +1,4 @@
+cem CytogeneticsGrowProcessAndHoldBloodLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			CytogeneticsGrowProcessAndHoldBlood_CODE

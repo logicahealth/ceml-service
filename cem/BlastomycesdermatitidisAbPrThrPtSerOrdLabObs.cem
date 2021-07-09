@@ -1,0 +1,4 @@
+cem BlastomycesdermatitidisAbPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BlastomycesdermatitidisAbPrThrPtSerOrd_CODE

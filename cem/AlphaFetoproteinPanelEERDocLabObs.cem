@@ -1,0 +1,4 @@
+cem AlphaFetoproteinPanelEERDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			AlphaFetoproteinPanelEERDoc_CODE

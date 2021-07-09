@@ -1,0 +1,5 @@
+cem LiverKidneyMicrosomalAbTitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LiverKidneyMicrosomalAbTitrPtSerQnIF_CODE
+	

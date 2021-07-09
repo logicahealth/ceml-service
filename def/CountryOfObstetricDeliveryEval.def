@@ -1,0 +1,4 @@
+CountryOfObstetricDeliveryEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the CountryOfObstetricDeliveryEval model, the question is "what is the subject's country of obstetric delivery?" and the coded answers can be 'France','Senegal', and 'Iceland' etc.
+CountryOfObstetricDelivery by definition means captures the country in which a subject was born.  
+

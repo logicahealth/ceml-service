@@ -1,0 +1,20 @@
+cem Provider
+	kind	statement
+	base	StatementBase
+	form		abstract
+	key			Provider_VSET
+	item		ProviderType
+		id		providerType
+		card	0-1
+	item		ProviderClassification
+		id		providerClassification
+		card	0-1
+	item		ProviderSpecialty
+		id		providerSpecialty
+		card	0-M
+	item		EffectiveTime
+		id		effectiveTime
+		card	0-1
+	item		ExpirationTime
+		id		expirationTime
+		card	0-1

@@ -1,0 +1,4 @@
+cem ChromosomeFISHCLLDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ChromosomeFISHCLLDoc_CODE

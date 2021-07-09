@@ -1,0 +1,6 @@
+cem ReticulocytesNCncPtBldQnCalculatedLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ReticulocytesNCncPtBldQnCalculated_CODE
+	constraint		data.quantity.unit_code
+			value		ThousandPerLiterNumberConcentrationUnits_CODE

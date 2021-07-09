@@ -1,0 +1,6 @@
+cem GeneralizedAnxietyDisorder7ItemGAD7TotalScoreMeas
+
+	kind	statement
+	base	StatementBase
+    key     GeneralizedAnxietyDisorder7ItemGAD7TotalScore_CODE
+	data	Quantity

@@ -1,0 +1,8 @@
+TransferredToOtherFacilityEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value
+(CD or CO) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the
+"answer" in data can be "White".
+In the TransferredToOtherFacilityEval model, the question is, "What facility was the subject transferred to?" and the coded answers
+can be "LDS Hospital," "Intermountain Medical Center," etc.
+"TransferredToOtherFacilityEval" by definition means the facility where the subject was transferred to.
+
+

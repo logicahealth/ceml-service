@@ -1,0 +1,4 @@
+cem CompositionTypePtCalculusNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			CompositionTypePtCalculusNom_CODE

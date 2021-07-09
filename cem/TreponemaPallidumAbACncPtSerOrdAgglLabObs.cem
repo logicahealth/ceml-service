@@ -1,0 +1,6 @@
+cem TreponemaPallidumAbACncPtSerOrdAgglLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			TreponemaPallidumAbACncPtSerOrdAggl_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

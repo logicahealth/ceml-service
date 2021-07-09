@@ -1,0 +1,6 @@
+Participant is information about the entity (usually a person) that participated in an act.
+  Role is different from ParticipationType in that role is defined independently of the context of the associated act.
+  ParticipationType can be different from act to act  (i.e., an RN is an RN, but may participate as
+		observer, performer, reporter, etc.)
+
+

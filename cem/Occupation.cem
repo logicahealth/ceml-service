@@ -1,0 +1,9 @@
+cem Occupation
+	kind		component
+	form		extensible
+	key			Occupation_CODE
+	data		CodeableConcept
+	constraint  data.codeableConcept.strength 
+        value   CWE 
+    constraint  data.codeableConcept.valueset 
+        value   Occupation_VSET

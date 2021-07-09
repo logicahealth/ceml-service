@@ -1,0 +1,4 @@
+cem BeneficiaryIdentifier
+kind    component
+key     BeneficiaryIdentifier_CODE
+data    Identifier

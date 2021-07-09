@@ -1,0 +1,8 @@
+cem PupilsConsensualToLightAssert
+	kind		statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.code
+		value	PupilsConsensualToLight_CODE
+    constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	PupilBodyLocationPrecoord_VSET
+    

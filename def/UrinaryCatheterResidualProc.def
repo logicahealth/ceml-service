@@ -1,0 +1,5 @@
+GenitourinaryCatheterResidualProc is a procedure model. In a procedure model the key code is "Procedure_KEY_ECID" and data describes the procedure being performed.
+In the GenitourinaryCatheterResidualProc model, data is "GenitourinaryCatheterResidual_ECID" which means "The act of draining the bladder through a catheter after urination to determine how much urine is left in the bladder".
+
+Changed name to UrinarCatheterResidualProc for consistency.
+

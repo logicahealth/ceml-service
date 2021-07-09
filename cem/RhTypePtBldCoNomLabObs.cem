@@ -1,0 +1,6 @@
+cem RhTypePtBldCoNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			RhTypePtBldCoNom_CODE
+	constraint	data.codeableConcept.valueset
+		value	NegativePositive_VSET

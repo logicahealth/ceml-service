@@ -1,0 +1,7 @@
+cem RelatedCondition
+	kind	component
+	key     RelatedCondition_CODE
+	data	CodeableConcept
+    qual        RelatedConditionRole
+        id      relatedConditionRole
+        card    1

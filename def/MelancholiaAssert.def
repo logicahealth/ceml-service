@@ -1,0 +1,4 @@
+MelancholiaAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the MelancholiaAssert model, data is "Melancholia_ECID" which means "A subtype of depression characterized by the inability to find pleasure in positive things combined with physical agitation, insomnia, or decreased appetite. (NCI)".
+

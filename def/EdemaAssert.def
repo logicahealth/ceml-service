@@ -1,0 +1,5 @@
+EdemaAssert is an assertion model that extends the ClinicalAssertion model by capturing edema-specific data through additional qualifiers. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the EdemaAssert model, data is Edema_ECID.   
+By definition EdemaAssert asserts the existence of edema.
+

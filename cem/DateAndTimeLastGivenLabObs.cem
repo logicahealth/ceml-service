@@ -1,0 +1,4 @@
+cem DateAndTimeLastGivenLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			DateAndTimeLastGiven_CODE

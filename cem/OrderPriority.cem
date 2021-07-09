@@ -1,0 +1,11 @@
+cem OrderPriority
+	kind		component
+	key			OrderPriority_CODE
+	data		CodeableConcept
+	qual		PriorityRequirement
+		id		priorityRequirement
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	OrderPriority_VSET

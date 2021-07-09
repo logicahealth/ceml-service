@@ -1,0 +1,4 @@
+cem CellsCountedTotalNumPtCsfQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CellsCountedTotalNumPtCsfQn_CODE

@@ -1,0 +1,6 @@
+cem CodedNoExceptionData
+	kind		component
+	key			CodedNoExceptionData_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE

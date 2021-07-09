@@ -1,0 +1,4 @@
+cem MethamphetaminePrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MethamphetaminePrThrPtUrineOrd_CODE

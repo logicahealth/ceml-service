@@ -1,0 +1,6 @@
+cem SurfactantAlbuminMCrtoPtAmnioFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SurfactantAlbuminMCrtoPtAmnioFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerGram_CODE

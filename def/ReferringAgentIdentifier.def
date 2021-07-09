@@ -1,0 +1,8 @@
+ReferringAgentIdentifier 
+This is a component model used to capture the identifying code or number that represents the instance data representing the device, practitioner, etc. who initiated the request.
+
+@Author bsheale
+@Date 23 May 2017 15:34
+@Status draft
+@RequestedBy ACOG
+@Keyword referral

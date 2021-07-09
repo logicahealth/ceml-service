@@ -1,0 +1,6 @@
+cem ChoriogonadotropinintactACncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ChoriogonadotropinintactACncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		MilliinternationalUnitsPerMilliliterArbitraryConcentrationUnits_CODE

@@ -1,0 +1,27 @@
+cem BodyLocation
+	kind		component
+	key			BodyLocation_CODE
+	item		Aggregate
+		id		aggregate
+		card	0-1
+	item		BodyLocationOrientation
+		id		bodyLocationOrientation
+		card	0-1
+	item		BodySide
+		id		bodySide
+		card	0-1
+	item		BodyLocationQualifier
+		id		bodyLocationQualifier
+		card	0-1
+    item        BodySite
+        id      bodySite
+        card    0-1
+    item        UnderlyingAnatomicalStructure
+        id      underlyingAnatomicalStructure
+        card    0-1
+    item        BodyLandmarkOrientation
+        id      bodyLandmarkOrientation
+        card    0-1
+    item        BodyLocationPrecoord
+        id      bodyLocationPrecoord
+        card    0-1

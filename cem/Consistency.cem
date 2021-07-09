@@ -1,0 +1,8 @@
+cem Consistency
+	kind		component
+	key			Consistency_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Consistency_VSET

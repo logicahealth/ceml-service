@@ -1,0 +1,12 @@
+
+cem NameBandAttachedAssert
+    kind        statement
+    base       	ObservationAssert
+    qual        BodyLocationPrecoord
+        id      bodyLocationPrecoord
+        card    1-M
+    constraint	data.codeableConcept.code
+        value	NameBandAttached_CODE
+    constraint  bodyLocationPrecoord.data.codeableConcept.valueset
+        value   NameBandBodyLocationPrecoord_VSET
+    

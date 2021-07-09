@@ -1,0 +1,4 @@
+cem AntibioticXXXSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AntibioticXXXSuscPtIsolateOrdQnGradientstrip_CODE

@@ -1,0 +1,15 @@
+cem NextOfKinContact
+	kind		component
+	key			NextOfKinContact_CODE
+	item		PersonName
+		id		personName
+		card	0-1
+	item		Address
+		id		address
+		card	0-1
+	item		Telecom
+		id		telecom
+		card	0-1
+	item		ContactPartyId
+		id		contactPartyId
+		card	0-1

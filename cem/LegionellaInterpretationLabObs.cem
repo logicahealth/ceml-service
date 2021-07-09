@@ -1,0 +1,4 @@
+cem LegionellaInterpretationLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			LegionellaInterpretation_CODE

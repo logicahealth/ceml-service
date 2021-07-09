@@ -1,0 +1,9 @@
+cem FPARProviderPractitioner
+	kind    	statement
+    base        ProviderPractitioner
+
+	constraint	providerRole.data.codeableConcept.code
+		value	MostSeniorProviderAtEncounter_CODE
+				
+	constraint	providerClassification.data.codeableConcept.valueset
+		value	FPARProviderRoles_VSET

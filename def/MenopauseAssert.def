@@ -1,0 +1,4 @@
+MenopauseAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the MenopauseAssert model, data is "Menopause_ECID" which means "The last menstrual period. Permanent cessation of menses (menstruation) is usually defined after 6 to 12 months of amenorrhea in a woman over 45 years of age. In the united states, menopause generally occurs in women between 48 and 55 years of age.(MeSH)".
+

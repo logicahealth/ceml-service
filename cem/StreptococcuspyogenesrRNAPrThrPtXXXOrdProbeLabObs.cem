@@ -1,0 +1,4 @@
+cem StreptococcuspyogenesrRNAPrThrPtXXXOrdProbeLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StreptococcuspyogenesrRNAPrThrPtXXXOrdProbe_CODE

@@ -1,0 +1,6 @@
+cem UroporphyrinCreatinineScRtoPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			UroporphyrinCreatinineScRtoPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerMole_CODE

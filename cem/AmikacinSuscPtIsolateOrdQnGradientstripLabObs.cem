@@ -1,0 +1,4 @@
+cem AmikacinSuscPtIsolateOrdQnGradientstripLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmikacinSuscPtIsolateOrdQnGradientstrip_CODE

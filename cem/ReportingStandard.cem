@@ -1,0 +1,8 @@
+cem ReportingStandard
+	kind    	component
+	key         ReportingStandard_CODE
+    data        CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	ReportingStandard_VSET

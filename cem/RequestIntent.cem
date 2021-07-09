@@ -1,0 +1,8 @@
+cem RequestIntent
+	kind    	component
+	key         RequestIntent_CODE
+    data        CodeableConcept
+
+    constraint  data.codeableConcept.strength
+        value   CNE
+

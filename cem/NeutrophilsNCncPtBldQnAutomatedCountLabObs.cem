@@ -1,0 +1,6 @@
+cem NeutrophilsNCncPtBldQnAutomatedCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NeutrophilsNCncPtBldQnAutomatedCount_CODE
+	constraint		data.quantity.unit_code
+		value	ThousandsPerMicroliter_CODE

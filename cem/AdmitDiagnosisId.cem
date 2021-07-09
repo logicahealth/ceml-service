@@ -1,0 +1,4 @@
+cem AdmitDiagnosisId
+	kind	component
+	key     AdmitDiagnosisId_CODE
+	data	Identifier

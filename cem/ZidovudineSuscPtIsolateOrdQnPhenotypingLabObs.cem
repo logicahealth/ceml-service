@@ -1,0 +1,4 @@
+cem ZidovudineSuscPtIsolateOrdQnPhenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ZidovudineSuscPtIsolateOrdQnPhenotyping_CODE

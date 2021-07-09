@@ -1,0 +1,6 @@
+cem LysozymeMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LysozymeMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerMilliliter_CODE

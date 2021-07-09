@@ -1,0 +1,1 @@
+This model indicates the probability of a diagnosis occuring based on findings and qualifiers.  For example, a radiologist can indicate the probabilty of a diagnosis of Pneumonia based on their findings and impressions.  The data in this model includes concepts such as: Pneumonia, Atelectasis, Bronchiolitis, Pleural Fluid/Effusion, HF, etc.

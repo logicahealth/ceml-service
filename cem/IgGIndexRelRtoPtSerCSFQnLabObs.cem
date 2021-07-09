@@ -1,0 +1,5 @@
+cem IgGIndexRelRtoPtSerCSFQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			IgGIndexRelRtoPtSerCSFQn_CODE
+	

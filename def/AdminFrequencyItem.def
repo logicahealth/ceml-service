@@ -1,0 +1,3 @@
+AdminFrequencyItem is an individual administration frequency, or how many times an orderable is to be initiated or given.  
+There may be multiple of these within an AdminFrequency.
+

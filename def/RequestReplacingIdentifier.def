@@ -1,0 +1,9 @@
+RequestReplacingIdentifier 
+
+This is a component model used to capture the identifying code or number for a completed or terminated request(s) whose function is taken by this new request.
+
+@Author bsheale
+@Date 23 May 2017 15:34
+@Status draft
+@RequestedBy ACOG
+@Keyword referral

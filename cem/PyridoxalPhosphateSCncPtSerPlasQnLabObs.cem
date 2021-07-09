@@ -1,0 +1,6 @@
+cem PyridoxalPhosphateSCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PyridoxalPhosphateSCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanomolesPerLiter_CODE

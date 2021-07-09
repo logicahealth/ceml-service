@@ -1,0 +1,4 @@
+cem StreptococcuspyogenesAgPrPtThrtOrdEIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			StreptococcuspyogenesAgPrPtThrtOrdEIA_CODE

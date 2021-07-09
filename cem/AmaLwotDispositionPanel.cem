@@ -1,0 +1,16 @@
+cem AmaLwotDispositionPanel
+	kind	panel
+	base	PanelBase
+	key			AmaLwotDispositionPanel_CODE
+	item		AmaLwotDispositionEval
+		id		amaLwotDispositionEval
+		card	0-1
+	item		ReasonForLeavingEval
+		id		reasonForLeavingEval
+		card	0-1
+	item		RefusalOfTreatmentFormStatusEval
+		id		refusalOfTreatmentFormStatusEval
+		card	0-1
+	item		PhysicianNotifiedEval
+		id		physicianNotifiedEval
+		card	0-1

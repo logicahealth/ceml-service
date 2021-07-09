@@ -1,0 +1,4 @@
+cem PigEpitheliumAllergenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PigEpitheliumAllergen_CODE

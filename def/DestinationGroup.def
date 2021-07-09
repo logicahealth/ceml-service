@@ -1,0 +1,3 @@
+DestinationGroup identifies the group that is meant to receive information (such as an alert). Groups may include
+"attending physician," "treatment team," "bedside nurse," or "rapid response team."
+

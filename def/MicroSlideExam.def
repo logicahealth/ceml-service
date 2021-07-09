@@ -1,0 +1,3 @@
+MicroSlideExam is a clinical element model for the microscopic findings from a slide study.  The
+item MicroSlideEval will hold each finding (i.e., Gram Positive Cocci, etc.)
+

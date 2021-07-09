@@ -1,0 +1,4 @@
+cem HemoglobinFACncPtStoolOrdAptMinusDowneyLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HemoglobinFACncPtStoolOrdAptMinusDowney_CODE

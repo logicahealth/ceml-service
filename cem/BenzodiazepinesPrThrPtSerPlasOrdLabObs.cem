@@ -1,0 +1,4 @@
+cem BenzodiazepinesPrThrPtSerPlasOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			BenzodiazepinesPrThrPtSerPlasOrd_CODE

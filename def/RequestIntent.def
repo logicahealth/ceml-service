@@ -1,0 +1,8 @@
+RequestIntent component model that distinguishes the "level" of authorization/demand implicit in a request.
+Such as 'Plan,' where the request represents an intension to ensure something occurs without providing an authorization for others to act.
+
+@Author bsheale
+@Date 23 May 2017 16:23
+@Status draft
+@RequestedBy ACOG/OPA project
+@Keyword acog, FHIR, implementation

@@ -1,0 +1,6 @@
+cem PropoxypheneACncPtUrineOrdScreenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PropoxypheneACncPtUrineOrdScreen_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	NegativePositive_VSET

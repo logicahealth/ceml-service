@@ -1,0 +1,6 @@
+cem XylosePOMassPtDoseQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			XylosePOMassPtDoseQn_CODE
+	constraint		data.quantity.unit_code
+		value	Grams_CODE

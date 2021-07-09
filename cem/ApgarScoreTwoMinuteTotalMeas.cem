@@ -1,0 +1,11 @@
+cem ApgarScoreTwoMinuteTotalMeas
+	kind	statement
+	base	StatementBase
+	key			ApgarScoreTwoMinuteTotal_CODE
+	data		Quantity
+	qual		AbnormalInterpretation
+		id		abnormalInterpretation
+		card	0-1
+	mod			FocalSubject
+		id		focalSubject
+		card	0-1

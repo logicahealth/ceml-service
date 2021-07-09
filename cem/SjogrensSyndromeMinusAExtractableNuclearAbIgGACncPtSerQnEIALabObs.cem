@@ -1,0 +1,6 @@
+cem SjogrensSyndromeMinusAExtractableNuclearAbIgGACncPtSerQnEIALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SjogrensSyndromeMinusAExtractableNuclearAbIgGACncPtSerQnEIA_CODE
+	constraint		data.quantity.unit_code
+		value	AbsorbanceUnitsPerMilliliter_CODE

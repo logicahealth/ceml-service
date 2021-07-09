@@ -1,0 +1,6 @@
+cem TetradecenoylcarnitineC141SCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TetradecenoylcarnitineC141SCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerLiter_CODE

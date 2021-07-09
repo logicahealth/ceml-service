@@ -1,0 +1,4 @@
+cem MTHFRGenePA1298CArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MTHFRGenePA1298CArbPtBldTissOrdMolgen_CODE

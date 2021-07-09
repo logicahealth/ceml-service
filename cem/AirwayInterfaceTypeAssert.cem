@@ -1,0 +1,8 @@
+cem AirwayInterfaceTypeAssert
+	kind		statement
+	base		ObservationAssert
+	qual		BodyLocation
+		id		bodyLocation
+		card	0-1
+	constraint	data.codeableConcept.valueset
+		value	AirwayInterfaceType_VSET

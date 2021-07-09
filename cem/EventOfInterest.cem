@@ -1,0 +1,8 @@
+cem EventOfInterest
+	kind		component
+	key			EventOfInterest_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	EventOfInterest_VSET

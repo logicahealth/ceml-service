@@ -1,0 +1,4 @@
+cem ContractIdentifier
+kind    component
+key     ContractIdentifier_CODE
+data    Identifier

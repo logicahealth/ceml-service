@@ -1,0 +1,6 @@
+cem DNAdoublestrandAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DNAdoublestrandAbACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+			value		InternationalUnitsPerMilliliterArbitraryConcentrationUnits_CODE

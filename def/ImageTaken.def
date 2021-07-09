@@ -1,0 +1,4 @@
+ImageTaken is the act of obtaining possession of a medical image for the purpose of transport to another care provider.
+ImageTaken is a child model of the Attribution model. It holds the who, when, where, and why information
+of taking an image.
+

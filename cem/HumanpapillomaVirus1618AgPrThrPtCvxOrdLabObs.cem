@@ -1,0 +1,6 @@
+cem HumanpapillomaVirus1618AgPrThrPtCvxOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HumanpapillomaVirus1618AgPrThrPtCvxOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

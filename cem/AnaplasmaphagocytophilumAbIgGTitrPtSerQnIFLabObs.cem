@@ -1,0 +1,5 @@
+cem AnaplasmaphagocytophilumAbIgGTitrPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AnaplasmaphagocytophilumAbIgGTitrPtSerQnIF_CODE
+	

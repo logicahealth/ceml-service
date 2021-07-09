@@ -1,0 +1,9 @@
+cem DimensionType
+	kind    	component
+	key         DimensionType_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   DimensionType_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

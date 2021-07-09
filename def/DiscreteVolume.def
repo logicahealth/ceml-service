@@ -1,0 +1,3 @@
+DiscreteVolume captures only volume units for construction of a post coordinated unit.
+For example, in the text 10mg/5 mL, the discrete volume would be 5 mL, (10mg would be the discrete strength).
+

@@ -1,0 +1,23 @@
+fhir resource Observation
+	map	type to Observation
+	map 	key to Observation.code
+	map 	data to Observation.value
+
+	map 	comment to Observation.comments
+	map	externalIdentifier to Observation.identifier
+	map	observationStatus to Observation.status
+	map	aggregate to Observation.text
+	map	observationUpdateStatus to extension
+	map 	method to Observation.method
+	map	interpretation to Observation.interpretation
+	map	device to Observation.device
+	map	focalSubject to Observation.focus
+	map 	comment to Observation.comments
+	map 	bodyLocationPrecoord to Observation.bodySite
+	map 	bodyPosition extension
+	map 	referenceRangeNar to Observation.referenceRange
+	map 	associatedSituation extension
+	map	exerciseAssociation to extension
+	map	measurementSetting to extension
+	map	sleepStatus to extension
+	

@@ -1,0 +1,4 @@
+cem ResultLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			Result_CODE

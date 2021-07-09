@@ -1,0 +1,4 @@
+cem SmithExtractableNuclearAbACncPtSerOrdImmuneDiffusionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SmithExtractableNuclearAbACncPtSerOrdImmuneDiffusion_CODE

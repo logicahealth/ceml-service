@@ -1,0 +1,4 @@
+cem DocumentTitle
+	kind		component
+	key			DocumentTitle_CODE
+	data		String

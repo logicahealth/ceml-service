@@ -1,0 +1,2 @@
+DischargeDiagnosisId
+This is the DischargeDiagnosisId clinical element model.  It is used to capture the identifying code that will point to or link to the discharge diagnosis instance data.

@@ -1,0 +1,4 @@
+cem RhImmuneGlobulinDosageVialsRecommendedNumPtPatientQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RhImmuneGlobulinDosageVialsRecommendedNumPtPatientQn_CODE

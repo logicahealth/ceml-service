@@ -1,0 +1,4 @@
+cem LevofloxacinSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LevofloxacinSuscPtIsolateOrdQn_CODE

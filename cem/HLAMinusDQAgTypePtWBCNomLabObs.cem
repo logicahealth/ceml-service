@@ -1,0 +1,4 @@
+cem HLAMinusDQAgTypePtWBCNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			HLAMinusDQAgTypePtWBCNom_CODE

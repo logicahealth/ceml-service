@@ -1,0 +1,4 @@
+cem PMLRARaTranslocationFISHDocLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			PMLRARaTranslocationFISHDoc_CODE

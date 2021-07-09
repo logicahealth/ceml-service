@@ -1,0 +1,4 @@
+cem DNAdoublestrandAbACncPtSerQnIFLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DNAdoublestrandAbACncPtSerQnIF_CODE

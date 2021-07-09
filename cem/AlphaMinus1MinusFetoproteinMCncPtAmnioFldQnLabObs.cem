@@ -1,0 +1,6 @@
+cem AlphaMinus1MinusFetoproteinMCncPtAmnioFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlphaMinus1MinusFetoproteinMCncPtAmnioFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

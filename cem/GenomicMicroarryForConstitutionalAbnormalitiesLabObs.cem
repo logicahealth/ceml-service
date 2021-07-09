@@ -1,0 +1,4 @@
+cem GenomicMicroarryForConstitutionalAbnormalitiesLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			GenomicMicroarryForConstitutionalAbnormalities_CODE

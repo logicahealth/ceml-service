@@ -1,0 +1,6 @@
+cem AngiotensinConvertingEnzymeCCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AngiotensinConvertingEnzymeCCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerLiter_CODE

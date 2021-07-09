@@ -1,0 +1,6 @@
+cem PlateletMassVFrPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PlateletMassVFrPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	FemtoliterPerNanoliter_CODE

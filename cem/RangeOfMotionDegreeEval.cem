@@ -1,0 +1,21 @@
+cem RangeOfMotionDegreeEval
+	kind	statement
+	base	StatementBase
+	key			RangeOfMotionDegree_CODE
+	data		Quantity
+	qual		BodyLocation
+		id		bodyLocation
+		card	0-1
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+    qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	qual        AssociatedPrecondition
+        id      neuromuscularAssociatedPrecondition
+        card    0-M
+	constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	MovementBodyLocation_VSET
+    constraint  neuromuscularAssociatedPrecondition.data.codeableConcept.valueset
+        value   NeuromuscularAssociatedPrecondition_VSET

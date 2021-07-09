@@ -1,0 +1,10 @@
+ cem DisorganizedThinkingAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        Method 
+        id      method
+        card    0-1
+    constraint  bodyLocation.card
+        value   0
+    constraint	data.codeableConcept.code
+        value	DisorganizedThinking_CODE

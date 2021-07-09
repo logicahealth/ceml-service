@@ -1,0 +1,5 @@
+cem StreptolysinOAbTitrPtSerQnLALabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			StreptolysinOAbTitrPtSerQnLA_CODE
+	

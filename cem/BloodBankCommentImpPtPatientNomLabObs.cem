@@ -1,0 +1,4 @@
+cem BloodBankCommentImpPtPatientNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			BloodBankCommentImpPtPatientNom_CODE

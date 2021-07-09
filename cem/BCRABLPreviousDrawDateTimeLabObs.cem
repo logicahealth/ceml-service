@@ -1,0 +1,4 @@
+cem BCRABLPreviousDrawDateTimeLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			BCRABLPreviousDrawDateTime_CODE

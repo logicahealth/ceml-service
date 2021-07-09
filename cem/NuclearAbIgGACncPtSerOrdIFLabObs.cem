@@ -1,0 +1,4 @@
+cem NuclearAbIgGACncPtSerOrdIFLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NuclearAbIgGACncPtSerOrdIF_CODE

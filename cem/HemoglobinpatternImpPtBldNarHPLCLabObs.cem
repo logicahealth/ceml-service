@@ -1,0 +1,4 @@
+cem HemoglobinpatternImpPtBldNarHPLCLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HemoglobinpatternImpPtBldNarHPLC_CODE

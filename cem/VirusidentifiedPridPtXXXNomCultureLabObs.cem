@@ -1,0 +1,4 @@
+cem VirusidentifiedPridPtXXXNomCultureLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			VirusidentifiedPridPtXXXNomCulture_CODE

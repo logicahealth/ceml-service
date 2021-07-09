@@ -1,0 +1,1 @@
+The AgeMeasQualifier model was created to be used within the ReferenceRange qualifier.  The other AgeMeas model is a statement and cannot be used within components.  The two models are semantically identical.

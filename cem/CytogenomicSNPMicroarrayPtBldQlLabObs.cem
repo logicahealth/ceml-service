@@ -1,0 +1,4 @@
+cem CytogenomicSNPMicroarrayPtBldQlLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			CytogenomicSNPMicroarrayPtBldQl_CODE

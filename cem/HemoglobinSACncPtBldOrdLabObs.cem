@@ -1,0 +1,6 @@
+cem HemoglobinSACncPtBldOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HemoglobinSACncPtBldOrd_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	PosNegEquiIndet_VSET

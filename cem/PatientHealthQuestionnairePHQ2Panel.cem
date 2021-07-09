@@ -1,0 +1,16 @@
+
+cem PatientHealthQuestionnairePHQ2Panel
+	kind    	panel
+    base        PanelBase
+	key         PatientHealthQuestionnairePHQ2Panel_CODE
+    item        LittleInterestOrPleasureInDoingThingsInLastTwoWeeksEval
+        id      littleInterestOrPleasureInDoingThingsInLastTwoWeeksEval
+        card    0-1
+    item        FeelingDownDepressedOrHopelessInLastTwoWeeksEval
+        id      feelingDownDepressedOrHopelessInLastTwoWeeksEval
+        card    0-1
+    item        PatientHealthQuestionnaire2ItemPHQ2TotalScoreMeas
+        id      patientHealthQuestionnaire2ItemPHQ2TotalScoreMeas
+        card    1
+    
+

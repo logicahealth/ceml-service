@@ -1,0 +1,9 @@
+cem WoundEdgeDescription
+	kind    	component
+	key         WoundEdgeDescription_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   WoundEdgeDescription_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

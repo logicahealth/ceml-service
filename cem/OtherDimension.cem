@@ -1,0 +1,6 @@
+cem OtherDimension
+	kind		component
+	key			OtherDimension_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	SILengthUnits_VSET

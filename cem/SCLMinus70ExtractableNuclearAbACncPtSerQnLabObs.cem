@@ -1,0 +1,6 @@
+cem SCLMinus70ExtractableNuclearAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SCLMinus70ExtractableNuclearAbACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	AbsorbanceUnitsPerMilliliter_CODE

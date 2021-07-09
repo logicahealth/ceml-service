@@ -1,0 +1,4 @@
+cem Alpha1GlobulinACnc24HUrineOrdElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			Alpha1GlobulinACnc24HUrineOrdElectrophoresis_CODE

@@ -1,0 +1,6 @@
+cem LutropinACncPtSerPlasQn1stIRPLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LutropinACncPtSerPlasQn1stIRP_CODE
+	constraint		data.quantity.unit_code
+			value		MilliinternationalUnitsPerMilliliterArbitraryConcentrationUnits_CODE

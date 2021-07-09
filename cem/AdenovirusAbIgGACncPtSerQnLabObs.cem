@@ -1,0 +1,5 @@
+cem AdenovirusAbIgGACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AdenovirusAbIgGACncPtSerQn_CODE
+	

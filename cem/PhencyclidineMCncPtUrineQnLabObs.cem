@@ -1,0 +1,6 @@
+cem PhencyclidineMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PhencyclidineMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

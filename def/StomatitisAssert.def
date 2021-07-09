@@ -1,0 +1,5 @@
+StomatitisAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the StomatitisAssert model, data is Stomatitis_ECID which means the subject has stomatitis.  Stomatitis is inflamation of the mucus lining of any of the
+structures of the mouth, cheeks, gums, tongue, etc.
+

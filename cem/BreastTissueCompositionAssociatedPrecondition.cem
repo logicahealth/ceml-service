@@ -1,0 +1,11 @@
+cem BreastTissueCompositionAssociatedPrecondition
+	kind    	component
+	key         BreastTissueCompositionAssociatedPrecondition_CODE
+	data        CodeableConcept
+    qual        ImplantStatus
+        id      implantStatus
+        card    0-1
+    constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+		value	BreastTissueCompositionAssociatedPrecondition_VSET

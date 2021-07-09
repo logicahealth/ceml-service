@@ -1,0 +1,4 @@
+PupilReactionToLightEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the PupilReactionToLightEval model, the question is "what is the subject's Pupil Reaction To Light?" and the coded answers can be 'Fixed', 'Brisk', and 'Sluggish'.
+"XPupilReactionToLightEvalXX" by definition means the movement of the pupil when exposed to light.
+

@@ -1,0 +1,4 @@
+cem PathologistinterpretationImpPtCSFNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			PathologistinterpretationImpPtCSFNom_CODE

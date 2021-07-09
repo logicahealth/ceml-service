@@ -1,0 +1,4 @@
+cem KitNumberLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			KitNumber_CODE

@@ -1,0 +1,16 @@
+
+cem MorseFallScaleHistoryOfFallMeas
+	kind    	statement
+    base        StatementBase
+	key         MorseFallScaleHistoryOfFall_CODE
+    data        CodeableOrdinal
+    qual        MorseFallScaleTypeOfFall
+        id      morseFallScaleTypeOfFall
+        card    0-1
+    qual        MorseFallScaleActivityAtFall
+        id      morseFallScaleActivityAtFall
+        card    0-1
+    constraint  data.codeableOrdinal.valueset
+        value   MorseFallScaleHistoryOfFallYesNo_VSET
+   
+  

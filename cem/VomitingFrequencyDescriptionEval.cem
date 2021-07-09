@@ -1,0 +1,13 @@
+cem VomitingFrequencyDescriptionEval
+	kind	statement
+	base	StatementBase
+	key         VomitingFrequencyDescription_CODE
+	data        CodeableConcept
+    qual        AssociatedPrecondition
+       id       associatedPrecondition
+       card     0-M
+    qual        ExacerbatingFactor
+       id       exacerbatingFactor
+       card     0-M
+	constraint	data.codeableConcept.valueset
+		value	VomitingFrequencyDescription_VSET

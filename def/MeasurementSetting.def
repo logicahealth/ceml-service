@@ -1,0 +1,6 @@
+MeasurementSetting is a component (qualifier) model used to capture the type of setting an observation, assessment, measurement, etc. was taken.
+
+@Author nrdavis1
+@Date 15 Dec 2020 07:31
+@Status draft
+@RequestedBy Logica

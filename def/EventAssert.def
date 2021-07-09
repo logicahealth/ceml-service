@@ -1,0 +1,7 @@
+EventAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID" and data is the condition being asserted. 
+For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID".
+In the EventAssert model data is EventAssertion_VALUESET_ECID, which means the event that is being asserted will be a coded value (cd) from the value set such as "bite/sting." 
+By definiton EventAssert means the assertion of something that has happened and which is not clinical (i.e., something that was not clinically done on behalf of the patient).
+
+8/4/2016 Uncertainty replaced with Likelihood by Jael Lindblom.
+

@@ -1,0 +1,6 @@
+cem ImmunoglobulinLightChainsKappaFreeMRat24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ImmunoglobulinLightChainsKappaFreeMRat24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDay_CODE

@@ -1,0 +1,10 @@
+cem DiseaseStage
+	kind    	component
+	key         DiseaseStage_CODE
+    data        CodeableConcept
+    qual        DiseaseStageClassificationMethod
+        id      diseaseStageClassificationMethod
+        card    0-1
+    constraint  data.codeableConcept.valueset
+        value   DiseaseStage_VSET
+

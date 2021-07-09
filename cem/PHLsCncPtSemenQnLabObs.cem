@@ -1,0 +1,6 @@
+cem PHLsCncPtSemenQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PHLsCncPtSemenQn_CODE
+	constraint		data.quantity.unit_code
+			value		PH_CODE

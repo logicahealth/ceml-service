@@ -1,0 +1,3 @@
+ActivitiesOfDailyLivingEval created on 10/Jun/2016 11:53 by Jael Lindblom forABD.
+
+This model is used to rate the level of assistance a patient needs with Activities of Daily Living (ADL). The possible values are Complete assist, Moderate assistance, Minimal assistance and Independent.

@@ -1,0 +1,15 @@
+cem AlertDestination
+	kind		component
+	key			AlertDestination_CODE
+	item		DestinationType
+		id		destinationType
+		card	1
+	item		SpecificDestination
+		id		specificDestination
+		card	0-1
+	item		DestinationStatus
+		id		destinationStatus
+		card	0-1
+	item		DeliveryMethod
+		id		deliveryMethod
+		card	0-M

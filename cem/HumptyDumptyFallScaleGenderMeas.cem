@@ -1,0 +1,9 @@
+cem HumptyDumptyFallScaleGenderMeas
+    kind	statement
+	base	StatementBase
+    key     HumptyDumptyFallScaleGender_CODE
+	data	CodeableOrdinal
+    constraint	data.codeableOrdinal.strength
+		value	CNE
+	constraint	data.codeableOrdinal.valueset
+	    value	HumptyDumptyFallScaleGender_VSET

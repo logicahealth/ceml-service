@@ -1,0 +1,8 @@
+AddressUse when used for Telecom has sample values of home, primary home, vacation home, workplace, bad address, and temporary address.
+From HL7: "One or more codes advising a system or user which telecommunication address in a set of like addresses to select for a given telecommunication need. The telecommunication use code is not a complete classification for equipment types or locations. Its main purpose is to suggest or discourage the use of a particular telecommunication address. There are no easily defined rules that govern the selection of a telecommunication address."
+Workplace should be differentiated by direct and public.
+Direct: "Indicates a work place address or telecommunication address that reaches the individual or organization directly without intermediaries. For phones, often referred to as a private line."
+Public: "Indicates a work place address or telecommunication address that is a 'standard' address which may reach a reception service, mail-room, or other intermediary prior to the target entity." 
+		
+
+

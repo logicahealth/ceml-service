@@ -1,0 +1,4 @@
+cem CytomegalovirusDNAACncPtSerPlasOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CytomegalovirusDNAACncPtSerPlasOrdProbeAmpTar_CODE

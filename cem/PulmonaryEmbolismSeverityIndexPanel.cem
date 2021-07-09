@@ -1,0 +1,16 @@
+cem PulmonaryEmbolismSeverityIndexPanel
+	kind	panel
+	base	PanelBase
+	key			PulmonaryEmbolismSeverityIndexlPanel_CODE
+	item		PulmonaryEmbolismSeverityIndexTotalMeas
+		id		pulmonaryEmbolismSeverityIndexTotalMeas
+		card	1
+	item		PulmonaryEmbolismSeverityIndexInterpretation
+		id		pulmonaryEmbolismSeverityIndexInterpretation
+		card	0-1
+	qual		SupportingInformationPointerLink
+		id		supportingInformationPointerLink
+		card	0-1
+	qual		SupportingInformationStringLink
+		id		supportingInformationStringLink
+		card	0-1

@@ -1,0 +1,6 @@
+cem LamellarBodiesNCncPtAmnioFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			LamellarBodiesNCncPtAmnioFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	ThousandsPerMicroliter_CODE

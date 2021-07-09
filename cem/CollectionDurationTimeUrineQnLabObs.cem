@@ -1,0 +1,6 @@
+cem CollectionDurationTimeUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CollectionDurationTimeUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	Minutes_CODE

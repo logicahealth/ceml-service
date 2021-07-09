@@ -1,0 +1,4 @@
+cem HighBound
+	kind	component
+	key     HighBound_CODE
+	data	Quantity

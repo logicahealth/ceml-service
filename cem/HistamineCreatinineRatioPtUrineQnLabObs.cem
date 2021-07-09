@@ -1,0 +1,6 @@
+cem HistamineCreatinineRatioPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HistamineCreatinineRatioPtUrineQn_CODE
+	constraint	data.quantity.unit_code
+		value	NanomolesPerGram_CODE

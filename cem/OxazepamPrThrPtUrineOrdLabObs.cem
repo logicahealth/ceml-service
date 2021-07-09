@@ -1,0 +1,4 @@
+cem OxazepamPrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			OxazepamPrThrPtUrineOrd_CODE

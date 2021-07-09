@@ -1,0 +1,6 @@
+cem HumanpapillomaVirusrRNAPrThrPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HumanpapillomaVirusrRNAPrThrPtXXXOrdProbeAmpTar_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	OrganismDetectionOrdLabResult_VSET

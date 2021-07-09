@@ -1,0 +1,7 @@
+cem RadiologyText
+	kind	statement
+	base	StatementBase
+	key			RadiologyText_CODE
+	item		ResultTextSection
+		id		resultTextSection
+		card	1-M

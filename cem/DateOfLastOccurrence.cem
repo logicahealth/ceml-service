@@ -1,0 +1,7 @@
+cem DateOfLastOccurrence
+	kind		component
+	key			DateOfLastOccurrence_CODE
+	data		DateTime
+	qual		EstimatedInd
+		id		estimatedInd
+		card	0-1

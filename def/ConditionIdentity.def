@@ -1,0 +1,6 @@
+ConditionIdentity is a component type of clinical element model used to capture teh idnetifying code for a general condition category or a specific condition.  These identifiers should be from the SNOMED CT terminology.
+
+@Author nrdavis1
+@Date 24 May 2021 07:53
+@Status draft
+@RequestedBy ePneumonia

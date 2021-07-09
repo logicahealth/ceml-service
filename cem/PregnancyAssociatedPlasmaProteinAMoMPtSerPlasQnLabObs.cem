@@ -1,0 +1,5 @@
+cem PregnancyAssociatedPlasmaProteinAMoMPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PregnancyAssociatedPlasmaProteinAMoMPtSerPlasQn_CODE
+	

@@ -1,0 +1,4 @@
+cem ProteinpatternImpPtSerPlasNomElectrophoresisLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ProteinpatternImpPtSerPlasNomElectrophoresis_CODE

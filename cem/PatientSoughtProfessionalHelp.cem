@@ -1,0 +1,14 @@
+
+cem PatientSoughtProfessionalHelp
+	kind    	component
+	key         PatientSoughtProfessionalHelp_CODE
+    data        CodeableConcept
+    qual		Comment
+		id		comments
+		card	0-M
+	
+	constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	YesNo_VSET
+

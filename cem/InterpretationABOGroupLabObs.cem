@@ -1,0 +1,4 @@
+cem InterpretationABOGroupLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationABOGroup_CODE

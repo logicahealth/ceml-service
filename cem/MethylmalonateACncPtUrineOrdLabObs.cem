@@ -1,0 +1,4 @@
+cem MethylmalonateACncPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MethylmalonateACncPtUrineOrd_CODE

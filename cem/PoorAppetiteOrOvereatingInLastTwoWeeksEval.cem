@@ -1,0 +1,11 @@
+cem PoorAppetiteOrOvereatingInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     PoorAppetiteOrOvereatingInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET
+
+

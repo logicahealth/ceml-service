@@ -1,0 +1,6 @@
+OutputFluidPanel is a panel model.
+OutputFluidPanel is the base panel model that contains descriptions of fluids and measurements of fluid volume output.
+
+07/11/2016 BHeale
+	as per decision to be in alignment with HL7 FHIR. Removed MethodDevice and added Method and Device
+and added PanelBase

@@ -1,0 +1,4 @@
+cem AlphaMinus1MinusFetoproteinInterpretationImpPtAmnioFldNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			AlphaMinus1MinusFetoproteinInterpretationImpPtAmnioFldNom_CODE

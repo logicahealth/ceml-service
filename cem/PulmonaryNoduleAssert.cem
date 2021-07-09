@@ -1,0 +1,16 @@
+cem PulmonaryNoduleAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		QualitativeFrequency
+		id		qualitativeFrequency
+		card	0-M
+	qual		Course
+		id		course
+		card	0-1
+	att			ImageTaken
+		id		imageTaken
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	PulmonaryNodule_CODE
+	constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	PulmonaryBodyLocationPrecoord_VSET

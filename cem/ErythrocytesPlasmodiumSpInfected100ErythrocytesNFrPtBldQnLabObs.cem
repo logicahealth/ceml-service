@@ -1,0 +1,6 @@
+cem ErythrocytesPlasmodiumSpInfected100ErythrocytesNFrPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocytesPlasmodiumSpInfected100ErythrocytesNFrPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

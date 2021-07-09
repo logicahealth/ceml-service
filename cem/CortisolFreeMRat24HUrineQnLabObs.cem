@@ -1,0 +1,6 @@
+cem CortisolFreeMRat24HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CortisolFreeMRat24HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicrogramsPerDay_CODE

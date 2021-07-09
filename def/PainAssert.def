@@ -1,0 +1,6 @@
+PainAssert is an assertion model. In an assertion model, the key is set to "Assertion_KEY_ECID", and data is the condition being asserted. For example, the AbdominalTendernessAssert model has a key of "Assertion_KEY_ECID" and a data of "AbdominalTenderness_ECID". In the PainAssert model, data is Pain_ECID which means to assert the patient has pain.
+
+@Author nrdavis1
+@Date 22 Sept 2020
+@Status draft
+@RequestedBy Logica

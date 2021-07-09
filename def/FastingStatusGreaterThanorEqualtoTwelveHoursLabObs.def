@@ -1,0 +1,3 @@
+FastingStatusGreaterThanorEqualtoTwelveHours is a statement that is a simple Yes or No answer to wether or not the patient has been fasting for
+the last 12 hours prior to the lipid panel tests.
+LOINC code: 49541-6

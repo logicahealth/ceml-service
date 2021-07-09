@@ -1,0 +1,4 @@
+DestinationAcknowledgementPattern captures the type of pattern required for an alert destination to be acknowledged in, in order to trigger the acknowledgement 
+(i.e., the whole alert message must be present in order for the alert to be triggered). 
+
+

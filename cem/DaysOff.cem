@@ -1,0 +1,4 @@
+cem DaysOff
+	kind		component
+	key			DaysOff_CODE
+	data		Integer

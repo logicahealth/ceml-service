@@ -1,0 +1,4 @@
+cem SpermatozoaPrThrPtUrinesedOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SpermatozoaPrThrPtUrinesedOrdMicroscopylight_CODE

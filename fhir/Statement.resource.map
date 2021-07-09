@@ -1,0 +1,14 @@
+fhir resource Statement
+	map type to Observation
+	map key to Observation.code
+	map data.value to Observation.value
+	map comment to Observation.comment
+	map aggregate to Observation.text
+	map externalIdentifier to Observation.identifier
+	map performed to Observation.performer
+		reference "http://hl7.org/fhir/hspc/StructureDefinition/practitioner"
+	map patientIdentifier to Observation.subject
+		reference "http://hl7.org/fhir/hspc/StructureDefinition/patient"
+	property metadata.canonicalUrl = "http://hl7.org/fhir/hspc/StructureDefinition/"
+	property base.definition = "http://hl7.org/fhir/us/core/StructureDefinition/us-core-observationresults"
+	

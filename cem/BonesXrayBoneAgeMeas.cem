@@ -1,0 +1,25 @@
+cem BonesXrayBoneAgeMeas
+	kind	statement
+    base    ClinicalObs
+	key     BonesXrayBoneAgeMeas_CODE
+	data	Quantity
+    qual        BodyLocation
+        id      bodyLocation
+        card    0-1
+    qual        DataOriginationMode
+        id      dataOriginationMode
+        card    0-1
+    constraint  dataOriginationMode.data.codeableConcept.valueset
+        value   DataOriginationMode_VSET
+    constraint  data.quantity.unit_valueset
+        value   TimeUnits_VSET
+    constraint	data.quantity.unit_code
+        value   Weeks_CODE
+    constraint  bodyLocation.bodySite.data.codeableConcept.valueset
+        value   BoneAgeBodyLocationPrecoord_VSET
+    constraint  bodyLocation.bodySide.data.codeableConcept.valueset
+        value   BoneAgeBodySide_VSET
+    constraint  bodyLocation.bodyLocationQualifier.card
+        value   0
+    constraint  bodyLocation.bodyLocationOrientation.card
+        value   0

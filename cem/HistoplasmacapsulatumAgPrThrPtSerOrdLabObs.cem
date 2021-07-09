@@ -1,0 +1,4 @@
+cem HistoplasmacapsulatumAgPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HistoplasmacapsulatumAgPrThrPtSerOrd_CODE

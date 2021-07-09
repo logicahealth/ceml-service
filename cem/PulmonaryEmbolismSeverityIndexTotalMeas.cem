@@ -1,0 +1,5 @@
+cem PulmonaryEmbolismSeverityIndexTotalMeas
+	kind	statement
+	base	StatementBase
+	key			PulmonaryEmbolismSeverityIndexTotalMeas_CODE
+	data		Quantity

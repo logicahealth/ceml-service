@@ -1,0 +1,4 @@
+cem ElliptocytesPrThrPtBldOrdMicroscopylightLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			ElliptocytesPrThrPtBldOrdMicroscopylight_CODE

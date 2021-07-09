@@ -1,0 +1,6 @@
+cem BetaGalactosidaseCCntPtTSMIQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BetaGalactosidaseCCntPtTSMIQn_CODE
+	constraint		data.quantity.unit_code
+		value	MicromolesPerMinutePerGramProtein_CODE

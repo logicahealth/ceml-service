@@ -1,0 +1,4 @@
+cem T922ABL1BCRP190GeneTranslocationArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			T922ABL1BCRP190GeneTranslocationArbPtBldTissOrdMolgen_CODE

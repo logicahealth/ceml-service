@@ -1,0 +1,6 @@
+cem ClostridiumBotulinumToxinACncPtStoolQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ClostridiumBotulinumToxinACncPtStoolQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

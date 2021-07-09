@@ -1,0 +1,2 @@
+SimpleName is a component base model used to record an individual's full name without breaking it into its complex parts, using a string data type.
+For example "John Smith".

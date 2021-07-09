@@ -1,0 +1,7 @@
+cem BeneficiarySubscriberRelation
+kind    component
+key     BeneficiarySubscriberRelation_CODE
+data    CodeableConcept
+
+constraint  data.codeableConcept.valueset
+    value   BeneficiarySubscriberRelation_VSET

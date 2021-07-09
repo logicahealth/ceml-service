@@ -1,0 +1,4 @@
+cem GrantingAuthority
+	kind		component
+	key			GrantingAuthority_CODE
+	data		String

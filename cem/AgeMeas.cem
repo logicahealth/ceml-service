@@ -1,0 +1,27 @@
+cem AgeMeas
+	kind	statement
+    base    StatementBase
+	key     Age_CODE
+	data	Quantity
+    qual        DataOriginationMode
+        id      dataOriginationMode
+        card    0-1
+    
+    constraint  reportedReceived.patientLocation.card
+        value   0
+    constraint  reportedReceived.providerLocation.card
+        value   0
+    constraint  reportedReceived.reason.card
+        value   0
+    constraint  reportedReceived.actionMethod.card
+        value   0
+    constraint  verified.patientLocation.card
+        value   0
+    constraint  verified.providerLocation.card
+        value   0
+    constraint  verified.reason.card
+        value   0
+    constraint  verified.actionMethod.card
+        value   0
+    constraint  data.quantity.unit_valueset
+        value   AgeUOM_VSET

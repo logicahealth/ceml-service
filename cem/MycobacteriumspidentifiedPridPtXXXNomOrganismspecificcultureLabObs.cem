@@ -1,0 +1,4 @@
+cem MycobacteriumspidentifiedPridPtXXXNomOrganismspecificcultureLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			MycobacteriumspidentifiedPridPtXXXNomOrganismspecificculture_CODE

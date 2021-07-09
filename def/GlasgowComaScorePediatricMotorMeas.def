@@ -1,0 +1,6 @@
+GlasgowComaScorePediatricMotorMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ, IVLPQ, REAL, INT, CO) answer in data. For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?", and the "answer" in data can be "100 bpm".
+In the GlasgowComaScorePediatricMotorMeas model, the question is "what is the subject's Glasgow coma score pediatric motor?" and the answer will have an ordinal value. 
+"Glasgow coma score pediatric motor" by definitions means "An element, representing the the measurement of the motor portion of the Pediatric Glasgow Coma Score for patients under 4 years old or nonverbal".
+
+Updated by Jael Lindblom on 9/26/2016 for iActivity.
+

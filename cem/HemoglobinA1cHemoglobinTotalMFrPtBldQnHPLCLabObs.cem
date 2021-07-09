@@ -1,0 +1,6 @@
+cem HemoglobinA1cHemoglobinTotalMFrPtBldQnHPLCLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HemoglobinA1cHemoglobinTotalMFrPtBldQnHPLC_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

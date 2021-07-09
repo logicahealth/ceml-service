@@ -1,0 +1,8 @@
+cem SpeedOfOnset
+	kind		component
+	key			SpeedOfOnset_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	SpeedOfOnset_VSET

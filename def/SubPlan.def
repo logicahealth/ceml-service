@@ -1,0 +1,8 @@
+SubPlan
+This is a component model used to capture the identifier for a given insurance subplan.
+
+@Author N Davis
+@Date 12 May 2017
+@Status draft
+@RequestedBy Internal
+@Keyword coverage, insurance, financial

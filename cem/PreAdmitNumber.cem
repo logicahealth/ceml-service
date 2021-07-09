@@ -1,0 +1,4 @@
+cem PreAdmitNumber
+	kind		component
+	key			PreAdmitNumber_CODE
+	data		Identifier

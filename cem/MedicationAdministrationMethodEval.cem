@@ -1,0 +1,15 @@
+cem MedicationAdministrationMethodEval
+    kind        statement
+	base        StatementBase
+    key         MedicationAdministrationMethod_CODE
+	data        CodeableConcept
+    qual        AssociatedPrecondition
+        id      associatedPrecondition
+        card    1
+    constraint  associatedPrecondition.data.codeableConcept.code
+        value   Preadmission_CODE
+	constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	MedicationAdministrationMethod_VSET
+

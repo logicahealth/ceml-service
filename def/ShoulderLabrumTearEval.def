@@ -1,0 +1,6 @@
+RotatorCuffLabrumTearEval 
+The evaluation of tears of the labrum of the rotator cuff.  Possible values are "Positive for tear", "Negative for tear", and "Equivocal for tear".  There currently is no LOINC code for this evaluation.
+@Author nrdavis1
+@Date 29 Jan 2018 13:54
+@Status draft
+@RequestedBy iActivity

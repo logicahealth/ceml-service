@@ -1,0 +1,4 @@
+cem CoccidioidesSpAbACncPtXXXOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CoccidioidesSpAbACncPtXXXOrd_CODE

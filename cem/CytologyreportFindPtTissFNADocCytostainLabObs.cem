@@ -1,0 +1,4 @@
+cem CytologyreportFindPtTissFNADocCytostainLabObs
+	kind		statement
+	base		StandardLabObsDocument
+	key			CytologyreportFindPtTissFNADocCytostain_CODE

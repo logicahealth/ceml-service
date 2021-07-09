@@ -1,0 +1,5 @@
+cem ColdAgglutininTitrPtSerPlasQnAgglLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ColdAgglutininTitrPtSerPlasQnAggl_CODE
+	

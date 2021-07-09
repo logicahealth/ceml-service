@@ -1,0 +1,29 @@
+cem StoolOutputPanel
+	kind		panel
+    base        PanelBase
+	key			StoolOutputPanel_CODE
+
+	item		StoolVolumeMeas
+		id		stoolVolumeMeas
+		card	0-1
+	item		StoolSizeMeas
+		id		stoolSizeMeas
+		card	0-1
+
+	item		StoolDescriptionPanel
+		id		stoolDescriptionPanel
+		card	0-1
+
+	item		StoolCountMeas
+		id		stoolCountMeas
+		card	0-1
+
+    item        HemoglobinGastrointestinalACncPtStoolOrdLabObs
+        id      hemoglobinGastrointestinalACncPtStoolOrdLabObs
+        card    0-M
+    qual        SpecimenSentToLab
+        id      stoolSpecimenSentToLab
+        card    0-1
+	qual		SourceIdentifier
+		id		sourceIdentifier
+		card	0-1

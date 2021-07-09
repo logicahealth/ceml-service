@@ -1,0 +1,5 @@
+cem RubellaAbIgMLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RubellaAbIgM_CODE
+	

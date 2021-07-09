@@ -1,0 +1,5 @@
+cem A1AbTitrPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			A1AbTitrPtSerPlasQn_CODE
+	

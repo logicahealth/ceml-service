@@ -1,0 +1,9 @@
+cem BeingSoRestlessThatItIsHardToSitStillInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     BeingSoRestlessThatItIsHardToSitStillInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET

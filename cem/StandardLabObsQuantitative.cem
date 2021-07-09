@@ -1,0 +1,15 @@
+cem StandardLabObsQuantitative
+	kind		statement
+	base		StandardLabObs
+    form        abstract
+	key			StandardLabObsQuantitative_VSET
+	data		Quantity
+	qual		ReferenceRange
+		id		referenceRange
+		card	0-1
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET
+	constraint	data.nullFlavor.valueset
+		value	LabNullFlavor_VSET
+	constraint	interpretation.data.codeableConcept.valueset
+		value	AbnormalInterpretationNumericNom_VSET

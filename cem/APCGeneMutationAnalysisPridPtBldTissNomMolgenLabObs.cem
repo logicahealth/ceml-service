@@ -1,0 +1,4 @@
+cem APCGeneMutationAnalysisPridPtBldTissNomMolgenLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			APCGeneMutationAnalysisPridPtBldTissNomMolgen_CODE

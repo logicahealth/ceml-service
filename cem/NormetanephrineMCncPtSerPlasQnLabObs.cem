@@ -1,0 +1,6 @@
+cem NormetanephrineMCncPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			NormetanephrineMCncPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+			value		PicogramsPerMilliliter_CODE

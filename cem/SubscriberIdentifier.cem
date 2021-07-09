@@ -1,0 +1,4 @@
+cem SubscriberIdentifier
+kind    component
+key     SubscriberIdentifier_CODE
+data    Identifier

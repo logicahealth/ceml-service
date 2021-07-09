@@ -1,0 +1,7 @@
+VerificationStatus created on 18/Oct/2016 08:51
+
+VerificationStatus identifies the state of confirmation of an asserted condition, problem, diagnosis, etc.  It is used as a qualifier within the ClinicalAssert base model and has possible values of confirmed, refuted, ruled-out, provisional, differential, error, and unknown.
+
+modeler: N Davis
+version: 1.0
+status: draft

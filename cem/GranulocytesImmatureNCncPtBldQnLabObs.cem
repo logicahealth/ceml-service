@@ -1,0 +1,6 @@
+cem GranulocytesImmatureNCncPtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GranulocytesImmatureNCncPtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	ThousandsPerMicroliter_CODE

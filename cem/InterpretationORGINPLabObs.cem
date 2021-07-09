@@ -1,0 +1,4 @@
+cem InterpretationORGINPLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			InterpretationORGINP_CODE

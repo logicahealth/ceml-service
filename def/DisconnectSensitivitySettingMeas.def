@@ -1,0 +1,6 @@
+DisconnectSensitivitySettingMeas is a measurement model. A measurement model holds a "question" or a "test" in the key and holds a numeric value (PQ) answer in data. 
+For example, in the HeartRateMeas model, the "question" or the "test" is "What is the heart rate measurement?" and the "answer" in data can be "100 bpm".
+In the DisconnectSensitivitySettingMeas model, the question is "what is the ventilator's disconnect sensitivity setting?" and the numeric answer will have a unit of measure of percent. 
+"DisconnectSensitivitySetting" by definition means "the percentage of returned volume lost, 
+above which the ventilator declares a CIRCUIT DISCONNECT alarm."
+

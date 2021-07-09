@@ -1,0 +1,7 @@
+cem MessageAssociatedInfoProperty
+	kind		component
+	key			MessageAssociatedInfoProperty_CODE
+	data		Quantity
+	qual		PositionIndexNumber
+		id		positionIndexNumber
+		card	1

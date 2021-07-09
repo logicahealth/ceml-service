@@ -1,0 +1,8 @@
+cem RelativeSymmetry
+	kind		component
+	key			RelativeSymmetry_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	RelativeSymmetry_VSET

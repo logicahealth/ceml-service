@@ -1,0 +1,3 @@
+DeliveryMethodType captures the kind of communication used for delivering. For instance, it can be
+ email, pager, etc.  
+

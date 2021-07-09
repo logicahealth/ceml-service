@@ -1,0 +1,13 @@
+GeneralAppearanceEval created on 10/Aug/2016 16:20 B Heale
+In the GeneralAppearanceExamEval model, the question is "what is the impression of subject's general appearance?" In terms of values such as the following:
+	            	'abnormal', 
+		'normal', 
+		appropriate,
+		disheveled,
+		inadequately clothed,
+		meticulous,
+		seductive,
+		Evidence of Chemical influence,
+		Not attending to ADLs (ADLs - activities of daily living)
+	
+	this was done with multi-check boxes in mind. Also, the valueset encompasses a variety of concepts both dress, personal hygiene, other personal characteristics

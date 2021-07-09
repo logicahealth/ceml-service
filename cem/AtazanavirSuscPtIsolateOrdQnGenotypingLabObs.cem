@@ -1,0 +1,4 @@
+cem AtazanavirSuscPtIsolateOrdQnGenotypingLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AtazanavirSuscPtIsolateOrdQnGenotyping_CODE

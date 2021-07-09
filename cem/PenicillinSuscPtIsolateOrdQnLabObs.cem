@@ -1,0 +1,4 @@
+cem PenicillinSuscPtIsolateOrdQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PenicillinSuscPtIsolateOrdQn_CODE

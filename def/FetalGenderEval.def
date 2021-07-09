@@ -1,0 +1,3 @@
+FetalGenderEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD or CO) "answer" in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?" and the "answer" in data can be "White."
+In the FetalGenderEval model, the question is "What is the gender of the fetus?" and the coded answers can be 'Female,' 'Male,' etc.         
+

@@ -1,0 +1,6 @@
+cem DiameterSuppressedGrowth
+	kind		component
+	key			DiameterSuppressedGrowth_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	Millimeters_CODE

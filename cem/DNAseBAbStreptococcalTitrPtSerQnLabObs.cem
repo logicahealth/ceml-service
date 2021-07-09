@@ -1,0 +1,5 @@
+cem DNAseBAbStreptococcalTitrPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			DNAseBAbStreptococcalTitrPtSerQn_CODE
+	

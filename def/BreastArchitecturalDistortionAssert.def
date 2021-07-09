@@ -1,0 +1,6 @@
+BreastArchitecturalDistortionAssert created by L.Buhl on 09/Jun/2016 14:31 for iActivity project.
+
+BreastArchitecturalDistortianAssert is an assertion model that asserts the presence of architectural distortion.  By definition that means that the parenchyma is distorted with no mass visible on a radiologic view.
+
+
+BreastArchitecturalDistortionAssociatedPrecondition_VALUESET_CODE will include values of previous surgery or trauma.

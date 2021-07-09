@@ -1,0 +1,8 @@
+cem State
+	kind		component
+	key			State_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	State_VSET

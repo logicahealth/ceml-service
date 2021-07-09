@@ -1,0 +1,6 @@
+cem BenzodiazepinesMCncPtUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BenzodiazepinesMCncPtUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliter_CODE

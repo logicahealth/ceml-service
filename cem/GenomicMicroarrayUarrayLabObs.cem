@@ -1,0 +1,4 @@
+cem GenomicMicroarrayUarrayLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			GenomicMicroarrayUarray_CODE

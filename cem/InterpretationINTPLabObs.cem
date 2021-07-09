@@ -1,0 +1,4 @@
+cem InterpretationINTPLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			InterpretationINTP_CODE

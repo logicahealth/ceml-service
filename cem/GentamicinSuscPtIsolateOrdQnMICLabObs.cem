@@ -1,0 +1,6 @@
+cem GentamicinSuscPtIsolateOrdQnMICLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GentamicinSuscPtIsolateOrdQnMIC_CODE
+	constraint		data.quantity.unit_code
+			value		MicrogramsPerMilliliter_CODE

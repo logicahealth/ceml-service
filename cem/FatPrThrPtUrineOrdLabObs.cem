@@ -1,0 +1,4 @@
+cem FatPrThrPtUrineOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			FatPrThrPtUrineOrd_CODE

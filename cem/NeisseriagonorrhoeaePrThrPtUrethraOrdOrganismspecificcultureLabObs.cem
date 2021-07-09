@@ -1,0 +1,4 @@
+cem NeisseriagonorrhoeaePrThrPtUrethraOrdOrganismspecificcultureLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			NeisseriagonorrhoeaePrThrPtUrethraOrdOrganismspecificculture_CODE

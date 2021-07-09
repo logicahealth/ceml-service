@@ -1,0 +1,6 @@
+cem XylosePostDosePOMRat5HUrineQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			XylosePostDosePOMRat5HUrineQn_CODE
+	constraint		data.quantity.unit_code
+		value	GramsPerFiveHours_CODE

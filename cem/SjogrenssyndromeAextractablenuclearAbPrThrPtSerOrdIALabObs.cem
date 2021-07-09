@@ -1,0 +1,4 @@
+cem SjogrenssyndromeAextractablenuclearAbPrThrPtSerOrdIALabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			SjogrenssyndromeAextractablenuclearAbPrThrPtSerOrdIA_CODE

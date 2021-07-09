@@ -1,0 +1,7 @@
+ExtraocularEyeMovementEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the ExtraocularEyeMovementEval model, the question is "what are the findings from assessing the subject's extraocular eye movements?" and the coded answers can be "conjugate movements, all gazes", "out", "in", "Up and out", and "down and in" etc.
+
+
+
+Modeler: L. Buhl
+Date created: 03/01/2016

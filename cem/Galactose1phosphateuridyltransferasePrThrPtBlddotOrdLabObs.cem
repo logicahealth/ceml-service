@@ -1,0 +1,4 @@
+cem Galactose1phosphateuridyltransferasePrThrPtBlddotOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			Galactose1phosphateuridyltransferasePrThrPtBlddotOrd_CODE

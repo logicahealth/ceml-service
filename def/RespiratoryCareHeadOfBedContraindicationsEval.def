@@ -1,0 +1,4 @@
+RespiratoryCareHeadOfBedContraindicationsEval model is an evaluation model. An evaluation model holds a "question" in the key and holds a coded value (CD) answer in data. For example, in the HairColorEval model, the "question" is "What is the hair color evaluation?", and the "answer" in data can be "White".
+In the RespiratoryCareHeadOfBedContraindicationsEval model, the question is "what are the subject's Respiratory Care Head Of Bed Contraindications?" and the coded answers can be 'Open abdomen', 'Open chest', etc.
+"RespiratoryCareHeadOfBedContraindicationsEval" are justifications for not raising the head of the bed in association to respiratory care.
+

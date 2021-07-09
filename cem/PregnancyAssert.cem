@@ -1,0 +1,11 @@
+cem PregnancyAssert
+	kind		statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.code
+		value	Pregnancy_CODE
+    constraint  dateOfOnset.card
+        value   0
+    constraint  historicalInd.card
+        value   0
+    constraint  bodyLocation.card
+        value   0

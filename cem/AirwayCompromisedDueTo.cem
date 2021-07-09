@@ -1,0 +1,7 @@
+
+cem AirwayCompromisedDueTo
+	kind	component
+	key     AirwayCompromisedDueTo_CODE
+	data	CodeableConcept
+    constraint	data.codeableConcept.valueset
+		value   AirwayCompromisedDueTo_VSET	 

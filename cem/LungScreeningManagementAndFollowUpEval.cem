@@ -1,0 +1,10 @@
+cem LungScreeningManagementAndFollowUpEval
+    kind	statement
+	base	StatementBase
+    key     LungScreeningManagementAndFollowUp_CODE
+	data	CodeableConcept
+    constraint	data.codeableConcept.strength
+	    value	CWE
+	constraint	data.codeableConcept.valueset
+	    value	LungScreeningManagementAndFollowUp_VSET
+

@@ -1,0 +1,4 @@
+cem InfluenzaVirusAHemagglutininH1SwineOriginRNAACncPtXXXOrdProbeAmpTarLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			InfluenzaVirusAHemagglutininH1SwineOriginRNAACncPtXXXOrdProbeAmpTar_CODE

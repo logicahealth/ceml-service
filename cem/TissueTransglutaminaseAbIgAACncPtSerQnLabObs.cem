@@ -1,0 +1,6 @@
+cem TissueTransglutaminaseAbIgAACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			TissueTransglutaminaseAbIgAACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	AbsorbanceUnit_CODE

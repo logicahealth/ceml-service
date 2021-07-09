@@ -1,0 +1,6 @@
+cem ErythrocytesNucleated100LeukocytesRatioPtCSFQnManualCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocytesNucleated100LeukocytesRatioPtCSFQnManualCount_CODE
+	constraint	data.quantity.unit_code
+		value	PerHundred_CODE

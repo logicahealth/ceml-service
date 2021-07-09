@@ -1,0 +1,7 @@
+cem AcetaminophenMCncPtSerPlasQnScreenLabObs
+	kind    	statement
+    base        StandardLabObsQuantitative
+	key         AcetaminophenMCncPtSerPlasQnScreen_CODE
+    constraint  data.quantity.unit_code
+        value   MicrogramsPerMilliliter_CODE
+

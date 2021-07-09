@@ -1,0 +1,8 @@
+cem Uncertainty
+	kind		modifier
+	key			Uncertainty_CODE
+	data		CodeableConcept
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Uncertainty_VSET

@@ -1,0 +1,6 @@
+cem ThyroglobulinAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ThyroglobulinAbACncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	InternationalUnitsPerMilliliter_CODE

@@ -1,0 +1,10 @@
+cem BishopsScoreEffacementMeas
+	kind	statement
+	base	StatementBase
+	key			BishopsScoreEffacement_CODE
+	data		CodeableOrdinal
+	qual		AssociatedPrecondition
+		id		associatedPrecondition
+		card	0-M
+	constraint	data.codeableOrdinal.valueset
+		value	BishopsScoreEffacement_VSET

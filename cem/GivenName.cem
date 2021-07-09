@@ -1,0 +1,4 @@
+cem GivenName
+	kind		component
+	key			GivenName_CODE
+	data		String

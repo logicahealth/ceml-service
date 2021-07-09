@@ -1,0 +1,5 @@
+cem ResultedDateTime
+	kind    	component
+	key         ResultedDateTime_CODE
+    data        DateTime
+

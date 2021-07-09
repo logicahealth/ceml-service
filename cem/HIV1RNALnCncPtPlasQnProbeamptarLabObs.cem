@@ -1,0 +1,6 @@
+cem HIV1RNALnCncPtPlasQnProbeamptarLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HIV1RNALnCncPtPlasQnProbeamptar_CODE
+	constraint	data.quantity.unit_code
+		value	PermilliLiterNumberConcentrationUnits_CODE

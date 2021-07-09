@@ -1,0 +1,4 @@
+cem ChimerismDonorLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ChimerismDonor_CODE

@@ -1,0 +1,4 @@
+cem CandidaSpAbACncPtSerOrdImmuneDiffusionLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			CandidaSpAbACncPtSerOrdImmuneDiffusion_CODE

@@ -1,0 +1,4 @@
+cem CoagulationFactorXIIICoagulumDissolutionAt24HPresenceInPPPLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			CoagulationFactorXIIICoagulumDissolutionAt24HPresenceInPPP_CODE

@@ -1,0 +1,6 @@
+cem ErythrocyteSedimentationRateVelPtBldQnWestergrenLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			ErythrocyteSedimentationRateVelPtBldQnWestergren_CODE
+	constraint		data.quantity.unit_code
+		value	MillimetersPerHour_CODE

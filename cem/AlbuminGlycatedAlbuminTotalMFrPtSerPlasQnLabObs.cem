@@ -1,0 +1,6 @@
+cem AlbuminGlycatedAlbuminTotalMFrPtSerPlasQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AlbuminGlycatedAlbuminTotalMFrPtSerPlasQn_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

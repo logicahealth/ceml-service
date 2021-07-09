@@ -1,0 +1,4 @@
+cem HIV1gp40AbPrThrPtSerOrdIBLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HIV1gp40AbPrThrPtSerOrdIB_CODE

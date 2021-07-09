@@ -1,0 +1,10 @@
+cem PassingFlatusEval
+	kind    	statement
+    base        StatementBase
+	key         PassingFlatus_CODE
+	data		CodeableConcept
+    
+	constraint	data.codeableConcept.strength
+		value	CNE
+	constraint	data.codeableConcept.valueset
+		value	YesNoUnknown_VSET

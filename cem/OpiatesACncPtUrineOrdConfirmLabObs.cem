@@ -1,0 +1,6 @@
+cem OpiatesACncPtUrineOrdConfirmLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			OpiatesACncPtUrineOrdConfirm_CODE
+	constraint	data.codeableOrdinal.valueset
+		value	PosNegEquiIndet_VSET

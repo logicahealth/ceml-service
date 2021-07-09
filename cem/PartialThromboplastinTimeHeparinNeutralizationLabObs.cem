@@ -1,0 +1,6 @@
+cem PartialThromboplastinTimeHeparinNeutralizationLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PartialThromboplastinTimeHeparinNeutralization_CODE
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

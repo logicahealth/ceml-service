@@ -1,0 +1,4 @@
+cem AdministrationInstruction
+	kind		component
+	key			AdministrationInstruction_CODE
+	data		String

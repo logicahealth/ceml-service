@@ -1,0 +1,11 @@
+cem UmbilicalHerniaAssert
+    kind        statement
+    base        AssertionOfPresence
+    qual        AlleviatingFactor
+       id       alleviatingFactor
+       card     0-M
+    qual        ExacerbatingFactor 
+       id       exacerbatingFactor
+       card     0-M
+    constraint	data.codeableConcept.code
+        value	UmbilicalHernia_CODE

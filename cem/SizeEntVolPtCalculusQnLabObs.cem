@@ -1,0 +1,4 @@
+cem SizeEntVolPtCalculusQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			SizeEntVolPtCalculusQn_CODE

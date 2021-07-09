@@ -1,0 +1,6 @@
+cem PHLsCncPtUrineQnTeststripautomatedLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PHLsCncPtUrineQnTeststripautomated_CODE
+	constraint		data.quantity.unit_code
+			value		PH_CODE

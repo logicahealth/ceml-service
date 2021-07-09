@@ -1,0 +1,16 @@
+cem ChestTubeOutputPanel
+	kind		panel
+	base		OutputFluidPanel
+	key			ChestTubeOutputPanel_CODE
+	item		ChestTubeOutputVolumeMeas
+		id		chestTubeOutputVolumeMeas
+		card	1
+	item		ChestTubeOutputFluidDescriptionEval
+		id		chestTubeOutputFluidDescriptionEval
+		card	0-M
+	constraint	method.data.codeableConcept.valueset
+		value	ChestTubeMethod_VSET
+	constraint	device.data.codeableConcept.valueset
+		value	ChestTubeDevice_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	ChestTubeBodyLocationPrecoord_VSET

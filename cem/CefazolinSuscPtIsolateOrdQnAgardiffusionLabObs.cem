@@ -1,0 +1,4 @@
+cem CefazolinSuscPtIsolateOrdQnAgardiffusionLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CefazolinSuscPtIsolateOrdQnAgardiffusion_CODE

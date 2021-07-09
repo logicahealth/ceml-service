@@ -1,0 +1,4 @@
+cem ProviderExternalId
+	kind	component
+	key		ProviderExternalId_CODE
+    data    Identifier

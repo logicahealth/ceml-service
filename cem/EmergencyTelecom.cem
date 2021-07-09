@@ -1,0 +1,16 @@
+cem EmergencyTelecom
+	kind		component
+	key			EmergencyTelecom_CODE
+	data		String
+	qual		TelecomSystem
+		id		telecomSystem
+		card	0-1
+	qual		TelecomUse
+		id		telecomUse
+		card	0-1
+	qual		CEMLPeriod
+		id		period
+		card	0-1
+	qual		PrimaryInd
+		id		primaryInd
+		card	0-1

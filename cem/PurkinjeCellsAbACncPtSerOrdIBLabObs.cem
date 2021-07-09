@@ -1,0 +1,4 @@
+cem PurkinjeCellsAbACncPtSerOrdIBLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			PurkinjeCellsAbACncPtSerOrdIB_CODE

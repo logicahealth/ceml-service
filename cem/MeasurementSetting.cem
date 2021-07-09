@@ -1,0 +1,8 @@
+cem MeasurementSetting
+	kind    	component
+	key         MeasurementSetting_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.valueset
+        value   MeasurmentSetting_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE

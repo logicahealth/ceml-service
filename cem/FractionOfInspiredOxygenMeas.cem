@@ -1,0 +1,13 @@
+cem FractionOfInspiredOxygenMeas
+	kind	statement
+	base	Observation
+	key			FractionOfInspiredOxygen_CODE
+	data		Quantity
+	qual		MethodDevice
+		id		methodDevice
+		card	0-1
+	qual		BodyPosition
+		id		bodyPosition
+		card	0-1
+	constraint	methodDevice.data.codeableConcept.valueset
+		value	VentilatorMethodDevice_VSET

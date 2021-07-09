@@ -1,0 +1,7 @@
+cem VisionChangesPresentAssert
+	kind		statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.code
+		value	VisionChanges_CODE
+	constraint	dateOfOnset.card
+		value	0

@@ -1,0 +1,4 @@
+cem VaricellaZosterVirusByDFALabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			VaricellaZosterVirusByDFA_CODE

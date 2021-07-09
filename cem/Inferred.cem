@@ -1,0 +1,5 @@
+cem Inferred
+	kind		attribution
+	base		Attribution
+	constraint	data.codeableConcept.code
+		value	Inferred_CODE

@@ -1,0 +1,4 @@
+cem AspergillusfumigatusAbPrThrPtSerOrdLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			AspergillusfumigatusAbPrThrPtSerOrd_CODE

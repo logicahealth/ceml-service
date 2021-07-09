@@ -1,0 +1,6 @@
+cem FibrinDMinusDimerFEUMCncPtPPPQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			FibrinDMinusDimerFEUMCncPtPPPQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerMilliliterFibrinogenEquivalentUnits_CODE

@@ -1,0 +1,4 @@
+cem PatientExternalId
+	kind	component
+	key		PatientExternalId_CODE
+    data    Identifier

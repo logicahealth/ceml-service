@@ -1,0 +1,6 @@
+cem HemoglobinFreeMCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HemoglobinFreeMCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

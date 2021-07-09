@@ -1,0 +1,6 @@
+cem IgGSubclass2MCncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			IgGSubclass2MCncPtSerQn_CODE
+	constraint		data.quantity.unit_code
+		value	MilligramsPerDeciliter_CODE

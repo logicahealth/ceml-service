@@ -1,0 +1,4 @@
+cem ImmunohistochemistryResultLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			ImmunohistochemistryResult_CODE

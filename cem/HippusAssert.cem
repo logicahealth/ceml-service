@@ -1,0 +1,7 @@
+cem HippusAssert
+    kind        statement
+	base        AssertionOfPresence
+	constraint	data.codeableConcept.code
+		value	Hippus_CODE
+    constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	PupilBodyLocationPrecoord_VSET

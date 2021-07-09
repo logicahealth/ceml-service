@@ -1,0 +1,6 @@
+cem RibosomalPAbACncPtSerQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			RibosomalPAbACncPtSerQn_CODE
+	constraint	data.quantity.unit_valueset
+		value	UnitsOfMeasure_VSET

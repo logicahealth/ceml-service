@@ -1,0 +1,6 @@
+cem CocaineMCntPtMeconiumQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CocaineMCntPtMeconiumQn_CODE
+	constraint		data.quantity.unit_code
+		value	NanogramsPerGram_CODE

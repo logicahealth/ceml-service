@@ -1,0 +1,15 @@
+cem SkinIntegrityEval
+	kind    	statement
+    base        StatementBase
+	key         SkinIntegrity_CODE
+    data        CodeableConcept
+    qual		BodyLocation
+		id		bodyLocation
+		card	0-M
+    constraint  data.codeableConcept.valueset
+        value   SkinIntegrity_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+    constraint	bodyLocation.bodySite.data.codeableConcept.valueset
+		value	SkinBodyLocationPrecoord_VSET
+        

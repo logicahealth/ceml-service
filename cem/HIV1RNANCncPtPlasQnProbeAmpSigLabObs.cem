@@ -1,0 +1,6 @@
+cem HIV1RNANCncPtPlasQnProbeAmpSigLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			HIV1RNANCncPtPlasQnProbeAmpSig_CODE
+	constraint	data.quantity.unit_code
+		value	PermilliLiterNumberConcentrationUnits_CODE

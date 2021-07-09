@@ -1,0 +1,20 @@
+cem DiaperRashDressingTypeEval
+	kind    	statement
+    base        StatementBase
+	key         DiaperRashDressingType_CODE
+    data        CodeableConcept
+    qual		BodyLocationPrecoord
+		id		bodyLocationPrecoord
+		card	0-M
+	qual		DrainageFluidDescription
+		id		drainageFluidDescription
+		card	0-M
+	qual		Hemostatic
+		id		hemostatic
+		card	0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	DiaperRashDressingType_VSET
+	constraint	bodyLocationPrecoord.data.codeableConcept.valueset
+		value	DiaperRashBodyLocationPrecoord_VSET

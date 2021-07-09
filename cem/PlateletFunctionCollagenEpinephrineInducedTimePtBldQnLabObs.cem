@@ -1,0 +1,6 @@
+cem PlateletFunctionCollagenEpinephrineInducedTimePtBldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			PlateletFunctionCollagenEpinephrineInducedTimePtBldQn_CODE
+	constraint		data.quantity.unit_code
+		value	Seconds_CODE

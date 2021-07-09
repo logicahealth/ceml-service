@@ -1,0 +1,4 @@
+cem ProgesteroneReceptorImpPtTissNomLabObs
+	kind		statement
+	base		StandardLabObsCoded
+	key			ProgesteroneReceptorImpPtTissNom_CODE

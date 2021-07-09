@@ -1,0 +1,5 @@
+cem TobaccoUseTeachingProc
+	kind		statement
+	base		TeachingProc
+	constraint	data.codeableConcept.valueset
+		value	TobaccoTeachingTopic_VSET

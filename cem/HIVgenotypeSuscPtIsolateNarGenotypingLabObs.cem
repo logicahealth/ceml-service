@@ -1,0 +1,4 @@
+cem HIVgenotypeSuscPtIsolateNarGenotypingLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			HIVgenotypeSuscPtIsolateNarGenotyping_CODE

@@ -1,0 +1,6 @@
+cem GlucoseMinus6MinusPhosphateDehydrogenaseCCntPtRBCQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			GlucoseMinus6MinusPhosphateDehydrogenaseCCntPtRBCQn_CODE
+	constraint	data.quantity.unit_code
+		value	UnitsPerGram_CODE

@@ -1,0 +1,7 @@
+cem VentilatorPowerSettingMeas
+	kind	statement
+	base	StatementBase
+	key			VentilatorPowerSetting_CODE
+	data		Quantity
+	constraint		data.quantity.unit_code
+		value	Hertz_CODE

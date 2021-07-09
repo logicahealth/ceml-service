@@ -1,0 +1,4 @@
+cem Plan
+kind    component
+key     Plan_CODE
+data    String

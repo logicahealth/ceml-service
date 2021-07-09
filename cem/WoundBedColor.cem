@@ -1,0 +1,12 @@
+cem WoundBedColor
+	kind    	component
+	key         WoundBedColor_CODE
+    data        CodeableConcept
+    qual        WoundBedColorArea
+        id      woundBedColorArea
+        card    0-1
+    constraint  data.codeableConcept.valueset
+        value   WoundBedColor_VSET
+    constraint  data.codeableConcept.strength
+        value   CWE
+

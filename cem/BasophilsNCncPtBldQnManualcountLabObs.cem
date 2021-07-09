@@ -1,0 +1,6 @@
+cem BasophilsNCncPtBldQnManualcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			BasophilsNCncPtBldQnManualcount_CODE
+	constraint		data.quantity.unit_code
+			value		ThousandsPerMicroliter_CODE

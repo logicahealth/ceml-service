@@ -1,0 +1,22 @@
+cem IntubationTubePanel
+	kind	panel
+	base	PanelBase
+	key			IntubationTubePanel_CODE
+	item		IntubationTubeBevelAssert
+		id		intubationTubeBevelAssert
+		card	0-1
+	item		IntubationTubeCuffPressureMeas
+		id		intubationTubeCuffPressureMeas
+		card	0-1
+	item		IntubationTubeLeakAssert
+		id		intubationTubeLeakAssert
+		card	0-1
+	item		IntubationTubePositionMeas
+		id		intubationTubePositionMeas
+		card	0-1
+	item		IntubationTubeSizeMeas
+		id		intubationTubeSizeMeas
+		card	0-1
+	item		AirwayInterfaceTypeAssert
+		id		aiwayInterfaceTypeAssert
+		card	0-1

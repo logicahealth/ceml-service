@@ -1,0 +1,12 @@
+cem ProtectiveFactorsCSSRSEval
+
+	kind	statement
+	base	StatementBase
+    key     ProtectiveFactorsCSSRS_CODE
+	data	CodeableConcept
+
+	constraint	data.codeableConcept.strength
+	    value	CNE
+	constraint	data.codeableConcept.valueset
+	    value	ProtectiveFactorsCSSRS_VSET
+

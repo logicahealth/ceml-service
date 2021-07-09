@@ -1,0 +1,4 @@
+cem DateAddedLabObs
+	kind		statement
+	base		StandardLabObsNarrative
+	key			DateAdded_CODE

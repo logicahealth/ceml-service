@@ -1,0 +1,6 @@
+cem EstrogenReceptor100CellsNFrPtTissQnImmuneStainLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			EstrogenReceptor100CellsNFrPtTissQnImmuneStain_CODE
+	constraint		data.quantity.unit_code
+		value	Percent_CODE

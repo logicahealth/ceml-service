@@ -1,0 +1,12 @@
+cem SARSCoV2RNAPnlXXXNAAprobePanelLabObs
+	kind    	panel
+    base        PanelBase
+	key         SARSCoV2RNAPnlXXXNAAprobe_CODE
+
+    item        SARScoronavirus2NgenePrThrPtXXXOrdPrbAmpTarPrimerProbeSetN1LabObs
+        id      sARScoronavirus2NgenePrThrPtXXXOrdPrbAmpTarPrimerProbeSetN1LabObs
+        card    0-1
+    item        SARScoronavirus2NgenePrThrPtXXXOrdPrbAmpTarPrimerProbeSetN2LabObs
+        id      sARScoronavirus2NgenePrThrPtXXXOrdPrbAmpTarPrimerProbeSetN2LabObs
+        card    0-1
+

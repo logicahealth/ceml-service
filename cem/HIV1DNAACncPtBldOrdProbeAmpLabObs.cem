@@ -1,0 +1,4 @@
+cem HIV1DNAACncPtBldOrdProbeAmpLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			HIV1DNAACncPtBldOrdProbeAmp_CODE

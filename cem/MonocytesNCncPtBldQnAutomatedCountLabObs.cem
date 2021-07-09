@@ -1,0 +1,6 @@
+cem MonocytesNCncPtBldQnAutomatedCountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MonocytesNCncPtBldQnAutomatedCount_CODE
+	constraint		data.quantity.unit_code
+		value	ThousandsPerMicroliter_CODE

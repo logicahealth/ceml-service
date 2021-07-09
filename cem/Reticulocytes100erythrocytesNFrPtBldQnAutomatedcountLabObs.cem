@@ -1,0 +1,6 @@
+cem Reticulocytes100erythrocytesNFrPtBldQnAutomatedcountLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			Reticulocytes100erythrocytesNFrPtBldQnAutomatedcount_CODE
+	constraint		data.quantity.unit_code
+			value		Percent_CODE

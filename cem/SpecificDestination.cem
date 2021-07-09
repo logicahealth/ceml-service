@@ -1,0 +1,4 @@
+cem SpecificDestination
+	kind		component
+	key			SpecificDestination_CODE
+	data		String

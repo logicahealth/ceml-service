@@ -1,0 +1,4 @@
+cem OrderComment
+	kind		component
+	key			OrderComment_CODE
+	data		String

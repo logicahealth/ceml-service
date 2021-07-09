@@ -1,0 +1,9 @@
+cem TroubleRelaxingInLastTwoWeeksEval
+
+	kind	statement
+	base	StatementBase
+    key     TroubleRelaxingInLastTwoWeeks_CODE
+	data	CodeableOrdinal
+	
+	constraint	data.codeableOrdinal.valueset
+	    value	PatientHealthQuestionnaireFuzzySubjectiveTime_VSET

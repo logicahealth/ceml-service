@@ -1,0 +1,5 @@
+cem CoccidioidesAbIgMLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			CoccidioidesAbIgM_CODE
+	

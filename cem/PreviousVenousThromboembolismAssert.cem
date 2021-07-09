@@ -1,0 +1,11 @@
+cem PreviousVenousThromboembolismAssert
+	kind		statement
+	base        AssertionOfPresence
+	qual		SupportingInformationPointerLink
+		id		supportingInformationPointerLink
+		card	0-1
+	qual		SupportingInformationStringLink
+		id		supportingInformationStringLink
+		card	0-1
+	constraint	data.codeableConcept.code
+		value	PreviousVenousThromboembolism_CODE

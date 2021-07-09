@@ -1,0 +1,4 @@
+cem MTHFRGenePC677TArbPtBldTissOrdMolgenLabObs
+	kind		statement
+	base		StandardLabObsOrdinal
+	key			MTHFRGenePC677TArbPtBldTissOrdMolgen_CODE

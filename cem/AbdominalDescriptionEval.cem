@@ -1,0 +1,11 @@
+cem AbdominalDescriptionEval
+	kind	statement
+	base	PhysicalObs
+	key         AbdominalDescription_CODE
+    data        CodeableConcept
+    constraint  data.codeableConcept.strength
+        value   CWE
+    constraint  data.codeableConcept.valueset
+        value   AbdominalDescription_VSET
+    constraint	bodyLocation.bodyLocationPrecoord.data.codeableConcept.valueset
+		value	AbdominalBodyLocationPrecoord_VSET

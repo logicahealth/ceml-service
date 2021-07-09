@@ -1,0 +1,6 @@
+cem SpecimenVolume
+	kind		component
+	key			SpecimenVolume_CODE
+	data		Quantity
+	constraint	data.quantity.unit_valueset
+		value	SIVolumeUnits_VSET

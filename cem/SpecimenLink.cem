@@ -1,0 +1,7 @@
+cem SpecimenLink
+	kind    	link
+	key         SpecimenLink_CODE
+    data        Identifier
+    constraint  data.identifier.key
+        value   Specimen_CODE
+

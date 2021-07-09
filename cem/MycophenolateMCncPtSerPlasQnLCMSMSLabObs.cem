@@ -1,0 +1,6 @@
+cem MycophenolateMCncPtSerPlasQnLCMSMSLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			MycophenolateMCncPtSerPlasQnLCMSMS_CODE
+	constraint		data.quantity.unit_code
+			value		MilligramsPerLiter_CODE

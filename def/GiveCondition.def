@@ -1,0 +1,3 @@
+GiveCondition is a modifier that explains the conditions upon which the order is to be executed.
+Modeled after StartCondition or StopCondition. 
+

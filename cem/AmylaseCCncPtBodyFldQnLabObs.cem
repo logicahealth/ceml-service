@@ -1,0 +1,6 @@
+cem AmylaseCCncPtBodyFldQnLabObs
+	kind		statement
+	base		StandardLabObsQuantitative
+	key			AmylaseCCncPtBodyFldQn_CODE
+	constraint		data.quantity.unit_code
+		value	UnitsPerLiter_CODE

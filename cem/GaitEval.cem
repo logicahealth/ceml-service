@@ -1,0 +1,20 @@
+cem GaitEval
+	kind	statement
+	base	StatementBase
+	key			Gait_CODE
+	data		CodeableConcept
+    qual        BodySide
+       id       bodySide
+       card     0-1
+    qual		DataAbsentReason
+		id		dataAbsentReason
+		card	0-1
+    qual        AssociatedPrecondition
+        id      neuromuscularAssociatedPrecondition
+        card    0-M
+	constraint	data.codeableConcept.strength
+		value	CWE
+	constraint	data.codeableConcept.valueset
+		value	Gait_VSET
+    constraint  neuromuscularAssociatedPrecondition.data.codeableConcept.valueset
+        value   NeuromuscularAssociatedPrecondition_VSET
