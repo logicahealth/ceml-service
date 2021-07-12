@@ -1,10 +1,11 @@
 #!/usr/bin/env ruby
+# curl examples of service usage
 
 require 'base64'
 require 'json'
 
-# root = 'http://localhost:4567/'
-root = "https://ceml-service.logicahealth.org/"
+# root = 'http://localhost:4567'
+root = "https://ceml-service.logicahealth.org"
 
 # CEM GET
 puts "\n==== Retrieving list of CEM files..."
@@ -65,10 +66,11 @@ data = JSON.parse `#{cmd}`
 pp data
 
 # Print corresponding curl commands
-puts 'Your `curl` commands are:'
+puts 'Your next `curl` command options are:'
 data['gets'].each do |g|
     puts "\tGET:\tcurl -X GET '#{g}'"
 end
 url = data['delete']
 cmd = "curl -s -X DELETE '#{url}'"
-puts "\tDELETE:\t#{cmd}"
+puts "\tDELETE (this job only):\t#{cmd}"
+puts "\tPOST (factory reset): curl -s -X POST '#{root}/reset'"

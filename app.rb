@@ -123,8 +123,8 @@ class CEMLService < Sinatra::Base
             puts "Wrote to #{msg_name}"
         end
 
-        gets = inputs.map {|i| "#{request.url}/#{u}/#{i.gsub(/.cem$/, '.fsh')}" }
-        {uuid: u, gets: gets, delete: "#{request.url}/#{u}", message: msg}.to_json
+        gets = inputs.map {|i| "#{request.url}#{u}/#{i.gsub(/.cem$/, '.fsh')}" }
+        {uuid: u, gets: gets, delete: "#{request.url}#{u}", message: msg}.to_json
     end
     
     get '/:uuid/:file' do |uuid, file|
