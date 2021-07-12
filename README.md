@@ -30,16 +30,16 @@ The API only accepts and responds in JSON using the "Content-Type: application/j
 ### Static Assets
 The compiler uses a baked-in library of core models and transform configurations. These are accessible by the following endpoints.
 
-  * **GET /cem** The complete list of core models. `curl -s -X GET http://localhost:4567/cem`
-  * **GET /cem/HeartRateMeas.cem** Get a specific model. The model content will be base64 encoded. `curl -s -X GET http://localhost:4567/cem/HeartRateMeas.cem`
-  * **GET /def** The complete list of text definitions used by the model library. `curl -s -X GET http://localhost:4567/def`
-  * **GET /def/HeartRateMeas.def** Get a specific model. The file content will be base64 encoded. `curl -s -X GET http://localhost:4567/def/HeartRateMeas.def`
-  * **GET /fhir** The complete list of FHIR mapping definitions used by the model library. `curl -s -X GET http://localhost:4567/fhir`
-  * **GET /fhir/Base.resource.map** Get a specific model. The file content will be base64 encoded. `curl -s -X GET http://localhost:4567/def/Base.resource.map`
+  * **GET /cem** The complete list of core models. `curl -s -X GET https://ceml-service.logicahealth.org/cem`
+  * **GET /cem/HeartRateMeas.cem** Get a specific model. The model content will be base64 encoded. `curl -s -X GET https://ceml-service.logicahealth.org/cem/HeartRateMeas.cem`
+  * **GET /def** The complete list of text definitions used by the model library. `curl -s -X GET https://ceml-service.logicahealth.org/def`
+  * **GET /def/HeartRateMeas.def** Get a specific model. The file content will be base64 encoded. `curl -s -X GET https://ceml-service.logicahealth.org/def/HeartRateMeas.def`
+  * **GET /fhir** The complete list of FHIR mapping definitions used by the model library. `curl -s -X GET https://ceml-service.logicahealth.org/fhir`
+  * **GET /fhir/Base.resource.map** Get a specific model. The file content will be base64 encoded. `curl -s -X GET https://ceml-service.logicahealth.org/def/Base.resource.map`
 
 ### Compiling Your Own CEM Files
 New Clinical Element Models may be compiled by submitting them via POST. Individual outputs are retrievable by REST GET calls.
-  *  **POST /** Compile your own model(s) to FHIR Shorthand (FSH) notation, synchronously. May take a few seconds or more. `curl -s -X POST http://localhost:4567/` The body of the request MUST contain an array of file names and their base64-encoded contents, as follows:
+  *  **POST /** Compile your own model(s) to FHIR Shorthand (FSH) notation, synchronously. May take a few seconds or more. `curl -s -X POST https://ceml-service.logicahealth.org/` The body of the request MUST contain an array of file names and their base64-encoded contents, as follows:
 
 ```
 [
@@ -50,7 +50,7 @@ New Clinical Element Models may be compiled by submitting them via POST. Individ
 ```
 ### Administrative Functions
 
-  * **POST /reset** "Factory reset" clearing _all_ generated compiler outputs. Applies globally. `curl -s -X POST http://localhost:4567/reset`
+  * **POST /reset** "Factory reset" clearing _all_ generated compiler outputs. Applies globally. `curl -s -X POST https://ceml-service.logicahealth.org/reset`
 
 # License
 Apache 2.0. All rights reserved.
