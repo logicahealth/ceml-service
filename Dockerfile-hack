@@ -15,6 +15,7 @@ COPY Gemfile .
 RUN bundle install
 
 # WRONG Copy in the compiler. :(
+COPY config.ru .
 COPY ceml-3.0.4-jar-with-dependencies.jar .
 COPY def .
 COPY cem .
@@ -22,4 +23,4 @@ COPY fhir .
 COPY app.rb .
 
 EXPOSE 4567
-CMD APP_ENV=production ruby app.rb
+CMD APP_ENV=production thin --threaded start
