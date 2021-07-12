@@ -35,7 +35,7 @@ The compiler uses a baked-in library of core models and transform configurations
   * **GET /def** The complete list of text definitions used by the model library. `curl -s -X GET https://ceml-service.logicahealth.org/def`
   * **GET /def/HeartRateMeas.def** Get a specific model. The file content will be base64 encoded. `curl -s -X GET https://ceml-service.logicahealth.org/def/HeartRateMeas.def`
   * **GET /fhir** The complete list of FHIR mapping definitions used by the model library. `curl -s -X GET https://ceml-service.logicahealth.org/fhir`
-  * **GET /fhir/Base.resource.map** Get a specific model. The file content will be base64 encoded. `curl -s -X GET https://ceml-service.logicahealth.org/def/Base.resource.map`
+  * **GET /fhir/Base.resource.map** Get a specific model. The file content will be base64 encoded. `curl -s -X GET https://ceml-service.logicahealth.org/fhir/Base.resource.map`
 
 ### Compiling Your Own CEM Files
 New Clinical Element Models may be compiled by submitting them via POST. Individual outputs are retrievable by REST GET calls.
@@ -48,6 +48,22 @@ New Clinical Element Models may be compiled by submitting them via POST. Individ
   {..}
 ]
 ```
+
+The service's JSON response is templated as follows:
+
+```
+{
+  "uuid" : "40bd776a-ea5f-472d-8b9b-d9e889ae8f6e", # Random assigned UUID
+  "gets" : # Array of URLs to GET individual outputs
+    ["https://ceml-service.logicahealth.org//40bd776a-ea5f-472d-8b9b-d9e889ae8f6e/FoozleA.fsh",
+    "https://ceml-service.logicahealth.org//40bd776a-ea5f-472d-8b9b-d9e889ae8f6e/FoozleB.fsh"],
+  "delete" : # URL to DELETE the job
+    "https://ceml-service.logicahealth.org//40bd776a-ea5f-472d-8b9b-d9e889ae8f6e",
+  "message" : "...raw compiler output for troubleshooting..."
+}
+```
+
+The service instance will retain your generated output until either you DELETE the job or it is administratively purged for you.
 ### Administrative Functions
 
   * **POST /reset** "Factory reset" clearing _all_ generated compiler outputs. Applies globally. `curl -s -X POST https://ceml-service.logicahealth.org/reset`
