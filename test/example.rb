@@ -4,8 +4,8 @@
 require 'base64'
 require 'json'
 
-# root = 'http://localhost:4567'
-root = "https://ceml-service.logicahealth.org"
+root = 'http://localhost:4567'
+# root = "https://ceml-service.logicahealth.org"
 
 # CEM GET
 puts "\n==== Retrieving list of CEM files..."
@@ -47,30 +47,40 @@ puts "Got #{data['name']} as follows"
 puts Base64.decode64 data['content']
 
 
-# Compilation
+# Supported compliation formats
+puts "\n==== Retrieving list of supported compilation formats..."
+cmd = "curl -s -X GET #{root}/transforms/formats"
+data = JSON.parse `#{cmd}`
+puts "Supported transform format targets are: #{data}"
+
+# Compilation in different formats
+formats = data # ['jsoncf', 'fsh', 'xcemcf']
 
 models = ['FoozleA.cem', 'FoozleB.cem']
 json = []
-puts "\n==== Requesting compilation of #{models.join(', ')}..."
-models.each do |m|
-    path = File.join('test', m)
-    file = File.open(path, 'r')
-    content = file.read
-    file.close
-    tmp = Base64.encode64(content)
-    json << {name: m, content: tmp}
-end
-puts 'Service responded as follows...'
-cmd = "curl -s -X POST -d '#{json.to_json}' #{root}"
-data = JSON.parse `#{cmd}`
-pp data
+formats.each do |format|
+    puts "\n==== Requesting #{format} compilation of #{models.join(', ')}..."
+    models.each do |m|
+        path = File.join('test', m)
+        file = File.open(path, 'r')
+        content = file.read
+        file.close
+        tmp = Base64.encode64(content)
+        json << {name: m, content: tmp}
+    end
+    puts 'Service responded as follows...'
+    cmd = "curl -s -X POST -d '#{json.to_json}' #{root}/transforms/#{format}"
+    data = JSON.parse `#{cmd}`
+    pp data
 
-# Print corresponding curl commands
-puts 'Your next `curl` command options are:'
-data['gets'].each do |g|
-    puts "\tGET:\tcurl -X GET '#{g}'"
+    # Print corresponding curl commands
+    puts 'Your next `curl` command options are:'
+    data['gets'].each do |g|
+        puts "\tGET:\tcurl -X GET '#{g}'"
+    end
+    url = data['delete']
+    cmd = "curl -s -X DELETE '#{url}'"
+    puts "\tDELETE (this job only):\t#{cmd}"
 end
-url = data['delete']
-cmd = "curl -s -X DELETE '#{url}'"
-puts "\tDELETE (this job only):\t#{cmd}"
-puts "\tPOST (factory reset): curl -s -X POST '#{root}/reset'"
+
+puts "\nTo reset the service:\n\tPOST (factory reset): curl -s -X POST '#{root}/reset'"

@@ -1,7 +1,7 @@
 fhir resource Observation
 	map	type to Observation
 	map 	key to Observation.code
-	map 	data.value to Observation.value
+	map 	data to Observation.value
 
 	map 	comment to Observation.comments
 	map	externalIdentifier to Observation.identifier
@@ -14,10 +14,10 @@ fhir resource Observation
 	map	focalSubject to Observation.focus
 	map 	comment to Observation.comments
 	map 	bodyLocationPrecoord to Observation.bodySite
-//	map 	bodyPosition extension
+	map 	bodyPosition extension
 	map 	referenceRangeNar to Observation.referenceRange
-//	map 	associatedSituation extension
-//	map	exerciseAssociation to extension
-//	map	measurementSetting to extension
-//	map	sleepStatus to extension
+	map 	associatedSituation extension
+	map	exerciseAssociation to extension
+	map	measurementSetting to extension
+	map	sleepStatus to extension
 	

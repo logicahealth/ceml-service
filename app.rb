@@ -5,7 +5,7 @@ require 'securerandom' # UUIDs
 require 'fileutils'
 require 'base64'
 
-class CEMLService < Sinatra::Base
+class CEMLTransformService < Sinatra::Base
 
     configure do
         enable :threaded
@@ -22,6 +22,27 @@ class CEMLService < Sinatra::Base
 
     # TODO Allow configuration via environment variable.
     OUTPUT_ROOT =  File.join('/tmp', 'ceml-service')
+
+    # Change this to support different compiler targets and file extensions.
+    # These are the only ones needed right now.
+    SUPPORTED_FORMATS =
+        {
+            'fsh' =>
+                {
+                'file-extension' => 'fsh',
+                'compiler-option' => 'fsh'
+                },
+            'jsoncf' =>
+                {
+                    'file-extension' => 'json',
+                    'compiler-option' => 'jsoncf'
+                },
+            'xcemcf' =>
+                {
+                    'file-extension' => 'xml',
+                    'compiler-option' => 'xcemcf'
+                }
+            }
     
     before do
         content_type :json
@@ -71,10 +92,16 @@ class CEMLService < Sinatra::Base
     end
     
     get '/' do
-        {message: 'Post to the root URL to compile.', uuid: SecureRandom.uuid}.to_json
+        {message: 'This is an API for developers. Please see the documentation for proper usage.', uuid: SecureRandom.uuid}.to_json
     end
-    
-    post '/' do
+
+    get '/transforms/formats' do
+        SUPPORTED_FORMATS.keys.to_json
+    end
+
+    post '/transforms/:format' do |format|
+        halt(406, {message: "Unsupported target format. Must be one: #{SUPPORTED_FORMATS.keys.join(', ')}"}.to_json) unless SUPPORTED_FORMATS.keys.include? format
+
         json = {}
         begin
             json = JSON.parse request.body.read
@@ -110,9 +137,10 @@ class CEMLService < Sinatra::Base
             end
         end
     
-        puts 'Running compiler...'
+        puts "Running compiler for '#{format}' target..."
         msg = ''
-        p = IO.popen(['java', '-jar', 'ceml-3.0.4-jar-with-dependencies.jar', '-d', TEMPLATE_DEF, '-i', dest_src, '-p', TEMPLATE_CEM, '-f', TEMPLATE_FHIR, '-dest', 'fsh', '-o', dest_out, *inputs, err: [:child, :out]], 'r') do |java_io|
+        compilerOption = SUPPORTED_FORMATS[format]['compiler-option']
+        p = IO.popen(['java', '-jar', 'ceml-3.0.4-jar-with-dependencies.jar', '-d', TEMPLATE_DEF, '-i', dest_src, '-p', TEMPLATE_CEM, '-f', TEMPLATE_FHIR, '-dest', compilerOption, '-o', dest_out, *inputs, err: [:child, :out]], 'r') do |java_io|
             msg = java_io.read
             msg_name = File.join(d_name, 'message')
             # byebug
@@ -123,11 +151,11 @@ class CEMLService < Sinatra::Base
             puts "Wrote to #{msg_name}"
         end
 
-        gets = inputs.map {|i| "#{request.url}#{u}/#{i.gsub(/.cem$/, '.fsh')}" }
-        {uuid: u, gets: gets, delete: "#{request.url}#{u}", message: msg}.to_json
+        gets = inputs.map {|i| "#{request.url}/#{u}/#{i.gsub(/.cem$/, ".#{SUPPORTED_FORMATS[format]['file-extension']}")}" }
+        {uuid: u, gets: gets, delete: "#{request.url}/#{u}", message: msg}.to_json
     end
     
-    get '/:uuid/:file' do |uuid, file|
+    get '/transforms/:uuid/:file' do |uuid, file|
         puts 'Getting result for #{uuid}'
         content = ''
         res = {uuid: uuid, file: file}
@@ -147,7 +175,7 @@ class CEMLService < Sinatra::Base
         res.to_json
     end
     
-    delete '/:uuid' do |uuid|
+    delete '/transforms/:uuid' do |uuid|
         d = File.join(OUTPUT_ROOT, uuid)
         puts "Deleting #{d}"
         FileUtils.remove_dir d, true

@@ -3,7 +3,7 @@
 This software is an API-only service exposing a REST interface for developers to:
 
 1. Retrieve foundational Clinical Element Model (CEM) types, and 
-1. Compile Clinical Element Model (CEM) definitions into application code.
+1. Compile Clinical Element Model (CEM) definitions into other formats.
 
 The API is written in ruby and the underlying complier in Java.
 
@@ -39,7 +39,7 @@ The compiler uses a baked-in library of core models and transform configurations
 
 ### Compiling Your Own CEM Files
 New Clinical Element Models may be compiled by submitting them via POST. Individual outputs are retrievable by REST GET calls.
-  *  **POST /** Compile your own model(s) to FHIR Shorthand (FSH) notation, synchronously. May take a few seconds or more. `curl -s -X POST https://ceml-service.logicahealth.org/` The body of the request MUST contain an array of file names and their base64-encoded contents, as follows:
+  *  **POST /** Compile your own model(s) to FHIR Shorthand (FSH) notation, synchronously. May take a few seconds or more. `curl -s -X POST https://ceml-service.logicahealth.org/transforms/<format>`. (Supported formats, such as FSH, can be found via `curl -s -X GET https://ceml-service.logicahealth.org/transforms/formats`) The body of the POST request MUST contain an array of file names and their base64-encoded contents, as follows:
 
 ```
 [
@@ -55,10 +55,10 @@ The service's JSON response is templated as follows:
 {
   "uuid" : "40bd776a-ea5f-472d-8b9b-d9e889ae8f6e", # Random assigned UUID
   "gets" : # Array of URLs to GET individual outputs
-    ["https://ceml-service.logicahealth.org//40bd776a-ea5f-472d-8b9b-d9e889ae8f6e/FoozleA.fsh",
-    "https://ceml-service.logicahealth.org//40bd776a-ea5f-472d-8b9b-d9e889ae8f6e/FoozleB.fsh"],
+    ["https://ceml-service.logicahealth.org/transforms/40bd776a-ea5f-472d-8b9b-d9e889ae8f6e/FoozleA.fsh",
+    "https://ceml-service.logicahealth.org/transforms/40bd776a-ea5f-472d-8b9b-d9e889ae8f6e/FoozleB.fsh"],
   "delete" : # URL to DELETE the job
-    "https://ceml-service.logicahealth.org//40bd776a-ea5f-472d-8b9b-d9e889ae8f6e",
+    "https://ceml-service.logicahealth.org/transforms/40bd776a-ea5f-472d-8b9b-d9e889ae8f6e",
   "message" : "...raw compiler output for troubleshooting..."
 }
 ```

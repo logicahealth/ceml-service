@@ -1,2 +1,2 @@
 require_relative 'app'
-CEMLService.run!
+CEMLTransformService.run!

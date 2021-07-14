@@ -11,7 +11,7 @@ RUN apt search openjdk
 RUN apt-get update && apt-get install -y openjdk-11-jre
 
 # Install dependencies
-COPY Gemfile .
+COPY Gemfile* .
 RUN bundle install
 
 # WRONG Copy in the compiler. :(
