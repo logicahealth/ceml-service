@@ -5,7 +5,7 @@ require 'base64'
 require 'json'
 
 root = 'http://localhost:4567'
-# root = "https://ceml-service.logicahealth.org"
+# root = "https://ceml-transform-service.logicahealth.org"
 
 # CEM GET
 puts "\n==== Retrieving list of CEM files..."
