@@ -57,9 +57,9 @@ puts "Supported transform format targets are: #{data}"
 formats = data # ['jsoncf', 'fsh', 'xcemcf']
 
 models = ['FoozleA.cem', 'FoozleB.cem']
-json = []
 formats.each do |format|
     puts "\n==== Requesting #{format} compilation of #{models.join(', ')}..."
+    json = []
     models.each do |m|
         path = File.join('test', m)
         file = File.open(path, 'r')

@@ -151,8 +151,13 @@ class CEMLTransformService < Sinatra::Base
             puts "Wrote to #{msg_name}"
         end
 
-        gets = inputs.map {|i| "#{request.url}/#{u}/#{i.gsub(/.cem$/, ".#{SUPPORTED_FORMATS[format]['file-extension']}")}" }
-        {uuid: u, gets: gets, delete: "#{request.url}/#{u}", message: msg}.to_json
+        root = URI.parse(request.url)
+        root.path = ''
+        gets = inputs.map {|i|
+            root.to_s + "/transforms/#{u}/" +
+            i.gsub(/cem$/, SUPPORTED_FORMATS[format]['file-extension'])
+        }
+        {uuid: u, gets: gets, delete: "#{root.to_s}/transforms/#{u}", message: msg}.to_json
     end
     
     get '/transforms/:uuid/:file' do |uuid, file|
